@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What does the Planck response represent in Earth's climate system?",
+    "options": {
+      "A": "The change in shortwave radiation absorbed by the surface",
+      "B": "The additional longwave emission to space due to vertically uniform warming",
+      "C": "The increase in cloud cover with rising temperatures",
+      "D": "The reduction in greenhouse gas concentrations over time"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that the Planck response represents additional longwave emission to space arising from vertically uniform warming.",
+    "source": "IPCC AR6 WG1 Chapter 7, Section 4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "Chat-GPT 5.3"
+  },
+  {
+    "question": "Why is the Planck response considered a stabilizing feedback in the climate system?",
+    "options": {
+      "A": "Because it reduces incoming solar radiation",
+      "B": "Because it increases cloud reflectivity",
+      "C": "Because a warmer planet radiates more energy to space",
+      "D": "Because it enhances greenhouse gas absorption"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage explains that the Planck response is strongly negative because a warmer planet radiates more energy to space, stabilizing the system.",
+    "source": "IPCC AR6 WG1 Chapter 7, Section 4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "Chat-GPT 5.3"
+  },
+  {
+    "question": "What is the approximate assessed value of the Planck response parameter αP according to the passage?",
+    "options": {
+      "A": "-0.4 W m–2°C–1",
+      "B": "-1.6 W m–2°C–1",
+      "C": "-3.22 W m–2°C–1",
+      "D": "-6.5 W m–2°C–1"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that the assessed value of αP is –3.22 W m–2°C–1.",
+    "source": "IPCC AR6 WG1 Chapter 7, Section 4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "Chat-GPT 5.3"
+  },
+  {
+    "question": "What is the primary reason for discrepancies among different estimates of the Planck response parameter αP?",
+    "options": {
+      "A": "Variations in solar radiation measurements",
+      "B": "Differences in cloud distributions affecting radiative kernels",
+      "C": "Uncertainty in greenhouse gas concentrations",
+      "D": "Changes in ocean circulation patterns"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that discrepancies primarily arise because differences in cloud distributions make the radiative kernels differ.",
+    "source": "IPCC AR6 WG1 Chapter 7, Section 4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "Chat-GPT 5.3"
+  },
+  {
+    "question": "If the radiative forcing ΔF is positive, what can be inferred about the sign of the Planck temperature response ΔTP given that αP is negative?",
+    "options": {
+      "A": "ΔTP is negative because both ΔF and αP are negative",
+      "B": "ΔTP is zero because αP cancels ΔF",
+      "C": "ΔTP is positive because dividing by a negative αP and applying the negative sign yields a positive result",
+      "D": "ΔTP is undefined because αP is constant"
+    },
+    "correct_answer": "C",
+    "explanation": "Using ΔTP = –ΔF / αP and noting αP is negative, a positive ΔF results in a positive ΔTP.",
+    "source": "IPCC AR6 WG1 Chapter 7, Section 4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "Chat-GPT 5.3"
+  }
+]

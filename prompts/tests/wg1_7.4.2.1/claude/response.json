@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the primary physical reason the Planck feedback plays a stabilizing role in Earth's climate?",
+    "options": {
+      "A": "A warmer planet reflects more incoming solar radiation back to space",
+      "B": "A warmer planet radiates more longwave energy to space",
+      "C": "A warmer planet absorbs less shortwave radiation from the sun",
+      "D": "A warmer planet increases cloud cover, reducing surface temperatures"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states directly: 'a warmer planet radiates more energy to space,' which is given as the reason the Planck feedback is stabilizing.",
+    "source": "IPCC AR6 WG1 Chapter 7, Section on Planck Response",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet 4.6"
+  },
+  {
+    "question": "According to the passage, what is the assessed best-estimate value of the Planck response parameter α_P?",
+    "options": {
+      "A": "–3.30 W m⁻² °C⁻¹",
+      "B": "–3.20 W m⁻² °C⁻¹",
+      "C": "–3.22 W m⁻² °C⁻¹",
+      "D": "–3.10 W m⁻² °C⁻¹"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states: 'the Planck response…is assessed to be α_P = –3.22 W m⁻² °C⁻¹,' which is the overall assessed value distinct from the crude estimate or CMIP5 mean.",
+    "source": "IPCC AR6 WG1 Chapter 7, Section on Planck Response",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet 4.6"
+  },
+  {
+    "question": "How is the normalized greenhouse effect g̃ defined in the passage?",
+    "options": {
+      "A": "The ratio of the greenhouse effect G to the downwelling longwave flux at the surface",
+      "B": "The ratio of outgoing longwave radiation at the top of atmosphere to the greenhouse effect G",
+      "C": "The ratio of the greenhouse effect G to the upwelling longwave flux at the surface",
+      "D": "The ratio of surface temperature to the Stefan–Boltzmann constant"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage defines g̃ as 'the ratio between the greenhouse effect G and the upwelling LW flux at the surface.'",
+    "source": "IPCC AR6 WG1 Chapter 7, Section on Planck Response",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet 4.6"
+  },
+  {
+    "question": "According to the passage, which source of uncertainty in α_P estimates is identified as the primary contributor, and which is secondary?",
+    "options": {
+      "A": "Primary: differences in equilibrium surface temperature patterns among ESMs; Secondary: differences in cloud distributions affecting radiative kernels",
+      "B": "Primary: differences in cloud distributions affecting radiative kernels; Secondary: differences in equilibrium surface temperature patterns among ESMs",
+      "C": "Primary: differences in the Stefan–Boltzmann constant used across models; Secondary: differences in cloud distributions",
+      "D": "Primary: differences in the value of G used across models; Secondary: differences in radiative kernel methodology"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states 'Discrepancies among estimates primarily arise because differences in cloud distributions make the radiative kernels differ' and 'secondarily arise from differences in the pattern of equilibrium surface temperature changes among ESMs.'",
+    "source": "IPCC AR6 WG1 Chapter 7, Section on Planck Response",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet 4.6"
+  },
+  {
+    "question": "Using the formula given in the passage, if a radiative forcing ΔF of +4 W m⁻² is applied and the net feedback parameter equals the Planck response (α_P = –3.22 W m⁻² °C⁻¹), what is the equilibrium Planck temperature response ΔT_P, and what does this scenario physically represent?",
+    "options": {
+      "A": "ΔT_P ≈ +1.24°C; this represents the full equilibrium warming including all feedbacks",
+      "B": "ΔT_P ≈ –1.24°C; this represents a cooling response to the applied forcing",
+      "C": "ΔT_P ≈ +1.24°C; this represents the temperature change if no feedbacks other than the Planck response operate",
+      "D": "ΔT_P ≈ +12.9°C; this represents the temperature change amplified by the greenhouse effect G"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage gives ΔT_P = –ΔF / α_P = –(4) / (–3.22) ≈ +1.24°C, and defines this as the equilibrium response 'when the net feedback parameter is equal to the Planck response parameter,' meaning no other feedbacks are active.",
+    "source": "IPCC AR6 WG1 Chapter 7, Section on Planck Response",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "Claude Sonnet 4.6"
+  }
+]

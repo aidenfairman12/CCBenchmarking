@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What percentage of the ocean surface experienced significant sea level rise over the satellite altimetry era, according to the local altimetry error budget analysis cited in the passage?",
+    "options": {
+      "A": "85%",
+      "B": "90%",
+      "C": "95%",
+      "D": "98%"
+    },
+    "correct_answer": "D",
+    "explanation": "The passage states that Prandi et al. (2021) reports that '98% of the ocean surface has experienced significant sea level rise over the satellite era.'",
+    "source": "IPCC AR6 WG1 Chapter 9, Section 9.6.1",
+    "category": "Observations & Attribution",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet 4.6"
+  },
+  {
+    "question": "According to the passage, what are the primary drivers of regional departures from global mean sea level rise?",
+    "options": {
+      "A": "Glacial isostatic adjustment and groundwater depletion",
+      "B": "Ocean transport divergences from wind stress anomalies and spatial variability in atmospheric heat and freshwater fluxes",
+      "C": "Thermal expansion of the deep ocean and ice sheet mass loss",
+      "D": "Tidal forcing variations and changes in ocean basin geometry"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explicitly states that 'Regional departures from GMSL rise are primarily driven by ocean transport divergences that result from wind stress anomalies and spatial variability in atmospheric heat and freshwater fluxes.'",
+    "source": "IPCC AR6 WG1 Chapter 9, Section 9.6.1",
+    "category": "Observations & Attribution",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet 4.6"
+  },
+  {
+    "question": "The passage describes a spatial pattern in sea level accelerations that differs from the pattern in sea level trends. Which of the following best characterizes this difference?",
+    "options": {
+      "A": "Sea level trends show dipole patterns while accelerations are nearly uniform across the ocean",
+      "B": "Sea level trends are significant across 98% of the ocean, while accelerations show dipole structures and affect a smaller proportion of the ocean surface",
+      "C": "Both trends and accelerations show identical dipole patterns but in opposite ocean basins",
+      "D": "Sea level accelerations are only detectable in the Pacific, whereas trends are global"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage contrasts 98% of the ocean showing significant sea level rise trends with accelerations displaying 'a less uniform pattern' including east–west and north–south dipoles, with 85% of the ocean showing significant acceleration or deceleration.",
+    "source": "IPCC AR6 WG1 Chapter 9, Section 9.6.1",
+    "category": "Observations & Attribution",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet 4.6"
+  },
+  {
+    "question": "According to the passage, what oceanographic and atmospheric mechanism links subpolar North Atlantic warming to sea level rise along European coasts?",
+    "options": {
+      "A": "Increased AMOC strength transports warm water northward, raising sea levels uniformly along European coastlines",
+      "B": "NAO-driven westerly winds increase precipitation over Europe, adding freshwater mass to coastal seas",
+      "C": "Southerly winds along the European coast during warming periods communicate steric anomalies onto the continental shelf",
+      "D": "Weakening of the North Atlantic gyre reduces offshore Ekman transport, allowing coastal sea levels to rise"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states: 'During periods of subpolar North Atlantic warming, winds along the European coast are predominantly from the south and may communicate steric anomalies onto the continental shelf, driving regional sea level rise.'",
+    "source": "IPCC AR6 WG1 Chapter 9, Section 9.6.1",
+    "category": "Observations & Attribution",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet 4.6"
+  },
+  {
+    "question": "The passage notes that satellite altimetry is limited to the period from 1993 to the present. Based on the reasoning provided in the passage, why does this temporal limitation matter specifically for regional—rather than global—sea level analysis?",
+    "options": {
+      "A": "Satellite altimeters cannot resolve small-scale regional features, so a longer record is needed to accumulate enough spatial samples",
+      "B": "The forced trend response is just emerging on regional scales over this period, making it difficult to distinguish forced signals from variability",
+      "C": "Regional sea level is controlled by decadal oscillations that have periods longer than the altimetry record, so trends cannot be computed",
+      "D": "Altimeter calibration drifts accumulate over time and disproportionately affect regional measurements compared to global averages"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that altimeters 'are limited to a period (1993–present) in which the forced trend response is just emerging on regional scales,' directly explaining why the short record is a constraint for regional analysis.",
+    "source": "IPCC AR6 WG1 Chapter 9, Section 9.6.1",
+    "category": "Observations & Attribution",
+    "difficulty": "hard",
+    "generated_by": "Claude Sonnet 4.6"
+  }
+]
