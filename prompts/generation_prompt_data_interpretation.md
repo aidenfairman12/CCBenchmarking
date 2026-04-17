@@ -21,6 +21,14 @@ Each question contains an embedded data scenario (a small table, a described tre
 - The correct answer must follow directly and unambiguously from the data provided
 - Do not require knowledge beyond what is presented in the scenario
 
+## Data Context
+
+Base all scenario values on the following real-world data anchor. Do not invent values — use or derive from what is provided below.
+
+{DATA_CONTEXT}
+
+---
+
 ## Scenario types to use (vary across your batch)
 
 1. **Trend identification** — a time series table of a climate variable; ask about direction, rate, or magnitude of change
@@ -79,7 +87,8 @@ Return a strict JSON array and nothing else — no preamble, no commentary.
 
 ## Usage Notes
 
-- Run this prompt using each generation model separately; fill in {N} and {MODEL_NAME} before each run
-- After generation, verify that the data values in each scenario are physically plausible against the cited real-world source
+- Run this prompt using each generation model separately; fill in {N}, {MODEL_NAME}, and {DATA_CONTEXT} before each run
+- DATA_CONTEXT should be a small data table or key observed values copied directly from the relevant IPCC chapter section — not prose
+- After generation, verify that the data values in each scenario are consistent with the provided data context
 - Check that the correct answer is the only defensible conclusion from the data — if a second option could be argued, cut or revise the question
 - Target acceptance rate: ~50% (slightly lower than standard questions due to scenario construction complexity)
