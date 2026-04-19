@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What does the Planck response (α P) primarily represent?",
+    "options": {
+      "A": "The additional thermal or longwave (LW) emission to space arising from vertically uniform warming.",
+      "B": "The ratio between the greenhouse effect and the upwelling LW flux at the surface.",
+      "C": "The equilibrium temperature change in response to a forcing (ΔF).",
+      "D": "The amount of solar radiation absorbed by the Earth's surface."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states, 'The Planck response represents the additional thermal or longwave (LW) emission to space arising from vertically uniform warming of the surface and the atmosphere.'",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "What fundamental role does the Planck response (α P) play in Earth's climate system?",
+    "options": {
+      "A": "It enhances the greenhouse effect, leading to increased warming.",
+      "B": "It represents the total radiative forcing from anthropogenic emissions.",
+      "C": "It plays a fundamental stabilizing role, causing a warmer planet to radiate more energy to space.",
+      "D": "It primarily causes discrepancies among climate model estimates."
+    },
+    "correct_answer": "C",
+    "explanation": "The text states, 'The Planck response α P, often called the Planck feedback, plays a fundamental stabilizing role in Earth’s climate and has a value that is strongly negative: a warmer planet radiates more energy to space.'",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "According to the passage, what is the *primary* reason for discrepancies among estimates of the Planck response (α P) when using radiative kernels?",
+    "options": {
+      "A": "Differences in the pattern of equilibrium surface temperature changes among Earth System Models (ESMs).",
+      "B": "Differences in cloud distributions which cause the radiative kernels to differ.",
+      "C": "Inaccuracies in measuring the Stefan–Boltzmann constant.",
+      "D": "Variations in the normalized greenhouse effect (g̃) across different regions."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states, 'Discrepancies among estimates primarily arise because differences in cloud distributions make the radiative kernels differ (Kramer et al., 2019).'",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "How is the Planck temperature response (ΔTP) mathematically defined in the passage?",
+    "options": {
+      "A": "ΔTP = ΔF / α P",
+      "B": "ΔTP = –ΔF / α P",
+      "C": "ΔTP = –α P * ΔF",
+      "D": "ΔTP = α P / ΔF"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage defines it as: 'ΔTP is the equilibrium temperature change in response to a forcing ΔF when the net feedback parameter is equal to the Planck response parameter: ΔTP= –ΔF / α P.'",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Which statement accurately describes the overall assessed value and its associated confidence range for the Planck response (α P)?",
+    "options": {
+      "A": "The assessed value is –3.20 W m–2°C–1, with a very likely range of –3.3 to –3.1 W m–2°C–1.",
+      "B": "The multi-kernel and multi-model mean for CMIP5 is –3.22 W m–2°C–1, with a likely range of –3.4 to –3.0 W m–2°C–1.",
+      "C": "The assessed value is –3.22 W m–2°C–1, with a very likely range of –3.4 to –3.0 W m–2°C–1.",
+      "D": "The primary multi-kernel spread is ±0.04 W m–2°C–1, indicating low confidence in the estimate."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states: 'Overall, there is high confidence in the estimate of the Planck response, which is assessed to be α P= –3.22 W m–2°C–1 with a very likely range of –3.4 to –3.0 W m–2°C–1'.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

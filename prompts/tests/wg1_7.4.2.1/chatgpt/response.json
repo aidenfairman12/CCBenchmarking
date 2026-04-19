@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the function of the Planck response in Earth's climate system?",
+    "options": {
+      "A": "It stabilizes the climate by increasing energy radiated to space as temperature rises.",
+      "B": "It amplifies climate warming by trapping more greenhouse gases in the atmosphere.",
+      "C": "It reduces the greenhouse effect by decreasing the upwelling longwave flux at the surface.",
+      "D": "It enhances cloud formation to reflect more sunlight."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states that the Planck response plays a fundamental stabilizing role in Earth's climate by increasing energy radiated to space with warming.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "How is the normalized greenhouse effect (g̃) defined?",
+    "options": {
+      "A": "The ratio of the greenhouse effect (G) to the Stefan–Boltzmann constant.",
+      "B": "The ratio of the greenhouse effect (G) to the upwelling longwave flux at the surface.",
+      "C": "The difference between the greenhouse effect (G) and the upwelling longwave flux at the surface.",
+      "D": "The proportion of greenhouse gases in the atmosphere relative to surface temperature."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage defines the normalized greenhouse effect (g̃) as the ratio between the greenhouse effect (G) and the upwelling longwave flux at the surface.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is the assessed value of the Planck response parameter (αP) based on CMIP5 and CMIP6 models?",
+    "options": {
+      "A": "–3.1 W m–2°C–1",
+      "B": "–3.22 W m–2°C–1",
+      "C": "–3.4 W m–2°C–1",
+      "D": "–3.0 W m–2°C–1"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that the assessed value of αP is –3.22 W m–2°C–1 for the CMIP5 and CMIP6 models.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is one primary source of discrepancy among estimates of the Planck response parameter (αP)?",
+    "options": {
+      "A": "Variations in the Stefan–Boltzmann constant used in calculations.",
+      "B": "Differences in cloud distributions affecting radiative kernels.",
+      "C": "Inaccuracies in the measurement of surface temperature.",
+      "D": "Changes in the normalized greenhouse effect (g̃) over time."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage identifies differences in cloud distributions as a primary source of discrepancy among estimates of αP.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "How is the equilibrium Planck temperature response (ΔTP) calculated according to the passage?",
+    "options": {
+      "A": "ΔTP = ΔF × g̃",
+      "B": "ΔTP = – ΔF × αP",
+      "C": "ΔTP = – ΔF / αP",
+      "D": "ΔTP = – 4σT3s / αP"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that ΔTP is calculated as ΔTP = – ΔF / αP.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

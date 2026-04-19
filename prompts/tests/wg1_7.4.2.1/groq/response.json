@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the primary role of the Planck response in Earth's climate?",
+    "options": {
+      "A": "It amplifies the greenhouse effect",
+      "B": "It plays a fundamental stabilizing role",
+      "C": "It reduces the upwelling LW flux at the surface",
+      "D": "It increases the equilibrium temperature change"
+    },
+    "correct_answer": "B",
+    "explanation": "The Planck response plays a fundamental stabilizing role in Earth's climate, as stated in the passage.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How is the normalized greenhouse effect g̃ defined?",
+    "options": {
+      "A": "The ratio between the upwelling LW flux at the surface and the greenhouse effect",
+      "B": "The ratio between the greenhouse effect and the downwelling LW flux at the surface",
+      "C": "The ratio between the greenhouse effect and the upwelling LW flux at the surface",
+      "D": "The ratio between the Planck response and the greenhouse effect"
+    },
+    "correct_answer": "C",
+    "explanation": "The normalized greenhouse effect g̃ is defined as the ratio between the greenhouse effect G and the upwelling LW flux at the surface, as stated in the passage.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the main source of discrepancies among estimates of the Planck response α P?",
+    "options": {
+      "A": "Differences in cloud distributions",
+      "B": "Differences in the pattern of equilibrium surface temperature changes among ESMs",
+      "C": "Differences in the normalized greenhouse effect g̃",
+      "D": "Differences in the Stefan-Boltzmann constant"
+    },
+    "correct_answer": "A",
+    "explanation": "Discrepancies among estimates primarily arise because differences in cloud distributions make the radiative kernels differ, as stated in the passage.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How is the Planck temperature response ΔTP calculated?",
+    "options": {
+      "A": "ΔTP = ΔF / α P",
+      "B": "ΔTP = –ΔF / α P",
+      "C": "ΔTP = ΔF * α P",
+      "D": "ΔTP = α P / ΔF"
+    },
+    "correct_answer": "B",
+    "explanation": "The Planck temperature response ΔTP is the equilibrium temperature change in response to a forcing ΔF when the net feedback parameter is equal to the Planck response parameter: ΔTP = –ΔF / α P, as stated in the passage.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the estimated value of the Planck response α P, and what is the likely range of this value?",
+    "options": {
+      "A": "α P = –3.22 W m–2°C–1, likely range: –3.4 to –3.0 W m–2°C–1",
+      "B": "α P = –3.20 W m–2°C–1, likely range: –3.3 to –3.1 W m–2°C–1",
+      "C": "α P = –3.22 W m–2°C–1, likely range: –3.3 to –3.1 W m–2°C–1",
+      "D": "α P = –3.20 W m–2°C–1, likely range: –3.4 to –3.0 W m–2°C–1"
+    },
+    "correct_answer": "C",
+    "explanation": "The multi-kernel and multi-model mean of α P is equal to –3.22 W m–2°C–1 for the CMIP6 models, with a likely range of –3.3 to –3.1 W m–2°C–1, as stated in the passage.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

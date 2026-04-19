@@ -1,0 +1,63 @@
+============================================================
+ClimateQA — Curation Analysis Report
+============================================================
+
+── Overview ─────────────────────────────────────────────────
+  Total questions generated:  580
+  Accepted:                   172  (29.7%)
+  Rejected:                   408  (70.3%)
+  Source batches:             29
+  Questions per accepted set: ~5.9 per batch
+
+── Acceptance rate by model ─────────────────────────────────
+  claude       68 / 145  (46.9%)
+  chatgpt      37 / 145  (25.5%)
+  gemini       34 / 145  (23.4%)
+  groq         33 / 145  (22.8%)
+
+── Acceptance rate by difficulty ────────────────────────────
+  easy       60 / 226  (26.5%)
+  medium     69 / 235  (29.4%)
+  hard       43 / 119  (36.1%)
+
+── Acceptance rate by model × difficulty ────────────────────
+  model       easy      medium    hard    
+  claude      18/58 (31%)  30/58 (52%)  20/29 (69%)
+  chatgpt     11/54 (20%)  16/59 (27%)  10/32 (31%)
+  gemini      16/58 (28%)  13/58 (22%)  5/29 (17%)
+  groq        15/56 (27%)  10/60 (17%)  8/29 (28%)
+
+── Passage quality (accepted per batch, max 20) ─────────────
+  Weak batches  (≤5 accepted):  13
+    ✗ wg1_11.3.4                      2 accepted  [Attribution Science]
+    ✗ wg1_11.2.4                      3 accepted  [Attribution Science]
+    ✗ wg1_3.2.1                       3 accepted  [Attribution Science]
+    ✗ wg1_3.3.1.1.2                   3 accepted  [Attribution Science]
+    ✗ wg2_5.4.1.1                     4 accepted  [Impacts and Vulnerabilities]
+    ✗ wg2_4.2.1.1                     4 accepted  [Impacts and Vulnerabilities]
+    ✗ wg1_9.6.3.1                     4 accepted  [Projections and Uncertainty]
+    ✗ wg3_3.3.1                       5 accepted  [Policy and Governance]
+    ✗ wg3_13.6.1.3                    5 accepted  [Policy and Governance]
+    ✗ wg1_2.3.1.1.3                   5 accepted  [Climate Data and Trend Interpretation]
+    ✗ wg2_7.2.2.1                     5 accepted  [Impacts and Vulnerabilities]
+    ✗ wg3_14.3.2.1                    5 accepted  [Policy and Governance]
+    ✗ wg1_9.6.1.3                     5 accepted  [Attribution Science]
+
+  Strong batches (≥12 accepted): 0
+
+── Inter-model agreement (models with ≥1 accepted per batch) ─
+  1 model(s) contributed:  1 batches
+  2 model(s) contributed:  4 batches
+  3 model(s) contributed:  12 batches
+  4 model(s) contributed:  12 batches
+
+── Accepted questions by IPCC Working Group ─────────────────
+  WG1 — Physical Science                    107  (62.2%)
+  WG2 — Impacts & Adaptation                44  (25.6%)
+  WG3 — Mitigation                          21  (12.2%)
+
+── Acceptance rate by prompt type ───────────────────────────
+  data_interpretation      20 / 60  (33.3%)
+  standard                152 / 520  (29.2%)
+
+============================================================
