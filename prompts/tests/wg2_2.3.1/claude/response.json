@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, what is the current state of extreme events being captured in impact models?",
+    "options": {
+      "A": "They are well captured due to recent advances in high-resolution climate modeling",
+      "B": "They are generally poorly captured, though this is expected to improve with higher-resolution models",
+      "C": "They are adequately captured for floods and droughts but not for heat waves and fires",
+      "D": "They cannot be captured in impact models because extreme events are inherently unpredictable"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that disturbances from extreme events 'are, in general, poorly captured in impact models,' but notes 'this should improve as higher-resolution climate models that better capture smaller-scale processes and extreme events become available.'",
+    "source": "IPCC AR6 WG2 passage on extreme events and ecosystems",
+    "category": "Climate Modeling and Extremes",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "The passage describes 'tipping points' in ecosystems as thresholds beyond which changes are characterized as:",
+    "options": {
+      "A": "Gradual and manageable with Ecosystem-based Adaptation measures",
+      "B": "Predictable and reversible given sufficient recovery time",
+      "C": "Abrupt and possibly irreversible",
+      "D": "Severe but confined to biodiversity loss without affecting ecosystem services"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states with high confidence that ecosystems are being pushed 'to tipping points, beyond which abrupt and possibly irreversible changes are occurring.'",
+    "source": "IPCC AR6 WG2 passage on extreme events and ecosystems",
+    "category": "Ecosystem Tipping Points",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "The passage provides the example of Australian eucalypt forests experiencing widespread dieback. Which combination of factors does the passage identify as contributing to this outcome?",
+    "options": {
+      "A": "Sea level rise combined with storm surge and extreme coastal high tides",
+      "B": "Changing rainfall patterns and repeated heat waves interacting with biological factors such as altered plant growth and insect outbreaks",
+      "C": "Increased frequency of cyclones and floods leading to soil nutrient depletion and root damage",
+      "D": "Internal climate variability superimposed on longer-term drought trends causing direct tree mortality"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explicitly states that 'changing rainfall patterns and repeated heat waves may interact with biological factors such as altered plant growth and nutrient allocation under elevated CO2, affecting herbivore rates and insect outbreaks leading to the widespread dieback of some forests (e.g., in Australian eucalypt forests).'",
+    "source": "IPCC AR6 WG2 passage on extreme events and ecosystems",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "According to the passage, why might current risk assessments systematically underestimate actual climate risk to ecosystems?",
+    "options": {
+      "A": "They rely on outdated emissions scenarios that do not reflect current greenhouse gas concentrations",
+      "B": "They focus exclusively on long-term trends while ignoring short-term variability",
+      "C": "They typically consider only a single climate hazard with no changing variability",
+      "D": "They overestimate ecosystem resilience because organisms have adapted to historical disturbance regimes"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that 'Risk assessments typically only consider a single climate hazard with no changing variability, thereby potentially underestimating the actual risk.'",
+    "source": "IPCC AR6 WG2 passage on extreme events and ecosystems",
+    "category": "Climate Risk Assessment",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "The passage distinguishes between organisms' capacity to cope with historical climate variability and the challenge posed by current climate change. Which of the following best captures the logical implication of this distinction for Ecosystem-based Adaptation (EbA)?",
+    "options": {
+      "A": "EbA is rendered unnecessary because organisms have already adapted to cope with extreme events over their evolutionary history",
+      "B": "EbA is well-suited to address extreme events because ecosystem functionality is robust to episodic disturbances",
+      "C": "EbA may be undermined because the extreme events it relies upon ecosystem functionality to buffer against can also destroy that very functionality",
+      "D": "EbA effectiveness is limited primarily by the inability of impact models to capture internal climate variability rather than by ecosystem damage"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage notes that organisms adapted to historical disturbance regimes, but that current extreme events 'pose huge challenges for EbA' because 'ecosystem functionality, on which such adaptation measures rely, may be altered or destroyed by extreme episodic events,' creating a direct conflict between EbA's dependence on ecosystem function and the capacity of extreme events to eliminate it.",
+    "source": "IPCC AR6 WG2 passage on extreme events and ecosystems",
+    "category": "Ecosystem-based Adaptation",
+    "difficulty": "hard",
+    "generated_by": "Claude Sonnet"
+  }
+]

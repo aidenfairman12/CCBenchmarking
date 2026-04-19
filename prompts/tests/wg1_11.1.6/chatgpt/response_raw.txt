@@ -1,0 +1,62 @@
+### Question 1 (Easy)
+The risk ratio for the annual hottest daytime temperature (TXx) increases significantly with warming levels. At +2°C warming, how much higher is the probability of this event compared to the +1°C reference level?
+
+A. 3.3 times higher  
+B. 8.2 times higher  
+C. 230% higher  
+D. 720% higher  
+
+**Correct Answer:** B. 8.2 times higher  
+**Explanation:** The risk ratio for +2°C is 8.2, meaning the probability is 8.2 times higher compared to the +1°C reference level.
+
+---
+
+### Question 2 (Medium)
+The probability of co-occurrence of extreme hot days and extreme dry days in the Amazon region changes with warming levels. At +2°C, approximately how many weeks in 20 years are expected to experience such co-occurrence?
+
+A. 0 weeks  
+B. 1 week  
+C. 4 to 5 weeks  
+D. More than 9 weeks  
+
+**Correct Answer:** C. 4 to 5 weeks  
+**Explanation:** The data states that at +2°C warming, the co-occurrence of extreme hot and dry days is expected for about 4 to 5 weeks in a 20-year period.
+
+---
+
+### Question 3 (Medium)
+In the Mediterranean region, the annual soil moisture drought duration increases with warming levels. By how many days does the drought duration increase when moving from +1°C to +1.5°C?
+
+A. 17 days  
+B. 30 days  
+C. 58 days  
+D. 41 days  
+
+**Correct Answer:** A. 17 days  
+**Explanation:** At +1°C, the drought duration is 41 days; at +1.5°C, it is 58 days. The increase is 58 - 41 = 17 days.
+
+---
+
+### Question 4 (Hard)
+For extreme floods of 1–5 day duration in the Indian subcontinent, the pattern of change is inconsistent across warming levels. Which of the following is true about the number of floods at +2°C compared to +1°C and +4°C?
+
+A. The number of floods at +2°C is lower than at +1°C.  
+B. The number of floods at +2°C overlaps with the range for +1°C but is lower than at +4°C.  
+C. The number of floods at +2°C exceeds both +1°C and +4°C.  
+D. The number of floods at +2°C is identical to the number at +4°C.  
+
+**Correct Answer:** B. The number of floods at +2°C overlaps with the range for +1°C but is lower than at +4°C.  
+**Explanation:** At +1°C, up to 3 floods occur in individual locations. At +2°C, the range is 2–6 floods in most locations, overlapping with +1°C. At +4°C, the number rises to up to 12 floods, which is higher than the +2°C range.
+
+---
+
+### Question 5 (Easy)
+At +3°C warming, how many days in 20 years are most locations expected to experience 'extreme extremes' hot days?
+
+A. About 20 days  
+B. About 50 days  
+C. About 150 days  
+D. About 500 days  
+
+**Correct Answer:** D. About 500 days  
+**Explanation:** The data explicitly states that at +3°C warming, most locations will experience about 500 days of 'extreme extremes' hot days over a 20-year period.

@@ -1,0 +1,62 @@
+### Question 1 (Easy)
+In the SSP1-1.9 scenario, what is the median projected global mean sea level rise by 2100?
+
+A) 0.38 m  
+B) 0.44 m  
+C) 0.56 m  
+D) 0.68 m  
+
+**Correct Answer:** A) 0.38 m  
+*Explanation:* The table shows that for SSP1-1.9, the total sea level rise by 2100 is 0.38 metres (median value).
+
+---
+
+### Question 2 (Medium)
+What is the difference in the median contribution of thermal expansion to sea level rise between SSP1-2.6 and SSP5-8.5 scenarios by 2100?
+
+A) 0.06 m  
+B) 0.12 m  
+C) 0.16 m  
+D) 0.18 m  
+
+**Correct Answer:** A) 0.06 m  
+*Explanation:* For thermal expansion, the median contribution is 0.14 m for SSP1-2.6 and 0.30 m for SSP5-8.5. The difference is 0.30 - 0.14 = 0.06 m.
+
+---
+
+### Question 3 (Medium)
+In 2150, under which SSP scenario is the median global sea level rise more than double the SSP1-1.9 value?
+
+A) SSP1-2.6  
+B) SSP2-4.5  
+C) SSP3-7.0  
+D) SSP5-8.5  
+
+**Correct Answer:** D) SSP5-8.5  
+*Explanation:* The median 2150 sea level rise for SSP1-1.9 is 0.57 m. For SSP5-8.5, it is 1.32 m, which is more than double 0.57 m. Other scenarios do not exceed this threshold.
+
+---
+
+### Question 4 (Hard)
+Between 2080 and 2100, which SSP scenario shows the largest range in the rate of sea level change?
+
+A) SSP1-2.6  
+B) SSP2-4.5  
+C) SSP5-8.5  
+D) SSP5-8.5 (Low Conf.)  
+
+**Correct Answer:** D) SSP5-8.5 (Low Conf.)  
+*Explanation:* For 2080–2100, the range of sea level change rates is 8.6–30.1 mm yr⁻¹ for SSP5-8.5 (Low Conf.), which is the largest range among the scenarios.
+
+---
+
+### Question 5 (Easy)
+What is the median contribution of glaciers to sea level rise under SSP3-7.0 in 2100?
+
+A) 0.08 m  
+B) 0.12 m  
+C) 0.16 m  
+D) 0.18 m  
+
+**Correct Answer:** C) 0.16 m  
+*Explanation:* The table for individual contributions shows that the median value for glaciers in SSP3-7.0 at 2100 is 0.16 m.

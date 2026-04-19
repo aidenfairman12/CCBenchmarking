@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the primary factor that determines surface albedo?",
+    "options": {
+      "A": "Reflectance at Earth’s surface",
+      "B": "The angular distribution of solar radiation",
+      "C": "Atmospheric absorption and scattering",
+      "D": "Cloud cover variability"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states that surface albedo is determined primarily by reflectance at Earth’s surface.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "How does temperature change contribute to surface-albedo change?",
+    "options": {
+      "A": "By decreasing the angular distribution of solar radiation",
+      "B": "Through changes in sea ice and snow cover extent",
+      "C": "By reducing atmospheric absorption of sunlight",
+      "D": "Through alterations in ocean roughness"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that temperature change induces surface-albedo change, primarily through changes in the extent of sea ice and seasonal snow cover.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is a secondary contributor to albedo feedback under warming conditions?",
+    "options": {
+      "A": "Decreased snow metamorphic rate",
+      "B": "Increased angular distribution of solar radiation",
+      "C": "Consolidation of light-absorbing impurities near the snow surface",
+      "D": "Increased vegetation growth across snow-covered areas"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage explains that warming-induced consolidation of light-absorbing impurities near the surface contributes secondarily to albedo feedback.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why is the Southern Hemisphere's contribution to global surface-albedo feedback expected to be small?",
+    "options": {
+      "A": "The Southern Hemisphere has no sea ice cover.",
+      "B": "Seasonal snow cover extent in the Southern Hemisphere is limited.",
+      "C": "The Southern Hemisphere receives less solar radiation annually.",
+      "D": "Cloud cover completely offsets surface-albedo feedback in the Southern Hemisphere."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage mentions that the Southern Hemisphere’s contribution is small because seasonal snow cover extent is limited, and trends in SH sea ice extent are relatively flat.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is a major reason for discrepancies in estimates of Arctic sea ice contributions to global surface-albedo feedback?",
+    "options": {
+      "A": "Differences in satellite observation periods",
+      "B": "Variability in cloud attenuation assessment techniques",
+      "C": "Uncertainty in global temperature change measurements",
+      "D": "Inconsistent trends in Southern Hemisphere sea ice extent"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage identifies variability in techniques and data used to assess the attenuation of surface-albedo change by Arctic clouds as a major source of discrepancies.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

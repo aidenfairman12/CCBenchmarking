@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What type of uncertainty is associated with as-yet-unknown societal choices that will determine future anthropogenic emissions?",
+    "options": {
+      "A": "Model response uncertainty",
+      "B": "Scenario uncertainty",
+      "C": "Climate response uncertainty",
+      "D": "Radiative forcing uncertainty"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that 'Future radiative forcing is uncertain due to as-yet-unknown societal choices that will determine future anthropogenic emissions; this is considered ‘scenario uncertainty’.",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the main reason why historical radiative forcings due to anthropogenic and natural aerosols are less well constrained by observations than the GHG radiative forcings?",
+    "options": {
+      "A": "Lack of satellite observations",
+      "B": "Insufficient data on past emissions",
+      "C": "Limited understanding of aerosol physics",
+      "D": "Inadequate modeling of aerosol effects"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that 'Uncertainties also exist regarding past emissions and radiative forcings' and highlights the importance of observations in constraining these uncertainties.",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the purpose of using a range of climate models to estimate the range of uncertainty in our understanding of key physical processes?",
+    "options": {
+      "A": "To define the 'climate response uncertainty'",
+      "B": "To quantify the 'model response uncertainty'",
+      "C": "To constrain the 'scenario uncertainty'",
+      "D": "To predict future emissions scenarios"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that 'A range of climate models is often used to estimate the range of uncertainty in our understanding of the key physical processes and to define the ‘model response uncertainty’.",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is a limitation of using climate models to estimate the range of uncertainty in climate response, according to the source passage?",
+    "options": {
+      "A": "Climate models are too simple to capture complex processes",
+      "B": "Climate models are not entirely independent of each other",
+      "C": "Climate models are not able to simulate long time-scale processes",
+      "D": "All of the above are limitations, but the passage only mentions A and C"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that 'the climate models used in CMIP experiments have structural uncertainties not explored in a typical multi-model exercise... and are not entirely independent of each other'",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How does the CMIP6 model range for equilibrium climate sensitivity (ECS) compare to the very likely range assessed by combining multiple lines of evidence?",
+    "options": {
+      "A": "The CMIP6 model range is narrower than the very likely range",
+      "B": "The CMIP6 model range is broader than the very likely range",
+      "C": "The CMIP6 model range is equivalent to the very likely range",
+      "D": "The CMIP6 model range is not comparable to the very likely range"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that 'the CMIP6 model range is found to be broader than the very likely range assessed by combining multiple lines of evidence'",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

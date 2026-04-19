@@ -1,0 +1,87 @@
+[
+  {
+    "scenario": "The table below shows the individual contributions to sea level rise by 2100 for different SSP scenarios. The values are in metres and represent the median (likely range).",
+    "question": "What is the contribution of thermal expansion to sea level rise by 2100 under the SSP5-8.5 scenario?",
+    "options": {
+      "A": "0.20 m",
+      "B": "0.30 m",
+      "C": "0.36 m",
+      "D": "0.40 m"
+    },
+    "correct_answer": "B",
+    "explanation": "The correct answer can be directly read from the table as the median value for thermal expansion under the SSP5-8.5 scenario.",
+    "data_source": "IPCC AR6 WG1 Chapter 9, Table 9.9",
+    "scenario_type": "trend_identification",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "scenario": "The average rates of total sea level change are given in mm yr⁻¹ for different periods and SSP scenarios. The values are medians with likely ranges.",
+    "question": "Which period and SSP scenario combination has the highest average rate of total sea level change?",
+    "options": {
+      "A": "2040–2060 under SSP1-1.9",
+      "B": "2080–2100 under SSP5-8.5",
+      "C": "2040–2060 under SSP5-8.5",
+      "D": "2080–2100 under SSP1-2.6"
+    },
+    "correct_answer": "B",
+    "explanation": "The highest average rate can be found by comparing the values across different periods and scenarios, with the 2080–2100 period under SSP5-8.5 having the highest median rate.",
+    "data_source": "IPCC AR6 WG1 Chapter 9, Table 9.9",
+    "scenario_type": "comparison",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "scenario": "The total sea level rise by year is given for different SSP scenarios. The values are in metres and represent the median (likely range).",
+    "question": "By how much does the median total sea level rise by 2100 under the SSP5-8.5 scenario exceed that under the SSP1-1.9 scenario?",
+    "options": {
+      "A": "0.30 m",
+      "B": "0.39 m",
+      "C": "0.40 m",
+      "D": "0.45 m"
+    },
+    "correct_answer": "B",
+    "explanation": "The difference can be calculated by subtracting the median total sea level rise under SSP1-1.9 from that under SSP5-8.5 for the year 2100.",
+    "data_source": "IPCC AR6 WG1 Chapter 9, Table 9.9",
+    "scenario_type": "comparison",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "scenario": "The individual contributions to sea level rise by 2100 are given for different components and SSP scenarios. The values are in metres and represent the median (likely range).",
+    "question": "Which component has the largest range of likely values for its contribution to sea level rise by 2100 under the SSP5-8.5 (Low Conf.) scenario?",
+    "options": {
+      "A": "Thermal expansion",
+      "B": "Greenland",
+      "C": "Antarctica",
+      "D": "Glaciers"
+    },
+    "correct_answer": "C",
+    "explanation": "The range can be determined by looking at the difference between the upper and lower bounds of the likely range for each component under the specified scenario.",
+    "data_source": "IPCC AR6 WG1 Chapter 9, Table 9.9",
+    "scenario_type": "anomaly_interpretation",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "scenario": "The table shows total sea level rise projections for different years and SSP scenarios, with values given in metres as medians (likely ranges).",
+    "question": "What can be inferred about the acceleration of sea level rise from 2030 to 2100 under the SSP5-8.5 scenario, given the median total sea level rise values?",
+    "options": {
+      "A": "It accelerates significantly after 2050.",
+      "B": "It decelerates after 2050.",
+      "C": "It remains constant from 2030 to 2100.",
+      "D": "The data does not provide enough information to determine acceleration or deceleration."
+    },
+    "correct_answer": "A",
+    "explanation": "The inference can be made by examining the increase in sea level rise over time and comparing the rates of change between different periods under the SSP5-8.5 scenario.",
+    "data_source": "IPCC AR6 WG1 Chapter 9, Table 9.9",
+    "scenario_type": "projection_reading",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

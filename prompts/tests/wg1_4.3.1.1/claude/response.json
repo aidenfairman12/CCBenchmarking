@@ -1,0 +1,72 @@
+[
+  {
+    "question": "According to AR5 findings, what is the likely 5–95% range of GSAT change for 2081–2100 relative to 1986–2005 under RCP8.5?",
+    "options": {
+      "A": "0.3°C–1.7°C",
+      "B": "1.1°C–2.6°C",
+      "C": "2.6°C–4.8°C",
+      "D": "1.4°C–3.1°C"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that AR5 concluded GSAT for 2081–2100 relative to 1986–2005 will likely be in the 5–95% range of 2.6°C–4.8°C under RCP8.5.",
+    "source": "IPCC AR6 WG1 Chapter 4",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the CMIP6 simulations assessed here, what value is used to estimate GSAT changes since 1850–1900 when computing anomalies relative to 1995–2014?",
+    "options": {
+      "A": "0.65°C",
+      "B": "0.82°C",
+      "C": "1.00°C",
+      "D": "0.74°C"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explicitly states that the ensemble mean GSAT difference between 1850–1900 and 1995–2014 is 0.82°C, used to provide an estimate of changes since 1850–1900.",
+    "source": "IPCC AR6 WG1 Chapter 4",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Under which AR5 emissions scenario do CO2 concentrations peak around 2040, and what is the corresponding likely GSAT range for 2081–2100 relative to 1986–2005?",
+    "options": {
+      "A": "RCP4.5, with a range of 1.1°C–2.6°C",
+      "B": "RCP6.0, with a range of 1.1°C–2.6°C",
+      "C": "RCP4.5, with a range of 1.4°C–3.1°C",
+      "D": "RCP2.6, with a range of 0.3°C–1.7°C"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states that RCP4.5 has emissions peaking around 2040 and corresponds to a GSAT range of 1.1°C–2.6°C, while RCP6.0 peaks around 2060 and corresponds to 1.4°C–3.1°C.",
+    "source": "IPCC AR6 WG1 Chapter 4",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Comparing the CMIP6 projected GSAT range under SSP5-8.5 to the CMIP5 projected range under RCP8.5 (both for 2081–2100), what does the comparison reveal about the upper end of the projected range?",
+    "options": {
+      "A": "The CMIP6 upper end (5.7°C) is higher than the CMIP5 upper end (4.8°C), both relative to their respective baselines",
+      "B": "The CMIP6 upper end (5.7°C) is lower than the CMIP5 upper end (4.8°C) when adjusted for baseline differences",
+      "C": "The CMIP6 and CMIP5 upper ends are identical once baseline differences are accounted for",
+      "D": "The CMIP5 upper end (4.8°C) exceeds the CMIP6 upper end (5.7°C) because RCP8.5 represents a higher emissions pathway than SSP5-8.5"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage reports CMIP5 RCP8.5 upper end as 4.8°C (relative to 1986–2005) and CMIP6 SSP5-8.5 upper end as 5.7°C (relative to 1995–2014), so the CMIP6 upper bound is higher even before accounting for the slightly different baselines.",
+    "source": "IPCC AR6 WG1 Chapter 4",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to AR5 findings, which of the following statements about exceedance of temperature thresholds is best supported by the text?",
+    "options": {
+      "A": "Exceeding 1.5°C above 1850–1900 by 2081–2100 is likely under RCP2.6 with high confidence",
+      "B": "Exceeding 2°C above 1850–1900 by 2081–2100 is likely under RCP4.5 with high confidence",
+      "C": "Exceeding 2°C above 1850–1900 by 2081–2100 under RCP2.6 is unlikely with medium confidence",
+      "D": "Exceeding 1.5°C above 1850–1900 by 2081–2100 is likely under RCP8.5 only, with medium confidence"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage explicitly states that global surface temperature changes above 2°C under RCP2.6 were deemed unlikely with medium confidence, while the 2°C exceedance with high confidence applies only to RCP6.0 and RCP8.5.",
+    "source": "IPCC AR6 WG1 Chapter 4",
+    "category": "Projections and Uncertainty",
+    "difficulty": "hard"
+  }
+]

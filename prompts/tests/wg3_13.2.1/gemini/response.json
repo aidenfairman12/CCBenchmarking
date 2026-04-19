@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What specific function is highlighted for the existence of national climate laws in lower/middle income countries, according to the passage?",
+    "options": {
+      "A": "Providing a basis for mainstreaming mitigation into sector action.",
+      "B": "Attracting international finance by serving as a signal of credibility.",
+      "C": "Creating law-backed agencies for coordination and accountability.",
+      "D": "Establishing a platform for transparent target setting and implementation."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states, 'For lower/middle income countries, in particular, the existence of a law may also attract international finance by serving as a signal of credibility'.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "According to the ‘Climate Change Laws of the World’ database, how many mitigation-related laws were documented by 2020?",
+    "options": {
+      "A": "342",
+      "B": "558",
+      "C": "694",
+      "D": "56"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage indicates the ‘Climate Change Laws of the World’ database was 'documenting 694 mitigation-related laws by 2020'.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Which of the following best exemplifies an 'indirect law' as defined in the passage?",
+    "options": {
+      "A": "A national statute that sets explicit targets for greenhouse gas reductions in its objectives.",
+      "B": "Legislation that establishes a new governmental body solely responsible for enforcing a country's climate action plan.",
+      "C": "A law promoting energy efficiency and renewable energy, which includes provisions for reporting energy consumption data.",
+      "D": "An executive order outlining a country's strategy for achieving its Nationally Determined Contribution (NDC) under the Paris Agreement."
+    },
+    "correct_answer": "C",
+    "explanation": "Indirect laws are described as having 'the capacity to affect mitigation or adaptation' through regulated subjects, such as 'promotion of co-benefits, or creation of reporting protocols'.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "The realization of potential governance gains from national climate laws is dependent on several factors. Which of the following is explicitly mentioned as one of these necessary conditions?",
+    "options": {
+      "A": "The exclusive adoption of overarching framework laws.",
+      "B": "The use of broad rather than narrow definitions for climate laws.",
+      "C": "The successful implementation of the laws.",
+      "D": "The predominant focus on direct climate laws over indirect ones."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states, 'The realisation of these potential governance gains depends on local context, legal design, successful implementation, and complementary action at different scales'.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "The 'Climate Change Laws of the World' database, which captures both direct and indirect laws, documented 694 mitigation-related laws by 2020. What characteristic describes the majority of these documented laws?",
+    "options": {
+      "A": "They are direct climate laws with greenhouse gas limitation as a primary objective.",
+      "B": "They are single, overarching framework laws adopted by countries.",
+      "C": "They are executive climate strategies rather than formal laws.",
+      "D": "They are sectoral indirect laws."
+    },
+    "correct_answer": "D",
+    "explanation": "The passage states, 'Both direct and indirect laws...is most closely captured by the ‘Climate Change Laws of the World’ database...Among these, the majority are accounted for by sectoral indirect laws.'",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

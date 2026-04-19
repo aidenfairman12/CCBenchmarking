@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What was a contributing factor to the Zika virus outbreak in South America in 2016?",
+    "options": {
+      "A": "Record high temperatures and severe drought conditions in 2015",
+      "B": "Increased use of household water storage containers during a period of normal weather",
+      "C": "A decrease in the population of Aedes aegypti",
+      "D": "Below average temperatures and precipitation"
+    },
+    "correct_answer": "A",
+    "explanation": "The source passage states that the Zika virus outbreak in South America in 2016 was preceded by a period of record high temperatures and severe drought conditions in 2015.",
+    "source": "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How has climate change affected the spread of Japanese encephalitis in Nepal and southwest China?",
+    "options": {
+      "A": "It has led to a decrease in the spread of the disease to lower altitudes",
+      "B": "It has had no impact on the spread of the disease",
+      "C": "It appears to be a risk factor for the spread of the disease to higher altitudes",
+      "D": "It has only affected the spread of the disease in Nepal"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that changing climate also appears to be a risk factor for the spread of Japanese encephalitis to higher altitudes in Nepal and in southwest China.",
+    "source": "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the relationship between climate change and the spread of Lyme disease in North America?",
+    "options": {
+      "A": "Climate change has had no impact on the spread of Lyme disease",
+      "B": "Climate change has contributed to a decrease in the spread of Lyme disease",
+      "C": "Climate change has contributed to the spread of the Lyme disease vector Ixodes scapularis, and a corresponding increase in cases of Lyme disease",
+      "D": "Climate change has only affected the spread of Lyme disease in Europe"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that climate change has contributed to the spread of the Lyme disease vector Ixodes scapularis, a corresponding increase in cases of Lyme disease in North America.",
+    "source": "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the relationship between temperature and the emergence of the tick population of Ixodes scapularis in Canada?",
+    "options": {
+      "A": "There is no correlation between temperature and the emergence of the tick population",
+      "B": "Increasing temperatures lead to a decrease in the emergence of the tick population",
+      "C": "There is a weak correlation between temperatures and the emergence of the tick population",
+      "D": "Vector surveillance has identified a strong correlation between temperatures and the emergence of tick populations"
+    },
+    "correct_answer": "D",
+    "explanation": "The source passage states that vector surveillance of I. scapularis has identified strong correlation between temperatures and the emergence of tick populations, their range and recent geographic spread.",
+    "source": "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How have changes in temperature, precipitation, and relative humidity affected the spread of West Nile fever in southeastern Europe?",
+    "options": {
+      "A": "Changes in these climate variables have had no impact on the spread of West Nile fever",
+      "B": "Decreases in temperature, precipitation, and relative humidity have contributed to an increase in the spread of West Nile fever",
+      "C": "The average temperature and precipitation prior to the outbreak were below the 1981-2010 period average, which may have contributed to a late upsurge of the vector population",
+      "D": "The average temperature and precipitation prior to the exceptional 2018 West Nile outbreak were above the 1981-2010 period average, which may have contributed to an early upsurge of the vector population"
+    },
+    "correct_answer": "D",
+    "explanation": "The source passage states that the average temperature and precipitation prior to the exceptional 2018 West Nile outbreak in Europe was above the 1981–2010 period average, which may have contributed to an early upsurge of the vector population.",
+    "source": "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

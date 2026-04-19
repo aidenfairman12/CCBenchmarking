@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, studies attribute which of the following observed changes to human influence, dominated by anthropogenic greenhouse gas emissions?",
+    "options": {
+      "A": "An increase in the frequency or intensity of hot extremes and a decrease in the frequency or intensity of cold extremes.",
+      "B": "A decrease in the frequency or intensity of hot extremes and an increase in the frequency or intensity of cold extremes.",
+      "C": "An increase in both the frequency and intensity of hot extremes and cold extremes.",
+      "D": "A decrease in both the frequency and intensity of hot extremes and cold extremes."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states: 'Studies since AR5 continue to attribute the observed increase in the frequency or intensity of hot extremes and the observed decrease in the frequency or intensity of cold extremes to human influence, dominated by anthropogenic greenhouse gas emissions...'",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.3.4",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "What type of forcing is identified as offsetting the greenhouse gas forcing, which is responsible for an increase in extreme temperature?",
+    "options": {
+      "A": "Aerosol forcing.",
+      "B": "Natural volcanic forcing.",
+      "C": "Solar radiation forcing.",
+      "D": "Cloud cover forcing."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states: 'As is the case for an increase in mean temperature (Section 3.3.1), an increase in extreme temperature is mostly due to greenhouse gas forcing, offset by aerosol forcing.'",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.3.4",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "What percentage of moderate daily hot extremes (above 99.9th percentile) over land are attributed to anthropogenic warming, according to the passage?",
+    "options": {
+      "A": "As much as 75%.",
+      "B": "Approximately 50%.",
+      "C": "Less than 25%.",
+      "D": "Over 90%."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states: 'As much as 75% of the moderate daily hot extremes (above 99.9th percentile) over land are due to anthropogenic warming (Fischer and Knutti, 2015).'",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.3.4",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "How do attribution studies for increasing trends in various heatwave metrics differ from the general attribution of changes in extreme temperatures, according to the passage?",
+    "options": {
+      "A": "Studies for heatwave metrics explicitly attribute changes to natural forcing, while general extreme temperature changes are linked to human influence.",
+      "B": "Most studies on heatwave metrics have only stated consistency with anthropogenic warming, rather than explicitly attributing these changes to causes.",
+      "C": "Attribution of heatwave metrics is more robust due to an extended observational period, unlike general extreme temperature attribution.",
+      "D": "Heatwave metrics are primarily attributed to aerosol forcing, whereas general extreme temperatures are attributed to greenhouse gases."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states regarding heatwave metrics: '...few recent studies have explicitly attributed these changes to causes; most of them stated that observed trends are consistent with anthropogenic warming.'",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.3.4",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "In some key wheat-producing regions of Southern Australia, what conditions are associated with reported increases in frost days or frost season length, despite an overall increase in regional mean temperatures?",
+    "options": {
+      "A": "Increases in rainfall, cloud cover, and subtropical ridge strength.",
+      "B": "Decreases in rainfall, cloud cover, and subtropical ridge strength.",
+      "C": "An increase solely in anthropogenic aerosol forcing in the region.",
+      "D": "Shifts in ocean currents leading to localized cooling."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states: 'In some key wheat-producing regions of Southern Australia, increases in frost days or frost season length have been reported... these changes are linked to decreases in rainfall, cloud-cover, and subtropical ridge strength, despite an overall increase in regional mean temperatures...'",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.3.4",
+    "category": "Attribution Science",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

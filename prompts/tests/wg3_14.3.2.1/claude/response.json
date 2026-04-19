@@ -1,0 +1,72 @@
+[
+  {
+    "question": "According to the Paris Agreement decision, what is the role of USD 100 billion per year in relation to the new collective quantified finance goal?",
+    "options": {
+      "A": "It is the maximum allowable contribution from developed countries",
+      "B": "It serves as a floor for the new collective quantified finance goal to be set prior to 2025",
+      "C": "It is the fixed annual target explicitly written into the Paris Agreement's main text",
+      "D": "It represents the average annual finance flow needed to meet the temperature goal"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that the decision accompanying the Paris Agreement 'resolves to set a new collective quantified finance goal prior to 2025... with USD100 billion yr–1 as a floor.'",
+    "source": "IPCC AR6 WG3 Chapter 13",
+    "category": "Policy and Governance",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does Article 2.2 of the Paris Agreement establish regarding the principle of Common But Differentiated Responsibilities and Respective Capabilities (CBDRRC)?",
+    "options": {
+      "A": "A binding obligation on all Parties to implement the Agreement in strict accordance with CBDRRC",
+      "B": "An expectation that Parties will implement the Agreement reflecting CBDRRC, but not a binding obligation to do so",
+      "C": "A requirement that developed countries bear full financial responsibility under CBDRRC",
+      "D": "A fixed definition of CBDRRC that remains constant regardless of changing national circumstances"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explicitly notes that Article 2.2 'generates an expectation that Parties will implement the agreement to reflect CBDRRC, and is not an obligation to do so.'",
+    "source": "IPCC AR6 WG3 Chapter 13",
+    "category": "Policy and Governance",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to the passage, what short-term emissions reduction is needed by 2030 to reach net zero CO2 emissions around 2050?",
+    "options": {
+      "A": "A reduction of approximately 25% to 35% from 2010 levels",
+      "B": "A reduction of approximately 45% to 60% from 2010 levels",
+      "C": "A reduction of approximately 70% to 80% from 2010 levels",
+      "D": "A reduction of approximately 30% to 50% from 1990 levels"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'to reach net zero CO2 around 2050, in the short-term global net human-caused CO2 emissions would need to fall by about 45% to 60% from 2010 levels by 2030.'",
+    "source": "IPCC AR6 WG3 Chapter 13",
+    "category": "Mitigation Pathways",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How does the inclusion of 'in the light of different national circumstances' in Article 2.2 affect the interpretation of the CBDRRC principle over time?",
+    "options": {
+      "A": "It locks the application of CBDRRC to conditions as they existed when the Paris Agreement was adopted",
+      "B": "It eliminates differentiation between developed and developing countries entirely",
+      "C": "It introduces a dynamic element, meaning the application of CBDRRC will evolve as national circumstances change",
+      "D": "It shifts full responsibility for climate finance exclusively to historically high-emitting nations"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that 'the inclusion of the term 'in light of different national circumstances' introduces a dynamic element into the interpretation of the CBDRRC principle' and that 'as national circumstances evolve, the application of the principle will also evolve.'",
+    "source": "IPCC AR6 WG3 Chapter 13",
+    "category": "Policy and Governance",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The passage describes Article 4.1's net zero GHG emissions target as being set 'in the second half of the century,' yet some researchers argue it implies reaching net zero in the third quarter of the 21st century. Which combination of reasoning from the passage best explains why these two interpretations are compatible?",
+    "options": {
+      "A": "Article 4.1 is a binding obligation, and the third-quarter interpretation reflects the legal minimum required to satisfy it",
+      "B": "Article 4.1 is non-binding and uses 'aim' language, while the third-quarter interpretation reflects the more ambitious end needed to potentially bring warming below 1.5°C, as some researchers argue",
+      "C": "The second-half framing applies only to CO2, while the third-quarter framing applies to all GHGs, making them complementary rather than contradictory",
+      "D": "The Paris Agreement's ambition cycle automatically converts the second-half target into a third-quarter obligation through successive NDC revisions"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage notes Article 4.1 is 'non-binding' and uses 'aim' language, and separately states that achieving its aim 'potentially implies that global warming will peak and then follow a gradually declining path, potentially to below 1.5°C warming,' consistent with the more aggressive third-quarter interpretation some researchers propose.",
+    "source": "IPCC AR6 WG3 Chapter 13",
+    "category": "Mitigation Pathways",
+    "difficulty": "hard"
+  }
+]

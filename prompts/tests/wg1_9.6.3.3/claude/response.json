@@ -1,0 +1,87 @@
+[
+  {
+    "scenario": "The following table shows projected total global mean sea level rise (metres, median values) relative to 1995–2014 baseline for two SSP scenarios:\n\nYear  | SSP1-1.9 | SSP5-8.5\n2030  |  0.09    |  0.10\n2050  |  0.18    |  0.23\n2100  |  0.38    |  0.77\n2150  |  0.57    |  1.32",
+    "question": "By how much does the median projected sea level rise under SSP5-8.5 exceed that under SSP1-1.9 at the year 2100?",
+    "options": {
+      "A": "0.20 m",
+      "B": "0.39 m",
+      "C": "0.57 m",
+      "D": "0.05 m"
+    },
+    "correct_answer": "B",
+    "explanation": "The median SSP5-8.5 projection at 2100 is 0.77 m and the SSP1-1.9 median is 0.38 m; their difference is 0.77 − 0.38 = 0.39 m.",
+    "data_source": "IPCC AR6 WG1 Chapter 9 Table 9.9",
+    "scenario_type": "comparison",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "scenario": "The table below shows the median contribution of individual components to global mean sea level rise by 2100 under SSP5-8.5 (standard, high-confidence values):\n\nComponent          | Median (m)\nThermal expansion  | 0.30\nGreenland          | 0.13\nAntarctica         | 0.12\nGlaciers           | 0.18\nLand-water storage | 0.03",
+    "question": "Which single component contributes the largest share of the median projected sea level rise under SSP5-8.5 by 2100?",
+    "options": {
+      "A": "Greenland ice sheet",
+      "B": "Glaciers",
+      "C": "Thermal expansion",
+      "D": "Antarctica ice sheet"
+    },
+    "correct_answer": "C",
+    "explanation": "Thermal expansion has the largest median contribution at 0.30 m, exceeding glaciers (0.18 m), Greenland (0.13 m), and Antarctica (0.12 m).",
+    "data_source": "IPCC AR6 WG1 Chapter 9 Table 9.9",
+    "scenario_type": "comparison",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "scenario": "The table below shows the average rate of global mean sea level change (mm yr⁻¹, median values) for two future periods under all SSP scenarios:\n\nPeriod     | SSP1-1.9 | SSP1-2.6 | SSP2-4.5 | SSP3-7.0 | SSP5-8.5\n2040–2060  |   4.1    |   4.8    |   5.8    |   6.4    |   7.2\n2080–2100  |   4.2    |   5.2    |   7.7    |  10.4    |  12.1",
+    "question": "Which scenario shows the smallest acceleration in the median rate of sea level rise between the 2040–2060 period and the 2080–2100 period, and approximately how large is that change?",
+    "options": {
+      "A": "SSP1-2.6, with an increase of about 0.4 mm yr⁻¹",
+      "B": "SSP1-1.9, with an increase of about 0.1 mm yr⁻¹",
+      "C": "SSP2-4.5, with an increase of about 1.9 mm yr⁻¹",
+      "D": "SSP3-7.0, with an increase of about 4.0 mm yr⁻¹"
+    },
+    "correct_answer": "B",
+    "explanation": "SSP1-1.9 rises from 4.1 to 4.2 mm yr⁻¹, a change of only 0.1 mm yr⁻¹, which is smaller than any other scenario's inter-period change.",
+    "data_source": "IPCC AR6 WG1 Chapter 9 Table 9.9",
+    "scenario_type": "trend_identification",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "scenario": "The table below compares median total sea level rise projections (metres) and the upper bound of the likely range for SSP2-4.5 and SSP3-7.0 at selected years:\n\nYear | SSP2-4.5 median | SSP2-4.5 upper | SSP3-7.0 median | SSP3-7.0 upper\n2050 |      0.20       |     0.26       |      0.22       |     0.27\n2090 |      0.48       |     0.65       |      0.56       |     0.74\n2100 |      0.56       |     0.76       |      0.68       |     0.90",
+    "question": "A coastal planner wants to use the upper bound of the likely range at 2100 for design purposes. By how much does the SSP3-7.0 upper bound exceed the SSP2-4.5 upper bound at that year?",
+    "options": {
+      "A": "0.12 m",
+      "B": "0.25 m",
+      "C": "0.14 m",
+      "D": "0.34 m"
+    },
+    "correct_answer": "C",
+    "explanation": "The SSP3-7.0 upper bound at 2100 is 0.90 m and the SSP2-4.5 upper bound is 0.76 m; their difference is 0.90 − 0.76 = 0.14 m.",
+    "data_source": "IPCC AR6 WG1 Chapter 9 Table 9.9",
+    "scenario_type": "projection_reading",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "scenario": "The table below shows the Antarctica ice sheet contribution to sea level rise at 2100 under two versions of SSP5-8.5: the standard high-confidence assessment and the low-confidence column that incorporates structured expert judgement (SEJ) and marine ice cliff instability (MICI). The low-confidence range uses 17th–83rd percentiles rather than a standard likely range.\n\nScenario              | Median (m) | Lower bound (m) | Upper bound (m)\nSSP5-8.5 (standard)   |   0.12     |     0.03        |     0.34\nSSP5-8.5 (low conf.)  |   0.19     |     0.02        |     0.56\n\nFor comparison, the Greenland contribution under SSP5-8.5 (low conf.) has a median of 0.18 m and upper bound of 0.59 m.",
+    "question": "Which of the following statements is best supported by the data regarding the low-confidence Antarctica contribution compared to the standard SSP5-8.5 Antarctica estimate?",
+    "options": {
+      "A": "The low-confidence estimate has a narrower likely range, suggesting reduced uncertainty when ice-sheet instability processes are included.",
+      "B": "The low-confidence median is higher and the upper bound is substantially larger, indicating that including ice-sheet instability processes shifts both the central estimate and the tail risk upward.",
+      "C": "The low-confidence lower bound is higher than the standard lower bound, meaning worst-case Antarctica contributions are more constrained under low-confidence processes.",
+      "D": "The low-confidence Antarctica upper bound exceeds the low-confidence Greenland upper bound, making Antarctica the dominant source of high-end sea level uncertainty."
+    },
+    "correct_answer": "B",
+    "explanation": "The low-confidence Antarctica median rises from 0.12 to 0.19 m and its upper bound increases from 0.34 to 0.56 m, directly showing that incorporating MICI/SEJ processes raises both the central projection and the high-end tail; the low-confidence lower bound (0.02) is actually slightly lower than the standard (0.03), ruling out option C, and the Greenland upper bound (0.59) still exceeds Antarctica's (0.56), ruling out option D.",
+    "data_source": "IPCC AR6 WG1 Chapter 9 Table 9.9",
+    "scenario_type": "anomaly_interpretation",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "hard",
+    "generated_by": "Claude Sonnet"
+  }
+]

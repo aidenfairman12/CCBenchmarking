@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to AR5, what caused the 5000-year cooling trend in Northern Hemisphere mid- to high latitudes that was reversed by 20th century warming?",
+    "options": {
+      "A": "Volcanic forcing",
+      "B": "Orbital forcing",
+      "C": "Greenhouse gas forcing",
+      "D": "Internal variability"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'the 20th century annual mean surface temperature warming reversed a 5000-year cooling trend in Northern Hemisphere mid- to high latitudes caused by orbital forcing.'",
+    "source": "IPCC AR6 WG1 Chapter 3 Attribution Science Section",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "Over the period 864 to 1840, what was assessed as the dominant driver of global and Northern Hemisphere temperature changes from reconstructions?",
+    "options": {
+      "A": "Solar forcing",
+      "B": "Greenhouse gas forcing",
+      "C": "Volcanic forcing",
+      "D": "Internal variability"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that 'Global and Northern Hemisphere temperature changes from reconstructions over this period have been attributed mostly to volcanic forcing,' with smaller roles for greenhouse gas and solar forcing.",
+    "source": "IPCC AR6 WG1 Chapter 3 Attribution Science Section",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "What effect does accounting for observational uncertainty have on estimates of warming attributable to greenhouse gases, according to the studies cited?",
+    "options": {
+      "A": "It reduces the range of attributable warming by 10 to 30%",
+      "B": "It increases the range of attributable warming by 10 to 30%",
+      "C": "It increases the range of attributable warming by 30 to 50%",
+      "D": "It has no measurable effect on the range of attributable warming"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explicitly states that 'Accounting for observational uncertainty increases the range of warming attributable to greenhouse gases by only 10 to 30%.'",
+    "source": "IPCC AR6 WG1 Chapter 3 Attribution Science Section",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "Why are attribution studies of GMST and GSAT treated together when deriving assessed warming ranges in this analysis?",
+    "options": {
+      "A": "Because GMST and GSAT are measured using identical observational networks",
+      "B": "Because the best estimate of the scaling factor between GMST and GSAT is one",
+      "C": "Because climate models cannot distinguish between GMST and GSAT responses to forcing",
+      "D": "Because observational uncertainty makes it impossible to separate GMST and GSAT trends"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'Cross-Chapter Box 2.3 assesses that the current best estimate of the scaling factor between GMST and GSAT is one, and therefore attribution studies of GMST and GSAT are here treated together in deriving assessed warming ranges.'",
+    "source": "IPCC AR6 WG1 Chapter 3 Attribution Science Section",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "A researcher argues that attribution conclusions about historical warming since the mid-20th century are over-confident because they fail to account for uncertainties in internal variability statistics. Based on the passage, which response best addresses this concern?",
+    "options": {
+      "A": "The concern is valid and unresolved, as no current attribution study accounts for uncertainties in internal variability statistics",
+      "B": "The concern is addressed because studies now account for internal variability uncertainties either explicitly or implicitly, and alternative purely statistical methods corroborate physically-based results",
+      "C": "The concern is irrelevant because AR5 already established that internal variability alone cannot explain observed warming, making further uncertainty quantification unnecessary",
+      "D": "The concern is partially addressed only by studies using counterfactual frameworks, while other attribution methods remain vulnerable to this criticism"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that studies now account for uncertainties in the statistics of internal variability either explicitly or implicitly, and that alternative purely statistical techniques 'match the results of physically-based methods,' together increasing confidence in attribution conclusions.",
+    "source": "IPCC AR6 WG1 Chapter 3 Attribution Science Section",
+    "category": "Attribution Science",
+    "difficulty": "hard",
+    "generated_by": "claude-sonnet-4-6"
+  }
+]

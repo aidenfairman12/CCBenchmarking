@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the effect of higher CO2 concentrations on some phytoplankton, macroalgal, and seagrass species?",
+    "options": {
+      "A": "Decrease photosynthesis and growth",
+      "B": "Increase photosynthesis and growth",
+      "C": "Have no effect on photosynthesis and growth",
+      "D": "Decrease calcification"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that higher CO2 concentrations can increase photosynthesis and growth in some phytoplankton, macroalgal, and seagrass species.",
+    "source": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How do organisms' capacities for acid-base regulation affect their ability to compensate for or resist acidification of internal fluids?",
+    "options": {
+      "A": "Organisms with simple biological complexity have a higher capacity for acid-base regulation",
+      "B": "Organisms with wide-ranging biological complexity have the same capacity for acid-base regulation",
+      "C": "Organisms' capacity for acid-base regulation depends on their biological complexity and adaptive abilities",
+      "D": "Organisms' capacity for acid-base regulation is not related to their biological complexity"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that organisms' capacity to compensate for or resist acidification of internal fluids depends on their capacity for acid-base regulation, which differs due to organisms' wide-ranging biological complexity and adaptive abilities.",
+    "source": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the general trend in the sensitivity of calcifiers versus non-calcifying groups to acidification?",
+    "options": {
+      "A": "Calcifiers are less sensitive to acidification than non-calcifying groups",
+      "B": "Calcifiers are equally sensitive to acidification as non-calcifying groups",
+      "C": "Calcifiers are more sensitive to acidification than non-calcifying groups",
+      "D": "The sensitivity of calcifiers and non-calcifying groups to acidification is unknown"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that calcifiers are generally more sensitive to acidification than non-calcifying groups.",
+    "source": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the effect of deoxygenation on aerobic organisms in subsurface waters?",
+    "options": {
+      "A": "Deoxygenation has no effect on aerobic organisms",
+      "B": "Deoxygenation enhances aerobic organisms",
+      "C": "Deoxygenation impairs aerobic organisms",
+      "D": "Deoxygenation has a variable effect on aerobic organisms"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that deoxygenation in subsurface waters may impair aerobic organisms in multiple ways.",
+    "source": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How do lowered oxygen levels and acidification interact in coastal and tropical habitats?",
+    "options": {
+      "A": "Lowered oxygen levels and acidification have independent effects on coastal and tropical habitats",
+      "B": "Lowered oxygen levels exacerbate acidification in coastal and tropical habitats",
+      "C": "Lowered oxygen levels mitigate acidification in coastal and tropical habitats",
+      "D": "Lowered oxygen levels are often interlinked with acidification in coastal and tropical habitats"
+    },
+    "correct_answer": "D",
+    "explanation": "The source passage states that lowered oxygen levels are often interlinked with acidification in coastal and tropical habitats, as respiration consumes oxygen and produces CO2.",
+    "source": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

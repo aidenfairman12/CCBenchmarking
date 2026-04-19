@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the established effect of rising atmospheric CO2 on leaf-level photosynthesis?",
+    "options": {
+      "A": "It decreases leaf-level photosynthesis.",
+      "B": "It increases leaf-level photosynthesis.",
+      "C": "It has no effect on leaf-level photosynthesis.",
+      "D": "Its effect is highly variable and unquantifiable at the leaf level."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states with high confidence that 'rising atmospheric CO2 increases leaf-level photosynthesis'.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Which type of observations regarding CO2 fertilization are still scarce, particularly outside the temperate zone?",
+    "options": {
+      "A": "Observations of leaf-level photosynthesis rates.",
+      "B": "Observations of plant water-use efficiency (WUE).",
+      "C": "Observations of the consequences of CO2 fertilization at the ecosystem level.",
+      "D": "Observations of initial above-ground growth stimulation."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states, 'observations of the consequences of CO2 fertilization at ecosystem level are still scarce, in particular from outside the temperate zone'.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "According to the passage, which factors are known to modulate the positive effect of elevated CO2 on plant growth and ecosystem carbon storage?",
+    "options": {
+      "A": "Only temperature and water availability.",
+      "B": "Temperature, water, and nutrient availability.",
+      "C": "Leaf-level photosynthesis and plant water-use efficiency.",
+      "D": "Atmospheric pressure and soil pH levels."
+    },
+    "correct_answer": "B",
+    "explanation": "The text states, 'the effect of elevated CO2 on plant growth and ecosystem carbon storage is generally positive (high confidence), but is modulated by temperature, water and nutrient availability'.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "What does the passage indicate about the representation of leaf-level CO2 fertilization modulators, such as acclimation to long-term CO2 exposure, growth temperature, seasonal drought, and nutrient availability, in Earth System Models (ESMs)?",
+    "options": {
+      "A": "These effects are routinely represented in all ESMs.",
+      "B": "These effects are incorporated into advanced ESMs but are often overestimated.",
+      "C": "These effects are not yet routinely represented in ESMs.",
+      "D": "These effects are only relevant for specific biomes and are not globally significant for ESMs."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage explicitly states that 'these effects are not yet routinely represented in ESMs'.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "How does carbon accumulation in soils versus vegetation compare in a global model that attempts to represent soil biogeochemistry processes, relative to more conventional models, under elevated CO2 conditions?",
+    "options": {
+      "A": "Carbon accumulation is increased in soils and reduced in vegetation in the advanced model.",
+      "B": "Carbon accumulation is reduced in soils but increased in vegetation in the advanced model.",
+      "C": "Carbon accumulation is increased in both soils and vegetation in the advanced model.",
+      "D": "Carbon accumulation is reduced in both soils and vegetation in the advanced model."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states, 'One global model that attempts to represent these processes suggests that elevated CO2 -related carbon accumulation is reduced in soils but increased in vegetation relative to more conventional models'.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

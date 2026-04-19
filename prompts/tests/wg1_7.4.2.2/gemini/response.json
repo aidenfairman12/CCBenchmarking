@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, what is the sign of the specific humidity (water-vapour) feedback?",
+    "options": {
+      "A": "Positive",
+      "B": "Negative",
+      "C": "Neutral",
+      "D": "Varies regionally depending on dynamical processes"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage explicitly states regarding the specific humidity feedback, 'This is a positive feedback.'",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "What is the predominant sign of the global mean lapse-rate (LR) feedback, as described in the passage?",
+    "options": {
+      "A": "Positive",
+      "B": "Negative",
+      "C": "Neutral",
+      "D": "Dependent solely on extratropical contributions"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states, 'However, the tropical contribution dominates, leading to a negative global mean LR feedback.'",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "How does an increase in atmospheric water vapour content, particularly in the upper troposphere, influence radiative flux at the Top of Atmosphere (TOA)?",
+    "options": {
+      "A": "It reduces the absorption of LW and SW radiation and increases outgoing radiation.",
+      "B": "It enhances the absorption of LW and SW radiation and reduces outgoing radiation.",
+      "C": "It exclusively increases the reflection of SW radiation, with no effect on LW.",
+      "D": "It primarily increases outgoing radiation by allowing more radiation to escape."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states, 'Greater atmospheric water vapour content, particularly in the upper troposphere, results in enhanced absorption of LW and SW radiation and reduced outgoing radiation.'",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "In tropical regions, how does the warming in the upper troposphere compare to that at the surface, and what is the resulting lapse-rate (LR) feedback sign?",
+    "options": {
+      "A": "Warming is smaller in the upper troposphere, leading to a positive feedback.",
+      "B": "Warming is larger in the upper troposphere, leading to a positive feedback.",
+      "C": "Warming is larger in the upper troposphere, leading to a negative feedback.",
+      "D": "Warming is uniform throughout the troposphere, leading to a neutral feedback."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states: 'In the tropics, the warming is larger in the upper troposphere than in the lower troposphere... leading to a larger radiative emission to space and therefore a negative feedback.'",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Based on the numerical estimates provided in the passage, which of the two primary feedbacks discussed (specific humidity (WV) and lapse-rate (LR)) has a larger absolute magnitude in its global mean estimate?",
+    "options": {
+      "A": "The specific humidity (WV) feedback, with an observed estimate around 1.85 W m–2°C–1.",
+      "B": "The lapse-rate (LR) feedback, with an estimate around -0.50 W m–2°C–1.",
+      "C": "Both feedbacks have approximately equal absolute magnitudes in their global mean estimates.",
+      "D": "The passage does not provide comparable numerical estimates for both feedbacks to determine this."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage provides the specific humidity feedback estimate as α WV = 1.85 ± 0.32 W m–2°C–1 and the lapse-rate feedback estimate as α LR = –0.50 ± 0.20 W m–2°C–1. The absolute magnitude of WV (1.85) is greater than that of LR (0.50).",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

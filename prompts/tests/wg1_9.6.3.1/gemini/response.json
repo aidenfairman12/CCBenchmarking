@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, what is the level of agreement across published Global Mean Sea Level (GMSL) projections for 2050?",
+    "options": {
+      "A": "Low agreement, particularly for higher-emissions scenarios.",
+      "B": "Moderate agreement, but with high sensitivity to emissions scenarios.",
+      "C": "High agreement, with little sensitivity to emissions scenario.",
+      "D": "Variable agreement, depending on whether MICI or SEJ processes are incorporated."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states, 'There is high agreement across published GMSL projections for 2050, and there is little sensitivity to emissions scenario'.",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "With high confidence, what is the projected range for Global Mean Sea Level (GMSL) in 2050, relative to 1995–2014, under low- and moderate-emissions scenarios?",
+    "options": {
+      "A": "Between 0.1 and 0.4 m",
+      "B": "Between 0.1 and 0.6 m",
+      "C": "Between 0.2 and 1.0 m",
+      "D": "Between 0.3 and 1.6 m"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states, 'we therefore have high confidence that GMSL in 2050 will be between 0.1 and 0.4 m higher than in 1995–2014 under low- and moderate-emissions scenarios'.",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "How does the sensitivity of GMSL projections to emissions scenarios change between the years 2050 and 2100?",
+    "options": {
+      "A": "Sensitivity decreases from 2050 to 2100.",
+      "B": "Sensitivity remains consistently low for both 2050 and 2100.",
+      "C": "Sensitivity is low for 2050 but higher for 2100.",
+      "D": "Sensitivity is high for 2050 but decreases for 2100."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage notes 'little sensitivity to emissions scenario' for 2050 and 'a higher degree of sensitivity to the choice of emissions scenario' for 2100.",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "When incorporating MICI or SEJ processes, what is the *highest* projected upper bound for Global Mean Sea Level (GMSL) in 2100 across all emissions scenarios mentioned?",
+    "options": {
+      "A": "1.0 m",
+      "B": "1.6 m",
+      "C": "2.4 m",
+      "D": "0.4 m"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that incorporating MICI or SEJ, projections for 2100 fall between '0.4 and 2.4 m under RCP8.5', which is the highest upper bound mentioned.",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "For GMSL projections in 2050, what is the specific effect of incorporating MICI or SEJ processes on the *upper bound* of the projection range, relative to projections that only consider ice-sheet processes with medium confidence?",
+    "options": {
+      "A": "It extends the upper bound to 0.6 m for all emissions scenarios.",
+      "B": "It does not extend the upper bound for any emissions scenario.",
+      "C": "It extends the upper bound to 0.6 m only for RCP8.5, while not changing it for RCP2.6 or RCP4.5.",
+      "D": "It reduces the upper bound to 0.4 m under RCP2.6 and RCP4.5, but increases it to 0.6 m under RCP8.5."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states, 'Projections incorporating MICI or SEJ do not extend this range under RCP2.6 or RCP4.5 but do extend the upper part of the range to 0.6 m under RCP8.5,' from an initial range of 0.1 to 0.4 m for all scenarios with medium confidence processes.",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

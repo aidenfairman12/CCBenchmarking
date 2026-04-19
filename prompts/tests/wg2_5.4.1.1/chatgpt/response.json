@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What has been a benefit of warmer temperatures for agriculture in high latitudes, according to AR5?",
+    "options": {
+      "A": "Expansion of growing areas pole-ward",
+      "B": "Increased drought resistance in crops",
+      "C": "Higher yields of all major crops",
+      "D": "Elimination of pests affecting crops"
+    },
+    "correct_answer": "A",
+    "explanation": "The source states that warmer temperatures have benefited agriculture in high latitudes through pole-ward expansion of growing areas and reduction of cold stress.",
+    "source": "IPCC AR6 WG2 Chapter 5 Section 5.4.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why has the life cycle of major crops generally shortened due to recent warming trends?",
+    "options": {
+      "A": "Farmers have adopted longer-duration cultivars",
+      "B": "Warming accelerates crop growth processes",
+      "C": "Precipitation trends have shifted planting dates",
+      "D": "Climate change has eliminated cold stress"
+    },
+    "correct_answer": "B",
+    "explanation": "The source notes with high confidence that recent warming trends have generally shortened the life cycle of major crops due to the warming itself.",
+    "source": "IPCC AR6 WG2 Chapter 5 Section 5.4.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What adaptation strategy have mid-to-high latitude farmers adopted to prolong crop growth duration despite warming trends?",
+    "options": {
+      "A": "Switching to early maturing cultivars",
+      "B": "Reducing dependence on irrigation",
+      "C": "Using longer-duration cultivars and shifting planting dates",
+      "D": "Increasing the use of pesticides to combat heat stress"
+    },
+    "correct_answer": "C",
+    "explanation": "The source mentions that farmers in mid-to-high latitudes have adopted longer-duration cultivars and shifted planting dates to prolong crop growth duration.",
+    "source": "IPCC AR6 WG2 Chapter 5 Section 5.4.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "How has climate warming affected agricultural yields in Southern Europe?",
+    "options": {
+      "A": "Increased yields of wheat and rice",
+      "B": "Caused yield stagnation for almost all major crops",
+      "C": "Improved pest resistance in key crops",
+      "D": "Increased water availability for irrigation"
+    },
+    "correct_answer": "B",
+    "explanation": "The source states that climate warming has negatively impacted yields of almost all major crops in Southern Europe, causing yield stagnation.",
+    "source": "IPCC AR6 WG2 Chapter 5 Section 5.4.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What cumulative impact has climate change had on global agricultural total factor productivity (TFP) growth between 1961 and 2015?",
+    "options": {
+      "A": "Increased TFP growth by 21%",
+      "B": "Reduced TFP growth by 21%",
+      "C": "Reduced TFP growth by 33% globally",
+      "D": "No significant impact on TFP growth"
+    },
+    "correct_answer": "B",
+    "explanation": "The source explains that climate change trends reduced global TFP growth by a cumulative 21% over a 55-year period.",
+    "source": "IPCC AR6 WG2 Chapter 5 Section 5.4.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

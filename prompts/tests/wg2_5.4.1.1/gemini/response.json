@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which of the following regions experienced positive effects on crop yields due to climate impacts in the past 20–50 years, according to the passage?",
+    "options": {
+      "A": "Sub-Saharan Africa",
+      "B": "Southern Asia",
+      "C": "Eastern Asia",
+      "D": "Western and Southern Europe"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states, 'Positive effects have been identified for rice and wheat in Eastern Asia, and for wheat in Northern Europe.'",
+    "source": "IPCC AR6 WG2 Chapter 5 Section 5.4.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "While recent warming trends have generally shortened the life cycle of major crops, what specific agricultural adaptation has been observed in mid-to-high latitudes that can prolong crop growth duration?",
+    "options": {
+      "A": "Farmers favouring early maturing cultivars to reduce risks of drought, flood, or heat.",
+      "B": "Increased application of integrated pest management techniques.",
+      "C": "Shifts in planting dates and/or adoption of longer-duration cultivars.",
+      "D": "Expansion of growing areas into lower latitudes."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage notes, 'Some studies, however, observed prolonged crop growth duration despite the warming trends... because of shifts in planting dates and/or adoption of longer-duration cultivars in mid-to-high latitudes.'",
+    "source": "IPCC AR6 WG2 Chapter 5 Section 5.4.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Total factor productivity (TFP) in agriculture is defined as the ratio of all agricultural outputs to all agricultural inputs. According to Ortiz-Bobea et al. (2021), what was the cumulative reduction in *global* TFP growth due to climate change trends over a 55-year period relative to non-climate change conditions?",
+    "options": {
+      "A": "10–20%",
+      "B": "21%",
+      "C": "30–33%",
+      "D": "2.5- to 3-fold"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states, 'climate change trends reduced global TFP growth by a cumulative 21% over a 55-year period relative to TFP growth under counterfactual non-climate change conditions.'",
+    "source": "IPCC AR6 WG2 Chapter 5 Section 5.4.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Which of the following has *not* been identified as a major driver of the 2.5- to 3-fold increase in global yields of major crops per unit land area since 1960?",
+    "options": {
+      "A": "Plant breeding",
+      "B": "Fertilisation",
+      "C": "Decreased temperatures",
+      "D": "Integrated pest management"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage lists 'Plant breeding, fertilisation, irrigation and integrated pest management' as the major drivers, not decreased temperatures.",
+    "source": "IPCC AR6 WG2 Chapter 5 Section 5.4.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "In Australia, what specific climate factors were identified as contributing to a 27% reduction in wheat yield potential between 1990 and 2015?",
+    "options": {
+      "A": "Increased heat and rainfall extremes",
+      "B": "Climate warming leading to yield stagnation",
+      "C": "Declined rainfall and increased temperatures",
+      "D": "Farmers favouring early maturing cultivars"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states, 'In Australia, declined rainfall and increased temperatures reduced yield potential of wheat by 27%, accounting for the low yield growth between 1990 and 2015.'",
+    "source": "IPCC AR6 WG2 Chapter 5 Section 5.4.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

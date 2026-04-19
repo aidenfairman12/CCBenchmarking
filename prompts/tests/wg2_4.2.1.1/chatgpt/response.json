@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What does the term 'unfamiliar' mean in the context of annual mean precipitation?",
+    "options": {
+      "A": "A change in precipitation greater than one standard deviation in the annual data.",
+      "B": "A change in precipitation that occurs every 10 years.",
+      "C": "A change in precipitation that is less than the historical average.",
+      "D": "A change in precipitation that is entirely unpredictable."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage defines 'unfamiliar' as the long-term change being greater than one standard deviation in the annual data.",
+    "source": "IPCC AR6 WG2 Chapter 4 Section 4.2.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Approximately how many people lived in regions with unfamiliarly wet conditions in 2020?",
+    "options": {
+      "A": "163 million",
+      "B": "498 million",
+      "C": "709 million",
+      "D": "404 million"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that approximately 498 million people lived in unfamiliarly wet areas in 2020.",
+    "source": "IPCC AR6 WG2 Chapter 4 Section 4.2.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why is the signal of long-term change in annual mean precipitation not distinguishable in many areas?",
+    "options": {
+      "A": "Because precipitation changes are too small to measure.",
+      "B": "Because annual precipitation changes are overshadowed by high variability over time.",
+      "C": "Because there is no long-term change in precipitation in most regions.",
+      "D": "Because precipitation data is not available for these regions."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains that high variability over time makes it difficult to distinguish the signal of long-term change in many areas.",
+    "source": "IPCC AR6 WG2 Chapter 4 Section 4.2.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "In which regions has heavy precipitation intensity increased, according to the passage?",
+    "options": {
+      "A": "Eastern Australia, northeastern South America, and western Africa.",
+      "B": "Parts of North America, most of Europe, and much of the Indian sub-continent.",
+      "C": "Southeast Asia, northeastern South America, and southern Africa.",
+      "D": "Western Africa, central Australia, and southern South America."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that heavy precipitation intensity has increased in regions including much of North America, most of Europe, and most of the Indian sub-continent.",
+    "source": "IPCC AR6 WG2 Chapter 4 Section 4.2.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is a key observation about precipitation extremes in regions where annual precipitation shows no trend?",
+    "options": {
+      "A": "Precipitation extremes remain unchanged in these regions.",
+      "B": "Both heavy precipitation and dry spells have decreased in these regions.",
+      "C": "Precipitation extremes have changed, such as increased heavy precipitation and longer dry spells.",
+      "D": "The regions with no trend in annual precipitation are largely unpopulated."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage notes that precipitation extremes, such as increased heavy precipitation and longer dry spells, have changed in some regions where annual precipitation shows no trend.",
+    "source": "IPCC AR6 WG2 Chapter 4 Section 4.2.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

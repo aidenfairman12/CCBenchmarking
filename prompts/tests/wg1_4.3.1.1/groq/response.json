@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the projected range of GSAT change for 2081–2100, relative to 1986–2005, under RCP2.6, according to the AR5?",
+    "options": {
+      "A": "0.3°C–1.7°C",
+      "B": "1.1°C–2.6°C",
+      "C": "1.4°C–3.1°C",
+      "D": "2.6°C–4.8°C"
+    },
+    "correct_answer": "A",
+    "explanation": "The AR5 concluded that GSAT for 2081–2100, relative to 1986–2005 will likely be in the 5–95% range of 0.3°C–1.7°C under RCP2.6.",
+    "source": "IPCC AR5",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the relationship between CO2 concentrations and the projected range of GSAT change in the CMIP6 models?",
+    "options": {
+      "A": "CO2 concentrations decrease as GSAT change increases",
+      "B": "CO2 concentrations peak between 2040 and 2060 under SSP1-2.6, resulting in a lower GSAT change range",
+      "C": "CO2 concentrations increase to 2100, but less rapidly than SSP5-8.5, resulting in a higher GSAT change range",
+      "D": "CO2 concentrations have no impact on the projected range of GSAT change"
+    },
+    "correct_answer": "B",
+    "explanation": "The CMIP6 models show a 5–95% range of GSAT change for 2081–2100, relative to 1995–2014, of 0.6°C–2.0°C under SSP1-2.6 where CO2 concentrations peak between 2040 and 2060.",
+    "source": "IPCC AR6 WG1 Chapter 4 Section 4.3.1.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "Which of the following scenarios is associated with the highest overall emissions and the largest range of GSAT change?",
+    "options": {
+      "A": "SSP1-1.9",
+      "B": "SSP1-2.6",
+      "C": "SSP2-4.5",
+      "D": "SSP5-8.5"
+    },
+    "correct_answer": "D",
+    "explanation": "The corresponding range under the highest overall emissions scenario (SSP5-8.5) is 2.7°C–5.7°C.",
+    "source": "IPCC AR6 WG1 Chapter 4 Section 4.3.1.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "According to the AR5, what is the likelihood that global surface temperature changes will exceed 2°C above 1850–1900 under RCP2.6?",
+    "options": {
+      "A": "High confidence",
+      "B": "Medium confidence",
+      "C": "Low confidence",
+      "D": "Very unlikely"
+    },
+    "correct_answer": "D",
+    "explanation": "Global surface temperature changes above 2°C under RCP2.6 were deemed unlikely (medium confidence).",
+    "source": "IPCC AR5",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How do the projected ranges of GSAT change for 2081–2100, relative to 1995–2014, compare between the CMIP5 and CMIP6 models under similar emissions scenarios?",
+    "options": {
+      "A": "The CMIP6 models project a narrower range of GSAT change than the CMIP5 models",
+      "B": "The CMIP6 models project a wider range of GSAT change than the CMIP5 models",
+      "C": "The CMIP6 models project a similar range of GSAT change to the CMIP5 models",
+      "D": "The CMIP6 models project a higher median GSAT change than the CMIP5 models"
+    },
+    "correct_answer": "B",
+    "explanation": "The CMIP6 models show a 5–95% range of GSAT change for 2081–2100, relative to 1995–2014, of 0.6°C–2.0°C under SSP1-2.6, whereas the AR5 concluded that GSAT for 2081–2100, relative to 1986–2005 will likely be in the 5–95% range of 0.3°C–1.7°C under RCP2.6.",
+    "source": "IPCC AR6 WG1 Chapter 4 Section 4.3.1.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

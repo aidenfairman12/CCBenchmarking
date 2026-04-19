@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the error in the instantaneous radiative forcing (IRF) of high spectral resolution radiative transfer models?",
+    "options": {
+      "A": "Less than 1%",
+      "B": "Less than 5%",
+      "C": "Less than 10%",
+      "D": "Less than 20%"
+    },
+    "correct_answer": "A",
+    "explanation": "High spectral resolution radiative transfer models provide the most accurate calculations of radiative perturbations due to greenhouse gases (GHGs), with errors in the instantaneous radiative forcing (IRF) of less than 1%.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.3.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How have the calculations of SARF for carbon dioxide, methane, and nitrous oxide been updated since AR5?",
+    "options": {
+      "A": "By accounting for the adjustment of stratospheric temperatures using a fixed dynamical heating only",
+      "B": "By including the shortwave forcing from methane and updates to the water vapour continuum",
+      "C": "By using a re-fitting of the Myhre et al. (1998) results",
+      "D": "By using ESMs alone to establish ERF best estimates"
+    },
+    "correct_answer": "B",
+    "explanation": "The new calculations include the shortwave forcing from methane and updates to the water vapour continuum (increasing the total SARF of methane by 25%) and account for the absorption band overlaps between carbon dioxide and nitrous oxide.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.3.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "Why are ESMs alone not sufficient to establish ERF best estimates for the well-mixed GHGs (WMGHGs)?",
+    "options": {
+      "A": "Because they do not account for the adjustment of stratospheric temperatures",
+      "B": "Because they do not account for the tropospheric adjustments",
+      "C": "Because the radiation schemes in climate models are approximations to high spectral resolution radiative transfer models with variations and biases in results",
+      "D": "Because they do not account for the shortwave forcing from methane"
+    },
+    "correct_answer": "C",
+    "explanation": "The radiation schemes in climate models are approximations to high spectral resolution radiative transfer models with variations and biases in results between the schemes.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.3.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the effect of WMGHGs in ESMs beyond their direct radiative effects?",
+    "options": {
+      "A": "Only effects on ozone chemistry",
+      "B": "Only effects on aerosol chemistry and natural emissions of ozone and aerosol precursors",
+      "C": "Effects on ozone and aerosol chemistry and natural emissions of ozone and aerosol precursors, and in the case of CO2 to vegetation cover through physiological effects",
+      "D": "No effects beyond their direct radiative effects"
+    },
+    "correct_answer": "C",
+    "explanation": "The effect of WMGHGs in ESMs can extend beyond their direct radiative effects to include effects on ozone and aerosol chemistry and natural emissions of ozone and aerosol precursors, and in the case of CO2 to vegetation cover through physiological effects.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.3.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How do the new calculations of SARF for methane account for its radiative effects compared to the previous calculations?",
+    "options": {
+      "A": "The new calculations decrease the total SARF of methane by 25% due to the updated water vapour continuum",
+      "B": "The new calculations increase the total SARF of methane by 10% due to the inclusion of the shortwave forcing",
+      "C": "The new calculations increase the total SARF of methane by 25% due to the inclusion of the shortwave forcing and updates to the water vapour continuum",
+      "D": "The new calculations do not account for the shortwave forcing from methane"
+    },
+    "correct_answer": "C",
+    "explanation": "The new calculations include the shortwave forcing from methane and updates to the water vapour continuum (increasing the total SARF of methane by 25%)",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.3.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

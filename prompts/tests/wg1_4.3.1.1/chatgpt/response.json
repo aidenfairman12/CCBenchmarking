@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What was the projected range of global surface air temperature (GSAT) increase for 2081–2100 under RCP8.5 according to AR5?",
+    "options": {
+      "A": "2.6°C–4.8°C",
+      "B": "1.4°C–3.1°C",
+      "C": "0.3°C–1.7°C",
+      "D": "0.6°C–2.0°C"
+    },
+    "correct_answer": "A",
+    "explanation": "The AR5 concluded that GSAT for 2081–2100 under RCP8.5 would likely be in the range of 2.6°C–4.8°C.",
+    "source": "IPCC AR6 WG1 Chapter 4 Section 4.3.1.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is the estimated GSAT increase since 1850–1900, based on the CMIP6 simulations?",
+    "options": {
+      "A": "0.6°C",
+      "B": "0.82°C",
+      "C": "1.2°C",
+      "D": "1.5°C"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that the ensemble mean GSAT difference between 1850–1900 and 1995–2014 is 0.82°C.",
+    "source": "IPCC AR6 WG1 Chapter 4 Section 4.3.1.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Which emissions scenario under CMIP6 has the highest projected GSAT increase for 2081–2100, relative to 1995–2014?",
+    "options": {
+      "A": "SSP1-1.9",
+      "B": "SSP2-4.5",
+      "C": "SSP5-8.5",
+      "D": "SSP3-7.0"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage indicates that SSP5-8.5 has the highest GSAT range of 2.7°C–5.7°C for 2081–2100.",
+    "source": "IPCC AR6 WG1 Chapter 4 Section 4.3.1.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is the key difference between the GSAT projections for RCP2.6 and SSP1-2.6?",
+    "options": {
+      "A": "Both scenarios project similar GSAT increases, but SSP1-2.6 has a higher upper bound.",
+      "B": "RCP2.6 includes a wider range of possible GSAT increases than SSP1-2.6.",
+      "C": "SSP1-2.6 projects higher GSAT increases than RCP2.6 in all cases.",
+      "D": "RCP2.6 includes a lower minimum GSAT increase compared to SSP1-2.6."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states that SSP1-2.6 has a 5–95% range of 0.6°C–2.0°C, which is slightly higher at the upper bound compared to RCP2.6's 0.3°C–1.7°C.",
+    "source": "IPCC AR6 WG1 Chapter 4 Section 4.3.1.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why are global surface temperature changes above 2°C deemed unlikely under RCP2.6?",
+    "options": {
+      "A": "Because it assumes a peak in CO2 concentrations around 2060.",
+      "B": "Because it is a low emissions scenario with medium confidence for this conclusion.",
+      "C": "Because it assumes emissions peak around 2040, leading to rapid stabilization.",
+      "D": "Because it has a 5–95% range entirely below 2°C."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that under RCP2.6, temperature changes above 2°C were deemed unlikely with medium confidence.",
+    "source": "IPCC AR6 WG1 Chapter 4 Section 4.3.1.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

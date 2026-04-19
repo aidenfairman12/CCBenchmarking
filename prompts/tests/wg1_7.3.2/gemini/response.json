@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the stated error margin for instantaneous radiative forcing (IRF) calculations made by high spectral resolution radiative transfer models?",
+    "options": {
+      "A": "Less than 1%",
+      "B": "Exactly 1%",
+      "C": "Less than 5%",
+      "D": "Up to 10%"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states, 'High spectral resolution radiative transfer models provide the most accurate calculations of radiative perturbations due to greenhouse gases (GHGs), with errors in the instantaneous radiative forcing (IRF) of less than 1%'.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.3.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "When calculating Stratospheric Adjusted Radiative Forcing (SARF), what specific adjustment do high spectral resolution radiative transfer models account for?",
+    "options": {
+      "A": "Adjustment of tropospheric temperatures",
+      "B": "Adjustment of stratospheric temperatures",
+      "C": "Adjustment of surface albedo",
+      "D": "Adjustment of cloud cover"
+    },
+    "correct_answer": "B",
+    "explanation": "The text states, 'They can calculate IRFs with no adjustments, or SARFs by accounting for the adjustment of stratospheric temperatures using a fixed dynamical heating.'",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.3.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "According to the passage, how did the updated calculations for methane (CH4) since AR5 specifically impact its total Stratospheric Adjusted Radiative Forcing (SARF)?",
+    "options": {
+      "A": "It decreased by 25% due to new shortwave forcing calculations.",
+      "B": "It remained unchanged as previous calculations were already accurate.",
+      "C": "It increased by 25% due to updates to the water vapour continuum.",
+      "D": "It increased by 10% due to absorption band overlaps with carbon dioxide."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage notes that the new calculations include 'updates to the water vapour continuum (increasing the total SARF of methane by 25%)'.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.3.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Why does the assessment conclude that Earth System Models (ESMs) alone are not sufficient to establish best estimates for the Effective Radiative Forcing (ERF) of well-mixed greenhouse gases (WMGHGs)?",
+    "options": {
+      "A": "ESMs can only estimate Instantaneous Radiative Forcing (IRF), not ERF.",
+      "B": "Their radiation schemes are approximations with variations and biases in results.",
+      "C": "They are unable to account for any stratospheric temperature adjustments.",
+      "D": "ESMs primarily focus on shortwave forcing, neglecting longwave contributions."
+    },
+    "correct_answer": "B",
+    "explanation": "The text states, 'the radiation schemes in climate models are approximations to high spectral resolution radiative transfer models with variations and biases in results between the schemes' and 'Hence ESMs alone are not sufficient to establish ERF best estimates for the well-mixed GHGs (WMGHGs).'",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.3.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Based on the AR5 assessment described, what was the primary reason and conclusion regarding the relationship between Effective Radiative Forcing (ERF) and Stratospheric Adjusted Radiative Forcing (SARF) specifically for well-mixed greenhouse gases (WMGHGs) *other than* CO2?",
+    "options": {
+      "A": "No calculations were available for these gases, leading to the assessment that ERF was approximately equal to SARF (within 10%).",
+      "B": "Vial et al. (2013) found a significant non-stratospheric adjustment for them, making ERF much larger than SARF.",
+      "C": "Their ERF was estimated by applying the same near-zero non-stratospheric adjustment found for CO2, but with higher uncertainty.",
+      "D": "The assessment concluded that their ERF was exactly 10% greater than their SARF due to unquantified non-stratospheric adjustments."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states, 'No calculations were available for other WMGHGs, so ERF was therefore assessed to be approximately equal to SARF (within 10%) for all WMGHGs.'",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.3.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

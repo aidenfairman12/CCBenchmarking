@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the primary effect of rising atmospheric CO2 on plants, as concluded in the AR5 and SRCCL reports?",
+    "options": {
+      "A": "It increases leaf-level photosynthesis.",
+      "B": "It decreases plant water-use efficiency.",
+      "C": "It causes immediate declines in above-ground plant growth.",
+      "D": "It reduces soil microbial activity."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states with high confidence that rising atmospheric CO2 increases leaf-level photosynthesis.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Which factor is NOT mentioned as influencing the long-term effects of CO2 fertilization on plants?",
+    "options": {
+      "A": "Growth temperature",
+      "B": "Nutrient availability",
+      "C": "Seasonal drought",
+      "D": "Soil pH"
+    },
+    "correct_answer": "D",
+    "explanation": "The passage lists growth temperature, nutrient availability, and seasonal drought as factors, but does not mention soil pH.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is one consequence of elevated CO2 on plant water-use efficiency (WUE)?",
+    "options": {
+      "A": "It reduces WUE by decreasing the ratio of plant CO2 uptake to water loss.",
+      "B": "It increases WUE in near proportionality to atmospheric CO2 levels.",
+      "C": "It causes WUE to remain constant regardless of CO2 levels.",
+      "D": "It leads to unpredictable fluctuations in WUE over time."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that plant water-use efficiency increases in near proportionality to atmospheric CO2.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why do elevated CO2 effects on above-ground plant growth sometimes decline over time?",
+    "options": {
+      "A": "Plants adapt to higher CO2 levels by reducing photosynthesis.",
+      "B": "Nutrient limitations, such as nitrogen or phosphorus, constrain growth.",
+      "C": "Soil microbial activity declines over time under elevated CO2.",
+      "D": "Increased CO2 causes water stress in plants."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains that insufficient availability of nutrients like nitrogen or phosphorus can lead to a decline in above-ground growth under elevated CO2.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is a key limitation of current Earth System Models (ESMs) in predicting the effects of elevated CO2 on ecosystems?",
+    "options": {
+      "A": "They overestimate soil carbon accumulation.",
+      "B": "They poorly represent processes like plant carbon allocation and natural plant mortality.",
+      "C": "They fail to account for the initial stimulation of photosynthesis.",
+      "D": "They ignore the effects of elevated CO2 on plant community composition."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage identifies poor representation of processes such as plant carbon allocation, natural plant mortality, and changes in plant community composition as key limitations in ESMs.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

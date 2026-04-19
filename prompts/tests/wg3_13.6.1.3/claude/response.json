@@ -1,0 +1,77 @@
+[
+  {
+    "question": "As of April 2021, how many jurisdictions with a carbon pricing policy had a tax rate or allowance price less than USD5 per tCO2?",
+    "options": {
+      "A": "Twelve",
+      "B": "Seventeen",
+      "C": "Twenty-two",
+      "D": "Forty-two"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states: 'as of April 2021, seventeen jurisdictions with a carbon pricing policy had a tax rate or allowance price less than USD5 per tCO2 (World Bank 2021a).'",
+    "source": "IPCC AR6 WG3 Chapter 13",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "According to the passage, what is a key reason why the carbon price under a carbon tax or ETS is not a direct measure of overall policy stringency across an economy?",
+    "options": {
+      "A": "Carbon prices are set too high to be politically viable in most economies",
+      "B": "Carbon taxes are only applicable to the energy sector and exclude other sectors",
+      "C": "Carbon prices typically cover only a share of total emissions and rebates or free allowance allocations can limit effectiveness",
+      "D": "Carbon pricing mechanisms do not apply to industrial process emissions by design"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage explicitly states that 'the carbon prices typically only cover a share of total emissions, and rebates or free allowance allocations can limit effectiveness (OECD 2018).'",
+    "source": "IPCC AR6 WG3 Chapter 13",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "Based on the passage, why have emissions pricing policies had limited impact on industrial process emissions compared to other emission sources?",
+    "options": {
+      "A": "Industrial process emissions are exempt from most carbon pricing schemes by international treaty",
+      "B": "Industrial process emissions tend to have higher marginal abatement costs than the prevailing tax or allowance price",
+      "C": "Industrial sectors receive larger free allowance allocations than other sectors, negating the pricing signal entirely",
+      "D": "Emissions pricing policies are designed to target only energy use emissions, not process emissions"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'emissions pricing policies encourage reduction of emissions whose marginal abatement cost is lower than the tax/allowance price, so they have limited impact on emissions with higher abatement costs such as industrial process emissions.'",
+    "source": "IPCC AR6 WG3 Chapter 13",
+    "category": "Mitigation and Carbon Pricing",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "The passage notes that trade policy in most countries provides an implicit subsidy to CO2 emissions. How does this relate to the broader argument being made about mitigation policy effectiveness?",
+    "options": {
+      "A": "It demonstrates that international trade agreements are the primary driver of rising global emissions",
+      "B": "It illustrates that policies outside explicit carbon pricing can counteract mitigation efforts by incentivizing increased emissions",
+      "C": "It suggests that trade policy should replace carbon taxes as the primary instrument for reducing emissions",
+      "D": "It shows that trade policy is more effective than fossil fuel subsidies at limiting mitigation policy outcomes"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage groups trade policy alongside fossil fuel subsidies as policies that 'may provide incentives to increase emissions thus limiting the effectiveness of the mitigation policy,' illustrating how non-carbon policies can undermine mitigation efforts.",
+    "source": "IPCC AR6 WG3 Chapter 13",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "The passage describes EU ETS emission reductions as being achieved 'mainly through implementation of low cost measures such as energy efficiency and fuel switching.' Given the passage's explanation of how emissions pricing works, what does this pattern reveal about the relationship between allowance prices and abatement costs in the EU ETS?",
+    "options": {
+      "A": "EU ETS allowance prices have consistently exceeded the marginal abatement costs of industrial process emissions, but firms prefer fuel switching for regulatory reasons",
+      "B": "EU ETS allowance prices have been sufficient to drive abatement primarily where marginal costs are low, suggesting prices have remained below the abatement cost threshold for harder-to-abate industrial processes",
+      "C": "EU ETS free allowance allocations have been so extensive that only energy efficiency measures remain cost-effective under the scheme",
+      "D": "The EU ETS has deliberately excluded industrial process emissions from its scope, making fuel switching the only eligible compliance pathway"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains that emissions pricing drives reductions where marginal abatement costs are lower than the price, and since EU ETS reductions have come mainly from low-cost measures rather than industrial process emissions, this implies allowance prices have remained below the higher abatement costs of industrial processes.",
+    "source": "IPCC AR6 WG3 Chapter 13",
+    "category": "Mitigation and Carbon Pricing",
+    "difficulty": "hard",
+    "generated_by": "Claude Sonnet"
+  }
+]

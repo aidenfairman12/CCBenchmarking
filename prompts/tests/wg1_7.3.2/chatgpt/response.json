@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the primary advantage of high spectral resolution radiative transfer models in calculating radiative perturbations due to greenhouse gases?",
+    "options": {
+      "A": "They provide calculations with errors in the instantaneous radiative forcing (IRF) of less than 1%.",
+      "B": "They eliminate the need for stratospheric temperature adjustments.",
+      "C": "They account for all possible adjustments, including tropospheric effects.",
+      "D": "They rely on simplified approximations of radiative forcing."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states that high spectral resolution radiative transfer models provide the most accurate calculations with errors in IRF of less than 1%.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.3.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "How has the shortwave contribution to the instantaneous radiative forcing (IRF) of methane been updated since AR5?",
+    "options": {
+      "A": "It was reduced by 25% due to updated water vapor continuum data.",
+      "B": "It has been confirmed independently and incorporated into new calculations.",
+      "C": "It was increased due to accounting for absorption band overlaps with nitrous oxide.",
+      "D": "It was found to be negligible compared to other greenhouse gases."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains that the shortwave contribution to the IRF of methane has been confirmed independently and included in updated calculations.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.3.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why are Earth System Models (ESMs) alone insufficient to establish ERF best estimates for well-mixed greenhouse gases (WMGHGs)?",
+    "options": {
+      "A": "They lack the ability to estimate SARF accurately.",
+      "B": "Their radiation schemes are approximations with variations and biases.",
+      "C": "They do not account for adjustments from radiative transfer models.",
+      "D": "They focus solely on tropospheric adjustments and ignore stratospheric effects."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage specifies that ESMs alone are insufficient due to their radiation schemes being approximations that result in variations and biases.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.3.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What was the main finding of Vial et al. (2013) regarding non-stratospheric adjustments in 4×CO2 CMIP5 model experiments?",
+    "options": {
+      "A": "They found significant tropospheric adjustments affecting ERF.",
+      "B": "They determined non-stratospheric adjustments to be near-zero with an uncertainty of ±10%.",
+      "C": "They found that non-stratospheric adjustments were larger than SARF calculations.",
+      "D": "They concluded that all adjustments could be ignored in ERF estimates."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage notes that Vial et al. (2013) found a near-zero non-stratospheric adjustment with an uncertainty of ±10%.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.3.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What additional effects of well-mixed greenhouse gases (WMGHGs) are considered in Earth System Models (ESMs) beyond their direct radiative effects?",
+    "options": {
+      "A": "Changes in ocean currents and sea level rise.",
+      "B": "Effects on ozone and aerosol chemistry, and natural emissions of their precursors.",
+      "C": "Reduction in the greenhouse effect from overlapping absorption bands.",
+      "D": "Elimination of stratospheric temperature adjustments."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that WMGHG effects in ESMs include impacts on ozone and aerosol chemistry as well as natural emissions of their precursors.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.3.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

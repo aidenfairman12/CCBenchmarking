@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What are the main sources of greenhouse gas emissions?",
+    "options": {
+      "A": "Energy use, agriculture, land use, and industrial activities",
+      "B": "Transportation, construction, and waste management",
+      "C": "Agriculture, forestry, and fishing",
+      "D": "Population growth, economic activity, and technology"
+    },
+    "correct_answer": "A",
+    "explanation": "The source passage states that greenhouse gas emissions mainly originate from the use and transformation of energy, agriculture, land use (change) and industrial activities.",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.3.1",
+    "category": "Greenhouse Gas Emissions",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the projected range of global population growth by 2050, according to scenario studies?",
+    "options": {
+      "A": "6.5-9.5 billion people",
+      "B": "8.5-11 billion people",
+      "C": "7.5-10.5 billion people",
+      "D": "9.5-12.5 billion people"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that scenario studies agree that further global population growth is likely up to 2050, leading to a range of possible outcomes of around 8.5–11 billion people.",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.3.1",
+    "category": "Population Growth",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the main difference between the UN population projections and the SSP scenarios?",
+    "options": {
+      "A": "The UN projections assume a faster drop in fertility rates",
+      "B": "The SSP scenarios assume a broader range of factors driving future fertility",
+      "C": "The UN projections are based on historical demographic trends",
+      "D": "The SSP scenarios are based on current demographic trends"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that the key differences between the UN population projections and the SSP scenarios are in Africa and China, and that the UN approach is more based on current demographic trends while the SSPs assume a broader range of factors (including education) driving future fertility.",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.3.1",
+    "category": "Population Projections",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the importance of model diversity in projecting future CO2 emissions from energy combustion?",
+    "options": {
+      "A": "Model diversity is not important, as all models produce similar results",
+      "B": "Model diversity is important because different models represent different factors, such as energy intensity and economic growth",
+      "C": "Model diversity is important because it allows for the estimation of uncertainty in projections",
+      "D": "Model diversity is important because it provides a range of possible outcomes for mitigation scenarios"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that as many of the factors are represented differently in specific models, the model itself is also an important factor – providing a reason for the importance of model diversity.",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.3.1",
+    "category": "Model Diversity",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How do the assumptions on population growth and per capita consumption of food affect the projections of land use, according to Stehfest et al. (2019)?",
+    "options": {
+      "A": "Assumptions on population growth have a smaller impact than assumptions on per capita consumption of food",
+      "B": "Assumptions on population growth have a larger impact than assumptions on per capita consumption of food",
+      "C": "Assumptions on population growth and per capita consumption of food have an equal impact",
+      "D": "Assumptions on population growth and per capita consumption of food are not related to land use projections"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that Stehfest et al. (2019) show that assumptions on population growth are more dominant given that variations in per capita consumption of food are smaller than for energy.",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.3.1",
+    "category": "Land Use Projections",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

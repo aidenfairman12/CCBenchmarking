@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is one of the functions of national laws that govern climate action?",
+    "options": {
+      "A": "To reduce greenhouse gas emissions directly",
+      "B": "To establish a platform for transparent target setting and implementation",
+      "C": "To provide funding for climate change research",
+      "D": "To promote the use of fossil fuels"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that the legal basis can 'establish a platform for transparent target setting and implementation' (Bennett 2018).",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the difference between direct and indirect climate laws?",
+    "options": {
+      "A": "Direct climate laws focus on adaptation, while indirect laws focus on mitigation",
+      "B": "Direct climate laws explicitly consider climate change causes or impacts, while indirect laws have the capacity to affect mitigation or adaptation",
+      "C": "Direct climate laws are only found in developed countries, while indirect laws are found in developing countries",
+      "D": "Direct climate laws are always more effective than indirect laws"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that 'direct climate laws explicitly consider climate change causes or impacts – for example through mention of greenhouse gas reductions in its objectives or title' and 'indirect laws that have ‘the capacity to affect mitigation or adaptation’ through the subjects they regulate'",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the trend in the prevalence of direct and indirect climate laws since 2007?",
+    "options": {
+      "A": "The prevalence of direct climate laws has decreased, while the prevalence of indirect laws has increased",
+      "B": "The prevalence of both direct and indirect climate laws has remained steady",
+      "C": "The prevalence of both direct and indirect climate laws has increased considerably",
+      "D": "The prevalence of direct climate laws has increased, while the prevalence of indirect laws has decreased"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that 'The prevalence of both direct and indirect climate laws has increased considerably since 2007'",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the purpose of a 'sectoral approach' to climate laws?",
+    "options": {
+      "A": "To create a single, overarching framework law for climate action",
+      "B": "To layer climate considerations into existing laws in the absence of an overarching framework law",
+      "C": "To promote the use of fossil fuels in different sectors",
+      "D": "To reduce greenhouse gas emissions directly in specific sectors"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that a 'sectoral approach' is 'based on the layering of climate considerations into existing laws in the absence of an overarching framework law' (Rumble 2019).",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the relationship between the existence of a climate law and international finance in lower/middle income countries?",
+    "options": {
+      "A": "The existence of a climate law has no impact on international finance",
+      "B": "The existence of a climate law reduces the amount of international finance available to lower/middle income countries",
+      "C": "The existence of a climate law may attract international finance by serving as a signal of credibility",
+      "D": "The existence of a climate law is a requirement for receiving international finance, but it has no impact on the amount of finance received"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that 'For lower/middle income countries, in particular, the existence of a law may also attract international finance by serving as a signal of credibility' (Fisher et al. 2017).",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

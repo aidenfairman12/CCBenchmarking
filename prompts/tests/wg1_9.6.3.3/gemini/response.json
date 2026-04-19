@@ -1,0 +1,87 @@
+[
+  {
+    "scenario": "Global mean sea level projections for the year 2100 relative to the 1995–2014 baseline (median values): SSP1-1.9: 0.38 m, SSP1-2.6: 0.44 m, SSP2-4.5: 0.56 m, SSP3-7.0: 0.68 m, SSP5-8.5: 0.77 m.",
+    "question": "Which scenario projects the lowest median global mean sea level rise by 2100 relative to the 1995–2014 baseline?",
+    "options": {
+      "A": "SSP1-2.6",
+      "B": "SSP1-1.9",
+      "C": "SSP2-4.5",
+      "D": "SSP3-7.0"
+    },
+    "correct_answer": "B",
+    "explanation": "Comparing the median values for 2100, SSP1-1.9 has the lowest projected rise at 0.38 m.",
+    "data_source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.3",
+    "scenario_type": "comparison",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "scenario": "Individual contributions to global mean sea level rise at 2100 under the SSP5-8.5 scenario (median values): Thermal expansion: 0.30 m, Greenland: 0.13 m, Antarctica: 0.12 m, Glaciers: 0.18 m, Land-water storage: 0.03 m.",
+    "question": "According to the individual contributions projected for the year 2100 under the SSP5-8.5 scenario, which component is expected to have the largest median contribution to global mean sea level rise?",
+    "options": {
+      "A": "Glaciers",
+      "B": "Antarctica",
+      "C": "Thermal expansion",
+      "D": "Greenland"
+    },
+    "correct_answer": "C",
+    "explanation": "Thermal expansion shows the largest median contribution at 0.30 m compared to other components in the SSP5-8.5 scenario.",
+    "data_source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.3",
+    "scenario_type": "comparison",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "scenario": "Median total global mean sea level rise projections (relative to 1995–2014 baseline): \nSSP1-1.9: 0.18 m (2050), 0.38 m (2100)\nSSP2-4.5: 0.20 m (2050), 0.56 m (2100)",
+    "question": "Using median values, what is the approximate *increase* in global mean sea level rise projected between 2050 and 2100 for the SSP2-4.5 scenario, and how does it compare to the SSP1-1.9 scenario over the same period?",
+    "options": {
+      "A": "The SSP2-4.5 increase is approximately 0.26 m, which is less than the SSP1-1.9 increase of 0.30 m.",
+      "B": "The SSP2-4.5 increase is approximately 0.36 m, which is greater than the SSP1-1.9 increase of 0.20 m.",
+      "C": "Both SSP2-4.5 and SSP1-1.9 show an identical increase of approximately 0.20 m.",
+      "D": "The SSP2-4.5 increase is approximately 0.56 m, which is more than double the SSP1-1.9 increase."
+    },
+    "correct_answer": "B",
+    "explanation": "For SSP2-4.5, the increase is 0.56 m - 0.20 m = 0.36 m. For SSP1-1.9, the increase is 0.38 m - 0.18 m = 0.20 m. Thus, SSP2-4.5 shows a greater increase.",
+    "data_source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.3",
+    "scenario_type": "projection_reading",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "scenario": "The global mean sea level projections for the SSP5-8.5 (Low Conf.) column provide a range (e.g., 0.88 (0.63–1.60) m for 2100). The data context notes that this column 'incorporates low-confidence processes (SEJ/MICI); its range is 17th–83rd percentile, not an assessed likely range.'",
+    "question": "The SSP5-8.5 (Low Conf.) column consistently shows a significantly wider projection range compared to the standard SSP5-8.5 column. Based on the provided data context, what is the primary reason for this wider range?",
+    "options": {
+      "A": "It represents an averaged outcome of multiple SSP scenarios, leading to broader uncertainty.",
+      "B": "It accounts for higher emissions scenarios than the standard SSP5-8.5, increasing variability.",
+      "C": "It explicitly incorporates contributions from low-confidence processes like marine ice cliff instability.",
+      "D": "The statistical method used for this range inherently produces a wider spread for all climate variables."
+    },
+    "correct_answer": "C",
+    "explanation": "The provided note explicitly states that the SSP5-8.5 (Low Conf.) column incorporates 'low-confidence processes (SEJ/MICI)', which are responsible for its wider range.",
+    "data_source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.3",
+    "scenario_type": "anomaly_interpretation",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "scenario": "Average rates of total global mean sea level change (mm yr⁻¹) for the SSP5-8.5 scenario are provided below:\n2040–2060: 7.2 (5.6–9.7)\n2080–2100: 12.1 (8.6–17.6)",
+    "question": "Analyze the 'AVERAGE RATES OF TOTAL SEA LEVEL CHANGE' for the SSP5-8.5 scenario, specifically comparing the 2040–2060 and 2080–2100 periods. What key characteristic differentiates the projections for these two periods under SSP5-8.5?",
+    "options": {
+      "A": "The median rate of rise decreases significantly, while the range of uncertainty narrows.",
+      "B": "The median rate of rise is projected to nearly double, and the absolute range of uncertainty (spread between lower and upper bounds) more than doubles.",
+      "C": "The median rate of rise remains stable, but the uncertainty range widens significantly due to unquantified factors.",
+      "D": "The median rate of rise increases, but the relative uncertainty (range divided by median) substantially decreases."
+    },
+    "correct_answer": "B",
+    "explanation": "The median rate increases from 7.2 to 12.1 mm yr⁻¹ (nearly doubling). The absolute range of uncertainty also increases from (9.7-5.6=4.1) to (17.6-8.6=9.0) mm yr⁻¹, which is more than double.",
+    "data_source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.3",
+    "scenario_type": "trend_identification",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

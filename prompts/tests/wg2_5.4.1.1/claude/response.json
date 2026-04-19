@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, what has been the observed effect of warming temperatures on agriculture in high latitudes?",
+    "options": {
+      "A": "Warmer temperatures have benefited agriculture in high latitudes",
+      "B": "Warmer temperatures have caused yield stagnation in high latitudes",
+      "C": "Warmer temperatures have had no significant effect on high-latitude agriculture",
+      "D": "Warmer temperatures have shortened growing seasons in high latitudes"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage directly states that 'warmer temperatures have benefited agriculture in the high latitudes' with confidence, citing poleward expansion of growing areas and reduction of cold stress as examples.",
+    "source": "IPCC AR6 WG2 Chapter 5",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "By how much did climate change trends reduce global agricultural total factor productivity (TFP) growth between 1961 and 2015, relative to a scenario without climate change?",
+    "options": {
+      "A": "10–20% cumulatively over the period",
+      "B": "21% cumulatively over the period",
+      "C": "27% cumulatively over the period",
+      "D": "30–33% cumulatively over the period"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that Ortiz-Bobea et al. (2021) found climate change trends reduced global TFP growth by a cumulative 21% over a 55-year period relative to counterfactual non-climate change conditions.",
+    "source": "IPCC AR6 WG2 Chapter 5",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "Some studies observed prolonged crop growth duration despite warming trends. According to the passage, what best explains this finding?",
+    "options": {
+      "A": "Crops in mid-to-high latitudes developed natural resistance to heat stress",
+      "B": "Improved irrigation techniques offset the effects of warming on crop life cycles",
+      "C": "Farmers shifted planting dates and/or adopted longer-duration cultivars in mid-to-high latitudes",
+      "D": "Farmers in mid-to-low latitudes favoured early maturing cultivars to reduce climate-related risks"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage explains that prolonged crop growth duration despite warming was observed 'because of shifts in planting dates and/or adoption of longer-duration cultivars in mid-to-high latitudes.'",
+    "source": "IPCC AR6 WG2 Chapter 5",
+    "category": "Adaptation",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "Based on the passage, which of the following best characterizes the regional pattern of climate impacts on crop yields over the past 20–50 years?",
+    "options": {
+      "A": "Positive effects have been widespread across Asia, while negative effects are concentrated in Europe",
+      "B": "Negative effects dominate across both high and low latitudes, with few exceptions",
+      "C": "Positive effects have occurred in parts of Eastern Asia and Northern Europe, while negative effects dominate in Sub-Saharan Africa, Southern Asia, and parts of Europe and the Americas",
+      "D": "Climate impacts have been uniformly negative across all regions, with yield losses offset only by technological advances"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states positive effects for rice and wheat in Eastern Asia and wheat in Northern Europe, while effects are mostly negative in Sub-Saharan Africa, South America and Caribbean, Southern Asia, and Western and Southern Europe.",
+    "source": "IPCC AR6 WG2 Chapter 5",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "In Western Africa, 1°C of warming above preindustrial levels reduced millet yields by 10–20% and sorghum yields by 5–15%, while in Australia, declined rainfall and increased temperatures reduced wheat yield potential by 27%. What does this comparison most directly illustrate about climate impacts on agriculture?",
+    "options": {
+      "A": "Cereal crops are universally more sensitive to temperature increases than to changes in rainfall",
+      "B": "The climate factors driving long-term yield trends, and the magnitude of yield losses, differ between regions",
+      "C": "Yield losses from climate change are always greater in Africa than in other regions",
+      "D": "Heat extremes are a more damaging climate stressor for crops than reduced rainfall in all regions"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explicitly states that 'climate factors that affected long-term yield trends also differ between regions,' and then provides Western Africa (heat and rainfall extremes) and Australia (declined rainfall and increased temperatures) as contrasting examples.",
+    "source": "IPCC AR6 WG2 Chapter 5",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "hard",
+    "generated_by": "Claude Sonnet"
+  }
+]

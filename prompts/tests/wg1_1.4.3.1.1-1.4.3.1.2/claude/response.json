@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, which type of historical radiative forcing is described as less well constrained by observations compared to greenhouse gas radiative forcings?",
+    "options": {
+      "A": "Solar activity changes during the satellite era",
+      "B": "Anthropogenic and natural aerosol radiative forcings",
+      "C": "Volcanic eruption forcings after 1850",
+      "D": "Greenhouse gas forcings during the Pliocene"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explicitly states that 'historical radiative forcings due to anthropogenic and natural aerosols are less well constrained by observations than the GHG radiative forcings.'",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3",
+    "category": "Radiative Forcing and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "What does the passage identify as 'scenario uncertainty' in the context of future radiative forcing?",
+    "options": {
+      "A": "Uncertainty in how climate models respond to a given radiative forcing",
+      "B": "Uncertainty arising from unknown future anthropogenic emissions due to societal choices",
+      "C": "Uncertainty in the structural design of CMIP climate models",
+      "D": "Uncertainty in past volcanic eruption sizes and locations"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage defines scenario uncertainty as uncertainty 'due to as-yet-unknown societal choices that will determine future anthropogenic emissions.'",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "The passage distinguishes between 'model response uncertainty' and 'climate response uncertainty'. What is the key reason these two concepts are not equivalent?",
+    "options": {
+      "A": "Model response uncertainty only applies to future scenarios, while climate response uncertainty applies to both past and future climates",
+      "B": "The range of climate models used in CMIP does not fully capture all sources of uncertainty in how the climate may actually respond to forcing",
+      "C": "Climate response uncertainty is always smaller than model response uncertainty because observations constrain the models",
+      "D": "Model response uncertainty accounts for tipping points, whereas climate response uncertainty does not"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that the multi-model range 'does not necessarily represent the full climate response uncertainty' because of structural uncertainties not explored in typical multi-model exercises, model interdependence, unresolved spatial scales, and unrepresented long time-scale processes.",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "According to the passage, RCP and SSP scenarios are described as spanning 'a plausible range of future pathways.' What important limitation of these scenarios does the passage also acknowledge?",
+    "options": {
+      "A": "They do not account for natural aerosol radiative forcings",
+      "B": "They are only applicable to paleoclimate simulations, not future projections",
+      "C": "The real world may follow a path that differs from any of these example scenarios",
+      "D": "They underestimate scenario uncertainty by using too few model simulations"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage notes that while RCP and SSP scenarios span a plausible range, 'the real world may also differ from any one of these example pathways.'",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "The passage states that for equilibrium climate sensitivity (ECS), the CMIP6 model range is broader than the 'very likely range' assessed using multiple lines of evidence. What does this imply about using the CMIP6 model spread alone as a representation of ECS uncertainty?",
+    "options": {
+      "A": "It implies CMIP6 models underestimate ECS uncertainty because they lack sufficient structural diversity",
+      "B": "It implies the CMIP6 model spread overstates the uncertainty in ECS relative to what a综合 synthesis of evidence supports",
+      "C": "It implies that the very likely range from multiple lines of evidence is always wider than any single model ensemble range",
+      "D": "It implies that ECS cannot be reliably estimated without paleoclimate simulations such as those of the Last Glacial Maximum"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'the CMIP6 model range is found to be broader than the very likely range assessed by combining multiple lines of evidence,' meaning the model spread alone would exaggerate uncertainty compared to a multi-evidence synthesis.",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3",
+    "category": "Climate Sensitivity and Model Uncertainty",
+    "difficulty": "hard",
+    "generated_by": "claude-sonnet-4-6"
+  }
+]

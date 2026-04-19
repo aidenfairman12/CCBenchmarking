@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to AR5 and a meta-analysis, what was the temperature increase above the pre-industrial period in the 19 sites where vegetation shifts were attributed to anthropogenic climate change?",
+    "options": {
+      "A": "0.4°C–1.6°C",
+      "B": "1.7°C",
+      "C": "Approximately 0.9°C",
+      "D": "5°C–20°C"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states, 'In these areas, temperature increased to 0.4°C–1.6°C above the pre-industrial period (Gonzalez et al., 2010; Settele et al., 2014).'",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Which region hosts the longest time span of data for a detected biome shift, as mentioned in the passage, and what type of shift was observed there?",
+    "options": {
+      "A": "Canada, northward shift",
+      "B": "Andes Mountains in Ecuador, upslope shift",
+      "C": "China, upslope shift",
+      "D": "USA, poleward latitudinal shift"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage notes, 'For example, in the Andes Mountains in Ecuador, a biome shift was detected by comparing a survey by Alexander von Humboldt in 1802 to a re-survey in 2012, making this the longest time span in the world for this type of data... the upper edge of alpine grassland shifted 100–450 m upslope.'",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Why were recently detected biome shifts, which occurred after the AR5 report, not directly attributed to anthropogenic climate change, despite being consistent with temperature increases?",
+    "options": {
+      "A": "They occurred in areas significantly impacted by agriculture and land use, confounding attribution.",
+      "B": "The temperature increases observed in these areas were insufficient to cause biome shifts.",
+      "C": "The studies were not designed or conducted properly for a full attribution assessment.",
+      "D": "These shifts primarily involved temperate shrubland, which is less sensitive to climate change."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states, 'Field research since the AR5 detected additional poleward and upslope biome shifts... but were not directly attributed to anthropogenic climate change as the studies were not designed or conducted properly for full attribution assessment.'",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Based on the summary, what are the typical ranges for the northward and upslope biome shifts observed in the *additional* cases between 1860 and 2016?",
+    "options": {
+      "A": "0.4°C–1.6°C latitudinal and 100–450 m upslope",
+      "B": "5–20 km northward and 20–300 m upslope",
+      "C": "41 m upslope globally and 5 km northward",
+      "D": "100–450 m upslope and 5 km northward"
+    },
+    "correct_answer": "B",
+    "explanation": "The summary states, 'Additional cases of 5–20 km northward and 20–300 m upslope biome shifts between 1860 and 2016, under a mean global temperature increase of approximately 0.9°C above the pre-industrial period, are consistent with climate change.'",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "The passage distinguishes between two categories of biome shifts based on their attribution to anthropogenic climate change. What is the key difference in the scientific confidence or evidence level assigned to these two categories in the summary?",
+    "options": {
+      "A": "The first category (19 sites, 1700-2007) has robust evidence and high agreement for causation, while the second category (additional cases, 1860-2016) has medium evidence and high agreement for consistency.",
+      "B": "The first category's shifts are described as 'consistent with climate change' with medium evidence, while the second category's shifts are 'directly attributed' with robust evidence.",
+      "C": "Both categories of shifts are attributed with high agreement, but only the first category specifies robust evidence.",
+      "D": "Only the Andes Mountains study provides robust evidence for causation, while all other cases are merely consistent with low agreement."
+    },
+    "correct_answer": "A",
+    "explanation": "The summary clearly differentiates: 'anthropogenic climate change caused latitudinal and elevational biome shifts in at least 19 sites... (robust evidence, high agreement)' and 'Additional cases of 5–20 km northward and 20–300 m upslope biome shifts... are consistent with climate change (medium evidence, high agreement).'",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

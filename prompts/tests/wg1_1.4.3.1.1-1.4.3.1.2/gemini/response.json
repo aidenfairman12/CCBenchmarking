@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is 'scenario uncertainty' primarily caused by, according to the passage?",
+    "options": {
+      "A": "Unknown societal choices that determine future anthropogenic emissions.",
+      "B": "Uncertainties in the amplitude of changes in solar activity before satellite observations.",
+      "C": "Structural uncertainties not explored in typical multi-model exercises.",
+      "D": "Small spatial-scale features that cannot be resolved by climate models."
+    },
+    "correct_answer": "A",
+    "explanation": "The first sentence states, 'Future radiative forcing is uncertain due to as-yet-unknown societal choices that will determine future anthropogenic emissions; this is considered ‘scenario uncertainty’.'",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Which of the following historical factors is explicitly mentioned as being less well constrained by observations than greenhouse gas radiative forcings?",
+    "options": {
+      "A": "The size and location of large volcanic eruptions before around 1850.",
+      "B": "Anthropogenic and natural aerosols.",
+      "C": "The amplitude of changes in solar activity before satellite observations.",
+      "D": "Long time-scale processes or tipping points."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states, 'In particular, historical radiative forcings due to anthropogenic and natural aerosols are less well constrained by observations than the GHG radiative forcings.'",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "According to the passage, for which time periods are uncertainties regarding past emissions and radiative forcings specifically highlighted as being important?",
+    "options": {
+      "A": "Only the instrumental period since 1850.",
+      "B": "The Pliocene, Last Glacial Maximum, the last millennium, and the instrumental period since 1850.",
+      "C": "Future pathways like the RCP and SSP scenarios.",
+      "D": "Periods after satellite observations became widely available for all forcing agents."
+    },
+    "correct_answer": "B",
+    "explanation": "The text states, 'These are especially important for simulations of paleoclimate time periods, such as the Pliocene, Last Glacial Maximum or the last millennium, but are also relevant for the CMIP historical simulations of the instrumental period since 1850.'",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Why does the range of climate models used to estimate 'model response uncertainty' not necessarily represent the full 'climate response uncertainty'?",
+    "options": {
+      "A": "Climate models are entirely independent of each other, leading to a narrower range of responses.",
+      "B": "The uncertainty primarily arises from unknown societal choices, which models cannot incorporate.",
+      "C": "Climate models have structural uncertainties not fully explored, do not resolve small spatial-scale features, and don't fully represent long time-scale processes or tipping points.",
+      "D": "Only natural aerosols are less constrained by observations, making historical simulations unreliable for full uncertainty assessment."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage lists several reasons: 'the climate models used in CMIP experiments have structural uncertainties not explored in a typical multi-model exercise... and are not entirely independent of each other... there are small spatial-scale features which cannot be resolved; and long time-scale processes or tipping points are not fully represented.'",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "The passage states that for metrics like Equilibrium Climate Sensitivity (ECS), the CMIP6 model range is found to be broader than the 'very likely range' assessed by combining multiple lines of evidence. What is the most reasonable interpretation of this finding within the context of climate response uncertainty?",
+    "options": {
+      "A": "The CMIP6 model range, being broader, should be considered the definitive and most accurate representation of the 'very likely range' for ECS.",
+      "B": "Relying solely on the CMIP6 model range for ECS might lead to an overestimation of the actual uncertainty compared to an assessment using multiple lines of evidence.",
+      "C": "The 'very likely range' from multiple lines of evidence completely disregards all model-based projections, rendering it less comprehensive.",
+      "D": "This implies that CMIP6 models perfectly capture the full 'climate response uncertainty' for ECS, including all structural uncertainties and long time-scale processes."
+    },
+    "correct_answer": "B",
+    "explanation": "If the CMIP6 model range is 'broader' than the 'very likely range assessed by combining multiple lines of evidence,' it suggests that relying only on the CMIP6 models might encompass a wider spread of outcomes than what is considered the robust 'very likely' range, thus potentially overestimating the true uncertainty.",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

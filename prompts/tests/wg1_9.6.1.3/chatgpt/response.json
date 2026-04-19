@@ -1,21 +1,6 @@
 [
   {
-    "question": "What is a key advantage of satellite altimetry over tide gauge observations for measuring regional sea level changes?",
-    "options": {
-      "A": "It provides longer historical records",
-      "B": "It offers quasi-global coverage",
-      "C": "It has no measurement errors",
-      "D": "It directly measures ocean currents"
-    },
-    "correct_answer": "B",
-    "explanation": "The passage states that altimeters have the advantage of quasi-global coverage.",
-    "source": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
-    "category": "Projections & Uncertainty",
-    "difficulty": "easy",
-    "generated_by": "ChatGPT 5.3"
-  },
-  {
-    "question": "According to the passage, what proportion of the ocean surface has experienced significant sea level rise over the satellite era?",
+    "question": "What percentage of the ocean surface has experienced significant sea level rise during the satellite era?",
     "options": {
       "A": "85%",
       "B": "90%",
@@ -23,55 +8,70 @@
       "D": "100%"
     },
     "correct_answer": "C",
-    "explanation": "The passage reports that 98% of the ocean surface has experienced significant sea level rise over the satellite era.",
+    "explanation": "The passage states that '98% of the ocean surface has experienced significant sea level rise over the satellite era.'",
     "source": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
-    "category": "Projections & Uncertainty",
+    "category": "Sea Level Rise Observations",
     "difficulty": "easy",
-    "generated_by": "ChatGPT 5.3"
+    "generated_by": "gpt-4o-2024-11-20"
   },
   {
-    "question": "Why are tide gauge records still valuable despite the broader coverage of satellite altimetry?",
+    "question": "What is a primary driver of regional departures from global mean sea level (GMSL) rise?",
     "options": {
-      "A": "They provide more accurate measurements of acceleration",
-      "B": "They include longer time records, though with uneven spatial coverage",
-      "C": "They capture only coastal sea level changes",
-      "D": "They are unaffected by atmospheric variability"
+      "A": "Variations in solar radiation",
+      "B": "Ocean transport divergences caused by wind stress anomalies",
+      "C": "Increased volcanic activity",
+      "D": "Changes in Earth’s gravitational field"
     },
     "correct_answer": "B",
-    "explanation": "The passage notes that longer records are available from tide gauges, albeit with variable coverage by basin.",
+    "explanation": "The passage explains that 'regional departures from GMSL rise are primarily driven by ocean transport divergences that result from wind stress anomalies and spatial variability in atmospheric heat and freshwater fluxes.'",
     "source": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
-    "category": "Projections & Uncertainty",
+    "category": "Sea Level Rise Drivers",
     "difficulty": "medium",
-    "generated_by": "ChatGPT 5.3"
+    "generated_by": "gpt-4o-2024-11-20"
   },
   {
-    "question": "What is identified as the primary driver of regional departures from global mean sea level (GMSL) rise?",
+    "question": "Which ocean basin experienced intensified sea level rise during the 1990s and 2000s, with trends exceeding 20 mm per year?",
     "options": {
-      "A": "Variations in Earth's rotation",
-      "B": "Ocean transport divergences caused by wind stress anomalies and spatial variability in heat and freshwater fluxes",
-      "C": "Changes in global atmospheric CO2 concentration",
-      "D": "Tidal forces from the Moon"
+      "A": "The North Atlantic Ocean",
+      "B": "The Southern Ocean",
+      "C": "The western tropical Pacific Ocean",
+      "D": "The Indian Ocean"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage notes that 'there was intensified sea level rise during the 1990s and 2000s, with 10-year trends exceeding 20 mm yr–1 in the western tropical Pacific Ocean.'",
+    "source": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
+    "category": "Regional Sea Level Trends",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What was the main driver of sea level variability in the Atlantic Ocean, as described in the SROCC?",
+    "options": {
+      "A": "Pacific Decadal Oscillation (PDO)",
+      "B": "North Atlantic Oscillation (NAO)",
+      "C": "El Niño Southern Oscillation (ENSO)",
+      "D": "Indian Ocean Dipole (IOD)"
     },
     "correct_answer": "B",
-    "explanation": "The passage states that regional departures from GMSL rise are primarily driven by ocean transport divergences due to wind stress anomalies and spatial variability in heat and freshwater fluxes.",
+    "explanation": "The passage states that 'regional sea level variability [in the Atlantic Ocean] as being driven primarily by wind and heat flux variations associated with the North Atlantic Oscillation (NAO).'",
     "source": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
-    "category": "Projections & Uncertainty",
+    "category": "Regional Sea Level Variability",
     "difficulty": "medium",
-    "generated_by": "ChatGPT 5.3"
+    "generated_by": "gpt-4o-2024-11-20"
   },
   {
-    "question": "Which of the following best explains the observed reversal of sea level trends between the western tropical Pacific and the North American west coast between the 1990s–2000s and the 2010s?",
+    "question": "Why does the western tropical Pacific Ocean sometimes experience falling sea levels, as observed during the 2010s?",
     "options": {
-      "A": "A shift in multiannual climate variability linked to Pacific climate modes such as PDO and ENSO",
-      "B": "A permanent increase in global mean sea level",
-      "C": "A sudden reduction in greenhouse gas emissions",
-      "D": "A change in satellite measurement techniques"
+      "A": "Changes in the Pacific Decadal Oscillation (PDO)",
+      "B": "Increased volcanic activity in the region",
+      "C": "Strengthening of the South Asian monsoon",
+      "D": "Weakened Atlantic Meridional Overturning Circulation (AMOC)"
     },
     "correct_answer": "A",
-    "explanation": "The passage links large multiannual sea level variations in the Pacific, including reversals, to climate modes such as the PDO and ENSO.",
+    "explanation": "The passage explains that 'large multiannual sea level variations in the Pacific' are associated with the Pacific Decadal Oscillation (PDO), which can lead to periods of falling sea levels like those observed during the 2010s.",
     "source": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
-    "category": "Projections & Uncertainty",
+    "category": "Sea Level Variability Drivers",
     "difficulty": "hard",
-    "generated_by": "ChatGPT 5.3"
+    "generated_by": "gpt-4o-2024-11-20"
   }
 ]

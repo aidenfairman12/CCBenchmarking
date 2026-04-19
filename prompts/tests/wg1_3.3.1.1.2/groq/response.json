@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What was the cause of the 5000-year cooling trend in Northern Hemisphere mid- to high latitudes that was reversed in the 20th century?",
+    "options": {
+      "A": "Anthropogenic forcing",
+      "B": "Orbital forcing",
+      "C": "Volcanic forcing",
+      "D": "Greenhouse gas forcing"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that the 20th century annual mean surface temperature warming reversed a 5000-year cooling trend in Northern Hemisphere mid- to high latitudes caused by orbital forcing.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What was the primary factor attributed to global and Northern Hemisphere temperature changes from reconstructions over the period 864 to 1840?",
+    "options": {
+      "A": "Greenhouse gas forcing",
+      "B": "Solar forcing",
+      "C": "Volcanic forcing",
+      "D": "Internal variability"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that global and Northern Hemisphere temperature changes from reconstructions over this period have been attributed mostly to volcanic forcing.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How have advancements in attribution studies addressed concerns about over-confident attribution conclusions?",
+    "options": {
+      "A": "By reducing the dependence on uncertainties in climate sensitivity and forcing",
+      "B": "By ignoring uncertainties in the statistics of internal variability",
+      "C": "By only accounting for observational uncertainty",
+      "D": "By using a single model approach"
+    },
+    "correct_answer": "A",
+    "explanation": "The source passage states that studies now account for uncertainties in the statistics of internal variability, and also reduce the dependence of the attribution on uncertainties in climate sensitivity and forcing.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the current best estimate of the scaling factor between GMST and GSAT, according to Cross-Chapter Box 2.3?",
+    "options": {
+      "A": "0.5",
+      "B": "1",
+      "C": "1.5",
+      "D": "2"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that the current best estimate of the scaling factor between GMST and GSAT is one.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How do alternative techniques, based purely on statistical or econometric approaches, compare to physically-based methods in attribution studies?",
+    "options": {
+      "A": "They produce significantly different results",
+      "B": "They are less accurate and reliable",
+      "C": "They match the results of physically-based methods",
+      "D": "They are only used for internal variability"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that alternative techniques, based purely on statistical or econometric approaches, have also been applied and match the results of physically-based methods.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2",
+    "category": "Attribution Science",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, what is considered the most important quantity for characterizing past and future climate change?",
+    "options": {
+      "A": "Global warming relative to its pre-industrial level.",
+      "B": "Global cumulative carbon dioxide (CO2) emissions.",
+      "C": "Regional climate changes and extreme events.",
+      "D": "Global transient climate responses."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states, 'The most important quantity used to characterize past and future climate change is global warming relative to its pre-industrial level.'",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.2.4",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "How do changes in regional climate, including many types of extremes, relate to changes in global warming, as described in the text?",
+    "options": {
+      "A": "They are quasi-linearly linked to global cumulative carbon dioxide (CO2) emissions.",
+      "B": "They scale quasi-linearly with changes in global warming, often independently of the underlying emissions scenarios.",
+      "C": "They exhibit a non-linear scaling that is highly dependent on the emissions scenarios.",
+      "D": "They primarily reflect the global warming response, with minimal regional variation."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states, 'changes in regional climate, including many types of extremes, scale quasi-linearly with changes in global warming, often independently of the underlying emissions scenarios.'",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.2.4",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "What significant advantage does assessing projections of future changes in extremes as a function of Global Warming Levels (GWLs) offer, according to the passage?",
+    "options": {
+      "A": "It reduces the total uncertainty in climate model projections across all scenarios.",
+      "B": "It separates the uncertainty associated with the global warming response from the uncertainty resulting from the regional climate response as a function of GWLs.",
+      "C": "It eliminates the need to consider different emissions scenarios when projecting regional climate changes.",
+      "D": "It allows for more precise measurement of global cumulative carbon dioxide (CO2) emissions."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states, 'The assessment of projections of future changes in extremes as function of GWL has an advantage in separating uncertainty associated with the global warming response... from the uncertainty resulting from the regional climate response as a function of GWLs.'",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.2.4",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "The chapter's assessments of projected changes are largely focused on which specific Global Warming Levels (GWLs) above pre-industrial levels?",
+    "options": {
+      "A": "+0.5°C, +1.0°C, and +1.5°C",
+      "B": "+1.5°C, +2°C, and +4°C",
+      "C": "+2°C, +3°C, and +5°C",
+      "D": "Only the +1.5°C level, consistent with the Paris Agreement's lowest limit."
+    },
+    "correct_answer": "B",
+    "explanation": "The text specifies, 'assessments of projected changes in this chapter are largely provided in relation to future GWLs, with a focus on changes at +1.5°C, +2°C, and +4°C of global warming above pre-industrial levels.'",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.2.4",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "According to the passage, why do projections based on time periods and emissions scenarios exhibit 'unnecessarily larger uncertainty' when the primary interest is in regional changes at specific Global Warming Levels (GWLs)?",
+    "options": {
+      "A": "Because their linkage to global cumulative CO2 emissions is less direct than GWL assessments.",
+      "B": "Due to differences in model global transient climate responses.",
+      "C": "As a result of the inherent variability and unpredictability of regional climate responses.",
+      "D": "Because they are less policy-relevant compared to GWL-based projections, introducing external uncertainties."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explicitly states, 'To take advantage of this feature and to provide easy comparison with SR1.5, projections based on time periods and emissions scenarios have unnecessarily larger uncertainty due to differences in model global transient climate responses.'",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.2.4",
+    "category": "Attribution Science",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

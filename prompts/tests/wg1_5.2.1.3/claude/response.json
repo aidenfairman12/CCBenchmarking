@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, what is the term used to denote the global mean ocean CO2 sink?",
+    "options": {
+      "A": "Fnet",
+      "B": "Socean",
+      "C": "SOCAT",
+      "D": "GLODAP"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explicitly states: 'Socean is the global mean ocean CO2 sink and Fnet denotes the net spatially varying CO2 fluxes.'",
+    "source": "IPCC AR6 WG1 Chapter 5",
+    "category": "Ocean Carbon Cycle",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "According to the passage, how long can anthropogenic carbon be stored in the ocean interior after being transported there?",
+    "options": {
+      "A": "Hours to days, depending on temperature",
+      "B": "Years to decades, depending on ocean circulation speed",
+      "C": "Decades to millennia, depending on the depth of storage",
+      "D": "Centuries only, regardless of storage depth"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that carbon transported into the ocean interior 'is stored for decades to millennia, depending on the depth of storage.'",
+    "source": "IPCC AR6 WG1 Chapter 5",
+    "category": "Ocean Carbon Cycle",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "The passage describes ocean uptake of anthropogenic carbon as a 'two-step set of abiotic processes.' Which of the following correctly describes the order of these steps?",
+    "options": {
+      "A": "Carbon is first transported into the ocean interior by currents, then exchanged across the air–sea boundary into the surface mixed layer",
+      "B": "Carbon is first dissolved into the deep ocean through biological processes, then released back to the surface mixed layer",
+      "C": "CO2 first crosses the air–sea boundary into the surface mixed layer, then is transported into the ocean interior where it is stored",
+      "D": "CO2 first reacts with carbonate chemistry in the deep ocean, then diffuses upward into the surface mixed layer"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage describes 'the exchange of CO2, first across the air–sea boundary into the surface mixed layer, followed by its transport into the ocean interior where it is stored.'",
+    "source": "IPCC AR6 WG1 Chapter 5",
+    "category": "Ocean Carbon Cycle",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "A major methodological advance described in the passage, achieved for the first time since SROCC, involved making six published observational product fluxes more comparable. Which of the following was NOT listed as one of the methods used to achieve this comparability?",
+    "options": {
+      "A": "Using a common ocean and sea ice cover area",
+      "B": "Calculating an ensemble mean of ocean fluxes from three re-analysis wind products",
+      "C": "Integrating climatological coastal fluxes scaled to increasing atmospheric CO2",
+      "D": "Applying a uniform biological productivity correction factor across all ocean basins"
+    },
+    "correct_answer": "D",
+    "explanation": "The passage lists a common ocean and sea ice cover area, integration of climatological coastal fluxes scaled to increasing atmospheric CO2, and an ensemble mean from three re-analysis wind products as the comparability methods — a biological productivity correction is not mentioned.",
+    "source": "IPCC AR6 WG1 Chapter 5",
+    "category": "Ocean Carbon Cycle",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "The passage states that Fnet must be adjusted to be comparable to Socean. Based on the passage, what does this adjustment account for, and why is this distinction conceptually important?",
+    "options": {
+      "A": "Fnet is corrected for seasonal variability in sea surface temperatures, whereas Socean represents only annual mean conditions",
+      "B": "Fnet is adjusted for the pre-industrial sea-to-air CO2 flux associated with land-to-ocean carbon flux, making it equivalent to the anthropogenic ocean sink metric Socean",
+      "C": "Fnet is corrected for biological carbon drawdown in the deep ocean, whereas Socean only measures surface exchange",
+      "D": "Fnet is adjusted for differences in wind speed between ocean basins, whereas Socean is calculated using a single global wind product"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'adjustment of the mean global Fnet for the pre-industrial sea-to-air CO2 flux associated with land-to-ocean carbon flux term makes Fnet comparable to Socean,' indicating the two metrics differ in their treatment of the pre-industrial carbon flux component.",
+    "source": "IPCC AR6 WG1 Chapter 5",
+    "category": "Ocean Carbon Cycle",
+    "difficulty": "hard",
+    "generated_by": "Claude Sonnet"
+  }
+]

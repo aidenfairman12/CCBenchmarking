@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, what percentage of moderate daily hot extremes (above the 99.9th percentile) over land are attributable to anthropogenic warming?",
+    "options": {
+      "A": "As much as 50%",
+      "B": "As much as 75%",
+      "C": "As much as 90%",
+      "D": "As much as 60%"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states: 'As much as 75% of the moderate daily hot extremes (above 99.9th percentile) over land are due to anthropogenic warming (Fischer and Knutti, 2015).'",
+    "source": "IPCC AR6 WG1 Chapter 11 (Temperature Extremes Attribution)",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "The passage states that anthropogenic forcing on extreme temperatures consists of two opposing components. Which of the following correctly describes their relationship?",
+    "options": {
+      "A": "Greenhouse gas forcing and aerosol forcing both amplify warming of temperature extremes",
+      "B": "Greenhouse gas forcing drives warming of temperature extremes, partially offset by the cooling effect of aerosol forcing",
+      "C": "Aerosol forcing drives warming of temperature extremes, partially offset by the cooling effect of greenhouse gas forcing",
+      "D": "Greenhouse gas forcing and aerosol forcing cancel each other out, producing no net change in temperature extremes"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states: 'an increase in extreme temperature is mostly due to greenhouse gas forcing, offset by aerosol forcing,' indicating the two forcings act in opposite directions.",
+    "source": "IPCC AR6 WG1 Chapter 11 (Temperature Extremes Attribution)",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "In some key wheat-producing regions of Southern Australia, frost days or frost season length have increased despite an overall rise in regional mean temperatures. According to the passage, what factors are linked to this apparently contradictory trend?",
+    "options": {
+      "A": "Increased greenhouse gas concentrations and enhanced urban heat island effects",
+      "B": "Stronger subtropical ridge pressure and greater cloud cover",
+      "C": "Decreases in rainfall, cloud cover, and subtropical ridge strength",
+      "D": "Increased soil moisture and reduced aerosol concentrations"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that frost day increases in Southern Australia 'are linked to decreases in rainfall, cloud-cover, and subtropical ridge strength, despite an overall increase in regional mean temperatures.'",
+    "source": "IPCC AR6 WG1 Chapter 11 (Temperature Extremes Attribution)",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "The passage notes that the aerosol cooling effect is 'clearly detectable' in certain regions. Which regions are specifically identified?",
+    "options": {
+      "A": "North America and Australia",
+      "B": "Asia and Australia",
+      "C": "Europe and North America",
+      "D": "Europe and Asia"
+    },
+    "correct_answer": "D",
+    "explanation": "The passage explicitly states: 'The aerosols' cooling effect is clearly detectable over Europe and Asia (Seong et al., 2021).'",
+    "source": "IPCC AR6 WG1 Chapter 11 (Temperature Extremes Attribution)",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "The passage distinguishes between studies that explicitly attribute heatwave trends to anthropogenic causes and those that merely describe observed trends. Which of the following best characterizes how most recent studies treat heatwave attribution, and what inference can be drawn about the state of this science?",
+    "options": {
+      "A": "Most recent studies explicitly attribute heatwave trends to anthropogenic forcing, indicating a mature and well-established field of heatwave attribution",
+      "B": "Most recent studies find observed heatwave trends inconsistent with anthropogenic warming, suggesting natural variability dominates heatwave changes",
+      "C": "Few recent studies explicitly attribute heatwave changes to causes, with most only stating that observed trends are consistent with anthropogenic warming, indicating formal attribution remains limited",
+      "D": "Most recent studies attribute heatwave trends exclusively to natural forcing, while only a few link them to anthropogenic influence"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states: 'few recent studies have explicitly attributed these changes to causes; most of them stated that observed trends are consistent with anthropogenic warming,' indicating that explicit formal attribution of heatwaves lags behind descriptive trend studies.",
+    "source": "IPCC AR6 WG1 Chapter 11 (Temperature Extremes Attribution)",
+    "category": "Attribution Science",
+    "difficulty": "hard",
+    "generated_by": "claude-sonnet-4-6"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the primary factor that determines surface albedo?",
+    "options": {
+      "A": "Atmospheric absorption and scattering",
+      "B": "Reflectance at Earth's surface",
+      "C": "Spectral distribution of incident solar radiation",
+      "D": "Angular distribution of incident solar radiation"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that surface albedo is determined primarily by reflectance at Earth's surface.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How do changes in surface albedo affect planetary albedo?",
+    "options": {
+      "A": "Changes in surface albedo result in equivalent changes in planetary albedo",
+      "B": "Changes in surface albedo result in changes in planetary albedo that are roughly reduced by two-thirds",
+      "C": "Changes in surface albedo have no effect on planetary albedo",
+      "D": "Changes in surface albedo result in changes in planetary albedo that are roughly doubled"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that changes in surface albedo result in changes in planetary albedo that are roughly reduced by two-thirds, owing to atmospheric absorption and scattering.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the estimated contribution of Arctic sea ice to global surface-albedo feedback, according to Pistone et al. (2014) and Cao et al. (2015)?",
+    "options": {
+      "A": "0.16 ± 0.04 W m–2°C–1",
+      "B": "0.31 ± 0.04 W m–2°C–1",
+      "C": "0.48 [likely range 0.29 to 0.78] W m–2°C–1",
+      "D": "0.8 ± 0.3 W m–2°C–1"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that Pistone et al. (2014) and Cao et al. (2015) estimated the contribution of Arctic sea ice to global α A to be 0.31 ± 0.04 W m–2°C–1 and 0.31 ± 0.08 W m–2°C–1, respectively.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "Why is the contribution of the Southern Hemisphere to global surface-albedo feedback expected to be small?",
+    "options": {
+      "A": "Because seasonal snow cover extent in the SH is large and trends in SH sea ice extent are increasing",
+      "B": "Because seasonal snow cover extent in the SH is limited and trends in SH sea ice extent are relatively flat",
+      "C": "Because the SH has a smaller land area than the NH",
+      "D": "Because the SH has a larger ocean area than the NH"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that the contribution of the Southern Hemisphere to global α A is expected to be small because seasonal snow cover extent in the SH is limited, and trends in SH sea ice extent are relatively flat over much of the satellite record.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What can be inferred about the relationship between temperature change and surface-albedo change, based on the passage?",
+    "options": {
+      "A": "Temperature change has no effect on surface-albedo change",
+      "B": "Temperature change induces surface-albedo change through several direct and indirect means, with the largest contributions coming from changes in sea ice and seasonal snow cover",
+      "C": "Temperature change induces surface-albedo change only through changes in sea ice extent",
+      "D": "Temperature change induces surface-albedo change only through changes in seasonal snow cover"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that temperature change induces surface-albedo change through several direct and indirect means, with the largest contributions by far being changes in the extent of sea ice and seasonal snow cover.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, what is the confidence level assigned to the finding that detrimental impacts of acidification include decreased growth and survival, especially in early life stages?",
+    "options": {
+      "A": "Low confidence",
+      "B": "Medium confidence",
+      "C": "High confidence",
+      "D": "Very high confidence"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage explicitly states 'Detrimental impacts of acidification include decreased growth and survival, and altered development, especially in early life stages (high confidence).'",
+    "source": "IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts",
+    "category": "Ocean Acidification",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "Under hypoxia, as defined in the passage, which of the following best describes the expected ecological outcome for marine communities?",
+    "options": {
+      "A": "Communities stabilize as calcifying organisms outcompete non-calcifiers",
+      "B": "Communities undergo species migration, replacement, and loss, transforming community composition",
+      "C": "Communities become dominated by large multicellular organisms with high oxygen requirements",
+      "D": "Communities experience increased photosynthetic rates that partially offset oxygen depletion"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'Under hypoxia (oxygen concentrations ≤2 mg l–1), physiological and ecological processes are impaired and communities undergo species migration, replacement and loss, transforming community composition (very high confidence).'",
+    "source": "IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts",
+    "category": "Ocean Deoxygenation",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "For calcifying primary producers such as phytoplankton and coralline algae, how does the passage characterize the relationship between the effects of ocean acidification on calcification versus photosynthesis?",
+    "options": {
+      "A": "Both calcification and photosynthesis are decreased, but calcification is more severely affected",
+      "B": "Both calcification and photosynthesis increase due to elevated CO2 availability",
+      "C": "The effects are often opposing, with calcification decreasing while photosynthetic rates increase",
+      "D": "Calcification increases to compensate for reduced photosynthetic efficiency under lower pH"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that 'For calcifying primary producers, including phytoplankton and coralline algae, ocean acidification has different, often opposing effects, for example, decreasing calcification while photosynthetic rates increase (high confidence).'",
+    "source": "IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts",
+    "category": "Ocean Acidification",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "The passage identifies multiple processes contributing to lowered dissolved oxygen levels in the ocean. Which of the following is listed as one of those contributing processes?",
+    "options": {
+      "A": "Increased calcification rates consuming dissolved oxygen in surface waters",
+      "B": "Reduced photosynthesis in phytoplankton due to elevated CO2",
+      "C": "Microbial respiration enhanced by nearshore eutrophication",
+      "D": "Migration of large multicellular organisms into subsurface oxygen minimum zones"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage explicitly lists 'microbial respiration enhanced by nearshore eutrophication' as one of the many processes that contribute to lowered oxygen levels.",
+    "source": "IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts",
+    "category": "Ocean Deoxygenation",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "Based on the passage, why does the co-occurrence of deoxygenation and acidification in coastal and tropical habitats represent a 'compound hazard,' and which biological characteristic determines an organism's relative vulnerability to deoxygenation specifically?",
+    "options": {
+      "A": "They co-occur because warmer waters hold less CO2; vulnerability to deoxygenation is highest in organisms with strong acid–base regulation",
+      "B": "They co-occur because respiration consumes oxygen and produces CO2; vulnerability to deoxygenation is highest in large, multicellular organisms with the greatest oxygen requirements",
+      "C": "They co-occur because calcification releases CO2 while consuming oxygen; vulnerability to deoxygenation is highest in calcifiers already stressed by lower pH",
+      "D": "They co-occur because eutrophication simultaneously acidifies and deoxygenates water; vulnerability to deoxygenation is highest in early life stages of finfish"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'respiration consumes oxygen and produces CO2' linking deoxygenation and acidification, and separately notes that oxygen requirements 'are highest for large, multicellular organisms,' determining their relative vulnerability to deoxygenation.",
+    "source": "IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts",
+    "category": "Compound Climate Hazards",
+    "difficulty": "hard",
+    "generated_by": "Claude Sonnet"
+  }
+]

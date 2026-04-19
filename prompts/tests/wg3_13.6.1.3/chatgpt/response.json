@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the relationship between higher effective carbon prices and national emissions intensity?",
+    "options": {
+      "A": "Higher effective carbon prices are associated with lower emissions intensity.",
+      "B": "Higher effective carbon prices are associated with higher emissions intensity.",
+      "C": "Effective carbon prices have no relationship with emissions intensity.",
+      "D": "Higher effective carbon prices always eliminate emissions entirely."
+    },
+    "correct_answer": "A",
+    "explanation": "The source states that countries with higher effective carbon prices tend to have lower carbon intensity of energy supply and lower emissions intensity of the economy.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why are carbon taxes or ETS prices not directly a measure of policy stringency across an economy?",
+    "options": {
+      "A": "They only apply to a small set of industries.",
+      "B": "They typically cover only a share of total emissions and may include rebates or free allowances.",
+      "C": "They are implemented only in developed economies.",
+      "D": "They are set at arbitrary levels without relation to emissions."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains that carbon prices under a carbon tax or ETS typically only cover a portion of total emissions and may include rebates or free allowance allocations, which can limit their effectiveness.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is a limitation of emissions pricing policies in reducing industrial process emissions?",
+    "options": {
+      "A": "Industrial process emissions are exempt from emissions pricing policies.",
+      "B": "Industrial process emissions have marginal abatement costs lower than tax/allowance prices.",
+      "C": "Emissions pricing policies focus on low-cost measures, leaving high abatement cost emissions less impacted.",
+      "D": "Emissions pricing policies lack enforcement mechanisms for industrial sectors."
+    },
+    "correct_answer": "C",
+    "explanation": "The source notes that emissions pricing policies mainly reduce emissions with lower abatement costs and have limited impact on high-cost emissions like industrial process emissions.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is a challenge in estimating the overall effectiveness of mitigation policies?",
+    "options": {
+      "A": "There is no reliable data on emissions reductions.",
+      "B": "It is difficult to distinguish between policy-driven changes and changes due to other factors.",
+      "C": "Mitigation policies are only implemented in a few countries.",
+      "D": "The effectiveness of policies is not influenced by external factors."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that estimating the overall effectiveness of mitigation policies is challenging because it requires identifying which changes in emissions are attributable to policy efforts versus other factors.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3",
+    "category": "Policy and Governance",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is one reason fossil fuel subsidies can limit the effectiveness of mitigation policies?",
+    "options": {
+      "A": "They increase the price of fossil fuels.",
+      "B": "They create incentives to increase emissions.",
+      "C": "They are only applied to renewable energy projects.",
+      "D": "They are unrelated to emissions pricing policies."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains that fossil fuel subsidies create incentives to increase emissions, which can undermine the effectiveness of mitigation policies.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

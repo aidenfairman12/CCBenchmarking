@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What does the SSP1-1.9 scenario specifically relate to?",
+    "options": {
+      "A": "The 1.5°C Paris Agreement goal.",
+      "B": "Middle-of-the-road socio-economic pathways.",
+      "C": "High-warming, low-likelihood storylines.",
+      "D": "Fossil fuel-rich development."
+    },
+    "correct_answer": "A",
+    "explanation": "The source notes that SSP1-1.9 is directly relevant to the assessment of the 1.5°C Paris Agreement goal.",
+    "source": "IPCC AR6 WG1 Chapter 4 Section 4.2.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why are results from SSP5-8.5 still shown in some cases, despite being argued as implausible?",
+    "options": {
+      "A": "To assess the impact of aerosols on climate.",
+      "B": "To ensure compatibility with AR5 and for comparison between emissions- and concentration-driven simulations.",
+      "C": "Because SSP5-8.5 represents the most likely future scenario.",
+      "D": "Because SSP5-8.5 has the most simulations available in CMIP6."
+    },
+    "correct_answer": "B",
+    "explanation": "The source explains that SSP5-8.5 results are shown for backwards compatibility with AR5 and to compare emissions-driven and concentration-driven simulations.",
+    "source": "IPCC AR6 WG1 Chapter 4 Section 4.2.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Which SSP scenario corresponds to 'regional rivalry' in socio-economic pathways?",
+    "options": {
+      "A": "SSP1-1.9",
+      "B": "SSP2-4.5",
+      "C": "SSP3-7.0",
+      "D": "SSP5-8.5"
+    },
+    "correct_answer": "C",
+    "explanation": "The source identifies SSP3-7.0 as the scenario for 'regional rivalry.'",
+    "source": "IPCC AR6 WG1 Chapter 4 Section 4.2.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why is SSP1-2.6 often preferred over SSP1-1.9 when presenting figures and maps?",
+    "options": {
+      "A": "SSP1-2.6 has a higher focus on aerosols.",
+      "B": "SSP1-1.9 does not align with global radiative forcing levels.",
+      "C": "SSP1-1.9 has far fewer simulations available.",
+      "D": "SSP1-2.6 is the most extreme high-end scenario."
+    },
+    "correct_answer": "C",
+    "explanation": "The source notes that SSP1-2.6 is preferred because SSP1-1.9 has far fewer simulations available.",
+    "source": "IPCC AR6 WG1 Chapter 4 Section 4.2.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is one reason SSP scenarios are organized into a matrix of global forcing levels and socio-economic storylines?",
+    "options": {
+      "A": "To account for variations in daily output data.",
+      "B": "To reflect differences in CO2, non-CO2 GHGs, aerosols, and land use.",
+      "C": "To prioritize high-warming, low-likelihood scenarios.",
+      "D": "To focus on a single pathway for achieving radiative forcing levels."
+    },
+    "correct_answer": "B",
+    "explanation": "The source explains that the SSP matrix recognizes that global radiative forcing levels can be achieved by varying CO2, non-CO2 GHGs, aerosols, and land use.",
+    "source": "IPCC AR6 WG1 Chapter 4 Section 4.2.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

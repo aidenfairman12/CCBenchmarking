@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What primary factor has caused latitudinal and altitudinal biome shifts observed between 1700 and 2007 at 19 sites?",
+    "options": {
+      "A": "Anthropogenic climate change",
+      "B": "Agricultural expansion",
+      "C": "Natural climate variability",
+      "D": "Timber harvesting"
+    },
+    "correct_answer": "A",
+    "explanation": "The source states that anthropogenic climate change caused biome shifts at 19 sites from 1700 to 2007.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Which location holds the longest recorded time span for detecting a biome shift due to climate change?",
+    "options": {
+      "A": "Canada",
+      "B": "Andes Mountains in Ecuador",
+      "C": "Nepal",
+      "D": "Switzerland"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage notes that the Andes Mountains in Ecuador had the longest time span for biome shift data, from 1802 to 2012.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What was the approximate temperature increase in the Andes Mountains in Ecuador over the 210-year period documented?",
+    "options": {
+      "A": "0.4°C",
+      "B": "1.7°C",
+      "C": "0.9°C",
+      "D": "1.6°C"
+    },
+    "correct_answer": "B",
+    "explanation": "The source specifies that temperature increased by 1.7°C in the Andes Mountains in Ecuador over 210 years.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is a common feature among the biome shifts detected in areas without significant human land use?",
+    "options": {
+      "A": "They are caused exclusively by agricultural practices.",
+      "B": "They are consistent with climate change-induced temperature increases.",
+      "C": "They occur predominantly in tropical ecosystems.",
+      "D": "They are primarily driven by timber harvesting."
+    },
+    "correct_answer": "B",
+    "explanation": "The source highlights that biome shifts in areas without significant human land use are consistent with climate change-induced temperature increases.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Which biome shift recorded the largest upslope movement over the periods studied?",
+    "options": {
+      "A": "Temperate deciduous forest in Switzerland",
+      "B": "Sub-alpine conifer forest in China",
+      "C": "Boreal conifer forest in Canada",
+      "D": "Alpine grassland in Nepal"
+    },
+    "correct_answer": "B",
+    "explanation": "The source indicates that sub-alpine conifer forest in China shifted 300 m upslope from 1910 to 2000, the largest upslope movement recorded.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

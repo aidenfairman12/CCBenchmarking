@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, what is the most important quantity used to characterize past and future climate change?",
+    "options": {
+      "A": "Global cumulative CO2 emissions",
+      "B": "Global warming relative to its pre-industrial level",
+      "C": "Regional climate extremes scaled to emissions scenarios",
+      "D": "Equilibrium climate sensitivity"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explicitly states: 'The most important quantity used to characterize past and future climate change is global warming relative to its pre-industrial level.'",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.1",
+    "category": "Climate Metrics and Indicators",
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "Which three global warming levels (GWLs) above pre-industrial levels are the primary focus of projected changes assessed in this chapter?",
+    "options": {
+      "A": "+1.0°C, +2°C, and +3°C",
+      "B": "+1.5°C, +3°C, and +5°C",
+      "C": "+1.5°C, +2°C, and +4°C",
+      "D": "+2°C, +3°C, and +4°C"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that assessments focus 'on changes at +1.5°C, +2°C, and +4°C of global warming above pre-industrial levels.'",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.1",
+    "category": "Climate Projections",
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "According to the passage, why does using global warming levels (GWLs) reduce uncertainty in regional climate projections compared to using time periods and emissions scenarios?",
+    "options": {
+      "A": "GWLs eliminate uncertainty in the regional climate response entirely by standardizing model inputs",
+      "B": "GWLs separate uncertainty in the global warming response from uncertainty in the regional climate response at a given warming level",
+      "C": "GWLs are directly derived from cumulative CO2 emissions, which are more precisely measured than temperature anomalies",
+      "D": "GWLs remove the need to use multiple climate models, reducing inter-model spread"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that using GWLs has 'an advantage in separating uncertainty associated with the global warming response from the uncertainty resulting from the regional climate response as a function of GWLs.'",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.1",
+    "category": "Climate Uncertainty and Projections",
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "Based on the passage, how is the +4°C global warming level scenario characterized in relation to climate policy?",
+    "options": {
+      "A": "A scenario compatible with the lowest limit of the Paris Agreement",
+      "B": "A scenario slightly overshooting the aims of the Paris Agreement",
+      "C": "A moderate mitigation scenario consistent with current national pledges",
+      "D": "A worst-case scenario with no mitigation"
+    },
+    "correct_answer": "D",
+    "explanation": "The passage describes the +4°C scenario as 'a worst-case scenario with no mitigation,' distinguishing it from the +1.5°C and +2°C scenarios tied to Paris Agreement targets.",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.1",
+    "category": "Climate Policy and Scenarios",
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "The passage states that changes in regional climate, including extremes, scale quasi-linearly with global warming 'often independently of the underlying emissions scenarios.' What is the most precise implication of this finding for climate projections at a fixed global warming level?",
+    "options": {
+      "A": "Regional climate projections at a given GWL are identical regardless of which emissions pathway was used to reach that level",
+      "B": "The relationship between emissions and global warming is the same across all regions and all types of extremes",
+      "C": "Regional climate responses at a given GWL are approximately consistent across different emissions pathways, making GWL a useful organizing framework",
+      "D": "Cumulative CO2 emissions are a better predictor of regional extremes than global mean temperature change"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage notes that regional changes scale quasi-linearly with global warming 'often independently of the underlying emissions scenarios,' meaning that different pathways reaching the same GWL tend to produce similar regional responses, supporting the use of GWLs as an organizing framework — but not claiming identical outcomes across all extremes and regions.",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.1",
+    "category": "Climate Projections and Methodology",
+    "difficulty": "hard",
+    "generated_by": "claude-sonnet-4-6"
+  }
+]

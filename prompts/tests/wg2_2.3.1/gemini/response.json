@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, what has increased in many regions, affecting ecosystem functioning, biodiversity, and ecosystem services?",
+    "options": {
+      "A": "The stability of long-term climate trends.",
+      "B": "The magnitude and frequency of extreme events such as floods, droughts, and heat waves.",
+      "C": "The accuracy of impact models in capturing smaller-scale processes.",
+      "D": "The understanding of superimposed hazards on ecosystems."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states, 'However, climate changes, disturbance regime changes and the magnitude and frequency of extreme events such as floods, droughts, cyclones, heat waves and fire have increased in many regions (high confidence). These disturbances affect ecosystem functioning, biodiversity and ecosystem services (high confidence).'",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.3.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "What is a characteristic of natural ecosystems that many organisms have adapted to cope with during their evolutionary history?",
+    "options": {
+      "A": "Consistent and predictable climate conditions.",
+      "B": "The absence of any extreme episodic events.",
+      "C": "Long-term and short-term climate variability within their disturbance regime.",
+      "D": "Only abrupt and irreversible climate changes."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states, 'Extreme events are a natural and important part of many ecosystems, and many organisms have adapted to cope with long-term and short-term climate variability within the disturbance regime experienced during their evolutionary history (high confidence).'",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.3.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "What is the confidence level stated in the passage regarding the observation that increases in the frequency and severity of heat waves, droughts, and extreme storms have occurred in many regions and are projected to continue?",
+    "options": {
+      "A": "Low confidence",
+      "B": "Medium confidence",
+      "C": "High confidence",
+      "D": "Very high confidence"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states, 'Increases in the frequency and severity of heat waves, droughts and aridity, floods, fires and extreme storms have been observed in many regions (Seneviratne et al., 2012; Ummenhofer and Meehl, 2017), and these trends are projected to continue (high confidence).'",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.3.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "According to the passage, why do typical risk assessments potentially underestimate actual climate risks?",
+    "options": {
+      "A": "They primarily focus on biological factors rather than climate hazards.",
+      "B": "They often consider only a single climate hazard with no changing variability.",
+      "C": "They are unable to use higher-resolution climate models.",
+      "D": "They neglect the importance of internal climate variability."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage notes, 'Risk assessments typically only consider a single climate hazard with no changing variability, thereby potentially underestimating the actual risk.'",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.3.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "In the example provided for land-based ecosystems, what combination of factors can lead to widespread forest dieback, such as in Australian eucalypt forests?",
+    "options": {
+      "A": "Sea level rise, extreme coastal high tide, and storm surge.",
+      "B": "Internal variability combined with long-term climate trends pushing ecosystems to tipping points.",
+      "C": "Changing rainfall patterns, repeated heat waves, altered plant growth/nutrient allocation under elevated CO2, and subsequent effects on herbivores/insect outbreaks.",
+      "D": "Only simultaneous occurrences of extreme floods and droughts."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage explains, 'On land, changing rainfall patterns and repeated heat waves may interact with biological factors such as altered plant growth and nutrient allocation under elevated CO2, affecting herbivore rates and insect outbreaks leading to the widespread dieback of some forests (e.g., in Australian eucalypt forests).'",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.3.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

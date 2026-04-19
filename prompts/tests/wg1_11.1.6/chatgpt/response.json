@@ -1,0 +1,87 @@
+[
+  {
+    "scenario": "The table shows the risk ratio for annual hottest daytime temperature (TXx) under different global warming levels. Values are relative to present-day (+1°C), where the reference risk ratio is 1. At +1.5°C, the risk ratio is 3.3, and at +2°C, it is 8.2. At +3°C and higher, this metric is not assessed.",
+    "question": "By how much does the probability of the hottest daytime temperature increase when global warming rises from +1.5°C to +2°C?",
+    "options": {
+      "A": "By 2.5 times",
+      "B": "By 3.0 times",
+      "C": "By 4.9 times",
+      "D": "By 8.2 times"
+    },
+    "correct_answer": "A",
+    "explanation": "The risk ratio increases from 3.3 at +1.5°C to 8.2 at +2°C, which is approximately 2.5 times higher.",
+    "data_source": "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2",
+    "scenario_type": "trend_identification",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "scenario": "The table provides the probability of co-occurrence of extreme hot days and extreme dry days in the same week for the Amazon region. At +1°C, the probability is 0%. At +1.5°C, it is about 1 week in 20 years. At +2°C, it increases to about 4–5 weeks in 20 years, and at +3°C, it exceeds 9 weeks in 20 years.",
+    "question": "What is the approximate increase in co-occurrence probability of extreme hot and dry days between +2°C and +3°C warming levels?",
+    "options": {
+      "A": "About 2 weeks",
+      "B": "About 4–5 weeks",
+      "C": "About 5–6 weeks",
+      "D": "About 9 weeks"
+    },
+    "correct_answer": "B",
+    "explanation": "The probability increases from about 4–5 weeks at +2°C to more than 9 weeks at +3°C, an increase of approximately 4–5 weeks.",
+    "data_source": "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2",
+    "scenario_type": "anomaly_interpretation",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "scenario": "The table lists the number of 1–5 day duration extreme floods in the Indian subcontinent. At +1°C, there are up to 3 floods in individual locations. At +1.5°C, this increases to up to 5 floods. At +2°C, most locations experience 2–6 floods, and at +4°C, the number rises to up to 12 floods in individual locations.",
+    "question": "Which warming level sees the largest increase in the maximum number of floods compared to the previous assessed level?",
+    "options": {
+      "A": "+1°C to +1.5°C",
+      "B": "+1.5°C to +2°C",
+      "C": "+2°C to +4°C",
+      "D": "The increase is the same across all levels."
+    },
+    "correct_answer": "C",
+    "explanation": "The maximum number of floods increases by 6 (from 6 to 12) between +2°C and +4°C, which is the largest jump compared to other intervals.",
+    "data_source": "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2",
+    "scenario_type": "comparison",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "scenario": "The table shows the projected soil moisture drought duration per year in the Mediterranean region. At +1°C, the duration is 41 days, increasing to 58 days at +1.5°C, 71 days at +2°C, and 125 days at +3°C.",
+    "question": "What percentage increase in drought duration occurs when global warming rises from +1.5°C to +3°C?",
+    "options": {
+      "A": "86%",
+      "B": "117%",
+      "C": "150%",
+      "D": "215%"
+    },
+    "correct_answer": "B",
+    "explanation": "The drought duration increases from 58 days at +1.5°C to 125 days at +3°C. The percentage increase is ((125 - 58) / 58) * 100 = 117%.",
+    "data_source": "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2",
+    "scenario_type": "projection_reading",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "scenario": "The table shows the increase in regional mean fire season length (in days) relative to 1981–2000. At +1.5°C, the increase is 6.2 days. At +2°C, it is 9.5 days. At +4°C, the increase is about 50 days.",
+    "question": "By what factor does the increase in fire season length at +4°C compare to the increase at +2°C?",
+    "options": {
+      "A": "About 4 times",
+      "B": "About 5 times",
+      "C": "About 6 times",
+      "D": "About 7 times"
+    },
+    "correct_answer": "B",
+    "explanation": "The increase at +4°C (50 days) is approximately 5 times the increase at +2°C (9.5 days).",
+    "data_source": "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2",
+    "scenario_type": "index_reading",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

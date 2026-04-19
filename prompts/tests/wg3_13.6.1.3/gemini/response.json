@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, what tends to be true for countries with higher overall effective carbon prices?",
+    "options": {
+      "A": "They generally have higher fossil fuel subsidies and increased emissions.",
+      "B": "They tend to have lower carbon intensity of energy supply and lower emissions intensity of the economy.",
+      "C": "They primarily rely on industrial process emissions reductions.",
+      "D": "Their carbon prices typically cover all total emissions."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states: 'Countries with higher overall effective carbon prices tend to have lower carbon intensity of energy supply and lower emissions intensity of the economy'.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "The passage states that the carbon price under a carbon tax or ETS is not directly a measure of policy stringency across an economy. What are two reasons provided for this limitation?",
+    "options": {
+      "A": "It only covers a share of total emissions, and rebates or free allowance allocations can limit effectiveness.",
+      "B": "It primarily impacts industrial process emissions, and its effects are complex to identify.",
+      "C": "It leads to low mitigation incentives, and its impact is difficult to attribute to policy effort.",
+      "D": "It provides implicit subsidies to CO2 emissions, and its estimates differ greatly between countries."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage explains: 'the carbon prices typically only cover a share of total emissions, and rebates or free allowance allocations can limit effectiveness'.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "What is identified as the primary reason why estimating the overall effectiveness of mitigation policies is difficult?",
+    "options": {
+      "A": "The variability of effective carbon prices between different countries and sectors.",
+      "B": "The prevalence of fossil fuel subsidies that provide incentives to increase emissions.",
+      "C": "The need to distinguish changes attributable to policy effort from those due to other factors.",
+      "D": "The limited impact of pricing policies on emissions with higher abatement costs."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states: 'Estimating the overall effectiveness of mitigation policies is difficult because of the need to identify which observed changes in emissions and their drivers are attributable to policy effort and which to other factors'.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "According to the passage, emissions pricing policies primarily encourage the reduction of which type of emissions?",
+    "options": {
+      "A": "Emissions where the marginal abatement cost is higher than the tax or allowance price.",
+      "B": "Industrial process emissions, due to their significant contribution to overall emissions.",
+      "C": "Emissions whose marginal abatement cost is lower than the tax or allowance price.",
+      "D": "Emissions from fossil fuel consumption that receive implicit subsidies from trade policy."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states: 'emissions pricing policies encourage reduction of emissions whose marginal abatement cost is lower than the tax/allowance price'.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "The passage states that in most countries, trade policy provides an implicit subsidy to CO2 emissions. Based on the overall context of the passage, what is the likely implication of this for climate mitigation efforts?",
+    "options": {
+      "A": "It makes estimating the overall effectiveness of mitigation policies easier by simplifying emissions attribution.",
+      "B": "It encourages reductions in industrial process emissions by increasing their marginal abatement costs.",
+      "C": "It may provide incentives to increase emissions, thereby limiting the effectiveness of mitigation policies.",
+      "D": "It leads to lower carbon intensity of energy supply in countries that implement such policies."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that 'other policies, such as fossil fuel subsidies, may provide incentives to increase emissions thus limiting the effectiveness of the mitigation policy,' and then notes 'in most countries trade policy provides an implicit subsidy to CO2 emissions,' implying a similar limiting effect.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3",
+    "category": "Policy and Governance",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

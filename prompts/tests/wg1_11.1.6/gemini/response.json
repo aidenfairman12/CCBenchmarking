@@ -1,0 +1,87 @@
+[
+  {
+    "scenario": "The following data shows the risk ratio for annual hottest daytime temperature (TXx) for global land, relative to present-day warming (+1°C). A risk ratio of 1 means the probability is the same as present-day.",
+    "question": "Based on the data provided, how much greater is the risk ratio for annual hottest daytime temperature (TXx) at +2°C global warming compared to +1.5°C global warming?",
+    "options": {
+      "A": "3.3 times greater",
+      "B": "4.9 times greater",
+      "C": "8.2 times greater",
+      "D": "11.5 times greater"
+    },
+    "correct_answer": "B",
+    "explanation": "The risk ratio at +2°C is 8.2 and at +1.5°C is 3.3. The difference is 8.2 - 3.3 = 4.9.",
+    "data_source": "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2",
+    "scenario_type": "trend_identification",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "scenario": "The table below shows the projected number of 'extreme extremes' hot days over 20 years in most global land locations, for different global warming levels, where the reference event had a 1/1000 probability at the end of the 20th century.",
+    "question": "According to the data, at which global warming level does the number of 'extreme extremes' hot days over 20 years reach approximately 500 days in most locations?",
+    "options": {
+      "A": "+1°C",
+      "B": "+1.5°C",
+      "C": "+2°C",
+      "D": "+3°C"
+    },
+    "correct_answer": "D",
+    "explanation": "The data explicitly states that at +3°C, there are 'About 500 days in 20 years in most locations' for 'extreme extremes' hot days.",
+    "data_source": "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2",
+    "scenario_type": "projection_reading",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "scenario": "The following data describes the projected soil moisture drought duration per year in the Mediterranean region, relative to late 20th century conditions.",
+    "question": "What is the projected duration of soil moisture drought per year in the Mediterranean region at +1.5°C global warming, and what does this represent as a percentage increase compared to the late 20th century?",
+    "options": {
+      "A": "41 days, representing a 46% increase",
+      "B": "58 days, representing a 107% increase",
+      "C": "71 days, representing a 154% increase",
+      "D": "125 days, representing a 346% increase"
+    },
+    "correct_answer": "B",
+    "explanation": "The data states that at +1.5°C, the projected soil moisture drought duration is '58 days (+107% compared to late 20th century)'.",
+    "data_source": "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2",
+    "scenario_type": "anomaly_interpretation",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "scenario": "Consider the increase in days exposed to dangerous extreme heat (Health Heat Index >40.6°C) for global land, relative to a 1981–2000 baseline, and the increase in regional mean fire season length for global land, relative to the same 1981–2000 baseline.",
+    "question": "Comparing +1.5°C and +2°C global warming levels, which of the following statements about the *additional* increase in extreme events is true?",
+    "options": {
+      "A": "The additional increase in fire season length is greater than the additional increase in dangerous heat risk ratio.",
+      "B": "The additional increase in dangerous heat risk ratio is greater than the additional increase in fire season length.",
+      "C": "Both dangerous heat risk and fire season length increase by the same additional amount.",
+      "D": "Dangerous heat risk decreases while fire season length increases from +1.5°C to +2°C."
+    },
+    "correct_answer": "A",
+    "explanation": "For dangerous heat, the additional increase from +1.5°C (1.6 times) to +2°C (2.3 times) is 0.7 times. For fire season length, the additional increase from +1.5°C (+6.2 days) to +2°C (+9.5 days) is 3.3 days. Therefore, the additional increase in fire season length (3.3 days) is greater than the additional increase in dangerous heat risk ratio (0.7 times).",
+    "data_source": "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2",
+    "scenario_type": "comparison",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "scenario": "Consider the risk ratio for annual hottest daytime temperature (TXx) and the risk ratio for heavy precipitation events (Rx1day), both for global land with a 1% probability under present-day warming (+1°C) as reference.",
+    "question": "When global warming increases from +1.5°C to +2°C, which extreme event shows a larger *percentage increase* in its risk ratio?",
+    "options": {
+      "A": "Annual hottest daytime temperature (TXx) shows a 148% increase, while heavy precipitation (Rx1day) shows a 25% increase.",
+      "B": "Annual hottest daytime temperature (TXx) shows a 490% increase, while heavy precipitation (Rx1day) shows a 50% increase.",
+      "C": "Both events show roughly the same percentage increase in risk ratio.",
+      "D": "Heavy precipitation (Rx1day) shows a larger percentage increase in risk ratio."
+    },
+    "correct_answer": "A",
+    "explanation": "For TXx, the risk ratio increases from 3.3 to 8.2. The percentage increase is ((8.2 - 3.3) / 3.3) * 100% = (4.9 / 3.3) * 100% ≈ 148.48%. For Rx1day, the risk ratio increases from 1.2 to 1.5. The percentage increase is ((1.5 - 1.2) / 1.2) * 100% = (0.3 / 1.2) * 100% = 25%. Thus, TXx has a larger percentage increase.",
+    "data_source": "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2",
+    "scenario_type": "comparison",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

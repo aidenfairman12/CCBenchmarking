@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is an alternative name for regression-based methods used for detection and attribution of climate change?",
+    "options": {
+      "A": "Statistical modeling",
+      "B": "Fingerprinting methods",
+      "C": "Optimal scaling analysis",
+      "D": "Covariance matrix estimation"
+    },
+    "correct_answer": "B",
+    "explanation": "The first sentence of the passage states, 'Regression-based methods, also known as fingerprinting methods, have been widely used for detection of climate change and attribution of the change to different external drivers.'",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.2.1",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "According to the passage, which specific condition indicates that the magnitude of model simulated fingerprints is consistent with observations, implying attribution to a particular forcing?",
+    "options": {
+      "A": "The regression coefficient is significantly greater than zero.",
+      "B": "The confidence interval of the regression coefficient includes unity and is inconsistent with zero.",
+      "C": "The internal variability is normalized by the inverse covariance matrix.",
+      "D": "The observed change consists of a linear combination of externally forced signals."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states, 'When the confidence interval of the regression coefficient includes unity and is inconsistent with zero, the magnitude of the model simulated fingerprints is assessed to be consistent with the observations, implying that the observed changes can be attributed in part to a particular forcing.'",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.2.1",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "What is a key characteristic of the 'integrated approach to optimal fingerprinting' suggested by Hannart (2016)?",
+    "options": {
+      "A": "It relies on a bootstrap method to estimate confidence intervals in weak-signal regimes.",
+      "B": "It avoids the assumption that model error and internal variability share the same covariance structure.",
+      "C": "It incorporates all uncertainty sources (observational error, model error, and internal variability) into one statistical model without a preliminary dimension reduction step.",
+      "D": "It primarily focuses on optimizing fingerprints for improved detection, even with increased complexity."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage notes that Hannart (2016) suggested 'an integrated approach to optimal fingerprinting... in which all uncertainty sources (i.e., observational error, model error, and internal variability) are treated in one statistical model without a preliminary dimension reduction step.'",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.2.1",
+    "category": "Attribution Science",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "How are the 'fingerprints' (expected space-time response patterns to different climate forcings) typically estimated in regression-based attribution methods?",
+    "options": {
+      "A": "By direct observation of real-world climate changes over long periods.",
+      "B": "Through statistical analysis of historical climate data without models.",
+      "C": "From climate model simulations following spatial and temporal averaging.",
+      "D": "By expert judgment and qualitative assessments of climate forcings."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage explicitly states, 'Fingerprints are usually estimated from climate model simulations following spatial and temporal averaging.'",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.2.1",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "When observations and model-simulated responses are normalized by an estimate of internal variability, what specific issue is highlighted as a potential problem if the noise estimate is too small?",
+    "options": {
+      "A": "The model-simulated variability cannot be adequately checked.",
+      "B": "A signal can be spuriously detected.",
+      "C": "The confidence intervals of scaling factors become too wide.",
+      "D": "The integrated approach to optimal fingerprinting becomes infeasible."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states, 'A signal can be spuriously detected due to too-small noise, and hence simulated internal variability needs to be evaluated with care.'",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.2.1",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

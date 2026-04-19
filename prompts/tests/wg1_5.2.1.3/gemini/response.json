@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What does the term 'Socean' represent in this assessment, according to the provided text?",
+    "options": {
+      "A": "The global mean ocean CO2 sink.",
+      "B": "The net spatially varying CO2 fluxes.",
+      "C": "The amount of CO2 exchanged across the air-sea boundary.",
+      "D": "The total anthropogenic CO2 emissions from oceans."
+    },
+    "correct_answer": "A",
+    "explanation": "The text states: 'Two definitions of air–sea fluxes of CO2 are used in this assessment for both observational products and models: Socean is the global mean ocean CO2 sink and Fnet denotes the net spatially varying CO2 fluxes'.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "The assessment of trends and variability of air–sea fluxes and storage of CO2 in the ocean covers which historical period?",
+    "options": {
+      "A": "1990–2020",
+      "B": "1950–2010",
+      "C": "1960–2018",
+      "D": "2000–2018"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage specifies the 'historical period (1960–2018)' for the assessment of trends and variability of air–sea fluxes and storage of CO2.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "According to the passage, what are the two abiotic steps involved in the ocean uptake of anthropogenic carbon?",
+    "options": {
+      "A": "Formation of carbonic acid in the atmosphere and its subsequent deposition into the ocean interior.",
+      "B": "Biological uptake by marine organisms in the surface layer, followed by sedimentation.",
+      "C": "Exchange of CO2 across the air–sea boundary into the surface mixed layer, followed by transport into the ocean interior.",
+      "D": "Absorption of CO2 by marine plants and its conversion to biomass, then sinking to the seafloor."
+    },
+    "correct_answer": "C",
+    "explanation": "The text describes the ocean uptake of anthropogenic carbon as 'a two-step set of abiotic processes that involves the exchange of CO2, first across the air–sea boundary into the surface mixed layer, followed by its transport into the ocean interior'.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Which of the following factors are identified as largely influencing air–sea fluxes and storage of anthropogenic CO2 in the historical period (1960–2018)?",
+    "options": {
+      "A": "Volcanic activity, solar radiation, and terrestrial carbon uptake.",
+      "B": "Atmospheric CO2 concentrations, physical ocean processes, and physicochemical carbonate chemistry.",
+      "C": "Ocean temperature, salinity levels, and prevailing wind patterns.",
+      "D": "Human population growth, industrial emissions, and deforestation rates."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'air–sea fluxes and storage of anthropogenic CO2 are largely influenced by atmospheric CO2 concentrations, physical ocean processes and physicochemical carbonate chemistry'.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "The passage describes a 'major advance since SROCC' related to published observational product fluxes. What was the primary benefit of this advance for the assessment?",
+    "options": {
+      "A": "It enabled the direct measurement of CO2 storage duration in the deep ocean, previously unquantifiable.",
+      "B": "It led to a significant expansion of the global network of ocean CO2 observation stations.",
+      "C": "It improved the comparability of different observational products, thereby increasing confidence in the assessment of trends and variability.",
+      "D": "It provided new methods for separating anthropogenic CO2 from natural CO2 in the ocean's surface mixed layer."
+    },
+    "correct_answer": "C",
+    "explanation": "The text states that 'A major advance since SROCC is that, for the first time, all six published observational product fluxes used in this assessment, are made more comparable', and this, along with other advances, 'have increased the level of confidence in the assessment of trends and variability of air–sea fluxes and storage of CO2'.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

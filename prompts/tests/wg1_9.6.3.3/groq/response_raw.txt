@@ -1,0 +1,46 @@
+### Question 1 (Easy)
+What is the median projected contribution of thermal expansion to sea level rise by 2100 under the SSP1-1.9 scenario?
+
+A) 0.09 m
+B) 0.12 m
+C) 0.15 m
+D) 0.18 m
+
+### Question 2 (Medium)
+Comparing the total sea level rise projections for the year 2050, what is the difference between the median values for the SSP2-4.5 and SSP1-2.6 scenarios?
+
+A) 0.01 m
+B) 0.02 m
+C) 0.01 m
+D) 0.08 m
+
+### Question 3 (Medium)
+For the period 2080–2100, what is the average rate of total sea level change under the SSP5-8.5 scenario, considering the likely range?
+
+A) 8.6 mm yr⁻¹ to 17.6 mm yr⁻¹
+B) 5.6 mm yr⁻¹ to 9.7 mm yr⁻¹
+C) 7.4 mm yr⁻¹ to 14.8 mm yr⁻¹
+D) 2.4 mm yr⁻¹ to 6.6 mm yr⁻¹
+
+### Question 4 (Easy)
+What is the median projected contribution of glaciers to sea level rise by 2100 under the SSP3-7.0 scenario?
+
+A) 0.10 m
+B) 0.12 m
+C) 0.15 m
+D) 0.16 m
+
+### Question 5 (Hard)
+Considering the total sea level rise projections for the year 2100 across all scenarios, which scenario has the largest difference between its lower and upper bounds of the likely range?
+
+A) SSP1-1.9
+B) SSP5-8.5 (Low Conf.)
+C) SSP5-8.5
+D) SSP3-7.0
+
+### Answers
+1. B) 0.12 m
+2. B) 0.01 m
+3. A) 8.6 mm yr⁻¹ to 17.6 mm yr⁻¹
+4. D) 0.16 m
+5. B) SSP5-8.5 (Low Conf.)

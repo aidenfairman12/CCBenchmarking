@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the time period considered as the historical period in the assessment of trends and variability of air–sea fluxes and storage of CO2 in the ocean?",
+    "options": {
+      "A": "1960–2018",
+      "B": "1950–2000",
+      "C": "1980–2010",
+      "D": "1900–1950"
+    },
+    "correct_answer": "A",
+    "explanation": "The historical period is specified in the source passage as 1960–2018.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the two-step process involved in the ocean uptake of anthropogenic carbon?",
+    "options": {
+      "A": "Exchange of CO2 across the air–sea boundary into the atmosphere, followed by its transport into the ocean interior",
+      "B": "Exchange of CO2 across the air–sea boundary into the surface mixed layer, followed by its transport into the ocean interior",
+      "C": "Transport of CO2 into the ocean interior, followed by its exchange across the air–sea boundary into the surface mixed layer",
+      "D": "Storage of CO2 in the ocean interior, followed by its release back into the atmosphere"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that the ocean uptake of anthropogenic carbon is a two-step set of abiotic processes that involves the exchange of CO2, first across the air–sea boundary into the surface mixed layer, followed by its transport into the ocean interior.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the definition of Socean in the context of air–sea fluxes of CO2?",
+    "options": {
+      "A": "The net spatially varying CO2 flux",
+      "B": "The global mean ocean CO2 source",
+      "C": "The global mean ocean CO2 sink",
+      "D": "The pre-industrial sea-to-air CO2 flux"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage defines Socean as the global mean ocean CO2 sink.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What factors largely influence air–sea fluxes and storage of anthropogenic CO2 in the historical period?",
+    "options": {
+      "A": "Atmospheric CO2 concentrations, physical ocean processes, and biological ocean processes",
+      "B": "Atmospheric CO2 concentrations, physical ocean processes, and physicochemical carbonate chemistry",
+      "C": "Atmospheric CO2 concentrations, biological ocean processes, and physicochemical carbonate chemistry",
+      "D": "Physical ocean processes, biological ocean processes, and physicochemical carbonate chemistry"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that air–sea fluxes and storage of anthropogenic CO2 are largely influenced by atmospheric CO2 concentrations, physical ocean processes, and physicochemical carbonate chemistry.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the relationship between the ocean carbon sink and global anthropogenic CO2 emissions during the historical period?",
+    "options": {
+      "A": "The ocean carbon sink has decreased in response to global anthropogenic CO2 emissions",
+      "B": "The ocean carbon sink has remained constant in response to global anthropogenic CO2 emissions",
+      "C": "The ocean carbon sink has grown in response to global anthropogenic CO2 emissions",
+      "D": "The ocean carbon sink is not related to global anthropogenic CO2 emissions"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that the ocean carbon sink and its associated ocean carbon storage have grown in response to global anthropogenic CO2 emissions during the historical period.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

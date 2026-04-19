@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, what environmental conditions in 2015 preceded the 2016 Zika virus outbreak in South America?",
+    "options": {
+      "A": "Record high temperatures and severe drought conditions",
+      "B": "Record high precipitation and flooding events",
+      "C": "Unusually cold temperatures and high humidity",
+      "D": "Prolonged heatwaves and increased deforestation"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states that the Zika virus outbreak in South America in 2016 'followed a period of record high temperatures and severe drought conditions in 2015.'",
+    "source": "IPCC AR6 WG2 Chapter on Vector-Borne Diseases",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "In which European countries was West Nile fever first detected in birds before spreading to humans in 2019 and 2020?",
+    "options": {
+      "A": "France and Spain",
+      "B": "Sweden and Austria",
+      "C": "Germany and the Netherlands",
+      "D": "Italy and Greece"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage explicitly states that 'In 2019 and 2020, West Nile fever was first detected in birds and subsequently in humans in Germany and the Netherlands.'",
+    "source": "IPCC AR6 WG2 Chapter on Vector-Borne Diseases",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "How did drought conditions in 2015 contribute to the range expansion of Aedes aegypti in South America, according to the passage?",
+    "options": {
+      "A": "Drought reduced the number of natural predators of Aedes aegypti, allowing populations to grow unchecked",
+      "B": "Drought caused people to store water in household containers, providing more breeding sites for the vector",
+      "C": "Drought forced Aedes aegypti to migrate from rural to urban environments in search of water",
+      "D": "Drought increased average temperatures to levels optimal for Aedes aegypti reproduction"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'Increased use of household water storage containers during the drought is correlated with a range expansion of Aedes aegypti during this period, increasing household exposure to the vector.'",
+    "source": "IPCC AR6 WG2 Chapter on Vector-Borne Diseases",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "The passage assigns different confidence levels to climate change's role in spreading Lyme disease vectors in North America versus Europe. Which statement correctly characterizes this distinction?",
+    "options": {
+      "A": "Both the North American and European Lyme disease vector spread are attributed with high confidence",
+      "B": "The spread of Ixodes scapularis in North America is high confidence, while the spread of Ixodes ricinus in Europe is medium confidence",
+      "C": "The spread of Ixodes ricinus in Europe is high confidence, while the spread of Ixodes scapularis in North America is medium confidence",
+      "D": "Both the North American and European Lyme disease vector spread are attributed with medium confidence"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states climate change contributed to the spread of Ixodes scapularis in North America with 'high confidence' and the spread of Ixodes ricinus in Europe with 'medium confidence.'",
+    "source": "IPCC AR6 WG2 Chapter on Vector-Borne Diseases",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "Based on the passage, which of the following best explains why the 2018 West Nile outbreak in Europe was considered 'exceptional,' and what climatic factor is identified as the likely mechanism?",
+    "options": {
+      "A": "It was exceptional in geographic spread, driven primarily by increased relative humidity suppressing vector predators",
+      "B": "It was exceptional in scale, and above-average temperature and precipitation before the outbreak may have caused an early upsurge of the vector population",
+      "C": "It was exceptional because it was the first West Nile outbreak in Europe, caused by temperatures exceeding the 1981–2010 average for the first time",
+      "D": "It was exceptional in mortality rate, driven by a combination of drought conditions and warmer winters that expanded vector habitat"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage describes the 2018 West Nile outbreak as 'exceptional' and notes that above-average temperature and precipitation prior to the outbreak 'may have contributed to an early upsurge of the vector population,' while making no claim it was the first such outbreak or referencing mortality rates.",
+    "source": "IPCC AR6 WG2 Chapter on Vector-Borne Diseases",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "hard",
+    "generated_by": "Claude Sonnet"
+  }
+]

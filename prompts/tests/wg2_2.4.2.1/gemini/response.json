@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the confidence level assigned to the attribution of ongoing latitudinal and elevational range shifts to climate change?",
+    "options": {
+      "A": "High confidence",
+      "B": "Medium confidence",
+      "C": "Very high confidence",
+      "D": "Low confidence"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states, 'Ongoing latitudinal and elevational range shifts driven by regional climate trends are now well-established globally across many groups of organisms, and attributable to climate change with very high confidence'.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "In Alaska during the 1990s, how did warm weather specifically affect the life cycle of spruce beetles?",
+    "options": {
+      "A": "It extended their life cycle from one year to two.",
+      "B": "It halved their life cycle from two years to one.",
+      "C": "It had no observable effect on their life cycle duration.",
+      "D": "It increased their life cycle from one year to three."
+    },
+    "correct_answer": "B",
+    "explanation": "The text explicitly states that warm weather 'in Alaska, facilitated a halving of the insect’s life cycle from two years to one'.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "According to the passage, what effect did Land-Use and Land-Cover Change (LULCC) primarily have on wild species' ability to track climate change, as concluded by many studies since AR4?",
+    "options": {
+      "A": "LULCC accelerated the rate of species' range shifts.",
+      "B": "LULCC increased the proportion of species changing in directions expected from climate change.",
+      "C": "LULCC impeded wild species from effectively tracking climate change.",
+      "D": "LULCC had no discernible effect on species' ability to track climate change."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that authors of studies since AR4 concluded 'that LULCC, particularly habitat loss and fragmentation, was impeding wild species from effectively tracking climate change'.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Based on current predictions mentioned in the passage, what is the outlook for damage caused by major insect pest species as climate warms?",
+    "options": {
+      "A": "The majority (41%) will reduce their damage, while only 4% will increase it.",
+      "B": "An equal proportion (41%) will increase damage as will show mixed responses.",
+      "C": "A substantial proportion (41%) will increase their damage, with only a small minority (4%) reducing impacts.",
+      "D": "Almost all major insect pest species (95%) will either reduce their damage or show mixed responses."
+    },
+    "correct_answer": "C",
+    "explanation": "The text predicts 'that 41% of major insect pest species will further increase their damage as climate warms, and only 4% will reduce their impacts, while the rest will show mixed responses'.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "The passage describes two distinct approaches to studying species' responses to climate change: early attribution studies and more recent large-scale, multi-species meta-analyses. Which of the following best describes a key difference in their methodology and subsequent findings?",
+    "options": {
+      "A": "Attribution studies focused on broad geographical areas and found species effectively tracking climate change, while meta-analyses focused on specific mechanisms and found lags.",
+      "B": "Attribution studies were designed to differentiate climate change effects from other variables and confirmed range shifts, whereas meta-analyses, not designed for attribution, found habitat loss impeding tracking.",
+      "C": "Early studies primarily included data from degraded lands, leading to conclusions about LULCC, while recent meta-analyses only used data from undisturbed lands, showing clear climate signals.",
+      "D": "Attribution studies tended to find a lower proportion of species changing as expected, whereas meta-analyses, with their short-term data, found greater consistency in tracking."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that attribution studies had a 'robust mechanistic understanding' and confirmed range shifts with 'very high confidence', while meta-analyses 'tended not to be designed as attribution studies' and found 'LULCC...was impeding wild species from effectively tracking climate change'.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

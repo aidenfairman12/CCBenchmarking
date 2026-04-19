@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, what does the set of Shared Socio-economic Pathways (SSPs) establish?",
+    "options": {
+      "A": "A matrix of global forcing levels and socio-economic storylines.",
+      "B": "A definitive prediction of future CO2, non-CO2 GHGs, aerosols, and land use pathways.",
+      "C": "The specific 1.5°C Paris Agreement goal for all nations.",
+      "D": "Guidelines for developing short-lived climate forcers (SLCFs) projections."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states, 'the set of SSPs therefore establishes a matrix of global forcing levels and socio-economic storylines.'",
+    "source": "IPCC AR6 WG1 Chapter 4",
+    "category": "Climate Modeling Scenarios",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Which Shared Socio-economic Pathway (SSP) scenario is explicitly identified as directly relevant to the assessment of the 1.5°C Paris Agreement goal?",
+    "options": {
+      "A": "SSP1-2.6",
+      "B": "SSP2-4.5",
+      "C": "SSP1-1.9",
+      "D": "SSP5-8.5"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage specifies, 'this chapter focuses its assessment on these, plus the SSP1-1.9 scenario, which is directly relevant to the assessment of the 1.5°C Paris Agreement goal.'",
+    "source": "IPCC AR6 WG1 Chapter 4",
+    "category": "Climate Modeling Scenarios",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Despite the SSP1-1.9 scenario's relevance to the 1.5°C Paris Agreement goal, why is SSP1-2.6 preferred over SSP1-1.9 for presentations like maps in the chapter?",
+    "options": {
+      "A": "SSP1-2.6 represents a more sustainable pathway, making it more informative for geographical representations.",
+      "B": "SSP1-1.9 has far fewer simulations available compared to SSP1-2.6.",
+      "C": "SSP1-2.6 offers better backwards compatibility with AR5, which is crucial for map comparisons.",
+      "D": "The 5–95% range for SSP1-2.6 is clearer and more concise for maps due to space restrictions."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explicitly states, 'SSP1-2.6 is preferred over SSP1-1.9 because the latter has far fewer simulations available.'",
+    "source": "IPCC AR6 WG1 Chapter 4",
+    "category": "Climate Modeling Scenarios",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "In the chapter's time series figures, what specific type of information is consistently presented for *all five* assessed Shared Socio-economic Pathways (SSPs)?",
+    "options": {
+      "A": "The multi-model mean change.",
+      "B": "The 5–95% range.",
+      "C": "Low-likelihood, high-warming storylines.",
+      "D": "Comparison between emissions-driven and concentration-driven simulations."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage notes, 'in time series figures we show multi-model mean change for all five SSPs but for clarity 5–95% range only for SSP1-2.6 and SSP3-7.0,' indicating the mean change is shown for all five.",
+    "source": "IPCC AR6 WG1 Chapter 4",
+    "category": "Climate Modeling Scenarios",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Even though SSP5-8.5 has been argued to be implausible, the chapter still presents results for this scenario due to several specific reasons. Which combination of reasons accurately reflects those stated in the passage?",
+    "options": {
+      "A": "To enable comparison between emissions-driven and concentration-driven simulations, for backwards compatibility with AR5, and because of greater data availability for daily output.",
+      "B": "To highlight sustainable development pathways, to assess the 1.5°C Paris Agreement goal, and because it represents the middle-of-the-road scenario.",
+      "C": "To show low-likelihood, high-warming storylines, for assessing short-lived climate forcers, and as a primary focus for multi-model mean change in maps.",
+      "D": "To exemplify regional rivalry, to provide the most conservative future projection, and due to the extensive number of available simulations."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage lists reasons for showing SSP5-8.5: 'to enable backwards compatibility with AR5, for comparison between emissions-driven and concentration-driven simulations, and because there is greater data availability of daily output for SSP5-8.5. When presenting low-likelihood, high-warming storylines we also show results from the high-end SSP5-8.5 scenario.' Option A accurately captures three of these distinct reasons.",
+    "source": "IPCC AR6 WG1 Chapter 4",
+    "category": "Climate Modeling Scenarios",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

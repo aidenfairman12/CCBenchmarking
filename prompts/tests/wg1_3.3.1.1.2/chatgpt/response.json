@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What was assessed with high confidence in AR5 regarding the 20th century warming?",
+    "options": {
+      "A": "It reversed a 5000-year cooling trend in Northern Hemisphere mid- to high latitudes.",
+      "B": "It was primarily caused by increased volcanic activity.",
+      "C": "It was driven entirely by changes in solar forcing.",
+      "D": "It was not influenced by anthropogenic factors."
+    },
+    "correct_answer": "A",
+    "explanation": "AR5 assessed with high confidence that the 20th century warming reversed a 5000-year cooling trend in Northern Hemisphere mid- to high latitudes due to anthropogenic forcing.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2",
+    "category": "Historical Climate Trends",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What was the primary factor attributed to global and Northern Hemisphere temperature changes from 864 to 1840?",
+    "options": {
+      "A": "Solar forcing",
+      "B": "Greenhouse gas forcing",
+      "C": "Volcanic forcing",
+      "D": "Internal variability"
+    },
+    "correct_answer": "C",
+    "explanation": "Global and Northern Hemisphere temperature changes during this period were attributed mostly to volcanic forcing, as stated in the source.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "How do recent attribution studies address uncertainties in internal variability?",
+    "options": {
+      "A": "By ignoring internal variability in attribution models",
+      "B": "By accounting for it explicitly or implicitly",
+      "C": "By focusing only on external forcings like greenhouse gases",
+      "D": "By assuming internal variability is constant over time"
+    },
+    "correct_answer": "B",
+    "explanation": "The source mentions that recent studies address uncertainties in internal variability either explicitly or implicitly, improving attribution confidence.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2",
+    "category": "Attribution Science",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is the impact of accounting for observational uncertainty on the warming attributable to greenhouse gases?",
+    "options": {
+      "A": "It reduces the range of warming by 50%.",
+      "B": "It increases the range of warming by 10 to 30%.",
+      "C": "It has no measurable impact on the range of warming.",
+      "D": "It eliminates uncertainties about internal variability."
+    },
+    "correct_answer": "B",
+    "explanation": "The source states that accounting for observational uncertainty increases the range of warming attributable to greenhouse gases by 10 to 30%.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why are GMST (Global Mean Surface Temperature) and GSAT (Global Surface Air Temperature) treated together in attribution studies?",
+    "options": {
+      "A": "Because they are identical by definition.",
+      "B": "Because the scaling factor between them is assessed to be one.",
+      "C": "Because GMST is more accurate than GSAT for attribution.",
+      "D": "Because GSAT cannot be measured directly."
+    },
+    "correct_answer": "B",
+    "explanation": "The source specifies that GMST and GSAT are treated together because the scaling factor between them is assessed to be one.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2",
+    "category": "Attribution Science",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to AR5, what was the primary cause of the reversal of a 5000-year cooling trend in Northern Hemisphere mid- to high latitudes during the 20th century?",
+    "options": {
+      "A": "Orbital forcing",
+      "B": "Volcanic forcing",
+      "C": "Anthropogenic forcing",
+      "D": "Solar forcing"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states, 'AR5 assessed with high confidence that the 20th century annual mean surface temperature warming reversed a 5000-year cooling trend in Northern Hemisphere mid- to high latitudes caused by orbital forcing, and attributed the reversal to anthropogenic forcing with high confidence'.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "For the period 864 to 1840, what was the primary forcing attributed to global and Northern Hemisphere temperature changes, and how did this compare to the Southern Hemisphere?",
+    "options": {
+      "A": "Greenhouse gas forcing was primary in both hemispheres.",
+      "B": "Volcanic forcing was primary in the Northern Hemisphere, but these forcings were not detectable in the Southern Hemisphere.",
+      "C": "Solar forcing was primary globally, with a larger effect in the Southern Hemisphere.",
+      "D": "Orbital forcing was primary in the Northern Hemisphere, and also detectable in the Southern Hemisphere."
+    },
+    "correct_answer": "B",
+    "explanation": "The text states, 'Global and Northern Hemisphere temperature changes from reconstructions over this period have been attributed mostly to volcanic forcing... In contrast, the effect of those forcings was not detectable in the Southern Hemisphere'.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Regarding observed warming since the mid-20th century, what was AR5's assessment of human influence?",
+    "options": {
+      "A": "It was highly probable that human influence played a minor role.",
+      "B": "It was virtually certain that human influence was not a significant factor.",
+      "C": "It was extremely likely that human influence was the dominant cause.",
+      "D": "It was equally likely that natural variability and human influence contributed."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states, 'AR5 assessed that it was extremely likely that human influence was the dominant cause of the observed warming since the mid-20th century'.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Since the AR5 report, methodological advances in attribution studies have contributed to increased confidence in results by primarily addressing which of the following?",
+    "options": {
+      "A": "Focusing solely on global surface air temperature (GSAT) measurements to reduce data discrepancies.",
+      "B": "Expanding the range of warming attributable to greenhouse gases by a fixed 50% across all studies.",
+      "C": "Improving the accounting for uncertainties in observations, models, internal variability, and reducing dependence on climate sensitivity estimates.",
+      "D": "Eliminating the need for climate models entirely by relying only on statistical and econometric approaches."
+    },
+    "correct_answer": "C",
+    "explanation": "The text details advances including 'better accounting for observational and model uncertainties, and internal variability' and 'reducing the dependence of the attribution on uncertainties in climate sensitivity and forcing', concluding that 'The larger range of attribution techniques and improvements to those techniques increase confidence in the results compared to AR5'.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2",
+    "category": "Attribution Science",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "According to the passage, what is the effect of accounting for observational uncertainty in attribution studies, and how are GMST and GSAT treated in deriving warming ranges?",
+    "options": {
+      "A": "Accounting for observational uncertainty significantly decreases the attributable warming, and GMST is preferred over GSAT due to a scaling factor of zero.",
+      "B": "Accounting for observational uncertainty increases the attributable warming by 10 to 30%, and GMST and GSAT studies are treated together because their scaling factor is one.",
+      "C": "Accounting for observational uncertainty has no impact on attributable warming, but GSAT is always used exclusively due to its higher accuracy.",
+      "D": "Accounting for observational uncertainty increases the attributable warming by less than 10%, and GMST and GSAT are considered distinct, yielding different attribution conclusions."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states, 'Accounting for observational uncertainty increases the range of warming attributable to greenhouse gases by only 10 to 30%' and 'the current best estimate of the scaling factor between GMST and GSAT is one, and therefore attribution studies of GMST and GSAT are here treated together'.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

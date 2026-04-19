@@ -1,0 +1,87 @@
+Here are 5 data interpretation questions based on the provided climate science data.
+
+---
+
+**Question 1**
+
+**Scenario:**
+Consider the multi-dataset average warming observed for GMST, LSAT, and SST relative to the 1850–1900 baseline, specifically for the period ending 2011–2020.
+*   GMST: 1.09°C
+*   LSAT: 1.59°C
+*   SST: 0.88°C
+
+**Question:**
+Which of the following temperature metrics experienced the highest total warming by the period 2011–2020, relative to the 1850–1900 baseline?
+
+A) Global Mean Surface Temperature (GMST)
+B) Sea Surface Temperature (SST)
+C) Land Surface Air Temperature (LSAT)
+D) All three experienced approximately the same warming.
+
+---
+
+**Question 2**
+
+**Scenario:**
+The multi-dataset average for Global Mean Surface Temperature (GMST) showed a warming of 0.85°C relative to the 1850–1900 baseline for the period 1995–2014. For the more recent period of 2011–2020, the GMST warming relative to the same baseline was 1.09°C.
+
+**Question:**
+What was the *additional* warming of GMST experienced between the end of the 1995–2014 period and the end of the 2011–2020 period?
+
+A) 0.14°C
+B) 0.24°C
+C) 0.85°C
+D) 1.09°C
+
+---
+
+**Question 3**
+
+**Scenario:**
+Observe the multi-dataset average trends for Land Surface Air Temperature (LSAT) and Sea Surface Temperature (SST) over the 1980–2020 period.
+*   LSAT trend (1980–2020): 1.18°C
+*   SST trend (1980–2020): 0.60°C
+
+**Question:**
+Compared to Sea Surface Temperature (SST), how much greater was the total warming trend for Land Surface Air Temperature (LSAT) over the 1980–2020 period?
+
+A) LSAT warmed 0.58°C more than SST.
+B) LSAT warmed 1.18°C more than SST.
+C) LSAT warmed 0.60°C more than SST.
+D) SST warmed 0.58°C more than LSAT.
+
+---
+
+**Question 4**
+
+**Scenario:**
+A specific dataset shows Global Mean Surface Temperature (GMST) warming relative to the 1850–1900 baseline for three consecutive periods:
+*   1995–2014: 0.87°C
+*   2001–2020: 1.01°C
+*   2011–2020: 1.12°C
+
+**Question:**
+Based on these values, which statement accurately describes the overall trend of GMST warming across these consecutive periods?
+
+A) The total warming decreased over each successive period.
+B) The total warming remained constant across all three periods.
+C) The total warming increased with each successive period.
+D) The total warming showed no clear pattern.
+
+---
+
+**Question 5**
+
+**Scenario:**
+Consider the multi-dataset average total warming trends for Global Mean Surface Temperature (GMST) over three different periods:
+*   1880–2020 (140 years): 1.11°C
+*   1960–2020 (60 years): 1.04°C
+*   1980–2020 (40 years): 0.76°C
+
+**Question:**
+What do these trend values, considering their respective durations, primarily suggest about the *rate* of GMST warming?
+
+A) The total warming has consistently decreased over shorter, more recent periods.
+B) The average annual rate of warming has accelerated in more recent decades.
+C) The warming trend has remained constant, irrespective of the period length.
+D) The overall warming trend has slowed down since 1880.

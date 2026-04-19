@@ -1,0 +1,72 @@
+[
+  {
+    "question": "According to the passage, what happens to plant water-use efficiency (WUE) as atmospheric CO2 increases?",
+    "options": {
+      "A": "WUE increases in near proportionality to atmospheric CO2",
+      "B": "WUE decreases because plants open their stomata wider under elevated CO2",
+      "C": "WUE remains unchanged because water loss increases at the same rate as CO2 uptake",
+      "D": "WUE increases only in temperate zone plants, not in tropical ecosystems"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states that 'the ratio of plant CO2 uptake to water loss – plant water-use efficiency (WUE) – increases in near proportionality to atmospheric CO2.'",
+    "source": "IPCC AR6 WG1 Chapter 5 (Cross-Chapter Box 5.1 reference within passage)",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The passage indicates that the effect of elevated CO2 on plant growth and ecosystem carbon storage is generally positive, but what is this effect modulated by?",
+    "options": {
+      "A": "Leaf-level acclimation and stomatal conductance only",
+      "B": "Temperature, water, and nutrient availability",
+      "C": "Seasonal drought and mycorrhizal activity exclusively",
+      "D": "Geographic location, with stronger effects outside the temperate zone"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explicitly states that 'the effect of elevated CO2 on plant growth and ecosystem carbon storage is generally positive (high confidence), but is modulated by temperature, water and nutrient availability.'",
+    "source": "IPCC AR6 WG1 Chapter 5",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to the passage, why do meta-analyses suggest that soil microbial activity increases under elevated CO2 conditions?",
+    "options": {
+      "A": "Because warmer temperatures from CO2-driven climate change directly stimulate microbial metabolism",
+      "B": "Because elevated CO2 reduces soil pH, creating more favorable conditions for microbes",
+      "C": "Because increased below-ground carbon allocation by plants leads to accelerated turnover of soil organic matter",
+      "D": "Because nitrogen fixation by microbes is directly enhanced by higher atmospheric CO2 concentrations"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that meta-analyses point to 'increased soil microbial activity and accelerated turnover of soil organic matter as a result of increased below-ground carbon allocation by plants.'",
+    "source": "IPCC AR6 WG1 Chapter 5",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The passage identifies several processes as 'currently poorly represented in models' that contribute to uncertainty in ESM projections. Which of the following is listed among these poorly represented processes?",
+    "options": {
+      "A": "The effect of rising CO2 on leaf-level photosynthesis",
+      "B": "The increase in plant water-use efficiency under elevated CO2",
+      "C": "Natural plant mortality and changes in plant community composition",
+      "D": "The modulation of CO2 fertilization by seasonal drought"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage lists 'plant carbon allocation, changes in plant community composition, disturbance, and natural plant mortality' as important processes that 'are currently poorly represented in models' and thus contribute strongly to uncertainty in ESM projections.",
+    "source": "IPCC AR6 WG1 Chapter 5",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Based on the passage, how does a global model that attempts to represent elevated CO2-related soil biogeochemical processes differ in its projections compared to more conventional ESMs?",
+    "options": {
+      "A": "It projects greater carbon accumulation in both soils and vegetation relative to conventional models",
+      "B": "It projects reduced carbon accumulation in soils but increased carbon accumulation in vegetation",
+      "C": "It projects increased carbon accumulation in soils but reduced carbon accumulation in vegetation",
+      "D": "It projects no net difference in total ecosystem carbon storage, only a redistribution between soil layers"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that one global model representing these processes 'suggests that elevated CO2-related carbon accumulation is reduced in soils but increased in vegetation relative to more conventional models.'",
+    "source": "IPCC AR6 WG1 Chapter 5",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "hard"
+  }
+]

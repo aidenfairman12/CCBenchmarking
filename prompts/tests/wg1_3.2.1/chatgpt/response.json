@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the primary purpose of regression-based methods in climate science?",
+    "options": {
+      "A": "Detecting climate change and attributing it to external drivers.",
+      "B": "Simulating future climate scenarios under different CO2 levels.",
+      "C": "Analyzing local weather patterns over short timescales.",
+      "D": "Determining the exact cause of every extreme weather event."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states, 'Regression-based methods, also known as fingerprinting methods, have been widely used for detection of climate change and attribution of the change to different external drivers.'",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.2.1",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What do the regressors in regression-based methods represent?",
+    "options": {
+      "A": "Internal variability of the climate system.",
+      "B": "Expected space–time response patterns to different climate forcings.",
+      "C": "The observed changes in global surface temperature.",
+      "D": "The residuals of the model simulations compared to observations."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains that 'The regressors are the expected space–time response patterns to different climate forcings (fingerprints).'",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.2.1",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why is normalization by internal variability important in regression-based methods?",
+    "options": {
+      "A": "It eliminates the need for fingerprinting techniques.",
+      "B": "It ensures the regression coefficient remains below unity.",
+      "C": "It improves the signal-to-noise ratio in observations and model responses.",
+      "D": "It guarantees that model simulations perfectly match observed data."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states, 'In order to improve the signal-to-noise ratio, observations and model-simulated responses are usually normalized by an estimate of internal variability.'",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.2.1",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What does it mean if the confidence interval of the regression coefficient includes unity and excludes zero?",
+    "options": {
+      "A": "The observed changes cannot be detected or attributed to any forcing.",
+      "B": "The magnitude of simulated fingerprints is consistent with observations.",
+      "C": "The model simulations fail to accurately represent internal variability.",
+      "D": "The residuals dominate over the externally forced signals."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states, 'When the confidence interval of the regression coefficient includes unity and is inconsistent with zero, the magnitude of the model simulated fingerprints is assessed to be consistent with the observations.'",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.2.1",
+    "category": "Attribution Science",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What method was suggested by DelSole et al. (2019) to improve the estimation of scaling factor confidence intervals?",
+    "options": {
+      "A": "Bayesian model averaging.",
+      "B": "Bootstrap method.",
+      "C": "Residual consistency test.",
+      "D": "Preliminary dimension reduction."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states, 'DelSole et al. (2019) suggested a bootstrap method to better estimate the confidence intervals of scaling factors.'",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.2.1",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

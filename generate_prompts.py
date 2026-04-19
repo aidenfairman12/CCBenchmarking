@@ -41,10 +41,10 @@ import sys
 # ── Config ────────────────────────────────────────────────────────────────────
 
 MODELS = {
-    "claude":      "Claude Sonnet",
-    "chatgpt":     "ChatGPT",
-    "perplexity":  "Perplexity",
-    "deepseek":    "DeepSeek",
+    "claude":   "Claude Sonnet",
+    "chatgpt":  "ChatGPT",
+    "gemini":   "Gemini",
+    "groq":     "Llama 3.3 70B (Groq)",
 }
 
 # Statuses to process in batch mode (skip 'generated' unless --overwrite)
@@ -150,14 +150,6 @@ Each question contains an embedded data scenario (a small table, a described tre
 **Medium:** Requires comparing, computing a simple difference, or interpreting what a pattern means
 **Hard:** Requires identifying a non-obvious pattern, distinguishing between two plausible interpretations, or reasoning about what the data implies
 
-## Data Context
-
-Base all scenario values on the following real-world data anchor. Do not invent values — use or derive from what is provided below.
-
-{content}
-
----
-
 ## Scenario types to use (vary across your batch)
 
 1. **Trend identification** — a time series table; ask about direction, rate, or magnitude of change
@@ -191,6 +183,14 @@ Return a strict JSON array and nothing else — no preamble, no commentary.
   }}
 ]
 ```
+
+## Data Context
+
+Base all scenario values on the following real-world data anchor. Do not invent values — use or derive from what is provided below.
+
+{content}
+
+---
 
 ## Usage Notes
 

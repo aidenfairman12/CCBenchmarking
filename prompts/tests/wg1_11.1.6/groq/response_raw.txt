@@ -1,0 +1,41 @@
+Here are five data interpretation questions based on the provided table:
+
+1. **Easy**: According to METRIC 2, what is the risk ratio for heavy precipitation events at a warming level of +2°C compared to the present-day warming level (+1°C)?
+A) 1.2
+B) 1.5
+C) 3.3
+D) 8.2
+
+Answer: B) 1.5
+
+2. **Medium**: METRIC 3 reports the number of 1–5 day duration extreme floods at different warming levels. What is the increase in the number of extreme floods from +1.5°C to +2°C in most locations?
+A) 0-1
+B) 2-3
+C) 3
+D) 5-7
+
+Answer: B) 2-3 (as it changes from "Up to 5" to "2–6")
+
+3. **Easy**: According to METRIC 5, what is the probability of co-occurrence of extreme hot days AND extreme dry days in the same week at a warming level of +1.5°C?
+A) 0% probability
+B) About 1 week in 10 years
+C) About 1 week in 20 years
+D) About 4 to 5 weeks in 20 years
+
+Answer: C) About 1 week in 20 years
+
+4. **Medium**: METRIC 6 reports the projected soil moisture drought duration per year in the Mediterranean region. What is the percentage increase in drought duration from +1.5°C to +2°C?
+A) 18%
+B) 22%
+C) 40%
+D) 50%
+
+Answer: B) 22% (as it increases from 58 days to 71 days, which is a 22% increase, not directly provided but can be calculated)
+
+5. **Hard**: METRIC 7 and METRIC 8 both report increases in extreme heat and fire season length, respectively, at different warming levels. Which of the following statements can be inferred about the relationship between extreme heat exposure and fire season length?
+A) The increase in fire season length is directly proportional to the increase in extreme heat exposure.
+B) The increase in extreme heat exposure is more rapid than the increase in fire season length.
+C) There is no clear relationship between extreme heat exposure and fire season length.
+D) The increase in fire season length is more rapid than the increase in extreme heat exposure.
+
+Answer: B) The increase in extreme heat exposure is more rapid than the increase in fire season length (as can be seen from the larger relative increases in METRIC 7 compared to METRIC 8)

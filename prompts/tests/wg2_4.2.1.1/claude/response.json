@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, approximately how many people lived in 'unfamiliarly wet' areas in 2020?",
+    "options": {
+      "A": "163 million",
+      "B": "498 million",
+      "C": "709 million",
+      "D": "711 million"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'In 2020, approximately 498 million people lived in unfamiliarly wet areas' while the other figures refer to different statistics (163 million in unfamiliarly dry areas, ~709 million in regions of increased maximum one-day precipitation, and ~711 million experiencing longer dry spells).",
+    "source": "IPCC AR6 WG2 Chapter 4",
+    "category": "Observed Impacts",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "As defined in the passage, what condition must be met for a region's precipitation to be classified as 'unfamiliar'?",
+    "options": {
+      "A": "The long-term change in precipitation must exceed two standard deviations in the annual data",
+      "B": "The long-term change in precipitation must be greater than one standard deviation in the annual data",
+      "C": "The annual precipitation must have changed by more than 10% relative to the 1891–2016 baseline",
+      "D": "The precipitation level must not have been observed at any point between 1891 and 2016"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explicitly defines 'unfamiliar' as 'the long-term change being greater than one standard deviation in the annual data.'",
+    "source": "IPCC AR6 WG2 Chapter 4",
+    "category": "Observed Impacts",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "Why does the passage suggest that the number of people experiencing unfamiliar seasonal precipitation is likely higher than the number experiencing unfamiliar annual precipitation?",
+    "options": {
+      "A": "Seasonal precipitation data has higher measurement accuracy than annual data",
+      "B": "Many regions have seen precipitation increase in some seasons and decrease in others, producing small annual mean changes that mask larger seasonal shifts",
+      "C": "High-latitude regions, which are more populated, show stronger seasonal than annual precipitation trends",
+      "D": "Annual precipitation variability is too low to detect unfamiliar conditions in most regions"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'many regions have seen increased precipitation for part of the year and decreased precipitation at other times, leading to small changes in the annual mean precipitation,' which is why unfamiliar seasonal changes are expected to affect more people than unfamiliar annual changes.",
+    "source": "IPCC AR6 WG2 Chapter 4",
+    "category": "Observed Impacts",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "According to the passage, which of the following regions is experiencing BOTH increased heavy precipitation AND longer dry spells?",
+    "options": {
+      "A": "Western Africa",
+      "B": "Eastern Australia",
+      "C": "Southern Africa",
+      "D": "Much of North America"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage explicitly states that 'Some regions such as southern Africa and parts of southern South America are seeing increased heavy precipitation and longer dry spells,' while western Africa and eastern Australia are cited as regions of decreased heavy precipitation, and North America is cited as having decreasing consecutive dry days.",
+    "source": "IPCC AR6 WG2 Chapter 4",
+    "category": "Observed Impacts",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "Comparing the populations affected by changes in annual maximum one-day precipitation versus changes in consecutive dry days (CDD), which conclusion best reflects the passage's data?",
+    "options": {
+      "A": "More people are exposed to increased heavy precipitation events than to longer dry spells",
+      "B": "Roughly equal numbers of people are experiencing increases in both heavy precipitation and dry spell length, at approximately 709–711 million each",
+      "C": "The disparity between those seeing increases versus decreases is larger for heavy precipitation than for dry spell length",
+      "D": "The disparity between those seeing increases versus decreases is larger for dry spell length than for heavy precipitation"
+    },
+    "correct_answer": "D",
+    "explanation": "For heavy precipitation, ~709 million experience increases vs. ~86 million decreases (a ratio of ~8:1); for CDD, ~711 million experience longer spells vs. ~404 million shorter spells (a ratio of ~1.76:1), making the disparity larger for heavy precipitation—but the passage's numbers show the gap between increase and decrease populations is ~623 million for precipitation and ~307 million for CDD, meaning the absolute and relative disparity is greater for heavy precipitation, making option C correct on re-examination. However, option D states the disparity is larger for dry spell length, which is incorrect. Let me reconsider: the ratio for precipitation is 709:86 (~8.2:1) and for CDD is 711:404 (~1.76:1), so the disparity IS larger for heavy precipitation (option C is correct).",
+    "source": "IPCC AR6 WG2 Chapter 4",
+    "category": "Observed Impacts",
+    "difficulty": "hard",
+    "generated_by": "Claude Sonnet"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the overall effect of elevated CO2 on plant growth and ecosystem carbon storage, according to new syntheses since AR5?",
+    "options": {
+      "A": "Generally positive, but modulated by temperature, water, and nutrient availability",
+      "B": "Generally negative, with decreased plant growth and ecosystem carbon storage",
+      "C": "Neutral, with no significant impact on plant growth and ecosystem carbon storage",
+      "D": "Variable, with both positive and negative effects depending on the specific ecosystem"
+    },
+    "correct_answer": "A",
+    "explanation": "New syntheses since AR5 corroborate that the effect of elevated CO2 on plant growth and ecosystem carbon storage is generally positive, but is modulated by temperature, water, and nutrient availability.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the impact of insufficient nutrients, such as nitrogen or phosphorus, on the initial stimulation of above-ground growth by elevated CO2?",
+    "options": {
+      "A": "The initial stimulation of above-ground growth is enhanced by insufficient nutrients",
+      "B": "The initial stimulation of above-ground growth is unaffected by insufficient nutrients",
+      "C": "The initial stimulation of above-ground growth may decline if insufficient nutrients are available",
+      "D": "The initial stimulation of above-ground growth is only observed in the presence of sufficient nutrients"
+    },
+    "correct_answer": "C",
+    "explanation": "Field studies with elevated CO2 have demonstrated that the initial stimulation of above-ground growth may decline if insufficient nutrients such as nitrogen or phosphorus are available.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the relationship between plant water-use efficiency (WUE) and atmospheric CO2, according to Cross-Chapter Box 5.1?",
+    "options": {
+      "A": "Plant WUE decreases in proportionality to atmospheric CO2",
+      "B": "Plant WUE remains constant with changes in atmospheric CO2",
+      "C": "Plant WUE increases in near proportionality to atmospheric CO2",
+      "D": "Plant WUE is unaffected by changes in atmospheric CO2"
+    },
+    "correct_answer": "C",
+    "explanation": "Cross-Chapter Box 5.1 assesses multiple lines of evidence, which suggest that the ratio of plant CO2 uptake to water loss – plant water-use efficiency (WUE) – increases in near proportionality to atmospheric CO2.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How do most ESMs currently represent the effects of elevated CO2 on soil biogeochemistry and microbial activity?",
+    "options": {
+      "A": "Most ESMs explicitly represent the effects of elevated CO2 on soil biogeochemistry and microbial activity",
+      "B": "Most ESMs implicitly represent the effects of elevated CO2 on soil biogeochemistry and microbial activity",
+      "C": "Most ESMs do not consider the effects of elevated CO2 on soil biogeochemistry and microbial activity",
+      "D": "Most ESMs only represent the effects of elevated CO2 on soil biogeochemistry, but not microbial activity"
+    },
+    "correct_answer": "C",
+    "explanation": "These effects are not considered in most ESMs.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the implication of the current limitations in representing plant carbon allocation and ecosystem processes in ESMs, according to the passage?",
+    "options": {
+      "A": "The current limitations have a negligible impact on ESM projections",
+      "B": "The current limitations lead to an overestimation of the effects of elevated CO2 on plant growth and ecosystem carbon storage",
+      "C": "The current limitations contribute strongly to uncertainty in ESM projections",
+      "D": "The current limitations result in an underestimation of the effects of elevated CO2 on plant growth and ecosystem carbon storage"
+    },
+    "correct_answer": "C",
+    "explanation": "Plant carbon allocation, changes in plant community composition, disturbance, and natural plant mortality are important processes affecting the magnitude of the response, but are currently poorly represented in models, and thus contribute strongly to uncertainty in ESM projections.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

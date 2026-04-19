@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What has been observed regarding range shifts of organisms since AR5?",
+    "options": {
+      "A": "Range shifts have been increasingly attributed to climate change with very high confidence.",
+      "B": "Range shifts have become less consistent across species and studies.",
+      "C": "There is no longer a need to attribute range shifts to climate change.",
+      "D": "Range shifts have predominantly been driven by human land-use changes."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states that range shifts are now well-established globally and attributable to climate change with very high confidence due to the consistency across studies and understanding of mechanisms.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Which factor is mentioned as impeding wild species from tracking climate change effectively?",
+    "options": {
+      "A": "Increased migration at warm-range boundaries.",
+      "B": "Land-use and land-cover change (LULCC), including habitat loss and fragmentation.",
+      "C": "Complete extinction of species at cold-range boundaries.",
+      "D": "A lack of data on short-term ecological trends."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains that LULCC, particularly habitat loss and fragmentation, impedes species from effectively tracking climate change.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What role did warm weather play in spruce beetle outbreaks in Alaska during the 1990s?",
+    "options": {
+      "A": "It caused the spruce beetle population to decrease.",
+      "B": "It halved the insect’s life cycle from two years to one.",
+      "C": "It increased the beetle’s dependency on cold winters.",
+      "D": "It led to fewer outbreaks due to milder conditions."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage attributes the halving of the spruce beetle’s life cycle from two years to one to warm weather in Alaska.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What proportion of major insect pest species are predicted to increase their impacts as the climate warms?",
+    "options": {
+      "A": "4%",
+      "B": "25%",
+      "C": "41%",
+      "D": "75%"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that 41% of major insect pest species are predicted to increase their damage as the climate warms.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why do some large-scale, multi-species meta-analyses find a lower proportion of species shifting in response to climate change?",
+    "options": {
+      "A": "They exclude data from degraded lands.",
+      "B": "They include short-term data sets and do not differentiate climate effects from other variables.",
+      "C": "They focus only on species living in cold-range boundaries.",
+      "D": "They are limited to studies designed specifically for climate attribution."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage mentions that these studies include short-term data and do not differentiate climate effects from other confounding variables.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

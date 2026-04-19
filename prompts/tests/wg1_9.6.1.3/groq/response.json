@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the primary driver of regional departures from Global Mean Sea Level (GMSL) rise?",
+    "options": {
+      "A": "Thermal expansion of seawater",
+      "B": "Ocean transport divergences resulting from wind stress anomalies and spatial variability in atmospheric heat and freshwater fluxes",
+      "C": "Changes in ocean salinity",
+      "D": "Glacial isostatic adjustment"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that regional departures from GMSL rise are primarily driven by ocean transport divergences that result from wind stress anomalies and spatial variability in atmospheric heat and freshwater fluxes.",
+    "source": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
+    "category": "Sea Level Rise",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What percentage of the ocean surface has experienced significant sea level rise over the satellite era?",
+    "options": {
+      "A": "75%",
+      "B": "85%",
+      "C": "90%",
+      "D": "98%"
+    },
+    "correct_answer": "D",
+    "explanation": "The source passage states that an analysis of the local altimetry error budget reports that 98% of the ocean surface has experienced significant sea level rise over the satellite era.",
+    "source": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
+    "category": "Sea Level Rise",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the name of the oscillation associated with large multiannual sea level variations in the Pacific?",
+    "options": {
+      "A": "El Niño Southern Oscillation (ENSO)",
+      "B": "North Pacific Gyre Oscillation (NPGO)",
+      "C": "Indian Ocean Dipole (IOD)",
+      "D": "Pacific Decadal Oscillation (PDO)"
+    },
+    "correct_answer": "D",
+    "explanation": "The source passage states that the SROCC noted the occurrence of large multiannual sea level variations in the Pacific, associated with the Pacific Decadal Oscillation (PDO).",
+    "source": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
+    "category": "Sea Level Variability",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the relationship between the North Atlantic Oscillation (NAO) and regional sea level variability in the Atlantic Ocean?",
+    "options": {
+      "A": "The NAO has no impact on regional sea level variability in the Atlantic Ocean",
+      "B": "The NAO drives regional sea level variability in the Atlantic Ocean through changes in ocean currents",
+      "C": "The NAO drives regional sea level variability in the Atlantic Ocean through wind and heat flux variations",
+      "D": "The NAO reduces regional sea level variability in the Atlantic Ocean"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that regional sea level variability in the Atlantic Ocean is driven primarily by wind and heat flux variations associated with the North Atlantic Oscillation (NAO).",
+    "source": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
+    "category": "Sea Level Variability",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the impact of a weakening summer South Asian monsoon circulation on sea level rise in the North Indian Ocean?",
+    "options": {
+      "A": "A weakening summer South Asian monsoon circulation leads to a decrease in sea level rise in the North Indian Ocean",
+      "B": "A weakening summer South Asian monsoon circulation has no impact on sea level rise in the North Indian Ocean",
+      "C": "A weakening summer South Asian monsoon circulation leads to an increase in sea level rise in the North Indian Ocean",
+      "D": "A weakening summer South Asian monsoon circulation leads to a stabilization of sea level in the North Indian Ocean"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that high rates of sea level rise in the North Indian Ocean are accompanied by a weakening summer South Asian monsoon circulation.",
+    "source": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
+    "category": "Sea Level Rise",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

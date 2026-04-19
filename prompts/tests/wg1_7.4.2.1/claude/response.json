@@ -12,7 +12,7 @@
     "source": "IPCC AR6 WG1 Chapter 7, Section on Planck Response",
     "category": "Physical Climate Science Fundamentals",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet 4.6"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "According to the passage, what is the assessed best-estimate value of the Planck response parameter α_P?",
@@ -27,7 +27,7 @@
     "source": "IPCC AR6 WG1 Chapter 7, Section on Planck Response",
     "category": "Physical Climate Science Fundamentals",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet 4.6"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "How is the normalized greenhouse effect g̃ defined in the passage?",
@@ -42,7 +42,7 @@
     "source": "IPCC AR6 WG1 Chapter 7, Section on Planck Response",
     "category": "Physical Climate Science Fundamentals",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet 4.6"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "According to the passage, which source of uncertainty in α_P estimates is identified as the primary contributor, and which is secondary?",
@@ -57,7 +57,7 @@
     "source": "IPCC AR6 WG1 Chapter 7, Section on Planck Response",
     "category": "Physical Climate Science Fundamentals",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet 4.6"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Using the formula given in the passage, if a radiative forcing ΔF of +4 W m⁻² is applied and the net feedback parameter equals the Planck response (α_P = –3.22 W m⁻² °C⁻¹), what is the equilibrium Planck temperature response ΔT_P, and what does this scenario physically represent?",
@@ -72,6 +72,6 @@
     "source": "IPCC AR6 WG1 Chapter 7, Section on Planck Response",
     "category": "Physical Climate Science Fundamentals",
     "difficulty": "hard",
-    "generated_by": "Claude Sonnet 4.6"
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

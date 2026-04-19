@@ -1,0 +1,72 @@
+[
+  {
+    "question": "According to the passage, what is the confidence level assigned to GMSL projections for 2050 falling between 0.1 and 0.4 m higher than the 1995–2014 baseline under low- and moderate-emissions scenarios?",
+    "options": {
+      "A": "Low confidence",
+      "B": "Medium confidence",
+      "C": "High confidence",
+      "D": "Very high confidence"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states: 'we therefore have high confidence that GMSL in 2050 will be between 0.1 and 0.4 m higher than in 1995–2014 under low- and moderate-emissions scenarios.'",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Under which emissions scenario does including MICI or SEJ projections extend the upper range of 2050 GMSL projections beyond 0.4 m?",
+    "options": {
+      "A": "RCP2.6 only",
+      "B": "RCP4.5 only",
+      "C": "Both RCP2.6 and RCP4.5",
+      "D": "RCP8.5 only"
+    },
+    "correct_answer": "D",
+    "explanation": "The passage states that 'Projections incorporating MICI or SEJ do not extend this range under RCP2.6 or RCP4.5 but do extend the upper part of the range to 0.6 m under RCP8.5.'",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy"
+  },
+  {
+    "question": "For 2100 projections under RCP4.5, how does incorporating MICI or SEJ change the upper bound of the 5th–95th percentile range compared to projections based only on medium-confidence processes?",
+    "options": {
+      "A": "The upper bound increases from 1.0 m to 1.6 m",
+      "B": "The upper bound remains unchanged at 1.0 m",
+      "C": "The upper bound increases from 1.6 m to 2.4 m",
+      "D": "The upper bound decreases from 1.6 m to 1.0 m"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states medium-confidence projections for RCP4.5 fall between 0.2 and 1.0 m, while incorporating MICI or SEJ extends the range to 0.2–1.6 m, raising the upper bound from 1.0 m to 1.6 m.",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The passage describes a key contrast between GMSL projections for 2050 versus 2100. Which of the following best characterizes this contrast?",
+    "options": {
+      "A": "Projections for 2050 are more sensitive to emissions scenario choice than projections for 2100",
+      "B": "Projections for 2100 show high agreement across studies but greater sensitivity to ice-sheet processes",
+      "C": "Projections for 2050 show high agreement and low emissions-scenario sensitivity, while 2100 projections show low agreement and higher emissions-scenario sensitivity",
+      "D": "Projections for both 2050 and 2100 show low agreement, but only 2050 projections are consistent with observed sea level acceleration"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage explicitly states there is 'high agreement across published GMSL projections for 2050' and 'little sensitivity to emissions scenario,' contrasted with 'low agreement across published GMSL projections for 2100' and 'a higher degree of sensitivity to the choice of emissions scenario.'",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A researcher argues that including low-confidence ice-sheet processes (MICI or SEJ) meaningfully widens GMSL projection ranges for both 2050 and 2100 across all emissions scenarios. Based solely on the passage, which aspect of this claim is incorrect?",
+    "options": {
+      "A": "MICI or SEJ projections do not widen the 2050 range under any emissions scenario",
+      "B": "MICI or SEJ projections widen the 2050 range only under RCP8.5, not under all emissions scenarios",
+      "C": "MICI or SEJ projections widen the 2100 range only under RCP2.6, not under higher scenarios",
+      "D": "MICI or SEJ projections never affect the upper bound of projection ranges, only the lower bound"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage specifies that MICI or SEJ projections 'do not extend this range under RCP2.6 or RCP4.5 but do extend the upper part of the range to 0.6 m under RCP8.5,' meaning the widening at 2050 applies only to RCP8.5, not all scenarios.",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6",
+    "category": "Projections and Uncertainty",
+    "difficulty": "hard"
+  }
+]

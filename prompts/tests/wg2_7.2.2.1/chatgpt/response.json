@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which diseases have been linked to changing climatic patterns in Asia, Latin America, North America, and Europe with high confidence?",
+    "options": {
+      "A": "CHIKV, Zika, Japanese encephalitis, and Rift Valley Fever",
+      "B": "Malaria, dengue, CHIKV, and Rift Valley Fever",
+      "C": "Zika, West Nile fever, malaria, and Lyme disease",
+      "D": "Japanese encephalitis, Rift Valley Fever, malaria, and dengue"
+    },
+    "correct_answer": "A",
+    "explanation": "The source states that changing climatic patterns are facilitating the spread of CHIKV, Zika, Japanese encephalitis, and Rift Valley Fever in these regions.",
+    "source": "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What climatic condition during the 2015 severe drought in South America contributed to increased Zika virus exposure?",
+    "options": {
+      "A": "Higher temperatures encouraged mosquito reproduction.",
+      "B": "Increased use of household water storage containers expanded mosquito breeding grounds.",
+      "C": "Declining humidity made mosquitoes more aggressive.",
+      "D": "Flooding created standing water for mosquito larvae."
+    },
+    "correct_answer": "B",
+    "explanation": "The source explains that the increased use of household water storage containers during the drought correlated with a range expansion of Aedes aegypti, increasing household exposure to the vector.",
+    "source": "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What climatic factors were implicated as drivers of the West Nile fever outbreak in southeastern Europe in 2018?",
+    "options": {
+      "A": "Higher-than-average precipitation and lower humidity",
+      "B": "Above-average temperature and precipitation",
+      "C": "Below-average temperature and humidity",
+      "D": "Heavy rainfall and strong winds"
+    },
+    "correct_answer": "B",
+    "explanation": "The source notes that the average temperature and precipitation prior to the 2018 outbreak were above the 1981–2010 period average, which may have contributed to an increase in the vector population.",
+    "source": "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What evidence links climate change to the spread of Lyme disease in North America?",
+    "options": {
+      "A": "A decrease in precipitation levels has expanded tick habitats.",
+      "B": "Higher temperatures correlate with geographic expansion of Ixodes scapularis and increased Lyme disease cases.",
+      "C": "Humidity has increased, making Ixodes ricinus more prevalent in Canada.",
+      "D": "Rising temperatures have driven the extinction of tick predators."
+    },
+    "correct_answer": "B",
+    "explanation": "The source highlights strong correlation between higher temperatures, geographic spread of Ixodes scapularis, and the increase in Lyme disease cases in North America due to climate warming.",
+    "source": "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "How has climate change influenced the geographic distribution of Ixodes ricinus in Europe?",
+    "options": {
+      "A": "It has caused Ixodes ricinus to migrate to lower altitudes in Austria.",
+      "B": "Ixodes ricinus has expanded to higher latitudes in Sweden and higher elevations in Austria and the Czech Republic.",
+      "C": "It has driven Ixodes ricinus into urban areas with lower humidity.",
+      "D": "Ixodes ricinus has been limited to regions with less precipitation due to climate change."
+    },
+    "correct_answer": "B",
+    "explanation": "The source states that Ixodes ricinus has expanded to higher latitudes in Sweden and higher elevations in Austria and the Czech Republic due to climate change.",
+    "source": "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

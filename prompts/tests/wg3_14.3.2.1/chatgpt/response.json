@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is one of the key purposes of the Paris Agreement as outlined in Article 2(1)(b)?",
+    "options": {
+      "A": "Increasing adaptive capacity and fostering climate resilience.",
+      "B": "Achieving net zero greenhouse gas emissions by 2025.",
+      "C": "Eliminating all forms of fossil fuel subsidies.",
+      "D": "Requiring all nations to adopt the same climate policies."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states that one purpose of the Paris Agreement is 'increasing adaptive capacity and fostering climate resilience' as outlined in Article 2(1)(b).",
+    "source": "IPCC AR6 WG3 Chapter 14 Section 14.3.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is the significance of the phrase 'in light of different national circumstances' in Article 2.2 of the Paris Agreement?",
+    "options": {
+      "A": "It mandates that all countries adopt the same climate strategies.",
+      "B": "It introduces flexibility in how the CBDRRC principle is applied as national circumstances evolve.",
+      "C": "It removes the need for differentiation between developed and developing countries.",
+      "D": "It requires developed countries to finance adaptation efforts exclusively."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains that the phrase 'in light of different national circumstances' introduces a dynamic element, allowing the application of the CBDRRC principle to evolve as national circumstances change.",
+    "source": "IPCC AR6 WG3 Chapter 14 Section 14.3.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is the minimum financial goal set for the Paris Agreement by 2025 as per its accompanying decision?",
+    "options": {
+      "A": "USD50 billion per year",
+      "B": "USD100 billion per year",
+      "C": "USD200 billion per year",
+      "D": "USD500 billion per year"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that the decision accompanying the Paris Agreement resolves to set a new collective quantified finance goal with USD100 billion per year as a floor by 2025.",
+    "source": "IPCC AR6 WG3 Chapter 14 Section 14.3.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What does Article 4.1 of the Paris Agreement suggest about the timeline for reaching net zero greenhouse gas emissions?",
+    "options": {
+      "A": "Net zero emissions must be achieved by 2030.",
+      "B": "Net zero emissions should be reached 'as soon as possible' after global peaking, ideally in the second half of the 21st century.",
+      "C": "Net zero emissions are required by 2050 for all countries.",
+      "D": "Net zero emissions are mandated exclusively for developed countries by 2100."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage indicates that Article 4.1 states Parties should 'aim' for global peaking as soon as possible and achieve net zero emissions in the second half of the century.",
+    "source": "IPCC AR6 WG3 Chapter 14 Section 14.3.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "How does the Paris Agreement encourage the alignment of Nationally Determined Contributions (NDCs) with its temperature goal?",
+    "options": {
+      "A": "By imposing legally binding emissions targets for each country.",
+      "B": "Through the 'ambition cycle,' which encourages Parties to progressively increase the ambition of their NDCs.",
+      "C": "By requiring all countries to submit identical NDCs regardless of circumstances.",
+      "D": "Through financial penalties for countries failing to meet their NDCs."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that the Paris Agreement encourages Parties to align their NDCs with the temperature goal via the 'ambition cycle,' which involves progressively increasing ambition over time.",
+    "source": "IPCC AR6 WG3 Chapter 14 Section 14.3.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

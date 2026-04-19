@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What does the specific humidity (WV) feedback quantify?",
+    "options": {
+      "A": "The change in radiative flux at the TOA due to changes in atmospheric water vapour concentration.",
+      "B": "The change in global surface temperature due to changes in relative humidity.",
+      "C": "The change in radiative flux at the TOA due to changes in the vertical temperature profile.",
+      "D": "The change in atmospheric water vapour concentration due to regional differences."
+    },
+    "correct_answer": "A",
+    "explanation": "The source states that the specific humidity feedback quantifies the change in radiative flux at the TOA due to changes in atmospheric water vapour concentration associated with a change in global mean surface air temperature.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why does the lapse-rate (LR) feedback result in a negative global mean feedback?",
+    "options": {
+      "A": "Because warming in the polar regions is larger in the lower troposphere.",
+      "B": "Because warming is larger in the upper troposphere than at the surface in the tropics.",
+      "C": "Because relative humidity decreases with warming in the troposphere.",
+      "D": "Because the global average temperature decreases as radiative flux increases."
+    },
+    "correct_answer": "B",
+    "explanation": "The source explains that the vertical temperature profile in the tropics causes warming to be larger in the upper troposphere, leading to a larger radiative emission to space and a negative global mean LR feedback.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "How does the water-vapour feedback behave at the global scale according to the passage?",
+    "options": {
+      "A": "It increases linearly with temperature at all regions.",
+      "B": "It follows the Clausius–Clapeyron relationship with regional differences influenced by dynamical processes.",
+      "C": "It decreases with surface air temperature because of reduced relative humidity.",
+      "D": "It is constant across all regions and unaffected by dynamical processes."
+    },
+    "correct_answer": "B",
+    "explanation": "The source indicates that water-vapour feedback follows the Clausius–Clapeyron relationship globally, with regional differences dominated by dynamical processes.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is the estimated value of the water-vapour feedback (α WV) according to satellite observations?",
+    "options": {
+      "A": "1.85 ± 0.32 W m–2°C–1",
+      "B": "1.77 ± 0.20 W m–2°C–1",
+      "C": "–0.50 ± 0.20 W m–2°C–1",
+      "D": "0.32 ± 0.05 W m–2°C–1"
+    },
+    "correct_answer": "A",
+    "explanation": "The source specifies that the water-vapour feedback inferred from satellite observations is α WV = 1.85 ± 0.32 W m–2°C–1.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why does the lapse-rate (LR) feedback differ between the tropics and polar regions?",
+    "options": {
+      "A": "The tropics experience stronger winter temperature inversions than polar regions.",
+      "B": "The tropics are dominated by moist convection, while polar regions are influenced by radiation and heat transport.",
+      "C": "In polar regions, warming is larger in the upper troposphere than at the surface.",
+      "D": "The tropics have a negative LR feedback, while polar regions have no feedback effect."
+    },
+    "correct_answer": "B",
+    "explanation": "The source explains that the vertical temperature profile in the tropics is driven by moist convection, while in polar regions it is influenced by radiation, heat transport, and ocean heat uptake.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

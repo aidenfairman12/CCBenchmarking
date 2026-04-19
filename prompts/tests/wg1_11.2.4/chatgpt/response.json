@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the primary quantity used to characterize past and future climate change?",
+    "options": {
+      "A": "Global warming relative to its pre-industrial level",
+      "B": "Regional temperature changes",
+      "C": "Global cumulative methane emissions",
+      "D": "Sea level rise"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states that the most important quantity used to characterize past and future climate change is global warming relative to its pre-industrial level.",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.2.4",
+    "category": "Climate Metrics",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why is the use of global warming levels (GWLs) particularly relevant in global policy documents like the Paris Agreement?",
+    "options": {
+      "A": "Because GWLs are directly linked to global cumulative methane emissions.",
+      "B": "Because GWLs provide information on changes in the climate system, including extremes, as a function of global warming.",
+      "C": "Because GWLs eliminate the need for emissions scenarios in climate modeling.",
+      "D": "Because GWLs avoid the uncertainties associated with regional climate responses."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains that the use of GWLs in global policy documents like the Paris Agreement is relevant because they provide information on changes in the climate system, especially extremes, as a function of global warming.",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.2.4",
+    "category": "Policy Relevance",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is the advantage of assessing projections of regional climate changes based on GWLs rather than time periods and emissions scenarios?",
+    "options": {
+      "A": "It eliminates all uncertainties in climate modeling.",
+      "B": "It separates uncertainty in global warming responses from uncertainty in regional climate responses.",
+      "C": "It provides more detailed information on regional climate emissions scenarios.",
+      "D": "It avoids the need for Coupled Model Intercomparison Project data."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that assessing projections of regional changes based on GWLs separates the uncertainty associated with the global warming response from the uncertainty resulting from the regional climate response.",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.2.4",
+    "category": "Projection Methods",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What global warming levels are highlighted in the assessment, and why are these levels significant?",
+    "options": {
+      "A": "+1.0°C, +2.0°C, and +3.0°C as they represent realistic mitigation targets.",
+      "B": "+1.5°C, +2.0°C, and +4.0°C as they correspond to key scenarios, including the Paris Agreement goals and a worst-case scenario.",
+      "C": "+2.0°C, +3.0°C, and +5.0°C as they align with the highest emissions scenarios.",
+      "D": "+1.0°C, +1.5°C, and +2.5°C as they reflect the average outcomes of climate models."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage describes the focus on +1.5°C, +2.0°C, and +4.0°C of global warming as they include the Paris Agreement goals and a worst-case scenario with no mitigation.",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.2.4",
+    "category": "Global Warming Levels",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What role does the Coupled Model Intercomparison Project (CMIP) play in the assessment of GWL projections?",
+    "options": {
+      "A": "It provides emissions scenarios specifically for the Paris Agreement.",
+      "B": "It computes GWL projections and maps existing scenario-based literature to GWL assessments.",
+      "C": "It eliminates uncertainties in both global and regional climate modeling.",
+      "D": "It directly measures global warming levels in real time."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage notes that CMIP contributes to the computation of GWL projections and helps map scenario-based literature to GWL assessments.",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.2.4",
+    "category": "Climate Modeling",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

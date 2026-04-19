@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What are the main sources of greenhouse gas (GHG) emissions according to the passage?",
+    "options": {
+      "A": "Energy use and transformation, agriculture, land use change, and industrial activities",
+      "B": "Transportation, renewable energy, and forest conservation",
+      "C": "Deforestation, ocean acidification, and urbanization",
+      "D": "Solar panel production, nuclear waste, and volcanic activity"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states that GHG emissions mainly originate from energy use and transformation, agriculture, land use change, and industrial activities.",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.3.1",
+    "category": "Emissions Sources",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What factors are identified as the most important determinants of future CO2 emissions from energy combustion in scenario projections?",
+    "options": {
+      "A": "Population growth and climate policy",
+      "B": "Energy intensity and economic growth",
+      "C": "Per capita food consumption and resource assumptions",
+      "D": "Technology preferences and model diversity"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage mentions that energy intensity and economic growth are the most important determinants of future CO2 emissions from energy combustion in scenario projections.",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.3.1",
+    "category": "Scenario Projections",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why is model diversity important in projecting future emissions?",
+    "options": {
+      "A": "Because no single model can include population growth assumptions",
+      "B": "Because different models represent critical factors in different ways",
+      "C": "Because it simplifies the assumptions made about technology development",
+      "D": "Because it eliminates the need for reference scenarios"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains that model diversity is important because many factors are represented differently in specific models.",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.3.1",
+    "category": "Modeling and Scenarios",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is a key difference between the UN Population Prospects and the SSP scenarios regarding future population projections?",
+    "options": {
+      "A": "The UN approach assumes faster fertility declines globally than the SSPs.",
+      "B": "The UN approach is more focused on current demographic trends, while the SSPs include broader factors like education.",
+      "C": "The SSP scenarios predict higher population growth overall compared to the UN projections.",
+      "D": "The SSPs assume no changes in fertility rates, while the UN includes rapid fertility declines."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that the UN approach is based more on current demographic trends, while the SSPs assume broader factors, including education, driving future fertility.",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.3.1",
+    "category": "Demographic Projections",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What do SSP1 and SSP5 scenarios typically assume about global population trends after 2050?",
+    "options": {
+      "A": "Continued high population growth",
+      "B": "A stabilisation of the global population",
+      "C": "A decline in global population due to fertility dropping below replacement levels",
+      "D": "Population growth driven by increased economic activity"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage mentions that SSP1 and SSP5 scenarios include a decline in global population if fertility drops below replacement levels.",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.3.1",
+    "category": "Scenario Projections",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the projected range of GMSL rise by 2050 under low- and moderate-emissions scenarios?",
+    "options": {
+      "A": "0.1 to 0.4 m",
+      "B": "0.2 to 0.6 m",
+      "C": "0.3 to 0.8 m",
+      "D": "0.4 to 1.0 m"
+    },
+    "correct_answer": "A",
+    "explanation": "The source passage states that GMSL in 2050 will be between 0.1 and 0.4 m higher than in 1995–2014 under low- and moderate-emissions scenarios.",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How do GMSL projections for 2050 change when considering projections incorporating MICI or SEJ under RCP8.5?",
+    "options": {
+      "A": "The upper part of the range is extended to 0.6 m",
+      "B": "The lower part of the range is extended to 0.0 m",
+      "C": "The range remains the same",
+      "D": "The range is reduced to 0.1 to 0.3 m"
+    },
+    "correct_answer": "A",
+    "explanation": "The source passage states that projections incorporating MICI or SEJ do not extend the range under RCP2.6 or RCP4.5 but do extend the upper part of the range to 0.6 m under RCP8.5.",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the level of agreement across published GMSL projections for 2100, particularly for higher-emissions scenarios?",
+    "options": {
+      "A": "High agreement",
+      "B": "Medium agreement",
+      "C": "Low agreement",
+      "D": "No agreement"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that there is low agreement across published GMSL projections for 2100, particularly for higher-emissions scenarios.",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How do the projected ranges of GMSL rise by 2100 differ between RCP2.6 and RCP8.5, considering only projections representing processes in whose quantification there is at least medium confidence?",
+    "options": {
+      "A": "The ranges are the same",
+      "B": "The range for RCP8.5 is higher than for RCP2.6",
+      "C": "The range for RCP2.6 is higher than for RCP8.5",
+      "D": "The range for RCP2.6 is narrower than for RCP8.5"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that the GMSL projections for 2100 fall between 0.2 and 1.0 m under RCP2.6 and between 0.3 and 1.6 m under RCP8.5, considering only projections representing processes in whose quantification there is at least medium confidence.",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the impact of considering projections incorporating MICI or SEJ on the projected range of GMSL rise by 2100 under RCP8.5?",
+    "options": {
+      "A": "The range is reduced to 0.2 to 1.0 m",
+      "B": "The range remains the same",
+      "C": "The range is extended to 0.4 to 2.4 m",
+      "D": "The range is narrowed to 0.3 to 1.6 m"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that considering also projections incorporating MICI or SEJ, the projections for 2100 fall between 0.4 and 2.4 m under RCP8.5.",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

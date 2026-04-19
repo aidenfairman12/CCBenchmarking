@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the primary cause of the observed increase in the frequency or intensity of hot extremes globally and regionally?",
+    "options": {
+      "A": "Anthropogenic greenhouse gas emissions",
+      "B": "Natural climate variability",
+      "C": "Aerosol cooling effects",
+      "D": "Solar radiation changes"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage attributes the observed increase in hot extremes primarily to human influence, dominated by anthropogenic greenhouse gas emissions.",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.3.4",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What percentage of moderate daily hot extremes (above the 99.9th percentile) over land is attributed to anthropogenic warming?",
+    "options": {
+      "A": "50%",
+      "B": "75%",
+      "C": "90%",
+      "D": "100%"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that as much as 75% of moderate daily hot extremes are due to anthropogenic warming.",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.3.4",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What role do aerosols play in the observed changes in extreme temperatures?",
+    "options": {
+      "A": "They amplify the warming caused by greenhouse gases.",
+      "B": "They offset some of the warming caused by greenhouse gases.",
+      "C": "They have no effect on temperature extremes.",
+      "D": "They cause an increase in cold extremes."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains that the increase in extreme temperature is mostly due to greenhouse gas forcing, offset by aerosol forcing.",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.3.4",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Which region shows the largest anthropogenically attributable changes in record-breaking temperature events?",
+    "options": {
+      "A": "Southern Hemisphere ocean areas",
+      "B": "Tropical regions",
+      "C": "Northern Hemisphere land areas",
+      "D": "Polar regions"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage notes that changes in anthropogenically attributable record-breaking rates are largest over the Northern Hemisphere land areas.",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.3.4",
+    "category": "Attribution Science",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is a key factor linked to the increase in frost days in some wheat-producing regions of Southern Australia?",
+    "options": {
+      "A": "A decrease in subtropical ridge strength",
+      "B": "An overall cooling of regional mean temperatures",
+      "C": "A decrease in rainfall and cloud-cover",
+      "D": "An increase in aerosol emissions"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage attributes the increase in frost days to decreases in rainfall, cloud-cover, and subtropical ridge strength, despite an overall increase in mean temperatures.",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.3.4",
+    "category": "Attribution Science",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

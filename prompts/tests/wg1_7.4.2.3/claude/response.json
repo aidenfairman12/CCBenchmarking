@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, why is the Southern Hemisphere's contribution to global surface-albedo feedback expected to be small?",
+    "options": {
+      "A": "The Southern Hemisphere receives less solar radiation than the Northern Hemisphere",
+      "B": "Seasonal snow cover extent in the Southern Hemisphere is limited and trends in Southern Hemisphere sea ice extent are relatively flat",
+      "C": "Atmospheric absorption and scattering in the Southern Hemisphere reduce the albedo signal more than in the Northern Hemisphere",
+      "D": "The Southern Hemisphere lacks land surfaces that can accumulate seasonal snow cover"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage directly states: 'The contribution of the Southern Hemisphere (SH) to global αA is expected to be small because seasonal snow cover extent in the SH is limited, and trends in SH sea ice extent are relatively flat over much of the satellite record.'",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "The passage states that changes in surface albedo result in changes in planetary albedo that are roughly reduced by two-thirds. What does the passage identify as the primary source of variability and uncertainty in this reduction?",
+    "options": {
+      "A": "Variability in sea ice extent and seasonal snow cover",
+      "B": "Differences in surface reflectance across land and ocean surfaces",
+      "C": "Clouds",
+      "D": "The spectral and angular distribution of incident solar radiation"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that atmospheric absorption and scattering reduce planetary albedo changes by roughly two-thirds, 'with variability and uncertainty arising primarily from clouds.'",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "Based on the passage, which of the following represents a secondary — rather than primary — mechanism by which temperature change contributes to surface-albedo feedback?",
+    "options": {
+      "A": "Reduction in the extent of sea ice",
+      "B": "Reduction in seasonal snow cover extent",
+      "C": "Warming-induced consolidation of light-absorbing impurities near the snow surface",
+      "D": "Reduced snow cover on top of sea ice"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage identifies changes in sea ice extent, seasonal snow cover, and snow cover on sea ice as the largest contributions, while explicitly stating that 'warming-induced consolidation of light-absorbing impurities near the surface' contributes only 'secondarily to the albedo feedback.'",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "Flanner et al. (2011) estimated the Northern Hemisphere cryosphere contribution to global surface-albedo feedback at 0.48 W m⁻²°C⁻¹, with roughly equal contributions from land snow cover and sea ice. How does the estimate from Chen et al. (2016) for NH land snow alone compare to the implied land snow contribution from Flanner et al. (2011)?",
+    "options": {
+      "A": "Chen et al. (2016) produced a higher estimate, approximately 0.3 W m⁻²°C⁻¹, suggesting greater land snow contributions than previously thought",
+      "B": "Chen et al. (2016) produced a lower estimate of 0.1 W m⁻²°C⁻¹, smaller than the approximately 0.24 W m⁻²°C⁻¹ implied by Flanner et al. (2011)",
+      "C": "Chen et al. (2016) produced an estimate of 0.24 W m⁻²°C⁻¹, consistent with the land snow contribution implied by Flanner et al. (2011)",
+      "D": "Chen et al. (2016) produced a similar estimate to Flanner et al. (2011) once adjusted for differences in the time periods studied"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that Chen et al. (2016) estimated 0.1 W m⁻²°C⁻¹ for NH land snow, which the passage explicitly notes is 'smaller than the estimate of 0.24 W m⁻²°C⁻¹ from Flanner et al. (2011),' consistent with roughly half of Flanner et al.'s total 0.48 W m⁻²°C⁻¹ estimate being attributable to land snow.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "The passage notes large discrepancies between studies estimating Arctic sea ice contribution to global surface-albedo feedback, with estimates ranging from 0.16 to 0.31 W m⁻²°C⁻¹. The passage attributes much of this discrepancy to differences in assessing cloud attenuation of surface-albedo change. Which of the following best explains why Arctic cloud attenuation would be particularly important for reconciling these estimates, based on information provided in the passage?",
+    "options": {
+      "A": "Arctic clouds are unusually thick and absorb more solar radiation than clouds elsewhere, making them a dominant driver of total Arctic energy balance",
+      "B": "Because atmospheric absorption and scattering — including by clouds — reduce the surface-albedo signal before it registers as a planetary albedo change, differing assumptions about cloud attenuation in the Arctic would lead to different estimates of how much the observed surface changes translate into a feedback at the top of atmosphere",
+      "C": "Arctic sea ice changes are too small to detect by satellite unless cloud cover is first removed from the observations, so different cloud-masking techniques produce different sea ice extent estimates",
+      "D": "Clouds in the Arctic directly influence sea ice melt rates, meaning that studies using different cloud datasets would observe different amounts of sea ice loss over the same period"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage establishes that planetary albedo changes are reduced relative to surface albedo changes due to atmospheric absorption and scattering (including from clouds), so differing techniques for assessing cloud attenuation in the Arctic would produce different estimates of how surface-albedo changes translate into a top-of-atmosphere feedback signal.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "Claude Sonnet"
+  }
+]

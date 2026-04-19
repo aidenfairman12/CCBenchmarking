@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, what confidence level is now assigned to the attribution of latitudinal and elevational range shifts to climate change?",
+    "options": {
+      "A": "Medium confidence",
+      "B": "High confidence",
+      "C": "Very high confidence",
+      "D": "Low confidence"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that ongoing latitudinal and elevational range shifts 'are now well-established globally across many groups of organisms, and attributable to climate change with very high confidence.'",
+    "source": "IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "According to the passage, what biological mechanism explains the unprecedented spruce beetle outbreaks in Alaska during the 1990s?",
+    "options": {
+      "A": "Habitat fragmentation reduced natural predator populations, allowing beetle numbers to surge",
+      "B": "Warmer temperatures halved the insect's life cycle from two years to one",
+      "C": "Milder winters eliminated the frost events that previously suppressed beetle larvae",
+      "D": "Poleward range expansion introduced beetles into forests with no prior resistance"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that warm weather in Alaska 'facilitated a halving of the insect's life cycle from two years to one,' directly explaining the outbreak attribution.",
+    "source": "IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "Why did many large-scale, multi-species meta-analyses published since AR4 tend to find a lower proportion of species shifting in directions expected from climate change?",
+    "options": {
+      "A": "They focused exclusively on marine species, which respond more slowly to climate shifts",
+      "B": "They included data from degraded lands and short-term datasets without controlling for confounding variables such as land-use change",
+      "C": "They relied on outdated climate models that underestimated the magnitude of regional warming",
+      "D": "They were conducted at elevations where climate signals are weaker than at lower altitudes"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains these studies 'included all data available (from both undisturbed and highly degraded lands and including very short-term data sets of <20 years), with little attempt to differentiate the effects of climate change from those of other potential confounding variables,' leading to findings that LULCC was impeding species from tracking climate change.",
+    "source": "IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "According to the passage, range shifts result from which two distinct biological processes occurring at opposite ends of a species' range?",
+    "options": {
+      "A": "Increased reproduction at warm-range boundaries and decreased reproduction at cold-range boundaries",
+      "B": "Local population extinctions at warm-range boundaries and colonisation of new regions at cold-range boundaries",
+      "C": "Habitat fragmentation at warm-range boundaries and habitat creation at cold-range boundaries",
+      "D": "Physiological adaptation at warm-range boundaries and migration failure at cold-range boundaries"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explicitly states that 'range shifts stem from local population extinctions along warm-range boundaries as well as from the colonisation of new regions at cold-range boundaries.'",
+    "source": "IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "Based on the passage's description of attribution confidence levels across different study types, which scenario would most likely yield the strongest climate attribution for a species response?",
+    "options": {
+      "A": "A large meta-analysis pooling data from heavily fragmented habitats across many species with short observational records",
+      "B": "A study of a species in a pristine habitat with a well-understood physiological mechanism linking climate to a specific biological process",
+      "C": "A multi-species study that includes both degraded and undisturbed landscapes to maximise geographic coverage",
+      "D": "A study tracking poleward range shifts without accounting for land-use change history at the study sites"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'attribution is strong for species and species-interactions for which there is a robust mechanistic understanding of the role of climate on biological processes,' and separately notes that studies conflating degraded habitats and confounding variables tend to weaken attribution.",
+    "source": "IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "hard",
+    "generated_by": "Claude Sonnet"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What are the primary observational methods used to resolve regional sea level changes?",
+    "options": {
+      "A": "Satellite altimetry and tide gauge observations.",
+      "B": "Buoy measurements and ocean current sensors.",
+      "C": "Submarine sonar and aerial photography.",
+      "D": "Historical maps and geological records."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage explicitly states: 'Regional sea level changes are resolved by both tide gauge and satellite altimetry observations (Hamlington et al., 2020a).'",
+    "source": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
+    "category": "Projections & Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "According to an analysis of the local altimetry error budget, what percentage of the ocean surface experienced significant sea level rise over the satellite era?",
+    "options": {
+      "A": "85%",
+      "B": "90%",
+      "C": "98%",
+      "D": "75%"
+    },
+    "correct_answer": "C",
+    "explanation": "The text states that 'an analysis of the local altimetry error budget... reports that 98% of the ocean surface has experienced significant sea level rise over the satellite era (Prandi et al., 2021).'",
+    "source": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
+    "category": "Projections & Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "How did regional sea level trends in the western tropical Pacific Ocean evolve between the 1990s-2000s and the 2010s?",
+    "options": {
+      "A": "Sea level rise intensified in both periods, but at different rates.",
+      "B": "The western tropical Pacific experienced intensified sea level rise in the 1990s-2000s, followed by sea level falling in the 2010s.",
+      "C": "Sea level trends were negative in both periods, with a slight decrease in the 2010s.",
+      "D": "The situation reversed from sea level falling in the 1990s-2000s to intensified rise in the 2010s."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage notes, 'There was intensified sea level rise during the 1990s and 2000s... in the western tropical Pacific Ocean... During the 2010s, the situation reversed, with western Pacific sea level falling at more than 10 mm yr–1.'",
+    "source": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
+    "category": "Projections & Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "What are the primary drivers of regional departures from Global Mean Sea Level (GMSL) rise?",
+    "options": {
+      "A": "Large multiannual sea level variations associated with the Pacific Decadal Oscillation.",
+      "B": "Ocean transport divergences resulting from wind stress anomalies and spatial variability in atmospheric heat and freshwater fluxes.",
+      "C": "Intensified sea level rise during the 1990s and 2000s in the western tropical Pacific.",
+      "D": "Heat transport changes associated with Atlantic Meridional Overturning Circulation (AMOC) variability."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explicitly states: 'Regional departures from GMSL rise are primarily driven by ocean transport divergences that result from wind stress anomalies and spatial variability in atmospheric heat and freshwater fluxes (Section 9.2.4).'",
+    "source": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
+    "category": "Projections & Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Which of the following statements accurately describes a relationship between atmospheric or oceanic circulation patterns and regional sea level changes, according to the passage?",
+    "options": {
+      "A": "High rates of sea level rise in the North Indian Ocean are associated with a strengthening summer South Asian monsoon circulation.",
+      "B": "During periods of subpolar North Atlantic cooling, winds along the European coast are predominantly from the south, driving regional sea level rise.",
+      "C": "Regional sea level variability in the Atlantic Ocean is primarily driven by wind and heat flux variations linked to the North Atlantic Oscillation (NAO) and AMOC variability.",
+      "D": "Large multiannual sea level variations in the Pacific are primarily associated with the Indian Ocean Dipole (IOD) without involvement from other oscillations."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states, 'For the Atlantic Ocean, SROCC described regional sea level variability as being driven primarily by wind and heat flux variations associated with the North Atlantic Oscillation (NAO) and heat transport changes associated with Atlantic Meridional Overturning Circulation (AMOC) variability.'",
+    "source": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
+    "category": "Projections & Uncertainty",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

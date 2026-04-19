@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is identified as the primary factor determining surface albedo?",
+    "options": {
+      "A": "Reflectance at Earth's surface",
+      "B": "Atmospheric absorption and scattering",
+      "C": "The extent of sea ice and seasonal snow cover",
+      "D": "Vegetation state and soil wetness"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states, 'Surface albedo is determined primarily by reflectance at Earth’s surface'.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "In the present climate and at multi-decadal time scales, what are identified as the largest contributions to temperature-induced surface-albedo change?",
+    "options": {
+      "A": "Changes in the extent of sea ice and seasonal snow cover",
+      "B": "The snow metamorphic rate and warming-induced consolidation of light-absorbing impurities",
+      "C": "Vegetation state, soil wetness, and ocean roughness",
+      "D": "Atmospheric absorption and scattering by clouds"
+    },
+    "correct_answer": "A",
+    "explanation": "The text states, 'In the present climate and at multi-decadal time scales, the largest contributions by far are changes in the extent of sea ice and seasonal snow cover'.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "When changes occur in surface albedo, how are the resulting changes in planetary albedo generally characterized, and what is the primary reason for this characterization?",
+    "options": {
+      "A": "They are roughly reduced by two-thirds, primarily due to atmospheric absorption and scattering.",
+      "B": "They are roughly increased by one-third, primarily due to cloud feedback mechanisms.",
+      "C": "They are directly proportional, with no significant reduction or increase.",
+      "D": "They are only observable in the Northern Hemisphere, caused by sea ice melt."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states, 'Changes in surface albedo result in changes in planetary albedo that are roughly reduced by two-thirds, owing to atmospheric absorption and scattering'.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "According to Flanner et al. (2011), what was the estimated contribution of the Northern Hemisphere (NH) cryosphere to global surface-albedo feedback (α A) from 1979–2008, and how were its primary components distributed?",
+    "options": {
+      "A": "0.48 W m–2°C–1, with roughly equal contributions from changes in land snow cover and sea ice.",
+      "B": "0.8 ± 0.3 W m–2°C–1, primarily from Arctic sea ice.",
+      "C": "0.31 ± 0.04 W m–2°C–1, predominantly from land snow cover.",
+      "D": "0.1 W m–2°C–1, contributed mostly by snow metamorphic rate."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states, 'Flanner et al. (2011) applied satellite observations to determine that the northern hemisphere (NH) cryosphere contribution to global α Aover the period 1979–2008 was 0.48 [likely range 0.29 to 0.78] W m–2°C–1, with roughly equal contributions from changes in land snow cover and sea ice.'",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "The passage highlights a discrepancy among different studies regarding the estimated contribution of Arctic sea ice to global surface-albedo feedback. What is identified as the primary reason for this discrepancy?",
+    "options": {
+      "A": "Differences in techniques and data used for assessing the attenuation of surface-albedo change by Arctic clouds.",
+      "B": "Variations in the extent of seasonal snow cover and land ice within the Arctic region.",
+      "C": "Inconsistent temporal domains and limited spatial observations used in the studies.",
+      "D": "The inclusion of light-absorbing impurities near the surface, which affects reflectivity differently."
+    },
+    "correct_answer": "A",
+    "explanation": "The text states, 'Much of this discrepancy can be traced to different techniques and data used for assessing the attenuation of surface-albedo change by Arctic clouds.'",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

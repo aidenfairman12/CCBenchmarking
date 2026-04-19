@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What has been the general effect of recent warming trends on the life cycle of major crops?",
+    "options": {
+      "A": "Lengthened the life cycle",
+      "B": "Shortened the life cycle",
+      "C": "Had no impact on the life cycle",
+      "D": "Varied effects depending on crop type"
+    },
+    "correct_answer": "B",
+    "explanation": "Recent warming trends have generally shortened the life cycle of major crops, as stated in the source passage.",
+    "source": "AR5 Chapter 7",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What has been the impact of climate change on global yields of major crops per unit land area since 1960?",
+    "options": {
+      "A": "Decreased by 10-20%",
+      "B": "Increased 2.5- to 3-fold",
+      "C": "Remained steady",
+      "D": "Decreased by 50%"
+    },
+    "correct_answer": "B",
+    "explanation": "Global yields of major crops per unit land area have increased 2.5- to 3-fold since 1960, as stated in the source passage.",
+    "source": "Figure 5.3",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How have farmers in mid-to-low latitudes in Asia adapted to climate change?",
+    "options": {
+      "A": "By adopting longer-duration cultivars",
+      "B": "By favouring early maturing cultivars",
+      "C": "By shifting planting dates",
+      "D": "By reducing crop yields"
+    },
+    "correct_answer": "B",
+    "explanation": "Farmers in mid-to-low latitudes in Asia have favoured early maturing cultivars to reduce risks of damages due to drought, flood, and/or heat, as stated in the source passage.",
+    "source": "Shaffril et al., 2018",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What has been the impact of climate change on agricultural total factor productivity (TFP) between 1961 and 2015?",
+    "options": {
+      "A": "Increased TFP growth by 21%",
+      "B": "Reduced TFP growth by 21%",
+      "C": "Had no impact on TFP growth",
+      "D": "Increased TFP growth by 50%"
+    },
+    "correct_answer": "B",
+    "explanation": "Climate change trends reduced global TFP growth by a cumulative 21% over a 55-year period relative to TFP growth under counterfactual non-climate change conditions, as stated in the source passage.",
+    "source": "Ortiz-Bobea et al., 2021",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What can be inferred about the relationship between climate change and crop yields in different regions?",
+    "options": {
+      "A": "Climate change has a uniform positive impact on crop yields worldwide",
+      "B": "Climate change has a uniform negative impact on crop yields worldwide",
+      "C": "The impact of climate change on crop yields varies by region and crop type",
+      "D": "Climate change has no impact on crop yields"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that climate impacts for the past 20–50 years differ by crops and regions, with positive effects identified in some regions and negative effects in others.",
+    "source": "Section 5.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

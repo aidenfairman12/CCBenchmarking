@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is 'scenario uncertainty' in the context of future radiative forcing?",
+    "options": {
+      "A": "It refers to uncertainty in societal choices that determine future anthropogenic emissions.",
+      "B": "It refers to uncertainty in past emissions and radiative forcings.",
+      "C": "It refers to uncertainty in how the climate will respond to specific emissions scenarios.",
+      "D": "It refers to the structural uncertainties in climate models."
+    },
+    "correct_answer": "A",
+    "explanation": "'Scenario uncertainty' is defined as uncertainty due to societal choices that will determine future anthropogenic emissions, as stated in the passage.",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why are historical radiative forcings due to aerosols less well-constrained than those due to greenhouse gases (GHGs)?",
+    "options": {
+      "A": "Because aerosols have a shorter atmospheric lifespan than GHGs.",
+      "B": "Because aerosol radiative forcing relies on fewer observational data compared to GHGs.",
+      "C": "Because past volcanic eruptions and solar activity are more difficult to quantify.",
+      "D": "Because aerosol radiative forcings vary more significantly across different regions."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that historical radiative forcings due to aerosols are less well-constrained by observations compared to GHGs.",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Which of the following is a limitation of using CMIP climate models to estimate climate response uncertainty?",
+    "options": {
+      "A": "They do not account for past volcanic eruptions.",
+      "B": "They are not entirely independent from each other.",
+      "C": "They underestimate the effects of greenhouse gas emissions.",
+      "D": "They lack scenarios for future societal choices."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains that CMIP models are not entirely independent of each other, contributing to structural uncertainties in their outputs.",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is one reason why CMIP6 model ranges for equilibrium climate sensitivity (ECS) may differ from assessed 'very likely' ranges?",
+    "options": {
+      "A": "CMIP6 models are designed to exclude aerosol effects.",
+      "B": "CMIP6 models incorporate more observational data than the assessed ranges.",
+      "C": "CMIP6 models include structural uncertainties not fully reflected in the assessed ranges.",
+      "D": "CMIP6 models focus exclusively on paleoclimate simulations."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage notes that the CMIP6 model range is broader than the 'very likely' range due to structural uncertainties in the models.",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What are the RCP and SSP scenarios primarily designed to do?",
+    "options": {
+      "A": "Provide precise predictions of future climate conditions.",
+      "B": "Span a plausible range of future pathways for emissions and radiative forcing.",
+      "C": "Analyze historical radiative forcings during the instrumental period.",
+      "D": "Resolve small spatial-scale features in climate models."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains that RCP and SSP scenarios are designed to span a plausible range of future pathways to estimate scenario uncertainty.",
+    "source": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

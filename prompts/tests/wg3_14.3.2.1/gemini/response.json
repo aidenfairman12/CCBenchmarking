@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the decision accompanying the Paris Agreement, what is the floor for the new collective quantified finance goal that is to be set prior to 2025?",
+    "options": {
+      "A": "USD 50 billion per year",
+      "B": "USD 100 billion per year",
+      "C": "USD 200 billion per year",
+      "D": "The finance goal remains unquantified until 2025, with no floor specified."
+    },
+    "correct_answer": "B",
+    "explanation": "The decision accompanying the Paris Agreement resolves to set a new collective quantified finance goal prior to 2025, with USD100 billion yr –1 as a floor.",
+    "source": "IPCC AR6 WG3 Chapter 14 Section 14.3.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Article 2.2 of the Paris Agreement states that its implementation 'will be' to 'reflect equity and the principle of common but differentiated responsibilities and respective capabilities (CBDRRC), in the light of different national circumstances'. What is this provision *not* considered to be?",
+    "options": {
+      "A": "A binding obligation for Parties to reflect CBDRRC.",
+      "B": "A dynamic element influenced by national circumstances.",
+      "C": "A reflection of equity in implementation.",
+      "D": "A shift towards procedurally-oriented differentiation for developing countries."
+    },
+    "correct_answer": "A",
+    "explanation": "This provision generates an expectation that Parties will implement the agreement to reflect CBDRRC, and is not an obligation to do so.",
+    "source": "IPCC AR6 WG3 Chapter 14 Section 14.3.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "The Paris Agreement introduces a dynamic element into the interpretation of the principle of Common But Differentiated Responsibilities and Respective Capabilities (CBDRRC). How does this dynamic element manifest?",
+    "options": {
+      "A": "It mandates that all developing countries adopt identical responsibilities regardless of their current status.",
+      "B": "The application of the principle will evolve as national circumstances change.",
+      "C": "It eliminates the concept of differentiated responsibilities entirely for developed nations.",
+      "D": "It requires a static, one-time assessment of national circumstances for all Parties."
+    },
+    "correct_answer": "B",
+    "explanation": "The inclusion of the term ‘in light of different national circumstances’ introduces a dynamic element into the interpretation of the CBDRRC principle, meaning that as national circumstances evolve, the application of the principle will also evolve.",
+    "source": "IPCC AR6 WG3 Chapter 14 Section 14.3.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "To achieve net zero CO2 emissions around 2050, as discussed in relation to Article 4.1, what range of reduction in global net human-caused CO2 emissions from 2010 levels would be needed by 2030, according to the passage?",
+    "options": {
+      "A": "Approximately 10% to 20%",
+      "B": "Approximately 25% to 35%",
+      "C": "Approximately 45% to 60%",
+      "D": "No specific short-term CO2 reduction percentage is mentioned for this target."
+    },
+    "correct_answer": "C",
+    "explanation": "To reach net zero CO2 around 2050, in the short-term global net human-caused CO2 emissions would need to fall by about 45% to 60% from 2010 levels by 2030.",
+    "source": "IPCC AR6 WG3 Chapter 14 Section 14.3.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "National Determined Contributions (NDCs) are developed by individual state Parties under the Paris Agreement. Which statement best captures the combined requirements and expectations regarding NDCs mentioned in the passage?",
+    "options": {
+      "A": "NDCs are legally binding commitments to achieve the Agreement’s temperature goal and must represent a continuous increase in ambition annually.",
+      "B": "NDCs must collectively show a progression over time and are encouraged to align their ambition with the temperature goal through the ambition cycle, all undertaken with a view to the Agreement's purpose.",
+      "C": "NDCs are voluntary submissions with no strict requirement for progression, though they should ideally aim for net zero GHG emissions by 2030.",
+      "D": "NDCs are primarily focused on redirecting finance flows, and their ambition levels are set independently by each Party without collective oversight or alignment."
+    },
+    "correct_answer": "B",
+    "explanation": "The Paris Agreement requires that NDCs are undertaken by Parties ‘with a view’ to achieving the Agreement’s purpose and collectively ‘represent a progression over time’. It also encourages Parties to align the ambition of their NDCs with the temperature goal through the Agreement’s ‘ambition cycle’.",
+    "source": "IPCC AR6 WG3 Chapter 14 Section 14.3.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

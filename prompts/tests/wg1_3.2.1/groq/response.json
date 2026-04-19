@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the primary assumption of regression-based methods used for detection and attribution of climate change?",
+    "options": {
+      "A": "That the observed change consists of a linear combination of externally forced signals plus internal variability",
+      "B": "That the observed change is solely due to internal variability",
+      "C": "That the observed change is solely due to external forcings",
+      "D": "That the observed change is unrelated to external forcings or internal variability"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states that these approaches are based on multivariate linear regression and assume that the observed change consists of a linear combination of externally forced signals plus internal variability.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.2.1",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the purpose of normalizing observations and model-simulated responses by an estimate of internal variability?",
+    "options": {
+      "A": "To reduce the impact of external forcings on the signal",
+      "B": "To increase the signal-to-noise ratio",
+      "C": "To account for model error",
+      "D": "To remove internal variability from the observations"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that this procedure is used to improve the signal-to-noise ratio.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.2.1",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the implication of a regression coefficient being significantly greater than zero in the context of detection and attribution of climate change?",
+    "options": {
+      "A": "That the observed change is solely due to internal variability",
+      "B": "That the observed change is solely due to external forcings",
+      "C": "That a detectable change is identified in the observations",
+      "D": "That the observed change is unrelated to external forcings or internal variability"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that a regression coefficient which is significantly greater than zero implies that a detectable change is identified in the observations.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.2.1",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the purpose of using a standard residual consistency test or an improved one in the context of detection and attribution of climate change?",
+    "options": {
+      "A": "To evaluate the robustness of the detection and attribution results",
+      "B": "To estimate the scaling factor and its confidence interval",
+      "C": "To check the simulated internal variability against the observed residual variance",
+      "D": "To optimize fingerprints"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that model-simulated variability is typically checked through comparing modelled variance from unforced simulations with the observed residual variance using a standard residual consistency test or an improved one.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.2.1",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the main difference between the approach suggested by Hannart et al. (2014) and traditional methods for estimating the scaling factor and its confidence interval?",
+    "options": {
+      "A": "That it uses a Bayesian model averaging approach",
+      "B": "That it avoids making the assumption that model error and internal variability have the same covariance structure",
+      "C": "That it optimizes fingerprints",
+      "D": "That it uses a bootstrap method to estimate the confidence intervals"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that Hannart et al. (2014) described an inference procedure for scaling factors which avoids making the assumption that model error and internal variability have the same covariance structure.",
+    "source": "IPCC AR6 WG1 Chapter 3 Section 3.2.1",
+    "category": "Attribution Science",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

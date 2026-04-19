@@ -1,0 +1,87 @@
+[
+  {
+    "scenario": "Observed Global Temperature Changes (relative to 1850–1900 baseline)\n\n             Change to 2011–2020 (°C)\nGMST               1.09\nLSAT               1.59\nSST                0.88",
+    "question": "Based on the data provided, which statement accurately describes the warming observed for the 2011–2020 period relative to the 1850–1900 baseline?",
+    "options": {
+      "A": "Sea Surface Temperature (SST) experienced the greatest warming.",
+      "B": "Global Mean Surface Temperature (GMST) warmed more than Land Surface Air Temperature (LSAT).",
+      "C": "Land Surface Air Temperature (LSAT) showed the highest warming.",
+      "D": "All three temperature types warmed by exactly the same amount."
+    },
+    "correct_answer": "C",
+    "explanation": "The table clearly shows LSAT warming at 1.59°C, which is greater than GMST (1.09°C) and SST (0.88°C).",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+    "scenario_type": "comparison",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "scenario": "Observed Global Mean Surface Temperature (GMST) Change (relative to 1850–1900 baseline)\n\nPeriod          GMST Change (°C)\n1995–2014             0.85\n2001–2020             0.99\n2011–2020             1.09",
+    "question": "By how much did the observed Global Mean Surface Temperature (GMST) warming increase when comparing the 2001–2020 period to the 1995–2014 period, both relative to the 1850–1900 baseline?",
+    "options": {
+      "A": "0.10 °C",
+      "B": "0.14 °C",
+      "C": "0.24 °C",
+      "D": "0.85 °C"
+    },
+    "correct_answer": "B",
+    "explanation": "The difference between 0.99°C (2001–2020) and 0.85°C (1995–2014) is 0.14°C.",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+    "scenario_type": "comparison",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "scenario": "Observed Global Temperature Changes (relative to 1850–1900 baseline) for the 2011–2020 period:\n\nType                             Change (°C)\nLand Surface Air Temperature (LSAT)     1.59\nSea Surface Temperature (SST)           0.88",
+    "question": "For the 2011–2020 period, how much warmer was the Land Surface Air Temperature (LSAT) compared to the Sea Surface Temperature (SST), relative to their respective 1850–1900 baselines?",
+    "options": {
+      "A": "0.71 °C",
+      "B": "0.88 °C",
+      "C": "1.59 °C",
+      "D": "2.47 °C"
+    },
+    "correct_answer": "A",
+    "explanation": "The difference between LSAT warming (1.59°C) and SST warming (0.88°C) is 0.71°C.",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+    "scenario_type": "anomaly_interpretation",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "scenario": "Observed Global Mean Surface Temperature (GMST) Trends (total change over period):\n\nPeriod             Total Change (°C)\n1880–2020                1.11\n1960–2020                1.04\n1980–2020                0.76",
+    "question": "Based on the provided GMST trends, which statement about the total observed warming for these periods is most accurate?",
+    "options": {
+      "A": "The longest period (1880–2020) experienced the least total warming.",
+      "B": "The most recent and shortest period (1980–2020) shows the greatest total warming.",
+      "C": "The total warming observed over 1960–2020 was greater than that over 1880–2020.",
+      "D": "The total warming from 1880–2020 was higher than the total warming from 1980–2020."
+    },
+    "correct_answer": "D",
+    "explanation": "The total warming for 1880–2020 was 1.11°C, while for 1980–2020 it was 0.76°C, indicating 1.11°C is higher.",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+    "scenario_type": "trend_identification",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "scenario": "Observed Global Mean Surface Temperature (GMST) Change (relative to 1850–1900 baseline) for 2011–2020 from a single dataset:\n\nGMST Change (with uncertainty range)\n1.12 °C [1.06–1.18]",
+    "question": "According to this single dataset, what is the lower bound of the observed Global Mean Surface Temperature (GMST) change for the 2011–2020 period, relative to the 1850–1900 baseline?",
+    "options": {
+      "A": "1.18 °C",
+      "B": "1.12 °C",
+      "C": "1.06 °C",
+      "D": "0.12 °C"
+    },
+    "correct_answer": "C",
+    "explanation": "The lower bound of the uncertainty range provided, indicated by the first value in the brackets, is 1.06°C.",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+    "scenario_type": "anomaly_interpretation",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

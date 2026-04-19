@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the relationship between the overall effective carbon price and the carbon intensity of energy supply in countries?",
+    "options": {
+      "A": "Countries with higher overall effective carbon prices tend to have higher carbon intensity of energy supply",
+      "B": "Countries with higher overall effective carbon prices tend to have lower carbon intensity of energy supply",
+      "C": "There is no correlation between the overall effective carbon price and the carbon intensity of energy supply",
+      "D": "The relationship between the overall effective carbon price and the carbon intensity of energy supply varies by sector"
+    },
+    "correct_answer": "B",
+    "explanation": "According to the source passage, countries with higher overall effective carbon prices tend to have lower carbon intensity of energy supply and lower emissions intensity of the economy.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the impact of low emissions prices on mitigation incentives?",
+    "options": {
+      "A": "Low emissions prices lead to strong mitigation incentives",
+      "B": "Low emissions prices have no effect on mitigation incentives",
+      "C": "Low emissions prices lead to moderate mitigation incentives",
+      "D": "Low emissions prices lead to small mitigation incentives"
+    },
+    "correct_answer": "D",
+    "explanation": "The source passage states that at low emissions prices, mitigation incentives are small.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "Why do emissions pricing policies have limited impact on industrial process emissions?",
+    "options": {
+      "A": "Because industrial process emissions have low marginal abatement costs",
+      "B": "Because industrial process emissions are not covered by emissions pricing policies",
+      "C": "Because emissions pricing policies are not effective in reducing emissions",
+      "D": "Because industrial process emissions have higher abatement costs than the tax/allowance price"
+    },
+    "correct_answer": "D",
+    "explanation": "The source passage states that emissions pricing policies encourage reduction of emissions whose marginal abatement cost is lower than the tax/allowance price, and have limited impact on emissions with higher abatement costs such as industrial process emissions.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the challenge in estimating the overall effectiveness of mitigation policies?",
+    "options": {
+      "A": "The lack of data on emissions and their drivers",
+      "B": "The difficulty in identifying which observed changes in emissions are attributable to policy effort and which to other factors",
+      "C": "The complexity of the policy instruments used",
+      "D": "The limited scope of the policies implemented"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that estimating the overall effectiveness of mitigation policies is difficult because of the need to identify which observed changes in emissions and their drivers are attributable to policy effort and which to other factors.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the impact of trade policy on CO2 emissions in most countries?",
+    "options": {
+      "A": "Trade policy provides an explicit tax on CO2 emissions",
+      "B": "Trade policy has no effect on CO2 emissions",
+      "C": "Trade policy provides an implicit subsidy to CO2 emissions",
+      "D": "Trade policy leads to a reduction in CO2 emissions"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that in most countries, trade policy provides an implicit subsidy to CO2 emissions, citing Shapiro 2020.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3",
+    "category": "Policy and Governance",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

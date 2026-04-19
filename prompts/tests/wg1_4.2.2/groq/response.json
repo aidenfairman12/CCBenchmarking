@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the primary purpose of using the SSP scenarios in the context of climate modeling?",
+    "options": {
+      "A": "To establish a matrix of global forcing levels and socio-economic storylines",
+      "B": "To predict the exact temperature increase by 2100",
+      "C": "To identify the most effective mitigation strategies",
+      "D": "To determine the economic impact of climate change on specific industries"
+    },
+    "correct_answer": "A",
+    "explanation": "The source passage states that 'the set of SSPs therefore establishes a matrix of global forcing levels and socio-economic storylines'.",
+    "source": "IPCC AR6 WG1 Chapter 4 Section 4.2.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "Why is the SSP1-2.6 scenario preferred over the SSP1-1.9 scenario for presentation in maps?",
+    "options": {
+      "A": "Because it has a higher number of simulations available",
+      "B": "Because it is more relevant to the 1.5°C Paris Agreement goal",
+      "C": "Because it has a lower projected temperature increase",
+      "D": "Because it represents a more extreme scenario"
+    },
+    "correct_answer": "A",
+    "explanation": "The source passage states that 'SSP1-2.6 is preferred over SSP1-1.9 because the latter has far fewer simulations available'.",
+    "source": "IPCC AR6 WG1 Chapter 4 Section 4.2.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the purpose of presenting results from the SSP5-8.5 scenario, despite its perceived implausibility?",
+    "options": {
+      "A": "To demonstrate the potential consequences of extreme climate change",
+      "B": "To enable comparison with previous assessments, such as AR5",
+      "C": "To provide a baseline for mitigation strategies",
+      "D": "To predict the exact temperature increase by 2100"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that 'we show results for SSP5-8.5, for example to enable backwards compatibility with AR5'.",
+    "source": "IPCC AR6 WG1 Chapter 4 Section 4.2.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How do the authors present the results of the scenario simulations in time series figures?",
+    "options": {
+      "A": "They show the multi-model mean change and 5-95% range for all five SSPs",
+      "B": "They show the multi-model mean change for all five SSPs, but only the 5-95% range for SSP1-2.6 and SSP3-7.0",
+      "C": "They show the multi-model mean change and 5-95% range for only SSP1-2.6 and SSP3-7.0",
+      "D": "They show the results for each individual model simulation"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that 'in time series figures we show multi-model mean change for all five SSPs but for clarity 5–95% range only for SSP1-2.6 and SSP3-7.0'.",
+    "source": "IPCC AR6 WG1 Chapter 4 Section 4.2.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the relationship between the SSP scenarios and the concept of radiative forcing, and how do the authors use this relationship in their analysis?",
+    "options": {
+      "A": "The SSP scenarios are used to predict the radiative forcing levels, which are then used to determine the socio-economic storylines",
+      "B": "The radiative forcing levels are used to determine the SSP scenarios, which are then used to analyze the socio-economic storylines",
+      "C": "The SSP scenarios establish a matrix of global radiative forcing levels and socio-economic storylines, which are then used to analyze the climate projections",
+      "D": "The radiative forcing levels are not related to the SSP scenarios, and are instead used to analyze the climate projections separately"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that 'the set of SSPs recognizes that global radiative forcing levels can be achieved by different pathways of CO2, non-CO2 greenhouse gases (GHGs), aerosols and land use; the set of SSPs therefore establishes a matrix of global forcing levels and socio-economic storylines'.",
+    "source": "IPCC AR6 WG1 Chapter 4 Section 4.2.2",
+    "category": "Projections and Uncertainty",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What percentage of moderate daily hot extremes over land are attributed to anthropogenic warming?",
+    "options": {
+      "A": "50%",
+      "B": "60%",
+      "C": "75%",
+      "D": "90%"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that as much as 75% of the moderate daily hot extremes over land are due to anthropogenic warming.",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.3.4",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the primary cause of the observed increase in hot extremes and decrease in cold extremes?",
+    "options": {
+      "A": "Natural climate variability",
+      "B": "Anthropogenic greenhouse gas emissions",
+      "C": "Aerosol forcing",
+      "D": "Changes in ocean currents"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that the observed increase in hot extremes and decrease in cold extremes are attributed to human influence, dominated by anthropogenic greenhouse gas emissions.",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.3.4",
+    "category": "Attribution Science",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How do aerosols affect the increase in extreme temperature?",
+    "options": {
+      "A": "Aerosols amplify the warming effect of greenhouse gases",
+      "B": "Aerosols have no effect on extreme temperature",
+      "C": "Aerosols offset the warming effect of greenhouse gases",
+      "D": "Aerosols only affect extreme temperature over land"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that an increase in extreme temperature is mostly due to greenhouse gas forcing, offset by aerosol forcing.",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.3.4",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the effect of anthropogenic forcing on the number of frost and ice days?",
+    "options": {
+      "A": "Anthropogenic forcing increases the number of frost and ice days",
+      "B": "Anthropogenic forcing has no effect on the number of frost and ice days",
+      "C": "Anthropogenic forcing decreases the number of frost and ice days",
+      "D": "Anthropogenic forcing only affects the number of frost and ice days over the Northern Hemisphere"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that Yin and Sun (2018) found clear evidence of an anthropogenic signal in the changes in the number of frost and ice days, implying a decrease.",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.3.4",
+    "category": "Attribution Science",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What can be inferred about the relationship between anthropogenic warming and changes in extreme temperature at the regional scale?",
+    "options": {
+      "A": "Anthropogenic warming only affects extreme temperature at the global scale",
+      "B": "Anthropogenic warming has a uniform effect on extreme temperature across all regions",
+      "C": "The effect of anthropogenic warming on extreme temperature varies by region, but can be detected at the country and sub-country scales",
+      "D": "Anthropogenic warming only affects extreme temperature over land"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that the effect of anthropogenic forcing is clearly detectable and attributable in the observed changes in indicators of temperature extremes, even at country and sub-country scales.",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.3.4",
+    "category": "Attribution Science",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

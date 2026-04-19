@@ -1,0 +1,72 @@
+[
+  {
+    "question": "According to the passage, how many countries had passed direct climate laws with greenhouse gas limitation as a direct objective by 2020?",
+    "options": {
+      "A": "56 out of 194 countries studied",
+      "B": "94 out of 194 countries studied",
+      "C": "130 out of 194 countries studied",
+      "D": "56 out of 130 countries studied"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states that 'Direct climate laws – with greenhouse gas limitation as a direct objective – had been passed in 56 countries (of 194 studied) covering 53% of emissions in 2020.'",
+    "source": "IPCC AR6 WG3 Chapter 13",
+    "category": "Policy and Governance",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What distinguishes 'indirect' climate laws from 'direct' climate laws, according to the passage?",
+    "options": {
+      "A": "Indirect laws are passed by sub-national governments rather than national governments",
+      "B": "Indirect laws affect mitigation or adaptation through the subjects they regulate rather than explicitly targeting climate change causes or impacts",
+      "C": "Indirect laws only apply to adaptation measures, while direct laws apply to mitigation",
+      "D": "Indirect laws are executive strategies that substitute for formal legislation"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage defines indirect laws as those that have 'the capacity to affect mitigation or adaptation through the subjects they regulate, for example, through promotion of co-benefits, or creation of reporting protocols,' contrasting them with direct laws that explicitly address climate change causes or impacts.",
+    "source": "IPCC AR6 WG3 Chapter 13",
+    "category": "Policy and Governance",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Between 2010 and 2020, how did the number of mitigation-related laws documented in the 'Climate Change Laws of the World' database change?",
+    "options": {
+      "A": "The number roughly doubled, from 342 to 694",
+      "B": "The number increased modestly, from 558 to 694",
+      "C": "The number tripled, from 194 to 694",
+      "D": "The number increased from 342 to 558, then declined slightly to 2020"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states the database documents '694 mitigation-related laws by 2020 versus 558 in 2015 and 342 in 2010,' representing a doubling from 2010 to 2020.",
+    "source": "IPCC AR6 WG3 Chapter 13",
+    "category": "Policy and Governance",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to the passage, what particular benefit do national climate laws offer specifically to lower and middle income countries that is not emphasized for higher income countries?",
+    "options": {
+      "A": "They provide a legal basis for setting greenhouse gas reduction targets",
+      "B": "They help mainstream mitigation into sector-level action",
+      "C": "They can attract international finance by signaling credibility",
+      "D": "They create law-backed agencies for coordination and accountability"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage notes that 'For lower/middle income countries, in particular, the existence of a law may also attract international finance by serving as a signal of credibility,' distinguishing this benefit as specific to those countries.",
+    "source": "IPCC AR6 WG3 Chapter 13",
+    "category": "Policy and Governance",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A country has no single overarching climate framework law but instead applies climate considerations through its existing energy efficiency and renewable energy legislation. According to the passage, how should this country's approach be characterized, and what does the evidence suggest about how common this approach is?",
+    "options": {
+      "A": "This represents a 'direct climate law' approach, and it is the minority approach among countries with climate legislation",
+      "B": "This represents a 'sectoral approach' using indirect laws, and it accounts for the majority of climate laws globally",
+      "C": "This represents an executive climate strategy approach, and it typically substitutes for participation in the NDC process",
+      "D": "This represents a gap in climate governance, as countries without framework laws are not captured by the 'Climate Change Laws of the World' database"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage describes a 'sectoral approach' as 'the layering of climate considerations into existing laws in the absence of an overarching framework law,' and explicitly states that 'the majority are accounted for by sectoral indirect laws,' citing Indian and Ghanaian laws as examples.",
+    "source": "IPCC AR6 WG3 Chapter 13",
+    "category": "Policy and Governance",
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, what is a direct consequence of lower pH levels in seawater?",
+    "options": {
+      "A": "Increased photosynthesis in phytoplankton.",
+      "B": "Decreased calcification.",
+      "C": "Enhanced microbial respiration.",
+      "D": "Altered behaviour in finfish."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states, 'while lower pH levels decrease calcification (high confidence)'.",
+    "source": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Based on the provided text, what defines hypoxia in terms of oxygen concentration?",
+    "options": {
+      "A": "Oxygen concentrations >2 mg l–1.",
+      "B": "Oxygen concentrations ≤2 mg l–1.",
+      "C": "Oxygen concentrations that are highest for large, multicellular organisms.",
+      "D": "Oxygen concentrations in the upper ocean due to air–sea exchange."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage defines hypoxia as 'oxygen concentrations ≤2 mg l –1'.",
+    "source": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "The passage describes calcifying primary producers as experiencing 'different, often opposing effects' due to ocean acidification. Which of the following accurately represents these opposing effects?",
+    "options": {
+      "A": "Both calcification and photosynthetic rates decrease.",
+      "B": "Calcification decreases while photosynthetic rates increase.",
+      "C": "Both calcification and photosynthetic rates increase.",
+      "D": "Calcification increases while photosynthetic rates decrease."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that for calcifying primary producers, ocean acidification has 'often opposing effects, for example, decreasing calcification while photosynthetic rates increase'.",
+    "source": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Which of the following is identified in the passage as a contributing factor to lowered dissolved oxygen levels?",
+    "options": {
+      "A": "Increased oxygen solubility in warmer waters.",
+      "B": "Decreased microbial respiration due to eutrophication.",
+      "C": "Altered ventilation and stratification.",
+      "D": "Higher CO2 concentrations enhancing photosynthesis."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage lists 'altered ventilation and stratification' as one of the processes contributing to lowered oxygen levels.",
+    "source": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "The passage states that an organism's capacity to compensate for internal fluid acidification depends on its acid-base regulation, which varies with biological complexity and adaptive abilities. Separately, it notes that oxygen requirements are highest for large, multicellular organisms. Based on this information, which conclusion about the overall vulnerability of marine organisms is best supported?",
+    "options": {
+      "A": "Organisms with advanced acid-base regulation are immune to the impacts of lowered oxygen levels.",
+      "B": "Large, multicellular organisms, despite potentially having complex adaptive abilities, face inherent vulnerability to deoxygenation due to their high oxygen demands.",
+      "C": "Simpler organisms, which typically have lower oxygen requirements, are therefore generally more resistant to ocean acidification than complex organisms.",
+      "D": "The capacity for acid-base regulation directly determines an organism's oxygen requirements, linking their responses to both ocean acidification and deoxygenation."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage indicates that biological complexity and adaptive abilities influence acid-base regulation for acidification resistance. Separately, it states that 'oxygen requirements... are highest for large, multicellular organisms,' implying that despite potential complexity, these organisms are vulnerable to deoxygenation due to their high oxygen demand.",
+    "source": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

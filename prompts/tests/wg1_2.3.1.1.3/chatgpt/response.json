@@ -1,0 +1,87 @@
+[
+  {
+    "scenario": "The table below shows observed changes in global mean surface temperature (GMST), land surface air temperature (LSAT), and sea surface temperature (SST) relative to the 1850–1900 baseline, as well as trends over various periods. Units are in degrees Celsius (°C).\n\n           Col 1  Col 2  Col 3  Col 4  Col 5  Col 6\nGMST       0.85   0.99   1.09   1.11   1.04   0.76\nLSAT       1.27   1.47   1.59   1.50   1.51   1.18\nSST        0.67   0.79   0.88   0.96   0.86   0.60",
+    "question": "According to the table, what was the observed change in GMST from the 1850–1900 baseline to the 2011–2020 period?",
+    "options": {
+      "A": "0.85°C",
+      "B": "0.99°C",
+      "C": "1.09°C",
+      "D": "1.50°C"
+    },
+    "correct_answer": "C",
+    "explanation": "The GMST change for the 2011–2020 period relative to 1850–1900 is listed under Col 3 as 1.09°C.",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+    "scenario_type": "trend_identification",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "scenario": "The following table shows average trends (°C) over different periods for global mean surface temperature (GMST), land surface air temperature (LSAT), and sea surface temperature (SST):\n\n           Col 4  Col 5  Col 6\nGMST       1.11   1.04   0.76\nLSAT       1.50   1.51   1.18\nSST        0.96   0.86   0.60",
+    "question": "Which dataset shows the fastest warming trend over the 1980–2020 period?",
+    "options": {
+      "A": "GMST",
+      "B": "LSAT",
+      "C": "SST",
+      "D": "The trends are identical for all datasets."
+    },
+    "correct_answer": "B",
+    "explanation": "For the 1980–2020 period (Col 6), LSAT has the highest trend at 1.18°C, compared to 0.76°C for GMST and 0.60°C for SST.",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+    "scenario_type": "comparison",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "scenario": "The following table shows temperature changes relative to the 1850–1900 baseline for GMST, LSAT, and SST over three periods:\n\n           Col 1  Col 2  Col 3\nGMST       0.85   0.99   1.09\nLSAT       1.27   1.47   1.59\nSST        0.67   0.79   0.88",
+    "question": "By how much did the LSAT warming increase between the 1995–2014 period and the 2011–2020 period?",
+    "options": {
+      "A": "0.12°C",
+      "B": "0.20°C",
+      "C": "0.32°C",
+      "D": "0.88°C"
+    },
+    "correct_answer": "B",
+    "explanation": "The LSAT warming increased from 1.47°C (Col 2) to 1.59°C (Col 3), a difference of 0.12°C.",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+    "scenario_type": "trend_identification",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "scenario": "The table below shows trends in °C over different periods for GMST, LSAT, and SST:\n\n           Col 4  Col 5  Col 6\nGMST       1.11   1.04   0.76\nLSAT       1.50   1.51   1.18\nSST        0.96   0.86   0.60",
+    "question": "What can be inferred about the relative warming rates of GMST, LSAT, and SST over time?",
+    "options": {
+      "A": "LSAT always warms faster than GMST, which warms faster than SST.",
+      "B": "SST warms faster than LSAT in recent decades.",
+      "C": "GMST and LSAT have identical warming rates over all periods.",
+      "D": "Warming rates are decreasing for LSAT over time, while GMST increases."
+    },
+    "correct_answer": "A",
+    "explanation": "The trends show that LSAT consistently has the highest warming rate, followed by GMST, and then SST across all periods.",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+    "scenario_type": "comparison",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "scenario": "Projections for GMST under two scenarios (°C increase from 1850–1900 baseline):\n\nScenario A: 1.5°C by 2040, 2.0°C by 2080\nScenario B: 1.3°C by 2040, 1.8°C by 2080",
+    "question": "What is the difference in projected GMST increase between the two scenarios by 2080?",
+    "options": {
+      "A": "0.1°C",
+      "B": "0.2°C",
+      "C": "0.3°C",
+      "D": "0.5°C"
+    },
+    "correct_answer": "B",
+    "explanation": "By 2080, Scenario A projects 2.0°C, while Scenario B projects 1.8°C, a difference of 0.2°C.",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+    "scenario_type": "projection_reading",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which SSP scenario is described as directly relevant to the assessment of the 1.5°C Paris Agreement goal?",
+    "options": {
+      "A": "SSP1-2.6",
+      "B": "SSP1-1.9",
+      "C": "SSP2-4.5",
+      "D": "SSP5-8.5"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explicitly states that 'this chapter focuses its assessment on these, plus the SSP1-1.9 scenario, which is directly relevant to the assessment of the 1.5°C Paris Agreement goal.'",
+    "source": "IPCC AR6 WG1 Chapter 4",
+    "category": "Scenarios and Pathways",
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "What socio-economic storyline is associated with the SSP3-7.0 scenario?",
+    "options": {
+      "A": "Fossil fuel-rich development",
+      "B": "Sustainable pathways",
+      "C": "Middle-of-the-road",
+      "D": "Regional rivalry"
+    },
+    "correct_answer": "D",
+    "explanation": "The passage lists SSP3-7.0 as corresponding to 'regional rivalry' among the four tier-1 ScenarioMIP priority scenarios.",
+    "source": "IPCC AR6 WG1 Chapter 4",
+    "category": "Scenarios and Pathways",
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "Why does the chapter use SSP1-2.6 rather than SSP1-1.9 when displaying spatial maps of projected climate change?",
+    "options": {
+      "A": "SSP1-2.6 is more relevant to the Paris Agreement temperature goals than SSP1-1.9",
+      "B": "SSP1-1.9 has far fewer model simulations available compared to SSP1-2.6",
+      "C": "SSP1-2.6 represents a more conservative low-emissions pathway than SSP1-1.9",
+      "D": "SSP1-1.9 projections extend beyond 2100 and cannot be shown on standard maps"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'SSP1-2.6 is preferred over SSP1-1.9 because the latter has far fewer simulations available.'",
+    "source": "IPCC AR6 WG1 Chapter 4",
+    "category": "Scenarios and Pathways",
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "According to the passage, what range is used to represent uncertainty in time series figures, and for which two scenarios is this range displayed?",
+    "options": {
+      "A": "The 10–90% range is shown for SSP1-1.9 and SSP5-8.5",
+      "B": "The 5–95% range is shown for SSP1-2.6 and SSP3-7.0",
+      "C": "The 5–95% range is shown for SSP1-2.6 and SSP5-8.5",
+      "D": "The 10–90% range is shown for SSP2-4.5 and SSP3-7.0"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage specifies that 'in time series figures we show multi-model mean change for all five SSPs but for clarity 5–95% range only for SSP1-2.6 and SSP3-7.0.'",
+    "source": "IPCC AR6 WG1 Chapter 4",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "The passage acknowledges that SSP5-8.5 has been argued to be implausible, yet still includes results from this scenario for multiple reasons. Which of the following is NOT stated in the passage as a justification for retaining SSP5-8.5 results?",
+    "options": {
+      "A": "To enable backwards compatibility with AR5",
+      "B": "Because it has greater data availability of daily output",
+      "C": "Because it represents the most likely future emissions trajectory",
+      "D": "For use when presenting low-likelihood, high-warming storylines"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage lists backward compatibility with AR5, comparison between emissions-driven and concentration-driven simulations, greater daily data availability, and use in high-warming storylines as justifications, but never claims SSP5-8.5 represents the most likely future trajectory — in fact, it notes the scenario has been argued to be implausible.",
+    "source": "IPCC AR6 WG1 Chapter 4",
+    "category": "Scenarios and Pathways",
+    "difficulty": "hard",
+    "generated_by": "claude-sonnet-4-6"
+  }
+]

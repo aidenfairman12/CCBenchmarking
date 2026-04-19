@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, what is the error margin in instantaneous radiative forcing (IRF) calculations from high spectral resolution radiative transfer models?",
+    "options": {
+      "A": "Less than 1%",
+      "B": "Less than 5%",
+      "C": "Within 10% of the total ERF",
+      "D": "Less than 25%"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage explicitly states that high spectral resolution radiative transfer models have 'errors in the instantaneous radiative forcing (IRF) of less than 1%.'",
+    "source": "IPCC AR6 WG1 Chapter 7",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "What specific update in the post-AR5 calculations caused the total SARF of methane to increase by 25%?",
+    "options": {
+      "A": "Accounting for absorption band overlaps between methane and nitrous oxide",
+      "B": "Including the shortwave forcing from methane and updates to the water vapour continuum",
+      "C": "Correcting for near-surface temperature changes over land in ESM experiments",
+      "D": "Applying fixed dynamical heating adjustments to stratospheric temperatures"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'new calculations include the shortwave forcing from methane and updates to the water vapour continuum (increasing the total SARF of methane by 25%).'",
+    "source": "IPCC AR6 WG1 Chapter 7",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "Why does the assessment described in the passage use a combined approach rather than relying solely on Earth System Models (ESMs) to establish ERF best estimates for well-mixed greenhouse gases?",
+    "options": {
+      "A": "ESMs cannot simulate stratospheric temperature adjustments required for SARF calculations",
+      "B": "ESMs do not account for the shortwave forcing contributions of methane",
+      "C": "The radiation schemes in ESMs are approximations with variations and biases between schemes",
+      "D": "ESMs overestimate tropospheric adjustments when compared to radiative transfer models"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage explains that 'radiation schemes in climate models are approximations to high spectral resolution radiative transfer models with variations and biases in results between the schemes,' making ESMs alone insufficient.",
+    "source": "IPCC AR6 WG1 Chapter 7",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "In AR5, ERF was assessed to be approximately equal to SARF for all well-mixed greenhouse gases. Based on the passage, which of the following best describes a key limitation that led to this assumption?",
+    "options": {
+      "A": "High spectral resolution radiative transfer models were not yet available to compute SARFs accurately",
+      "B": "No calculations of tropospheric adjustments beyond SARF were available for greenhouse gases other than CO2",
+      "C": "The Myhre et al. (1998) expressions already incorporated tropospheric adjustment terms for all greenhouse gases",
+      "D": "ESMs at the time could not simulate the effects of well-mixed greenhouse gases on ozone chemistry"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'No calculations were available for other WMGHGs, so ERF was therefore assessed to be approximately equal to SARF (within 10%) for all WMGHGs.'",
+    "source": "IPCC AR6 WG1 Chapter 7",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "The passage distinguishes between IRF, SARF, and ERF. Based on the information provided, which of the following correctly characterizes the relationship between these quantities and how each is obtained?",
+    "options": {
+      "A": "IRF includes stratospheric temperature adjustment; SARF adds tropospheric adjustments; ERF is computed solely from ESMs",
+      "B": "IRF requires no adjustments; SARF accounts for stratospheric temperature adjustment via fixed dynamical heating; ERF additionally incorporates tropospheric adjustments derived from ESMs",
+      "C": "SARF is a subset of IRF that excludes shortwave forcing; ERF corrects SARF by adding composition adjustments from ozone and aerosol chemistry",
+      "D": "IRF and SARF are equivalent for methane because its shortwave forcing is negligible; ERF adds both stratospheric and tropospheric adjustments to IRF"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that high-resolution models 'can calculate IRFs with no adjustments, or SARFs by accounting for the adjustment of stratospheric temperatures using a fixed dynamical heating,' and that the assessment 'estimates ERFs from a combined approach that uses the SARF from radiative transfer models and adds the tropospheric adjustments derived from ESMs.'",
+    "source": "IPCC AR6 WG1 Chapter 7",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "Claude Sonnet"
+  }
+]

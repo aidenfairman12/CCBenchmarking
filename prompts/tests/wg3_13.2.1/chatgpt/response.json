@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is one key function of national climate laws according to the passage?",
+    "options": {
+      "A": "To establish a platform for transparent target setting and implementation.",
+      "B": "To guarantee international financial support.",
+      "C": "To ensure penalties for non-compliance with global climate goals.",
+      "D": "To eliminate the need for executive climate strategies."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states that a function of national climate laws is to establish a platform for transparent target setting and implementation.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is a potential benefit of climate laws for lower/middle income countries?",
+    "options": {
+      "A": "They ensure compliance with international climate agreements.",
+      "B": "They attract international finance by signaling credibility.",
+      "C": "They automatically reduce greenhouse gas emissions.",
+      "D": "They eliminate the need for sectoral approaches."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage mentions that for lower/middle income countries, climate laws may attract international finance by serving as a signal of credibility.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What distinguishes direct climate laws from indirect climate laws?",
+    "options": {
+      "A": "Direct laws focus on adaptation, while indirect laws focus on mitigation.",
+      "B": "Direct laws explicitly consider climate change causes or impacts, while indirect laws affect mitigation through the subjects they regulate.",
+      "C": "Direct laws are implemented globally, while indirect laws are only national.",
+      "D": "Direct laws are sector-specific, while indirect laws are overarching."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that direct climate laws explicitly consider climate change causes or impacts, while indirect laws have the capacity to affect mitigation through the subjects they regulate.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why is it challenging to assess the relative importance of direct and indirect climate laws?",
+    "options": {
+      "A": "The lack of international agreements on climate law definitions.",
+      "B": "The overlap between direct and indirect laws in their objectives.",
+      "C": "The definitional differences across studies.",
+      "D": "The absence of data on greenhouse gas emissions in many countries."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage highlights that definitional differences across studies complicate a clear assessment of the relative importance of direct and indirect climate laws.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is the most common approach to climate legislation in Commonwealth countries, according to the passage?",
+    "options": {
+      "A": "Adopting a single overarching climate law.",
+      "B": "Passing sector-specific indirect laws.",
+      "C": "Prioritizing greenhouse gas reduction through executive climate strategies.",
+      "D": "Using laws that focus exclusively on renewable energy promotion."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage notes that Commonwealth countries often rely on an array of sector-specific indirect laws rather than a single overarching law.",
+    "source": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

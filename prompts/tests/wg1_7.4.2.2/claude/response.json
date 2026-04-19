@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to satellite observations, what is the estimated value of the water-vapour feedback (αWV)?",
+    "options": {
+      "A": "1.85 ± 0.32 W m⁻²°C⁻¹",
+      "B": "1.77 ± 0.20 W m⁻²°C⁻¹",
+      "C": "–0.50 ± 0.20 W m⁻²°C⁻¹",
+      "D": "0.32 ± 0.20 W m⁻²°C⁻¹"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states that 'The estimate of this feedback inferred from satellite observations is αWV = 1.85 ± 0.32 W m⁻²°C⁻¹ (R. Liu et al., 2018),' while the value 1.77 ± 0.20 is from CMIP5/CMIP6 models.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "Why is the global mean lapse-rate (LR) feedback negative despite being positive in polar regions?",
+    "options": {
+      "A": "Because polar regions have stronger temperature inversions that overwhelm the tropical signal",
+      "B": "Because the tropical contribution, where upper troposphere warming exceeds surface warming, dominates the global mean",
+      "C": "Because extratropical ocean heat uptake suppresses the positive polar feedback globally",
+      "D": "Because the negative feedback from the lower troposphere in the extratropics cancels the polar signal"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explicitly states that 'the tropical contribution dominates, leading to a negative global mean LR feedback,' where tropical warming is larger in the upper troposphere, increasing radiative emission to space.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "What physical relationship governs the approximate increase in atmospheric water vapour at the global scale in response to warming?",
+    "options": {
+      "A": "The Stefan–Boltzmann relationship",
+      "B": "The moist adiabatic lapse rate",
+      "C": "The Clausius–Clapeyron relationship",
+      "D": "The meridional heat transport balance"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that 'the water vapour increase approximately follows the Clausius–Clapeyron relationship at the global scale with regional differences dominated by dynamical processes.'",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "In the second decomposition of water-vapour and lapse-rate feedbacks described in the passage, what two components are separated?",
+    "options": {
+      "A": "Specific humidity changes and lapse-rate changes",
+      "B": "Tropical lapse-rate changes and extratropical lapse-rate changes",
+      "C": "Lapse-rate changes at constant relative humidity and changes in relative humidity",
+      "D": "Upper troposphere moistening and lower troposphere moistening"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage describes the second decomposition as considering 'changes in the lapse rate assuming constant relative humidity (LR*) separately from changes in relative humidity (RH).'",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "The water-vapour feedback and the tropical lapse-rate feedback both involve changes in the upper troposphere in response to warming, yet they have opposite signs. Based on the passage, which statement correctly explains why the tropical lapse-rate feedback is negative while the water-vapour feedback is positive?",
+    "options": {
+      "A": "The tropical lapse-rate feedback is negative because greater upper troposphere warming increases outgoing radiation to space, whereas the water-vapour feedback is positive because greater water vapour in the upper troposphere reduces outgoing radiation",
+      "B": "The tropical lapse-rate feedback is negative because upper troposphere cooling reduces outgoing radiation, whereas the water-vapour feedback is positive because water vapour increases absorbed shortwave radiation at the surface",
+      "C": "The tropical lapse-rate feedback is negative because it is driven by moist convection, whereas the water-vapour feedback is positive because it follows the Clausius–Clapeyron relationship only in the lower troposphere",
+      "D": "The tropical lapse-rate feedback is negative because polar inversions dominate the tropical signal, whereas the water-vapour feedback is positive because relative humidity increases more than specific humidity"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states that tropical upper troposphere warming exceeds surface warming, 'leading to a larger radiative emission to space and therefore a negative feedback,' while greater upper troposphere water vapour 'results in enhanced absorption of LW and SW radiation and reduced outgoing radiation,' a positive feedback.",
+    "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "Claude Sonnet"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is one effect of higher CO2 concentrations on certain marine species, according to the source passage?",
+    "options": {
+      "A": "It increases photosynthesis and growth in some phytoplankton, macroalgae, and seagrass species.",
+      "B": "It decreases photosynthesis in all marine species.",
+      "C": "It reduces the ability of organisms to regulate internal acid–base balance.",
+      "D": "It primarily decreases growth and survival in early life stages of all species."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states, 'higher CO2 concentrations can increase photosynthesis and growth in some phytoplankton, macroalgal, and seagrass species.'",
+    "source": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "How does ocean acidification generally affect calcifying organisms compared to non-calcifying organisms?",
+    "options": {
+      "A": "Calcifying organisms are generally more sensitive to acidification than non-calcifying organisms.",
+      "B": "Non-calcifying organisms are more sensitive to acidification than calcifying organisms.",
+      "C": "Both groups are equally sensitive to acidification.",
+      "D": "Ocean acidification benefits calcifying organisms while harming non-calcifying ones."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage indicates that 'calcifiers are generally more sensitive to acidification... than non-calcifying groups (high confidence).'",
+    "source": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What factor influences an organism's ability to resist acidification of internal fluids?",
+    "options": {
+      "A": "The concentration of CO2 in the seawater.",
+      "B": "The organism's capacity for acid–base regulation.",
+      "C": "The overall pH level of the ocean.",
+      "D": "The amount of dissolved oxygen available in the ocean."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'organisms’ capacity to compensate for or resist acidification of internal fluids depends on their capacity for acid–base regulation.'",
+    "source": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What happens under hypoxia (oxygen concentrations ≤2 mg l–1) in marine ecosystems?",
+    "options": {
+      "A": "Organisms exhibit no significant physiological changes.",
+      "B": "Growth and survival of calcifying organisms increase.",
+      "C": "Communities experience species migration, replacement, and loss.",
+      "D": "Photosynthesis rates increase significantly in subsurface waters."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage explains that under hypoxia, 'communities undergo species migration, replacement and loss, transforming community composition.'",
+    "source": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is one way ocean acidification affects calcifying primary producers like coralline algae?",
+    "options": {
+      "A": "It increases both calcification and photosynthetic rates.",
+      "B": "It decreases calcification but increases photosynthetic rates.",
+      "C": "It decreases both calcification and photosynthetic rates.",
+      "D": "It has no effect on calcification or photosynthetic rates."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage notes that for calcifying primary producers, 'ocean acidification has different, often opposing effects, for example, decreasing calcification while photosynthetic rates increase.'",
+    "source": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

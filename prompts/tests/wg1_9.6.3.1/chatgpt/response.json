@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the projected range for Global Mean Sea Level (GMSL) rise by 2050 under low- and moderate-emissions scenarios?",
+    "options": {
+      "A": "0.1 to 0.4 meters",
+      "B": "0.3 to 1.6 meters",
+      "C": "0.1 to 0.6 meters",
+      "D": "0.4 to 2.4 meters"
+    },
+    "correct_answer": "A",
+    "explanation": "The text states that GMSL in 2050 will be between 0.1 and 0.4 m higher under low- and moderate-emissions scenarios.",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Which factor contributes to the higher uncertainty in GMSL projections for 2100 compared to 2050?",
+    "options": {
+      "A": "Higher sensitivity to emissions scenarios in 2050",
+      "B": "Broader ranges of projections under higher-emissions scenarios in 2100",
+      "C": "No inclusion of ice-sheet processes in 2100 projections",
+      "D": "Lack of data for low-emissions scenarios in 2100"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains that GMSL projections for 2100 exhibit broad ranges and low agreement, especially under higher-emissions scenarios.",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "How does the inclusion of MICI or SEJ processes affect GMSL projections for 2050 under high-emissions scenarios?",
+    "options": {
+      "A": "It decreases the overall range of projections.",
+      "B": "It does not extend the projection range beyond 0.4 meters.",
+      "C": "It extends the upper range to 0.6 meters.",
+      "D": "It eliminates uncertainty in projections."
+    },
+    "correct_answer": "C",
+    "explanation": "The text states that projections incorporating MICI or SEJ extend the upper part of the range to 0.6 m under RCP8.5.",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is the 5th–95th percentile range for GMSL projections by 2100 under RCP2.6 when considering processes with at least medium confidence?",
+    "options": {
+      "A": "0.1 to 0.4 meters",
+      "B": "0.2 to 1.0 meters",
+      "C": "0.2 to 1.6 meters",
+      "D": "0.4 to 2.4 meters"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage specifies that GMSL projections for 2100 under RCP2.6 fall between 0.2 and 1.0 m, considering processes with medium confidence.",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why is there high agreement across published GMSL projections for 2050?",
+    "options": {
+      "A": "Due to consistent extrapolation of historical acceleration trends.",
+      "B": "Because emissions scenarios have no impact on sea level rise.",
+      "C": "Because ice-sheet processes are excluded from 2050 projections.",
+      "D": "Because MICI and SEJ processes dominate all 2050 projections."
+    },
+    "correct_answer": "A",
+    "explanation": "The text notes that projections up to 2050 are broadly consistent with extrapolation of observed GMSL rise acceleration.",
+    "source": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.1",
+    "category": "Projections and Uncertainty",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

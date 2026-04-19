@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which group of diseases is explicitly mentioned as having their spread facilitated by changing climatic patterns in regions like Asia, Latin America, North America, and Europe?",
+    "options": {
+      "A": "CHIKV, Zika, Japanese encephalitis, and Rift Valley Fever",
+      "B": "West Nile fever, Lyme disease, and Tick-borne encephalitis",
+      "C": "Only CHIKV and Zika",
+      "D": "Lyme disease and Japanese encephalitis"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states, 'Changing climatic patterns are facilitating the spread of CHIKV, Zika, Japanese encephalitis and Rift Valley Fever in Asia, Latin America, North America and Europe (high confidence).'",
+    "source": "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "According to the passage, what specific factor during the 2015 period of record high temperatures and severe drought conditions contributed to the range expansion of *Aedes aegypti* and increased household exposure to the Zika virus vector?",
+    "options": {
+      "A": "A decline in the use of mosquito nets.",
+      "B": "Increased use of household water storage containers.",
+      "C": "Widespread application of insecticides.",
+      "D": "Migration of the human population to rural areas."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states, 'Increased use of household water storage containers during the drought is correlated with a range expansion of Aedes aegypti during this period, increasing household exposure to the vector.'",
+    "source": "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "In North America, which specific tick vector is identified as contributing to the spread of Lyme disease?",
+    "options": {
+      "A": "*Aedes aegypti*",
+      "B": "*Ixodes ricinus*",
+      "C": "*Ixodes scapularis*",
+      "D": "*Borrelia burgdorferi*"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states, 'Climate change has contributed to the spread of the Lyme disease vector *Ixodes scapularis*... in North America'.",
+    "source": "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "What environmental conditions were observed prior to the exceptional 2018 West Nile outbreak in Europe, potentially contributing to an early upsurge of the vector population?",
+    "options": {
+      "A": "Below-average temperature and precipitation compared to the 1981–2010 period.",
+      "B": "Above-average temperature and precipitation compared to the 1981–2010 period.",
+      "C": "A period of stable temperature and low relative humidity.",
+      "D": "Significantly reduced overall precipitation, but increased temperature."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage notes, 'The average temperature and precipitation prior to the exceptional 2018 West Nile outbreak in Europe was above the 1981–2010 period average, which may have contributed to an early upsurge of the vector population.'",
+    "source": "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "The passage describes range expansions for both Japanese encephalitis and the *Ixodes ricinus* tick. What is the reported key difference in the geographical expansion patterns for these two?",
+    "options": {
+      "A": "Japanese encephalitis spread to higher latitudes, while *Ixodes ricinus* spread only to higher altitudes.",
+      "B": "Japanese encephalitis spread to higher altitudes, while *Ixodes ricinus* expanded its range to both higher latitudes and higher elevations.",
+      "C": "Both Japanese encephalitis and *Ixodes ricinus* expanded their ranges exclusively to higher latitudes in Europe.",
+      "D": "Both Japanese encephalitis and *Ixodes ricinus* expanded their ranges only to higher altitudes in North America."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states Japanese encephalitis spread 'to higher altitudes in Nepal... and in southwest China', while for *Ixodes ricinus*, 'There has been an observed range expansion to higher latitudes in Sweden and to higher elevations in Austria and the Czech Republic.'",
+    "source": "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

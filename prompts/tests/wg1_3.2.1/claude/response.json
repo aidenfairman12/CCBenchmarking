@@ -1,0 +1,77 @@
+[
+  {
+    "question": "In regression-based fingerprinting methods for climate attribution, what does a regression coefficient whose confidence interval includes unity and is inconsistent with zero indicate?",
+    "options": {
+      "A": "That a detectable change has been identified but cannot be attributed to any specific forcing",
+      "B": "That the magnitude of model-simulated fingerprints is consistent with observations, supporting attribution to a particular forcing",
+      "C": "That the internal variability is too large to distinguish from externally forced signals",
+      "D": "That the model simulation has failed the residual consistency test"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states: 'When the confidence interval of the regression coefficient includes unity and is inconsistent with zero, the magnitude of the model simulated fingerprints is assessed to be consistent with the observations, implying that the observed changes can be attributed in part to a particular forcing.'",
+    "source": "IPCC AR6 WG1 Chapter 3 - Regression-based/Fingerprinting Methods",
+    "category": "Detection and Attribution Methods",
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "Why is normalizing observations and model-simulated responses by an estimate of internal variability an important step in fingerprinting methods?",
+    "options": {
+      "A": "To reduce the number of dimensions required for the regression analysis",
+      "B": "To ensure that fingerprints derived from different climate models are directly comparable",
+      "C": "To improve the signal-to-noise ratio in the detection of climate signals",
+      "D": "To account for observational errors in the recorded temperature data"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage explicitly states: 'In order to improve the signal-to-noise ratio, observations and model-simulated responses are usually normalized by an estimate of internal variability derived from climate model simulations.'",
+    "source": "IPCC AR6 WG1 Chapter 3 - Regression-based/Fingerprinting Methods",
+    "category": "Detection and Attribution Methods",
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "According to the passage, what is the risk if simulated internal variability is estimated to be too small in a fingerprinting analysis?",
+    "options": {
+      "A": "The regression coefficients will be biased toward zero, preventing detection of real signals",
+      "B": "A climate signal may be spuriously detected when none actually exists",
+      "C": "The confidence intervals of scaling factors will be too wide to be informative",
+      "D": "The residual consistency test will incorrectly reject well-performing models"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states: 'A signal can be spuriously detected due to too-small noise, and hence simulated internal variability needs to be evaluated with care.'",
+    "source": "IPCC AR6 WG1 Chapter 3 - Regression-based/Fingerprinting Methods",
+    "category": "Detection and Attribution Methods",
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "What distinguishes the integrated approach to optimal fingerprinting described by Hannart (2016) from earlier standard fingerprinting approaches?",
+    "options": {
+      "A": "It uses Bayesian model averaging instead of multivariate linear regression to estimate scaling factors",
+      "B": "It treats all uncertainty sources — observational error, model error, and internal variability — within a single statistical model without a preliminary dimension reduction step",
+      "C": "It avoids the assumption that model error and internal variability share the same covariance structure by separating them into distinct statistical models",
+      "D": "It applies a bootstrap method to estimate confidence intervals of scaling factors under weak-signal conditions"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage describes Hannart (2016) as suggesting 'an integrated approach to optimal fingerprinting was further suggested in which all uncertainty sources (i.e., observational error, model error, and internal variability) are treated in one statistical model without a preliminary dimension reduction step.'",
+    "source": "IPCC AR6 WG1 Chapter 3 - Regression-based/Fingerprinting Methods",
+    "category": "Detection and Attribution Methods",
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "question": "The passage notes that some studies do not optimize fingerprints despite the availability of methods to do so. Which of the following best explains why this tradeoff is considered acceptable, based on the passage's reasoning?",
+    "options": {
+      "A": "Unoptimized fingerprints are more robust to long-memory internal variability processes, which can otherwise bias attribution results",
+      "B": "Optimizing fingerprints requires a preliminary dimension reduction step that systematically distorts the covariance structure of internal variability",
+      "C": "The uncertainty introduced by estimating the covariance matrix adds complexity but yields only limited improvement in detection",
+      "D": "Bootstrap methods already provide sufficiently accurate confidence intervals, making covariance-based optimization redundant"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states: 'some studies do not optimize fingerprints, as uncertainty in the covariance introduces a further layer of complexity, but results in only a limited improvement in detection (Polson and Hegerl, 2017).'",
+    "source": "IPCC AR6 WG1 Chapter 3 - Regression-based/Fingerprinting Methods",
+    "category": "Detection and Attribution Methods",
+    "difficulty": "hard",
+    "generated_by": "claude-sonnet-4-6"
+  }
+]

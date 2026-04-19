@@ -22,3 +22,6 @@ literature/
 
 # Temporary passage files used during generation
 passage.txt
+
+# API keys — never commit
+.env

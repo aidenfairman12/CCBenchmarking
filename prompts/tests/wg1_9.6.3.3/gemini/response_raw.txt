@@ -1,0 +1,58 @@
+Here are 5 data interpretation questions based on the provided climate science benchmark data:
+
+---
+
+**Question 1**
+
+Under the SSP1-1.9 scenario, what is the median projected total global mean sea level rise by the year 2050, relative to the 1995–2014 baseline?
+
+A. 0.15 m
+B. 0.18 m
+C. 0.23 m
+D. 0.38 m
+
+**Question 2**
+
+Consider the projected total sea level rise for the year 2100 under the SSP3-7.0 and SSP5-8.5 scenarios. What is the difference between their median projected total sea level rise values?
+
+A. 0.09 m
+B. 0.11 m
+C. 0.15 m
+D. 0.77 m
+
+**Question 3**
+
+Based on the average rates of total sea level change, which scenario projects the highest median rate of sea level rise during the 2080–2100 period?
+
+A. SSP1-1.9
+B. SSP2-4.5
+C. SSP5-8.5
+D. SSP5-8.5 (Low Conf.)
+
+**Question 4**
+
+For the year 2100 under the SSP5-8.5 scenario, which individual component is projected to contribute the second highest median amount to global mean sea level rise?
+
+A. Thermal expansion
+B. Greenland
+C. Antarctica
+D. Glaciers
+
+**Question 5**
+
+The SSP5-8.5 (Low Conf.) scenario incorporates low-confidence processes, leading to a significantly wider likely range for total sea level rise by 2100 compared to the standard SSP5-8.5 scenario. Based on the individual component contributions at 2100, which component's *upper bound* contribution increases most dramatically when comparing the standard SSP5-8.5 scenario to the SSP5-8.5 (Low Conf.) scenario?
+
+A. Thermal expansion
+B. Greenland
+C. Antarctica
+D. Glaciers
+
+---
+
+**Answer Key:**
+
+1.  **B**
+2.  **A**
+3.  **D**
+4.  **D**
+5.  **B**

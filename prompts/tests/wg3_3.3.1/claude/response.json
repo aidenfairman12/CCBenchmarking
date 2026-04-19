@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, which factor is identified as the most important determinant of future CO2 emissions from energy combustion in projections?",
+    "options": {
+      "A": "Technology assumptions and resource availability",
+      "B": "Assumptions influencing energy intensity and economic growth",
+      "C": "Climate policy and political preferences",
+      "D": "Population growth and per capita food consumption"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'assumptions influencing energy intensity (e.g., structural change, lifestyle and efficiency) and economic growth are the most important determinants of future CO2 emissions from energy combustion' (Marangoni et al. 2017).",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.2",
+    "category": "Emissions Drivers",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "What does the passage identify as the primary reason for the importance of model diversity in emissions projections?",
+    "options": {
+      "A": "Different models use different datasets for historical emissions",
+      "B": "Models vary in how they represent many of the key driving factors",
+      "C": "Some models are designed specifically for land use while others focus on energy",
+      "D": "Model diversity ensures that outlier scenarios are excluded from the literature"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'many of the factors are represented differently in specific models, the model itself is also an important factor – providing a reason for the importance of model diversity.'",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.2",
+    "category": "Modeling and Scenarios",
+    "difficulty": "easy",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "Why does the passage indicate that population growth assumptions are more dominant for land use projections than for energy projections?",
+    "options": {
+      "A": "Land use is less sensitive to economic growth than energy systems are",
+      "B": "Per capita food consumption varies less across scenarios than per capita energy use does",
+      "C": "Agricultural technology is more advanced and thus reduces the role of policy assumptions",
+      "D": "Climate policy has a stronger effect on energy use than on land use change"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains that for land use, 'assumptions on population growth are more dominant given that variations in per capita consumption of food are smaller than for energy.'",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.2",
+    "category": "Emissions Drivers",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "Based on the passage, what is the projected global population range by 2050 across scenario studies?",
+    "options": {
+      "A": "7.5–9.5 billion people",
+      "B": "8.5–11 billion people",
+      "C": "9.0–12 billion people",
+      "D": "10–11.5 billion people"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that 'Scenario studies agree that further global population growth is likely up to 2050, leading to a range of possible outcomes of around 8.5–11 billion people.'",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.2",
+    "category": "Population and Socioeconomic Trends",
+    "difficulty": "medium",
+    "generated_by": "Claude Sonnet"
+  },
+  {
+    "question": "The passage notes that UN Population Prospects project higher population values than the SSP scenarios, with the most recent UN median reaching nearly 11 billion by 2100. Which of the following best explains the methodological difference underlying this divergence, as described in the passage?",
+    "options": {
+      "A": "The UN relies on fertility data only from high-income countries, while SSPs use global averages",
+      "B": "The UN projects faster drops in fertility rates in Africa and China than the SSPs do",
+      "C": "The UN approach is more grounded in current demographic trends, while SSPs assume a broader set of factors including education drive future fertility",
+      "D": "The SSPs assume slower economic growth globally, which suppresses fertility decline in the UN model"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage explicitly states that 'the UN approach is more based on current demographic trends while the SSPs assume a broader range of factors (including education) driving future fertility,' which explains the divergence in projections.",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.2",
+    "category": "Modeling and Scenarios",
+    "difficulty": "hard",
+    "generated_by": "Claude Sonnet"
+  }
+]

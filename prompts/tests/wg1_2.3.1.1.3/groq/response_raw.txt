@@ -1,0 +1,114 @@
+```json
+[
+  {
+    "scenario": "The table below shows the observed increase in global mean surface temperature (GMST), land surface air temperature (LSAT), and sea surface temperature (SST) over different periods. The values are based on multi-dataset averages.",
+    "table": {
+      "GMST": {"Col 1": 0.85, "Col 2": 0.99, "Col 3": 1.09},
+      "LSAT": {"Col 1": 1.27, "Col 2": 1.47, "Col 3": 1.59},
+      "SST": {"Col 1": 0.67, "Col 2": 0.79, "Col 3": 0.88}
+    },
+    "question": "Which temperature type has the smallest increase from 1850-1900 to 1995-2014?",
+    "options": {
+      "A": "GMST",
+      "B": "SST",
+      "C": "LSAT",
+      "D": "Cannot be determined"
+    },
+    "correct_answer": "B",
+    "explanation": "The SST has the smallest increase from 1850-1900 to 1995-2014 with a value of 0.67°C.",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Section 2.3.1.1.3",
+    "scenario_type": "trend_identification",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "easy",
+    "generated_by": "Llama 3.3 70B (Groq)"
+  },
+  {
+    "scenario": "The table below shows the observed increase in global mean surface temperature (GMST), land surface air temperature (LSAT), and sea surface temperature (SST) over different periods. The values are based on multi-dataset averages.",
+    "table": {
+      "GMST": {"Col 4": 1.11, "Col 5": 1.04, "Col 6": 0.76},
+      "LSAT": {"Col 4": 1.50, "Col 5": 1.51, "Col 6": 1.18},
+      "SST": {"Col 4": 0.96, "Col 5": 0.86, "Col 6": 0.60}
+    },
+    "question": "What is the difference in trend over 1880-2020 and 1980-2020 for GMST?",
+    "options": {
+      "A": 0.25°C,
+      "B": 0.35°C,
+      "C": 0.45°C,
+      "D": 0.55°C
+    },
+    "correct_answer": "B",
+    "explanation": "The difference in trend over 1880-2020 and 1980-2020 for GMST is 1.11 - 0.76 = 0.35°C.",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Section 2.3.1.1.3",
+    "scenario_type": "trend_identification",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "Llama 3.3 70B (Groq)"
+  },
+  {
+    "scenario": "The table below shows the observed increase in global mean surface temperature (GMST), land surface air temperature (LSAT), and sea surface temperature (SST) over different periods. The values are based on multi-dataset averages.",
+    "table": {
+      "GMST": {"Col 1": 0.85, "Col 2": 0.99, "Col 3": 1.09},
+      "LSAT": {"Col 1": 1.27, "Col 2": 1.47, "Col 3": 1.59},
+      "SST": {"Col 1": 0.67, "Col 2": 0.79, "Col 3": 0.88}
+    },
+    "question": "Which temperature type warms the fastest from 1850-1900 to 2011-2020?",
+    "options": {
+      "A": "GMST",
+      "B": "SST",
+      "C": "LSAT",
+      "D": "Cannot be determined"
+    },
+    "correct_answer": "C",
+    "explanation": "The LSAT warms the fastest from 1850-1900 to 2011-2020 with an increase of 1.59°C.",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Section 2.3.1.1.3",
+    "scenario_type": "trend_identification",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "easy",
+    "generated_by": "Llama 3.3 70B (Groq)"
+  },
+  {
+    "scenario": "The table below shows the observed increase in global mean surface temperature (GMST), land surface air temperature (LSAT), and sea surface temperature (SST) over different periods. The values are based on multi-dataset averages.",
+    "table": {
+      "GMST": {"Col 4": 1.11, "Col 5": 1.04, "Col 6": 0.76},
+      "LSAT": {"Col 4": 1.50, "Col 5": 1.51, "Col 6": 1.18},
+      "SST": {"Col 4": 0.96, "Col 5": 0.86, "Col 6": 0.60}
+    },
+    "question": "What can be inferred about the trend of GMST over the period 1880-2020 compared to the period 1960-2020?",
+    "options": {
+      "A": "The trend over 1880-2020 is lower than the trend over 1960-2020",
+      "B": "The trend over 1880-2020 is higher than the trend over 1960-2020",
+      "C": "The trend over 1880-2020 is equal to the trend over 1960-2020",
+      "D": "Cannot be determined"
+    },
+    "correct_answer": "B",
+    "explanation": "The trend over 1880-2020 (1.11°C) is higher than the trend over 1960-2020 (1.04°C).",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Section 2.3.1.1.3",
+    "scenario_type": "trend_identification",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "Llama 3.3 70B (Groq)"
+  },
+  {
+    "scenario": "The table below shows the observed increase in global mean surface temperature (GMST), land surface air temperature (LSAT), and sea surface temperature (SST) over different periods. The values are based on multi-dataset averages.",
+    "table": {
+      "GMST": {"Col 1": 0.85, "Col 2": 0.99, "Col 3": 1.09},
+      "LSAT": {"Col 1": 1.27, "Col 2": 1.47, "Col 3": 1.59},
+      "SST": {"Col 1": 0.67, "Col 2": 0.79, "Col 3": 0.88}
+    },
+    "question": "What is the implication of the difference in warming rates between LSAT and SST from 1850-1900 to 2011-2020?",
+    "options": {
+      "A": "It indicates that land surfaces are warming faster than ocean surfaces",
+      "B": "It indicates that ocean surfaces are warming faster than land surfaces",
+      "C": "It indicates that the warming rate is uniform across all surfaces",
+      "D": "It indicates that the warming rate is decreasing over time"
+    },
+    "correct_answer": "A",
+    "explanation": "The difference in warming rates between LSAT and SST from 1850-1900 to 2011-2020 implies that land surfaces are warming faster than ocean surfaces, with LSAT increasing by 1.59°C and SST increasing by 0.88°C.",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Section 2.3.1.1.3",
+    "scenario_type": "trend_identification",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "hard",
+    "generated_by": "Llama 3.3 70B (Groq)"
+  }
+]
+```

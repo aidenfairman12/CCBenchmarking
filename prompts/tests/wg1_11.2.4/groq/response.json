@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the primary quantity used to characterize past and future climate change?",
+    "options": {
+      "A": "Global cumulative carbon dioxide emissions",
+      "B": "Global warming relative to its pre-industrial level",
+      "C": "Changes in regional climate extremes",
+      "D": "Atmospheric CO2 concentration"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that 'The most important quantity used to characterize past and future climate change is global warming relative to its pre-industrial level.'",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.2.4",
+    "category": "Climate Change Characterization",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "Why are assessments of projected changes in extremes often provided in relation to future global warming levels?",
+    "options": {
+      "A": "To account for the uncertainty associated with regional climate responses",
+      "B": "To provide easy comparison with SR1.5",
+      "C": "To reduce the uncertainty associated with global warming responses",
+      "D": "To incorporate the effects of non-CO2 greenhouse gases"
+    },
+    "correct_answer": "A",
+    "explanation": "The source passage states that 'The assessment of projections of future changes in extremes as function of GWL has an advantage in separating uncertainty associated with the global warming response from the uncertainty resulting from the regional climate response as a function of GWLs.'",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.2.4",
+    "category": "Climate Modeling",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What are the three global warming levels above pre-industrial levels that are focused on in the assessments of projected changes?",
+    "options": {
+      "A": "+1°C, +2°C, and +3°C",
+      "B": "+1.5°C, +2°C, and +3.5°C",
+      "C": "+1.5°C, +2°C, and +4°C",
+      "D": "+2°C, +3°C, and +4°C"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that 'assessments of projected changes in this chapter are largely provided in relation to future GWLs, with a focus on changes at +1.5°C, +2°C, and +4°C of global warming above pre-industrial levels.'",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.2.4",
+    "category": "Climate Scenarios",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the purpose of using global warming levels in the context of global policy documents, such as the 2015 Paris Agreement?",
+    "options": {
+      "A": "To establish a global carbon pricing mechanism",
+      "B": "To provide a framework for climate change mitigation and adaptation strategies",
+      "C": "To quantify the impacts of climate change on regional economies",
+      "D": "To inform the development of climate-resilient infrastructure"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that 'the use of global warming levels in the context of global policy documents – in particular the 2015 Paris Agreement (UNFCCC, 2016) implies that information on changes in the climate system, and specifically extremes, as a function of global warming are of particular policy relevance.'",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.2.4",
+    "category": "Climate Policy",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the relationship between changes in global warming and regional climate extremes, according to the source passage?",
+    "options": {
+      "A": "Changes in regional climate extremes are directly proportional to global cumulative CO2 emissions",
+      "B": "Changes in regional climate extremes are quasi-linearly related to changes in global warming, but dependent on the underlying emissions scenarios",
+      "C": "Changes in regional climate extremes scale quasi-linearly with changes in global warming, often independently of the underlying emissions scenarios",
+      "D": "Changes in regional climate extremes are inversely related to changes in global warming"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that 'changes in regional climate, including many types of extremes, scale quasi-linearly with changes in global warming, often independently of the underlying emissions scenarios.'",
+    "source": "IPCC AR6 WG1 Chapter 11 Section 11.2.4",
+    "category": "Climate Extremes",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

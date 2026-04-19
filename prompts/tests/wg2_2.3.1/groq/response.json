@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the general impact of extreme events such as floods, droughts, cyclones, heat waves, and fire on ecosystems?",
+    "options": {
+      "A": "They have no significant effect on ecosystem functioning, biodiversity, and ecosystem services.",
+      "B": "They generally have a positive impact on ecosystem functioning, biodiversity, and ecosystem services.",
+      "C": "They affect ecosystem functioning, biodiversity, and ecosystem services, but are well captured in impact models.",
+      "D": "They affect ecosystem functioning, biodiversity, and ecosystem services, but are, in general, poorly captured in impact models."
+    },
+    "correct_answer": "D",
+    "explanation": "The correct answer is confirmed by the sentence 'These disturbances affect ecosystem functioning, biodiversity and ecosystem services (high confidence), but are, in general, poorly captured in impact models (Albrich et al., 2020b)' in the source passage.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.3.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the projected trend for increases in the frequency and severity of heat waves, droughts, aridity, floods, fires, and extreme storms?",
+    "options": {
+      "A": "These trends are projected to decrease in the future.",
+      "B": "These trends are projected to remain stable in the future.",
+      "C": "These trends are projected to continue, but with low confidence.",
+      "D": "These trends are projected to continue, with high confidence."
+    },
+    "correct_answer": "D",
+    "explanation": "The correct answer is confirmed by the sentence 'and these trends are projected to continue (high confidence)' in the source passage.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.3.1",
+    "category": "Climate Trends",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What can be the outcome when simultaneous or sequential events, such as coincident or compounding events, occur?",
+    "options": {
+      "A": "They can lead to a decrease in the overall impact or risk.",
+      "B": "They can have no effect on the overall impact or risk.",
+      "C": "They can lead to an extreme event or impact, even if each event is not in themselves extreme.",
+      "D": "They can only lead to an extreme event or impact if all the events are extreme."
+    },
+    "correct_answer": "C",
+    "explanation": "The correct answer is confirmed by the sentence 'Simultaneous or sequential events (coincident or compounding events) can lead to an extreme event or impact, even if each event is not in themselves extreme' in the source passage.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.3.1",
+    "category": "Compound Events",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "Why do risk assessments typically underestimate the actual risk of climate-related hazards?",
+    "options": {
+      "A": "Because they consider multiple climate hazards with changing variability.",
+      "B": "Because they only consider a single climate hazard with no changing variability.",
+      "C": "Because they are based on low-confidence projections of future climate trends.",
+      "D": "Because they are not based on any scientific evidence or data."
+    },
+    "correct_answer": "B",
+    "explanation": "The correct answer is confirmed by the sentence 'Risk assessments typically only consider a single climate hazard with no changing variability, thereby potentially underestimating the actual risk' in the source passage.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.3.1",
+    "category": "Risk Assessment",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the potential consequence of the combination of internal variability and longer-term climate trends on ecosystems?",
+    "options": {
+      "A": "It can lead to gradual and reversible changes in ecosystems.",
+      "B": "It can have no significant impact on ecosystems.",
+      "C": "It can push ecosystems to tipping points, beyond which abrupt and possibly irreversible changes occur.",
+      "D": "It can only lead to changes in ecosystems if the internal variability is extreme."
+    },
+    "correct_answer": "C",
+    "explanation": "The correct answer is confirmed by the sentence 'There is high confidence that the combination of internal variability, superimposed on longer-term climate trends, is pushing ecosystems to tipping points, beyond which abrupt and possibly irreversible changes are occurring' in the source passage.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.3.1",
+    "category": "Ecosystem Tipping Points",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

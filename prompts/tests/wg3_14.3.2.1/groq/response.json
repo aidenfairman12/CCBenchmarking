@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the primary purpose of the Paris Agreement in terms of increasing adaptive capacity and fostering climate resilience?",
+    "options": {
+      "A": "To limit global warming to well below 2°C",
+      "B": "To increase adaptive capacity and foster climate resilience, as well as redirect investment and finance flows",
+      "C": "To set a new collective quantified finance goal prior to 2025",
+      "D": "To achieve net zero GHG emissions in the second half of the century"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that the purpose of the Paris Agreement extends to increasing adaptive capacity and fostering climate resilience, as well as redirecting investment and finance flows.",
+    "source": "IPCC AR6 WG3 Chapter 14 Section 14.3.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the expected outcome of implementing the Paris Agreement in terms of the principle of common but differentiated responsibilities and respective capabilities?",
+    "options": {
+      "A": "Parties will be obligated to implement the agreement to reflect CBDRRC",
+      "B": "Parties will implement the agreement to reflect CBDRRC, taking into account different national circumstances",
+      "C": "The principle of CBDRRC will be abandoned in favor of a new principle",
+      "D": "The implementation of the agreement will not consider national circumstances"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that the Paris Agreement generates an expectation that Parties will implement the agreement to reflect CBDRRC, in the light of different national circumstances.",
+    "source": "IPCC AR6 WG3 Chapter 14 Section 14.3.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the requirement for Parties in terms of aligning the ambition of their NDCs with the temperature goal?",
+    "options": {
+      "A": "Parties must align their NDCs with the temperature goal immediately",
+      "B": "Parties are encouraged to align the ambition of their NDCs with the temperature goal through the Agreement’s ‘ambition cycle’",
+      "C": "Parties are not required to align their NDCs with the temperature goal",
+      "D": "Parties must align their NDCs with the temperature goal only after 2025"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that the Paris Agreement encourages Parties to align the ambition of their NDCs with the temperature goal through the Agreement’s ‘ambition cycle’.",
+    "source": "IPCC AR6 WG3 Chapter 14 Section 14.3.2.1",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the implied requirement for global net human-caused CO2 emissions to reach net zero CO2 around 2050?",
+    "options": {
+      "A": "Global net human-caused CO2 emissions would need to fall by about 10% to 20% from 2010 levels by 2030",
+      "B": "Global net human-caused CO2 emissions would need to fall by about 25% to 40% from 2010 levels by 2030",
+      "C": "Global net human-caused CO2 emissions would need to fall by about 45% to 60% from 2010 levels by 2030",
+      "D": "Global net human-caused CO2 emissions would need to fall by about 70% to 80% from 2010 levels by 2030"
+    },
+    "correct_answer": "C",
+    "explanation": "The source passage states that to reach net zero CO2 around 2050, in the short-term global net human-caused CO2 emissions would need to fall by about 45% to 60% from 2010 levels by 2030.",
+    "source": "IPCC AR6 WG3 Chapter 14 Section 14.3.2.1",
+    "category": "Mitigation",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the potential outcome of achieving the Paris Agreement’s Article 4.1 aim in terms of global warming?",
+    "options": {
+      "A": "Global warming will continue to increase indefinitely",
+      "B": "Global warming will peak and then follow a gradually declining path, potentially to below 1.5°C warming",
+      "C": "Global warming will decrease immediately to 1.5°C",
+      "D": "Global warming will increase to 2°C and then stabilize"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that achieving the Paris Agreement’s Article 4.1 aim potentially implies that global warming will peak and then follow a gradually declining path, potentially to below 1.5°C warming.",
+    "source": "IPCC AR6 WG3 Chapter 14 Section 14.3.2.1",
+    "category": "Impacts",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

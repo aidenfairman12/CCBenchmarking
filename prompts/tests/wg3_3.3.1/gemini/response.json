@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What are the primary origins of Greenhouse Gas (GHG) emissions mentioned in the passage?",
+    "options": {
+      "A": "Solar activity, volcanic eruptions, and ocean currents",
+      "B": "Energy use and transformation, agriculture, land use, and industrial activities",
+      "C": "Natural geological processes and animal respiration only",
+      "D": "Cloud formation, atmospheric pressure changes, and tectonic plate movements"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states: 'Greenhouse gas (GHG) emissions mainly originate from the use and transformation of energy, agriculture, land use (change) and industrial activities.'",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.3.1",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "According to scenario studies, what is the projected range for global population growth up to the year 2050?",
+    "options": {
+      "A": "Approximately 5 to 7 billion people",
+      "B": "A decline to below 8 billion people",
+      "C": "Approximately 8.5 to 11 billion people",
+      "D": "A stabilization at around 9 billion people"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states: 'Scenario studies agree that further global population growth is likely up to 2050, leading to a range of possible outcomes of around 8.5–11 billion people'.",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.3.1",
+    "category": "Policy and Governance",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Regarding projections for future emissions, what factor is considered more dominant for land use than for energy, and what is the reason given?",
+    "options": {
+      "A": "Economic growth, because it drives the demand for land-intensive industrial products more than energy.",
+      "B": "Technology assumptions, because technological advancements in land use are less predictable than in energy production.",
+      "C": "Population growth, given that variations in per capita consumption of food are smaller than for energy.",
+      "D": "Climate policy, as land use activities are more directly influenced by policy interventions compared to energy systems."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage notes: 'For land use, Stehfest et al. (2019) show that assumptions on population growth are more dominant given that variations in per capita consumption of food are smaller than for energy.'",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.3.1",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Why is 'model diversity' highlighted as important for projecting future CO2 emissions from energy combustion?",
+    "options": {
+      "A": "Because models need to incorporate a wider array of historical climate data to improve accuracy.",
+      "B": "Because the SSP scenarios published in 2017 are outdated and require diverse model interpretations.",
+      "C": "Because many of the influencing factors, such as technology or economic growth, are represented differently in specific models.",
+      "D": "Because the models must account for natural climate variability which is captured uniquely by different model types."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states: 'As many of the factors are represented differently in specific models, the model itself is also an important factor – providing a reason for the importance of model diversity (Sognnaes et al. 2021).'",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.3.1",
+    "category": "Policy and Governance",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "What is the key difference identified in the passage between the UN Population Prospects and the SSP scenarios regarding their population projections, especially for Africa and China?",
+    "options": {
+      "A": "The UN approach assumes that investment in education will lead to lower fertility rates, while SSPs project continued high growth in these regions.",
+      "B": "The SSPs assume a faster drop in the rate of fertility change, whereas the UN approach is more heavily based on current demographic trends.",
+      "C": "The UN projections incorporate a broader range of socio-economic factors influencing fertility, unlike the SSPs which focus primarily on economic development.",
+      "D": "SSPs primarily focus on the impact of climate policy on population growth, a factor not central to UN demographic models."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains: 'The key differences are in Africa and China: here, the population projections are strongly influenced by the rate of fertility change (faster drop in SSPs). Underlying these differences, the UN approach is more based on current demographic trends while the SSPs assume a broader range of factors (including education) driving future fertility.'",
+    "source": "IPCC AR6 WG3 Chapter 3 Section 3.3.1",
+    "category": "Policy and Governance",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

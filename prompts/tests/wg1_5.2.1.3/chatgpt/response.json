@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What has increased the confidence in assessing trends in air–sea CO2 fluxes and ocean CO2 storage during the historical period (1960–2018)?",
+    "options": {
+      "A": "Advances in globally coordinated ocean CO2 observations and harmonization of observational products.",
+      "B": "A decrease in atmospheric CO2 concentrations over time.",
+      "C": "The elimination of variability in physicochemical carbonate chemistry.",
+      "D": "A decline in global anthropogenic CO2 emissions."
+    },
+    "correct_answer": "A",
+    "explanation": "Advances in ocean CO2 observations, harmonization of products, and improved models have increased confidence in assessments, as detailed in the passage.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Which process is involved in the ocean uptake of anthropogenic carbon, according to the passage?",
+    "options": {
+      "A": "Direct storage of CO2 in the ocean interior without exchange at the surface.",
+      "B": "Exchange of CO2 across the air–sea boundary followed by transport into the ocean interior.",
+      "C": "Physical mixing of CO2 between the ocean surface and the atmosphere only.",
+      "D": "Formation of carbonate minerals directly in the atmosphere."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that the ocean uptake of anthropogenic carbon involves a two-step abiotic process: exchange across the air–sea boundary and transport into the ocean interior.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is the purpose of adjusting the mean global Fnet for the pre-industrial sea-to-air CO2 flux?",
+    "options": {
+      "A": "To make Fnet identical to Socean.",
+      "B": "To account for changes in ocean temperature.",
+      "C": "To make Fnet comparable to Socean.",
+      "D": "To eliminate variability in air–sea CO2 exchange."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage explains that adjusting Fnet for the pre-industrial sea-to-air CO2 flux makes it comparable to Socean.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What factors are identified as influencing air–sea fluxes and the storage of anthropogenic CO2 during the historical period?",
+    "options": {
+      "A": "Atmospheric CO2 concentrations, physical ocean processes, and physicochemical carbonate chemistry.",
+      "B": "Decreasing ocean temperatures, reduced carbonate chemistry, and declining CO2 emissions.",
+      "C": "Atmospheric CO2 concentrations and reduced global ocean circulation.",
+      "D": "Anthropogenic CO2 emissions and stable oceanic conditions."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage identifies atmospheric CO2 concentrations, physical ocean processes, and physicochemical carbonate chemistry as the main influences on air–sea fluxes and CO2 storage.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why is the use of a common ocean and sea ice cover area important in the assessment of air–sea CO2 fluxes?",
+    "options": {
+      "A": "It ensures compatibility between models and observational products.",
+      "B": "It eliminates the need for atmospheric CO2 data.",
+      "C": "It reduces variability in ocean carbon storage estimates.",
+      "D": "It allows for the direct measurement of anthropogenic CO2 emissions."
+    },
+    "correct_answer": "A",
+    "explanation": "The passage highlights that using a common ocean and sea ice cover area makes observational product fluxes more comparable, ensuring consistency.",
+    "source": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+    "category": "Physical Climate Science Fundamentals",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

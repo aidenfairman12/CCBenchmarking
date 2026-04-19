@@ -1,0 +1,77 @@
+[
+  {
+    "question": "How have the frequency and severity of extreme events such as floods, droughts, and heat waves changed in many regions?",
+    "options": {
+      "A": "They have decreased over time.",
+      "B": "They have remained constant.",
+      "C": "They have increased in many regions.",
+      "D": "They have become completely unpredictable."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that the frequency and severity of extreme events such as floods, droughts, cyclones, heat waves, and fire have increased in many regions (high confidence).",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.3.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is a key challenge for ecosystem-based adaptation (EbA) in the context of extreme events?",
+    "options": {
+      "A": "Extreme events are poorly understood by scientists.",
+      "B": "Extreme episodic events can alter or destroy ecosystem functionality.",
+      "C": "EbA does not rely on ecosystem functionality.",
+      "D": "EbA increases the likelihood of extreme events."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage mentions that ecosystem functionality, which EbA relies on, may be altered or destroyed by extreme episodic events.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.3.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What happens when internal variability is combined with longer-term climate trends?",
+    "options": {
+      "A": "It stabilizes ecosystems against tipping points.",
+      "B": "It has no significant effect on ecosystems.",
+      "C": "It pushes ecosystems to tipping points, beyond which abrupt and irreversible changes can occur.",
+      "D": "It reduces the frequency of extreme events."
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that internal variability, superimposed on longer-term climate trends, is pushing ecosystems to tipping points, beyond which abrupt and possibly irreversible changes are occurring.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.3.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "Why do risk assessments potentially underestimate actual risks associated with climate hazards?",
+    "options": {
+      "A": "They do not account for the frequency of extreme events.",
+      "B": "They only consider a single climate hazard without changing variability.",
+      "C": "They ignore the role of human activities in climate change.",
+      "D": "They overly focus on global trends and ignore local impacts."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage explains that risk assessments typically only consider a single climate hazard with no changing variability, which can lead to underestimating the actual risk.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.3.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "question": "What is an example of a compounding event mentioned in the passage?",
+    "options": {
+      "A": "A single storm causing flooding in a coastal region.",
+      "B": "Changing rainfall patterns and repeated heat waves affecting biological factors.",
+      "C": "A single drought reducing water availability for agriculture.",
+      "D": "A cyclone occurring in isolation without other hazards."
+    },
+    "correct_answer": "B",
+    "explanation": "The passage gives an example of compounding events where changing rainfall patterns and repeated heat waves interact with biological factors, such as altered plant growth, leading to impacts like insect outbreaks and forest dieback.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.3.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "scenario": "The table below shows the total sea level rise projections (in metres) for the year 2100 under different SSP scenarios:\n\n| Scenario      | 2100 Sea Level Rise (Median, Likely Range) |\n|---------------|--------------------------------------------|\n| SSP1-1.9      | 0.38 (0.28–0.55)                          |\n| SSP1-2.6      | 0.44 (0.32–0.62)                          |\n| SSP2-4.5      | 0.56 (0.44–0.76)                          |\n| SSP3-7.0      | 0.68 (0.55–0.90)                          |\n| SSP5-8.5      | 0.77 (0.63–1.01)                          |\n\nWhich SSP scenario shows the largest median sea level rise for the year 2100?",
+    "question": "What is the largest median sea level rise projected for 2100, and under which scenario does it occur?",
+    "options": {
+      "A": "0.56 metres under SSP2-4.5",
+      "B": "0.68 metres under SSP3-7.0",
+      "C": "0.77 metres under SSP5-8.5",
+      "D": "0.44 metres under SSP1-2.6"
+    },
+    "correct_answer": "C",
+    "explanation": "SSP5-8.5 has the largest median sea level rise of 0.77 metres in 2100.",
+    "data_source": "IPCC AR6 WG1 Chapter 9 Table 9.9",
+    "scenario_type": "trend_identification",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "easy",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "scenario": "The following table shows the contributions to sea level rise from glaciers under different SSP scenarios for the year 2100:\n\n| Scenario      | Glacier Contribution (Median, Likely Range) |\n|---------------|---------------------------------------------|\n| SSP1-1.9      | 0.08 (0.06–0.10)                           |\n| SSP1-2.6      | 0.09 (0.07–0.11)                           |\n| SSP2-4.5      | 0.12 (0.10–0.15)                           |\n| SSP3-7.0      | 0.16 (0.13–0.18)                           |\n| SSP5-8.5      | 0.18 (0.15–0.21)                           |\n\nWhat is the approximate difference in the median glacier contribution between SSP1-1.9 and SSP5-8.5?",
+    "question": "How much greater is the median glacier contribution to sea level rise under SSP5-8.5 compared to SSP1-1.9 in 2100?",
+    "options": {
+      "A": "0.06 metres",
+      "B": "0.08 metres",
+      "C": "0.10 metres",
+      "D": "0.12 metres"
+    },
+    "correct_answer": "B",
+    "explanation": "The difference is 0.18 - 0.08 = 0.10 metres.",
+    "data_source": "IPCC AR6 WG1 Chapter 9 Table 9.9",
+    "scenario_type": "comparison",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "scenario": "The following shows the average rates of sea level change (in mm/yr) between 2080–2100 for SSP scenarios:\n\n| Scenario      | Rate (Median, Likely Range) |\n|---------------|-----------------------------|\n| SSP1-1.9      | 4.2 (2.4–6.6)              |\n| SSP1-2.6      | 5.2 (3.2–8.0)              |\n| SSP2-4.5      | 7.7 (5.2–11.6)             |\n| SSP3-7.0      | 10.4 (7.4–14.8)            |\n| SSP5-8.5      | 12.1 (8.6–17.6)            |\n\nWhich scenario shows the smallest likely upper bound of sea level rise rate during this period?",
+    "question": "For 2080–2100, which scenario has the smallest likely upper bound for the rate of sea level rise?",
+    "options": {
+      "A": "SSP1-1.9",
+      "B": "SSP1-2.6",
+      "C": "SSP2-4.5",
+      "D": "SSP3-7.0"
+    },
+    "correct_answer": "A",
+    "explanation": "SSP1-1.9 has the lowest likely upper bound of 6.6 mm/yr.",
+    "data_source": "IPCC AR6 WG1 Chapter 9 Table 9.9",
+    "scenario_type": "anomaly_interpretation",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "scenario": "The table below shows the total sea level rise by 2150 under different SSP scenarios:\n\n| Scenario      | 2150 Sea Level Rise (Median, Likely Range) |\n|---------------|--------------------------------------------|\n| SSP1-1.9      | 0.57 (0.37–0.86)                          |\n| SSP1-2.6      | 0.68 (0.46–0.99)                          |\n| SSP2-4.5      | 0.92 (0.66–1.33)                          |\n| SSP3-7.0      | 1.19 (0.89–1.65)                          |\n| SSP5-8.5      | 1.32 (0.98–1.88)                          |\n| SSP5-8.5 (Low Conf.) | 1.98 (0.98–4.82)                  |\n\nUnder SSP5-8.5 (Low Confidence), what is the range of uncertainty in sea level rise by 2150?",
+    "question": "What is the range of uncertainty (difference between upper and lower bounds) for total sea level rise by 2150 under SSP5-8.5 (Low Confidence)?",
+    "options": {
+      "A": "1.00 metres",
+      "B": "2.84 metres",
+      "C": "3.84 metres",
+      "D": "4.82 metres"
+    },
+    "correct_answer": "C",
+    "explanation": "The range of uncertainty is 4.82 - 0.98 = 3.84 metres.",
+    "data_source": "IPCC AR6 WG1 Chapter 9 Table 9.9",
+    "scenario_type": "projection_reading",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "hard",
+    "generated_by": "gpt-4o-2024-11-20"
+  },
+  {
+    "scenario": "The contributions of thermal expansion to sea level rise in 2100 for different SSP scenarios are as follows:\n\n| Scenario      | Thermal Expansion (Median, Likely Range) |\n|---------------|------------------------------------------|\n| SSP1-1.9      | 0.12 (0.09–0.15)                        |\n| SSP1-2.6      | 0.14 (0.11–0.18)                        |\n| SSP2-4.5      | 0.20 (0.16–0.24)                        |\n| SSP3-7.0      | 0.25 (0.21–0.30)                        |\n| SSP5-8.5      | 0.30 (0.24–0.36)                        |\n\nBy what factor is the median thermal expansion contribution to sea level rise greater under SSP5-8.5 compared to SSP1-1.9?",
+    "question": "What is the ratio of the median thermal expansion contribution under SSP5-8.5 to SSP1-1.9?",
+    "options": {
+      "A": "2.0",
+      "B": "2.5",
+      "C": "3.0",
+      "D": "3.5"
+    },
+    "correct_answer": "B",
+    "explanation": "The ratio is 0.30 / 0.12 = 2.5.",
+    "data_source": "IPCC AR6 WG1 Chapter 9 Table 9.9",
+    "scenario_type": "comparison",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "gpt-4o-2024-11-20"
+  }
+]

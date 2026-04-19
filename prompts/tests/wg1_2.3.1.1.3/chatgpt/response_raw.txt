@@ -1,0 +1,62 @@
+### Question 1 (Easy):  
+The table shows observed temperature changes relative to the 1850–1900 baseline. Based on the multi-dataset averages, which temperature metric experienced the smallest change from 1850–1900 to 2011–2020?  
+
+A. GMST  
+B. LSAT  
+C. SST  
+D. All three metrics experienced the same change  
+
+**Correct Answer:** C. SST  
+**Explanation:** From the multi-dataset averages, the change from 1850–1900 to 2011–2020 (Col 3) for SST is 0.88°C, which is smaller than GMST (1.09°C) and LSAT (1.59°C).  
+
+---
+
+### Question 2 (Medium):  
+Compare the trends over 1880–2020 and 1980–2020 using the multi-dataset averages. How does the trend for GMST over 1880–2020 compare to the trend for SST over 1980–2020?  
+
+A. The GMST trend over 1880–2020 is larger than the SST trend over 1980–2020.  
+B. The GMST trend over 1880–2020 is smaller than the SST trend over 1980–2020.  
+C. The GMST trend over 1880–2020 is equal to the SST trend over 1980–2020.  
+D. There is not enough information to compare these trends.  
+
+**Correct Answer:** A. The GMST trend over 1880–2020 is larger than the SST trend over 1980–2020.  
+**Explanation:** From the multi-dataset averages, the GMST trend over 1880–2020 (Col 4) is 1.11°C, while the SST trend over 1980–2020 (Col 6) is 0.60°C.  
+
+---
+
+### Question 3 (Medium):  
+Based on the HadCRUT5 data, how much larger is the observed warming in LSAT compared to SST for the period 1850–1900 to 2001–2020?  
+
+A. 0.59°C  
+B. 0.69°C  
+C. 0.74°C  
+D. 0.83°C  
+
+**Correct Answer:** B. 0.69°C  
+**Explanation:** From the HadCRUT5 data, LSAT warming from 1850–1900 to 2001–2020 (Col 2) is 1.44°C, while SST warming for the same period is 0.85°C. The difference is 1.44°C – 0.85°C = 0.59°C.  
+
+---
+
+### Question 4 (Hard):  
+The trends in the multi-dataset averages show that the rate of change in GMST decreases over shorter, more recent periods (e.g., 1880–2020 vs. 1980–2020). What does this suggest about the warming trend during earlier versus later parts of the observed period?  
+
+A. Warming has accelerated in recent decades.  
+B. Warming was faster in earlier decades than in more recent ones.  
+C. Warming rates have been consistent over time.  
+D. Warming trends cannot be compared across periods due to differences in observation length.  
+
+**Correct Answer:** A. Warming has accelerated in recent decades.  
+**Explanation:** The shorter, more recent periods (e.g., 1980–2020) show smaller total changes but represent faster rates of warming compared to earlier periods (e.g., 1880–2020). This indicates an acceleration of warming in recent decades.  
+
+---
+
+### Question 5 (Easy):  
+Using the multi-dataset averages, which metric shows the largest total warming trend for the 1960–2020 period?  
+
+A. GMST  
+B. LSAT  
+C. SST  
+D. All metrics show the same trend.  
+
+**Correct Answer:** B. LSAT  
+**Explanation:** From the multi-dataset averages, the trend over 1960–2020 (Col 5) is 1.51°C for LSAT, 1.04°C for GMST, and 0.86°C for SST. LSAT has the largest warming trend.  

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What was the temperature increase in the Andes Mountains in Ecuador from 1802 to 2012?",
+    "options": {
+      "A": "0.4°C–1.6°C",
+      "B": "1.7°C",
+      "C": "0.9°C",
+      "D": "2.1°C"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that 'Over 210 years, temperature increased by 1.7°C' in the Andes Mountains in Ecuador.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What type of biome shift was detected in Canada from 1970-2012 and 1970-2014?",
+    "options": {
+      "A": "Upslope shift of boreal and sub-alpine conifer forest into alpine grassland",
+      "B": "Northward shift of deciduous forest into boreal conifer forest",
+      "C": "Temperate conifer forest into temperate deciduous forest",
+      "D": "Tropical forest into temperate forest"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that 'northward shifts in Canada of deciduous forest into boreal conifer forest, 5 km from 1970–2012 and 20 km from 1970–2014' were detected.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the relationship between the detected biome shifts and anthropogenic climate change?",
+    "options": {
+      "A": "All detected biome shifts are directly attributed to anthropogenic climate change",
+      "B": "Some detected biome shifts are consistent with climate change-induced temperature increases, but not directly attributed to anthropogenic climate change",
+      "C": "Detected biome shifts are not related to anthropogenic climate change",
+      "D": "Detected biome shifts are only related to natural climate variability"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that 'Many of the recently detected shifts are nevertheless consistent with climate change-induced temperature increases' and 'were not directly attributed to anthropogenic climate change as the studies were not designed or conducted properly for full attribution assessment'.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the average distance of upslope shifts of boreal and sub-alpine conifer forest into alpine grassland at 143 sites on four continents?",
+    "options": {
+      "A": "100-450 m",
+      "B": "41 m",
+      "C": "20-300 m",
+      "D": "50-150 m"
+    },
+    "correct_answer": "B",
+    "explanation": "The source passage states that 'upslope shifts of boreal and sub-alpine conifer forest into alpine grassland at 143 sites on four continents (41 m from 1901–2018)' were detected.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What can be inferred about the relationship between the magnitude of temperature increase and the distance of biome shifts?",
+    "options": {
+      "A": "A larger temperature increase always results in a larger distance of biome shift",
+      "B": "There is no correlation between the magnitude of temperature increase and the distance of biome shifts",
+      "C": "The distance of biome shifts is proportional to the magnitude of temperature increase, but only in certain ecosystems",
+      "D": "The relationship between temperature increase and biome shift distance is complex and dependent on various factors, including ecosystem type and location"
+    },
+    "correct_answer": "D",
+    "explanation": "The source passage provides examples of different biome shifts with varying distances and temperature increases, suggesting a complex relationship between the two factors.",
+    "source": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+    "category": "Climate-Ecosystem Interactions",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

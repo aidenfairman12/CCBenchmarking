@@ -1,0 +1,77 @@
+[
+  {
+    "question": "According to the passage, how is \"unfamiliar\" annual mean precipitation defined?",
+    "options": {
+      "A": "The long-term change in annual precipitation is greater than one standard deviation in the annual data.",
+      "B": "The annual mean precipitation has changed significantly compared to the 1891-2016 average.",
+      "C": "The long-term average precipitation is as high as previously seen in only about one in 6 years.",
+      "D": "The annual mean precipitation falls outside the historical range observed between 1891 and 2016."
+    },
+    "correct_answer": "A",
+    "explanation": "The first paragraph states, \"“Unfamiliar” is defined as the long-term change being greater than one standard deviation in the annual data (Figure 4.3b).\"",
+    "source": "IPCC AR6 WG2 Chapter 4 Section 4.2.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "In 2020, approximately how many people lived in unfamiliarly wet areas, according to the passage?",
+    "options": {
+      "A": "498 million",
+      "B": "163 million",
+      "C": "709 million",
+      "D": "711 million"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states, \"In 2020, approximately 498 million people lived in unfamiliarly wet areas...\"",
+    "source": "IPCC AR6 WG2 Chapter 4 Section 4.2.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "The passage suggests that the number of people experiencing unfamiliar seasonal precipitation levels is expected to be higher than those experiencing unfamiliar annual precipitation changes. What is the primary reason given for this expectation?",
+    "options": {
+      "A": "Seasonal precipitation data is more readily available and precise than annual data.",
+      "B": "Many regions show increased precipitation for part of the year and decreased precipitation at other times, leading to small annual mean changes.",
+      "C": "The definition of \"unfamiliar\" is applied differently for seasonal precipitation than for annual precipitation.",
+      "D": "Unfamiliar seasonal precipitation is more strongly correlated with population density than annual changes."
+    },
+    "correct_answer": "B",
+    "explanation": "The second paragraph explains, \"Notably, many regions have seen increased precipitation for part of the year and decreased precipitation at other times (high confidence) (Figure 4.3d,e), leading to small changes in the annual mean precipitation. Therefore, the numbers of people seeing unfamiliar seasonal precipitation levels are expected to be higher than those quoted above for unfamiliar annual precipitation changes...\"",
+    "source": "IPCC AR6 WG2 Chapter 4 Section 4.2.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "Which of the following regions are explicitly mentioned as experiencing both increased heavy precipitation and longer dry spells?",
+    "options": {
+      "A": "Much of North America and Southeast Asia",
+      "B": "Eastern Australia and Western Africa",
+      "C": "Southern Africa and parts of southern South America",
+      "D": "The Indian sub-continent and most of Europe"
+    },
+    "correct_answer": "C",
+    "explanation": "The third paragraph states, \"Some regions such as southern Africa and parts of southern South America are seeing increased heavy precipitation and longer dry spells.\"",
+    "source": "IPCC AR6 WG2 Chapter 4 Section 4.2.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "gemini-2.5-flash"
+  },
+  {
+    "question": "The passage notes that some regions experience both increased heavy precipitation and longer dry spells. How does the passage suggest this phenomenon relates to changes in annual mean precipitation?",
+    "options": {
+      "A": "These regions typically exhibit a strong trend towards increased annual mean precipitation, reflecting the dominance of heavy rainfall events.",
+      "B": "Such regions are explicitly excluded from the definition of 'unfamiliar' annual precipitation due to the conflicting nature of the changes.",
+      "C": "Changes in precipitation extremes, like increased heavy precipitation and longer dry spells, can occur even in places where annual precipitation shows no trend.",
+      "D": "The co-occurrence of these extremes usually results in a decrease in annual mean precipitation due to the extended dry periods."
+    },
+    "correct_answer": "C",
+    "explanation": "The third paragraph states, \"Precipitation extremes have changed in some places where annual precipitation shows no trend. Some regions such as southern Africa and parts of southern South America are seeing increased heavy precipitation and longer dry spells.\"",
+    "source": "IPCC AR6 WG2 Chapter 4 Section 4.2.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "hard",
+    "generated_by": "gemini-2.5-flash"
+  }
+]

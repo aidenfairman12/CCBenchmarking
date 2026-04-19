@@ -12,7 +12,7 @@
     "source": "IPCC AR6 WG1 Chapter 9, Section 9.6.1",
     "category": "Observations & Attribution",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet 4.6"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "According to the passage, what are the primary drivers of regional departures from global mean sea level rise?",
@@ -27,7 +27,7 @@
     "source": "IPCC AR6 WG1 Chapter 9, Section 9.6.1",
     "category": "Observations & Attribution",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet 4.6"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage describes a spatial pattern in sea level accelerations that differs from the pattern in sea level trends. Which of the following best characterizes this difference?",
@@ -42,7 +42,7 @@
     "source": "IPCC AR6 WG1 Chapter 9, Section 9.6.1",
     "category": "Observations & Attribution",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet 4.6"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "According to the passage, what oceanographic and atmospheric mechanism links subpolar North Atlantic warming to sea level rise along European coasts?",
@@ -57,7 +57,7 @@
     "source": "IPCC AR6 WG1 Chapter 9, Section 9.6.1",
     "category": "Observations & Attribution",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet 4.6"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage notes that satellite altimetry is limited to the period from 1993 to the present. Based on the reasoning provided in the passage, why does this temporal limitation matter specifically for regional—rather than global—sea level analysis?",
@@ -72,6 +72,6 @@
     "source": "IPCC AR6 WG1 Chapter 9, Section 9.6.1",
     "category": "Observations & Attribution",
     "difficulty": "hard",
-    "generated_by": "Claude Sonnet 4.6"
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

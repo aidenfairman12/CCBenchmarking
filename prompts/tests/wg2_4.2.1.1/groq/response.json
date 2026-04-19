@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the definition of 'unfamiliar' annual mean precipitation in the context of this passage?",
+    "options": {
+      "A": "A change greater than one standard deviation in the annual data",
+      "B": "A change greater than two standard deviations in the annual data",
+      "C": "A change less than one standard deviation in the annual data",
+      "D": "A change equal to one standard deviation in the annual data"
+    },
+    "correct_answer": "A",
+    "explanation": "The passage states that 'unfamiliar' is defined as the long-term change being greater than one standard deviation in the annual data.",
+    "source": "IPCC AR6 WG2 Chapter 4 Section 4.2.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What is the approximate number of people living in areas with unfamiliarly dry conditions?",
+    "options": {
+      "A": "100 million",
+      "B": "163 million",
+      "C": "498 million",
+      "D": "709 million"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that approximately 163 million people lived in unfamiliarly dry areas.",
+    "source": "IPCC AR6 WG2 Chapter 4 Section 4.2.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "easy",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What can be inferred about the relationship between changes in annual mean precipitation and precipitation extremes?",
+    "options": {
+      "A": "Changes in annual mean precipitation always lead to changes in precipitation extremes",
+      "B": "Changes in precipitation extremes always lead to changes in annual mean precipitation",
+      "C": "There is no relationship between changes in annual mean precipitation and precipitation extremes",
+      "D": "Precipitation extremes can change even in areas where annual precipitation shows no trend"
+    },
+    "correct_answer": "D",
+    "explanation": "The passage states that precipitation extremes have changed in some places where annual precipitation shows no trend.",
+    "source": "IPCC AR6 WG2 Chapter 4 Section 4.2.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "How do the numbers of people experiencing changes in seasonal precipitation levels compare to those experiencing changes in annual precipitation levels?",
+    "options": {
+      "A": "The numbers are expected to be lower for seasonal precipitation levels",
+      "B": "The numbers are expected to be the same for seasonal and annual precipitation levels",
+      "C": "The numbers are expected to be higher for seasonal precipitation levels",
+      "D": "There is no comparison available between seasonal and annual precipitation levels"
+    },
+    "correct_answer": "C",
+    "explanation": "The passage states that the numbers of people seeing unfamiliar seasonal precipitation levels are expected to be higher than those quoted above for unfamiliar annual precipitation changes.",
+    "source": "IPCC AR6 WG2 Chapter 4 Section 4.2.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "medium",
+    "generated_by": "llama-3.3-70b-versatile"
+  },
+  {
+    "question": "What can be concluded about the global distribution of people experiencing changes in dry spell length and heavy precipitation?",
+    "options": {
+      "A": "More people experience shorter dry spells and decreased heavy precipitation",
+      "B": "More people experience longer dry spells and increased heavy precipitation",
+      "C": "The distribution of people experiencing changes in dry spell length and heavy precipitation is roughly equal",
+      "D": "There is no correlation between changes in dry spell length and heavy precipitation"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage states that substantially more people live in regions where annual maximum one-day precipitation has increased than in regions where it has decreased, and more people are experiencing longer dry spells than shorter dry spells.",
+    "source": "IPCC AR6 WG2 Chapter 4 Section 4.2.1.1",
+    "category": "Impacts and Vulnerabilities",
+    "difficulty": "hard",
+    "generated_by": "llama-3.3-70b-versatile"
+  }
+]

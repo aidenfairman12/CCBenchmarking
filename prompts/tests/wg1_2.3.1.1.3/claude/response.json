@@ -1,0 +1,87 @@
+[
+  {
+    "scenario": "The following table shows the change in global mean surface temperature (GMST), land surface air temperature (LSAT), and sea surface temperature (SST) relative to the 1850–1900 baseline, averaged across multiple datasets:\n\n| Variable | Change to 1995–2014 | Change to 2001–2020 | Change to 2011–2020 |\n|----------|--------------------|--------------------|--------------------|\n| GMST     | 0.85°C             | 0.99°C             | 1.09°C             |\n| LSAT     | 1.27°C             | 1.47°C             | 1.59°C             |\n| SST      | 0.67°C             | 0.79°C             | 0.88°C             |",
+    "question": "According to the table, which variable shows the largest total warming relative to the 1850–1900 baseline when measured to the 2011–2020 period?",
+    "options": {
+      "A": "GMST, at 1.09°C",
+      "B": "SST, at 0.88°C",
+      "C": "LSAT, at 1.59°C",
+      "D": "GMST and LSAT are equal at this period"
+    },
+    "correct_answer": "C",
+    "explanation": "The table directly shows LSAT has the highest warming of 1.59°C by the 2011–2020 period, exceeding both GMST (1.09°C) and SST (0.88°C).",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+    "scenario_type": "comparison",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "scenario": "A climate analyst is examining how cumulative warming has evolved across successive end-period benchmarks. Using multi-dataset averages relative to the 1850–1900 baseline, global mean surface temperature (GMST) changed as follows:\n\n- To 1995–2014: 0.85°C\n- To 2001–2020: 0.99°C\n- To 2011–2020: 1.09°C",
+    "question": "What is the difference in GMST warming between the earliest and latest benchmark periods shown?",
+    "options": {
+      "A": "0.10°C",
+      "B": "0.14°C",
+      "C": "0.24°C",
+      "D": "0.34°C"
+    },
+    "correct_answer": "C",
+    "explanation": "Subtracting the earliest benchmark (0.85°C to 1995–2014) from the latest (1.09°C to 2011–2020) gives a difference of 0.24°C.",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+    "scenario_type": "trend_identification",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "scenario": "The table below shows total observed warming trends (via ordinary least squares) over three different time windows, averaged across multiple datasets:\n\n| Variable | Trend 1880–2020 | Trend 1960–2020 | Trend 1980–2020 |\n|----------|-----------------|-----------------|-----------------|\n| GMST     | 1.11°C          | 1.04°C          | 0.76°C          |\n| LSAT     | 1.50°C          | 1.51°C          | 1.18°C          |\n| SST      | 0.96°C          | 0.86°C          | 0.60°C          |\n\nA student notices that the total change over the 1880–2020 window is larger than over the 1980–2020 window for every variable.",
+    "question": "Which of the following is the most accurate interpretation of why the 1880–2020 trend value exceeds the 1980–2020 trend value for each variable?",
+    "options": {
+      "A": "Warming rates were faster in the early 20th century than in recent decades, pulling the longer-period trend upward.",
+      "B": "The longer period spans more total years and therefore accumulates a larger absolute total change, even if the rate of warming were similar.",
+      "C": "Sea surface temperatures dominate the longer-period calculation, inflating the total trend value.",
+      "D": "The 1980–2020 period includes a temporary cooling interval that suppresses its trend value below the longer-period total."
+    },
+    "correct_answer": "B",
+    "explanation": "The trend values represent total change (in °C) over the stated window via OLS; a longer window naturally spans more time and thus accumulates a larger absolute total change, which is why the 140-year 1880–2020 trend exceeds the 40-year 1980–2020 trend across all variables.",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+    "scenario_type": "trend_identification",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "scenario": "Using data from a single observational dataset, the following warming values (relative to the 1850–1900 baseline) and their 90% confidence ranges are reported:\n\n| Variable | Change to 2001–2020        | Change to 2011–2020        |\n|----------|---------------------------|---------------------------|\n| GMST     | 1.01°C [0.94–1.09]        | 1.12°C [1.06–1.18]        |\n| LSAT     | 1.44°C [1.26–1.59]        | 1.55°C [1.39–1.70]        |\n| SST      | 0.85°C [0.81–0.90]        | 0.94°C [0.90–0.99]        |\n\nA researcher claims that, given the uncertainty ranges, it is impossible to determine whether LSAT warming to 2001–2020 exceeds GMST warming to 2011–2020.",
+    "question": "Is the researcher's claim supported by the data in the table?",
+    "options": {
+      "A": "Yes — the upper bound of GMST warming to 2011–2020 (1.18°C) exceeds the upper bound of LSAT warming to 2001–2020 (1.59°C), making the comparison ambiguous.",
+      "B": "No — the lower bound of LSAT warming to 2001–2020 (1.26°C) is higher than the upper bound of GMST warming to 2011–2020 (1.18°C), so LSAT clearly exceeds GMST.",
+      "C": "Yes — the confidence intervals of both estimates overlap substantially, so no clear conclusion can be drawn.",
+      "D": "No — GMST warming to 2011–2020 (1.12°C) exceeds LSAT warming to 2001–2020 (1.44°C) at the central estimate, so the researcher is wrong."
+    },
+    "correct_answer": "B",
+    "explanation": "The lower bound of LSAT warming to 2001–2020 is 1.26°C, which is higher than the upper bound of GMST warming to 2011–2020 (1.18°C), meaning the confidence intervals do not overlap and LSAT's superiority is unambiguous.",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+    "scenario_type": "anomaly_interpretation",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
+  },
+  {
+    "scenario": "The table below compares the gap between land surface air temperature (LSAT) and sea surface temperature (SST) warming, across both period-change benchmarks and trend windows, using multi-dataset averages:\n\n| Metric                        | LSAT  | SST   |\n|-------------------------------|-------|-------|\n| Change to 1995–2014           | 1.27°C| 0.67°C|\n| Change to 2001–2020           | 1.47°C| 0.79°C|\n| Change to 2011–2020           | 1.59°C| 0.88°C|\n| Trend over 1880–2020          | 1.50°C| 0.96°C|\n| Trend over 1960–2020          | 1.51°C| 0.86°C|\n| Trend over 1980–2020          | 1.18°C| 0.60°C|\n\nA researcher calculates the LSAT–SST gap (LSAT minus SST) for each row and notes how the gap changes across metrics.",
+    "question": "Across all six metrics shown, in which period or window is the LSAT–SST warming gap the largest?",
+    "options": {
+      "A": "Change to 2011–2020, with a gap of 0.71°C",
+      "B": "Trend over 1960–2020, with a gap of 0.65°C",
+      "C": "Change to 2001–2020, with a gap of 0.68°C",
+      "D": "Trend over 1880–2020, with a gap of 0.54°C"
+    },
+    "correct_answer": "A",
+    "explanation": "Computing LSAT minus SST for all six rows yields: 0.60, 0.68, 0.71, 0.54, 0.65, and 0.58°C respectively; the largest gap of 0.71°C occurs for the change to 2011–2020.",
+    "data_source": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+    "scenario_type": "comparison",
+    "category": "Climate Data and Trend Interpretation",
+    "difficulty": "hard",
+    "generated_by": "claude-sonnet-4-6"
+  }
+]
