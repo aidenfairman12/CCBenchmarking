@@ -12,7 +12,7 @@
     "source": "IPCC AR6 WG2 Chapter on Vector-Borne Diseases",
     "category": "Impacts and Vulnerabilities",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "In which European countries was West Nile fever first detected in birds before spreading to humans in 2019 and 2020?",
@@ -27,7 +27,7 @@
     "source": "IPCC AR6 WG2 Chapter on Vector-Borne Diseases",
     "category": "Impacts and Vulnerabilities",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "How did drought conditions in 2015 contribute to the range expansion of Aedes aegypti in South America, according to the passage?",
@@ -42,7 +42,7 @@
     "source": "IPCC AR6 WG2 Chapter on Vector-Borne Diseases",
     "category": "Impacts and Vulnerabilities",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage assigns different confidence levels to climate change's role in spreading Lyme disease vectors in North America versus Europe. Which statement correctly characterizes this distinction?",
@@ -57,7 +57,7 @@
     "source": "IPCC AR6 WG2 Chapter on Vector-Borne Diseases",
     "category": "Impacts and Vulnerabilities",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Based on the passage, which of the following best explains why the 2018 West Nile outbreak in Europe was considered 'exceptional,' and what climatic factor is identified as the likely mechanism?",
@@ -72,6 +72,6 @@
     "source": "IPCC AR6 WG2 Chapter on Vector-Borne Diseases",
     "category": "Impacts and Vulnerabilities",
     "difficulty": "hard",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

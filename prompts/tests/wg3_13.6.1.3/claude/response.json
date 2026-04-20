@@ -12,7 +12,7 @@
     "source": "IPCC AR6 WG3 Chapter 13",
     "category": "Policy and Governance",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "According to the passage, what is a key reason why the carbon price under a carbon tax or ETS is not a direct measure of overall policy stringency across an economy?",
@@ -27,7 +27,7 @@
     "source": "IPCC AR6 WG3 Chapter 13",
     "category": "Policy and Governance",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Based on the passage, why have emissions pricing policies had limited impact on industrial process emissions compared to other emission sources?",
@@ -42,7 +42,7 @@
     "source": "IPCC AR6 WG3 Chapter 13",
     "category": "Mitigation and Carbon Pricing",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage notes that trade policy in most countries provides an implicit subsidy to CO2 emissions. How does this relate to the broader argument being made about mitigation policy effectiveness?",
@@ -57,7 +57,7 @@
     "source": "IPCC AR6 WG3 Chapter 13",
     "category": "Policy and Governance",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage describes EU ETS emission reductions as being achieved 'mainly through implementation of low cost measures such as energy efficiency and fuel switching.' Given the passage's explanation of how emissions pricing works, what does this pattern reveal about the relationship between allowance prices and abatement costs in the EU ETS?",
@@ -72,6 +72,6 @@
     "source": "IPCC AR6 WG3 Chapter 13",
     "category": "Mitigation and Carbon Pricing",
     "difficulty": "hard",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

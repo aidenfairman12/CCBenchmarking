@@ -12,7 +12,7 @@
     "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2",
     "category": "Physical Climate Science Fundamentals",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage states that changes in surface albedo result in changes in planetary albedo that are roughly reduced by two-thirds. What does the passage identify as the primary source of variability and uncertainty in this reduction?",
@@ -27,7 +27,7 @@
     "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2",
     "category": "Physical Climate Science Fundamentals",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Based on the passage, which of the following represents a secondary — rather than primary — mechanism by which temperature change contributes to surface-albedo feedback?",
@@ -42,7 +42,7 @@
     "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2",
     "category": "Physical Climate Science Fundamentals",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Flanner et al. (2011) estimated the Northern Hemisphere cryosphere contribution to global surface-albedo feedback at 0.48 W m⁻²°C⁻¹, with roughly equal contributions from land snow cover and sea ice. How does the estimate from Chen et al. (2016) for NH land snow alone compare to the implied land snow contribution from Flanner et al. (2011)?",
@@ -57,7 +57,7 @@
     "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2",
     "category": "Physical Climate Science Fundamentals",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage notes large discrepancies between studies estimating Arctic sea ice contribution to global surface-albedo feedback, with estimates ranging from 0.16 to 0.31 W m⁻²°C⁻¹. The passage attributes much of this discrepancy to differences in assessing cloud attenuation of surface-albedo change. Which of the following best explains why Arctic cloud attenuation would be particularly important for reconciling these estimates, based on information provided in the passage?",
@@ -72,6 +72,6 @@
     "source": "IPCC AR6 WG1 Chapter 7 Section 7.4.2",
     "category": "Physical Climate Science Fundamentals",
     "difficulty": "hard",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

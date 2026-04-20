@@ -12,7 +12,7 @@
     "source": "IPCC AR6 WG2 Chapter 5",
     "category": "Impacts and Vulnerabilities",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "By how much did climate change trends reduce global agricultural total factor productivity (TFP) growth between 1961 and 2015, relative to a scenario without climate change?",
@@ -27,7 +27,7 @@
     "source": "IPCC AR6 WG2 Chapter 5",
     "category": "Impacts and Vulnerabilities",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Some studies observed prolonged crop growth duration despite warming trends. According to the passage, what best explains this finding?",
@@ -42,7 +42,7 @@
     "source": "IPCC AR6 WG2 Chapter 5",
     "category": "Adaptation",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Based on the passage, which of the following best characterizes the regional pattern of climate impacts on crop yields over the past 20–50 years?",
@@ -57,7 +57,7 @@
     "source": "IPCC AR6 WG2 Chapter 5",
     "category": "Impacts and Vulnerabilities",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "In Western Africa, 1°C of warming above preindustrial levels reduced millet yields by 10–20% and sorghum yields by 5–15%, while in Australia, declined rainfall and increased temperatures reduced wheat yield potential by 27%. What does this comparison most directly illustrate about climate impacts on agriculture?",
@@ -72,6 +72,6 @@
     "source": "IPCC AR6 WG2 Chapter 5",
     "category": "Impacts and Vulnerabilities",
     "difficulty": "hard",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

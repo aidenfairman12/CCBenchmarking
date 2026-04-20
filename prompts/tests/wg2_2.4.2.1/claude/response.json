@@ -12,7 +12,7 @@
     "source": "IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution",
     "category": "Impacts and Vulnerabilities",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "According to the passage, what biological mechanism explains the unprecedented spruce beetle outbreaks in Alaska during the 1990s?",
@@ -27,7 +27,7 @@
     "source": "IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution",
     "category": "Impacts and Vulnerabilities",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Why did many large-scale, multi-species meta-analyses published since AR4 tend to find a lower proportion of species shifting in directions expected from climate change?",
@@ -42,7 +42,7 @@
     "source": "IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution",
     "category": "Impacts and Vulnerabilities",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "According to the passage, range shifts result from which two distinct biological processes occurring at opposite ends of a species' range?",
@@ -57,7 +57,7 @@
     "source": "IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution",
     "category": "Impacts and Vulnerabilities",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Based on the passage's description of attribution confidence levels across different study types, which scenario would most likely yield the strongest climate attribution for a species response?",
@@ -72,6 +72,6 @@
     "source": "IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution",
     "category": "Impacts and Vulnerabilities",
     "difficulty": "hard",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

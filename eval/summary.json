@@ -1,0 +1,149 @@
+{
+  "total_evaluations": 527,
+  "overall_accuracy": 0.8843,
+  "by_evaluator": {
+    "chatgpt": {
+      "accuracy": 0.8837,
+      "correct": 152,
+      "total": 172,
+      "by_difficulty": {
+        "easy": {
+          "accuracy": 0.85,
+          "correct": 51,
+          "total": 60
+        },
+        "hard": {
+          "accuracy": 0.8837,
+          "correct": 38,
+          "total": 43
+        },
+        "medium": {
+          "accuracy": 0.913,
+          "correct": 63,
+          "total": 69
+        }
+      }
+    },
+    "claude": {
+      "accuracy": 0.9012,
+      "correct": 155,
+      "total": 172,
+      "by_difficulty": {
+        "easy": {
+          "accuracy": 0.8,
+          "correct": 48,
+          "total": 60
+        },
+        "hard": {
+          "accuracy": 0.9767,
+          "correct": 42,
+          "total": 43
+        },
+        "medium": {
+          "accuracy": 0.942,
+          "correct": 65,
+          "total": 69
+        }
+      }
+    },
+    "gemini": {
+      "accuracy": 0.9091,
+      "correct": 10,
+      "total": 11,
+      "by_difficulty": {
+        "easy": {
+          "accuracy": 1.0,
+          "correct": 3,
+          "total": 3
+        },
+        "hard": {
+          "accuracy": 0.5,
+          "correct": 1,
+          "total": 2
+        },
+        "medium": {
+          "accuracy": 1.0,
+          "correct": 6,
+          "total": 6
+        }
+      }
+    },
+    "groq": {
+      "accuracy": 0.8663,
+      "correct": 149,
+      "total": 172,
+      "by_difficulty": {
+        "easy": {
+          "accuracy": 0.8,
+          "correct": 48,
+          "total": 60
+        },
+        "hard": {
+          "accuracy": 0.907,
+          "correct": 39,
+          "total": 43
+        },
+        "medium": {
+          "accuracy": 0.8986,
+          "correct": 62,
+          "total": 69
+        }
+      }
+    }
+  },
+  "by_difficulty": {
+    "easy": {
+      "accuracy": 0.8197,
+      "correct": 150,
+      "total": 183
+    },
+    "hard": {
+      "accuracy": 0.916,
+      "correct": 120,
+      "total": 131
+    },
+    "medium": {
+      "accuracy": 0.9202,
+      "correct": 196,
+      "total": 213
+    }
+  },
+  "by_prompt_type": {
+    "data_interpretation": {
+      "accuracy": 0.7869,
+      "correct": 48,
+      "total": 61
+    },
+    "standard": {
+      "accuracy": 0.897,
+      "correct": 418,
+      "total": 466
+    }
+  },
+  "self_vs_cross": {
+    "chatgpt": {
+      "self_accuracy": 0.8378,
+      "self_total": 37,
+      "cross_accuracy": 0.8963,
+      "cross_total": 135
+    },
+    "claude": {
+      "self_accuracy": 0.9559,
+      "self_total": 68,
+      "cross_accuracy": 0.8654,
+      "cross_total": 104
+    },
+    "gemini": {
+      "self_accuracy": 0.5,
+      "self_total": 2,
+      "cross_accuracy": 1.0,
+      "cross_total": 9
+    },
+    "groq": {
+      "self_accuracy": 0.7879,
+      "self_total": 33,
+      "cross_accuracy": 0.8849,
+      "cross_total": 139
+    }
+  }
+}

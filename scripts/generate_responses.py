@@ -39,7 +39,7 @@ import sys
 import time
 
 # ── Load .env if present ──────────────────────────────────────────────────────
-_env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env")
+_env_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), ".env")
 if os.path.exists(_env_path):
     with open(_env_path) as _f:
         for _line in _f:
@@ -227,7 +227,7 @@ def response_is_empty(path):
 
 
 def run(models, overwrite=False, dry_run=False):
-    script_dir = os.path.dirname(os.path.abspath(__file__))
+    script_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
     # Validate API keys
     keys = {}

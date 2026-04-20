@@ -11,7 +11,8 @@
     "explanation": "The passage states: 'we therefore have high confidence that GMSL in 2050 will be between 0.1 and 0.4 m higher than in 1995–2014 under low- and moderate-emissions scenarios.'",
     "source": "IPCC AR6 WG1 Chapter 9 Section 9.6",
     "category": "Projections and Uncertainty",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Under which emissions scenario does including MICI or SEJ projections extend the upper range of 2050 GMSL projections beyond 0.4 m?",
@@ -25,7 +26,8 @@
     "explanation": "The passage states that 'Projections incorporating MICI or SEJ do not extend this range under RCP2.6 or RCP4.5 but do extend the upper part of the range to 0.6 m under RCP8.5.'",
     "source": "IPCC AR6 WG1 Chapter 9 Section 9.6",
     "category": "Projections and Uncertainty",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "For 2100 projections under RCP4.5, how does incorporating MICI or SEJ change the upper bound of the 5th–95th percentile range compared to projections based only on medium-confidence processes?",
@@ -39,7 +41,8 @@
     "explanation": "The passage states medium-confidence projections for RCP4.5 fall between 0.2 and 1.0 m, while incorporating MICI or SEJ extends the range to 0.2–1.6 m, raising the upper bound from 1.0 m to 1.6 m.",
     "source": "IPCC AR6 WG1 Chapter 9 Section 9.6",
     "category": "Projections and Uncertainty",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage describes a key contrast between GMSL projections for 2050 versus 2100. Which of the following best characterizes this contrast?",
@@ -53,7 +56,8 @@
     "explanation": "The passage explicitly states there is 'high agreement across published GMSL projections for 2050' and 'little sensitivity to emissions scenario,' contrasted with 'low agreement across published GMSL projections for 2100' and 'a higher degree of sensitivity to the choice of emissions scenario.'",
     "source": "IPCC AR6 WG1 Chapter 9 Section 9.6",
     "category": "Projections and Uncertainty",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "A researcher argues that including low-confidence ice-sheet processes (MICI or SEJ) meaningfully widens GMSL projection ranges for both 2050 and 2100 across all emissions scenarios. Based solely on the passage, which aspect of this claim is incorrect?",
@@ -67,6 +71,7 @@
     "explanation": "The passage specifies that MICI or SEJ projections 'do not extend this range under RCP2.6 or RCP4.5 but do extend the upper part of the range to 0.6 m under RCP8.5,' meaning the widening at 2050 applies only to RCP8.5, not all scenarios.",
     "source": "IPCC AR6 WG1 Chapter 9 Section 9.6",
     "category": "Projections and Uncertainty",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

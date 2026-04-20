@@ -1,0 +1,528 @@
+question_id,evaluator,evaluator_model,predicted,correct_answer,is_correct,difficulty,category,prompt_type,generator_model,wg,data_source_section
+wg1_1.4.3.1.1-1.4.3.1.2_claude_q1,claude,claude-sonnet-4-6,B,B,True,easy,Radiative Forcing and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3
+wg1_1.4.3.1.1-1.4.3.1.2_claude_q1,gemini,gemini-2.5-flash,B,B,True,easy,Radiative Forcing and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3
+wg1_1.4.3.1.1-1.4.3.1.2_claude_q1,groq,llama-3.3-70b-versatile,B,B,True,easy,Radiative Forcing and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3
+wg1_1.4.3.1.1-1.4.3.1.2_claude_q1,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Radiative Forcing and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3
+wg1_1.4.3.1.1-1.4.3.1.2_claude_q2,claude,claude-sonnet-4-6,B,B,True,easy,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3
+wg1_1.4.3.1.1-1.4.3.1.2_claude_q2,gemini,gemini-2.5-flash,B,B,True,easy,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3
+wg1_1.4.3.1.1-1.4.3.1.2_claude_q2,groq,llama-3.3-70b-versatile,B,B,True,easy,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3
+wg1_1.4.3.1.1-1.4.3.1.2_claude_q2,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3
+wg1_1.4.3.1.1-1.4.3.1.2_claude_q3,claude,claude-sonnet-4-6,B,B,True,medium,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3
+wg1_1.4.3.1.1-1.4.3.1.2_claude_q3,gemini,gemini-2.5-flash,B,B,True,medium,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3
+wg1_1.4.3.1.1-1.4.3.1.2_claude_q3,groq,llama-3.3-70b-versatile,B,B,True,medium,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3
+wg1_1.4.3.1.1-1.4.3.1.2_claude_q3,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3
+wg1_1.4.3.1.1-1.4.3.1.2_claude_q4,claude,claude-sonnet-4-6,C,C,True,medium,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3
+wg1_1.4.3.1.1-1.4.3.1.2_claude_q4,gemini,gemini-2.5-flash,C,C,True,medium,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3
+wg1_1.4.3.1.1-1.4.3.1.2_claude_q4,groq,llama-3.3-70b-versatile,C,C,True,medium,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3
+wg1_1.4.3.1.1-1.4.3.1.2_claude_q4,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3
+wg1_1.4.3.1.1-1.4.3.1.2_chatgpt_q4,claude,claude-sonnet-4-6,C,C,True,hard,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_chatgpt_q4,gemini,gemini-2.5-flash,C,C,True,hard,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_chatgpt_q4,groq,llama-3.3-70b-versatile,C,C,True,hard,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_chatgpt_q4,chatgpt,gpt-4o-2024-11-20,C,C,True,hard,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_chatgpt_q5,claude,claude-sonnet-4-6,B,B,True,easy,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_chatgpt_q5,gemini,gemini-2.5-flash,B,B,True,easy,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_chatgpt_q5,groq,llama-3.3-70b-versatile,B,B,True,easy,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_chatgpt_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_gemini_q2,claude,claude-sonnet-4-6,C,B,False,easy,Projections and Uncertainty,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_gemini_q2,groq,llama-3.3-70b-versatile,C,B,False,easy,Projections and Uncertainty,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_gemini_q2,chatgpt,gpt-4o-2024-11-20,C,B,False,easy,Projections and Uncertainty,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_gemini_q4,claude,claude-sonnet-4-6,C,C,True,medium,Projections and Uncertainty,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_gemini_q4,gemini,gemini-2.5-flash,C,C,True,medium,Projections and Uncertainty,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_gemini_q4,groq,llama-3.3-70b-versatile,C,C,True,medium,Projections and Uncertainty,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_gemini_q4,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Projections and Uncertainty,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_gemini_q5,claude,claude-sonnet-4-6,B,B,True,hard,Projections and Uncertainty,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_gemini_q5,groq,llama-3.3-70b-versatile,B,B,True,hard,Projections and Uncertainty,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_gemini_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Projections and Uncertainty,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_groq_q5,claude,claude-sonnet-4-6,B,B,True,easy,Projections and Uncertainty,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_groq_q5,groq,llama-3.3-70b-versatile,B,B,True,easy,Projections and Uncertainty,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_1.4.3.1.1-1.4.3.1.2_groq_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Projections and Uncertainty,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2
+wg1_11.1.6_claude_q1,claude,claude-sonnet-4-6,B,B,True,easy,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_claude_q1,groq,llama-3.3-70b-versatile,B,B,True,easy,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_claude_q1,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_claude_q2,claude,claude-sonnet-4-6,C,C,True,easy,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_claude_q2,groq,llama-3.3-70b-versatile,C,C,True,easy,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_claude_q2,chatgpt,gpt-4o-2024-11-20,C,C,True,easy,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_claude_q4,claude,claude-sonnet-4-6,A,A,True,medium,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_claude_q4,groq,llama-3.3-70b-versatile,B,A,False,medium,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_claude_q4,chatgpt,gpt-4o-2024-11-20,A,A,True,medium,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_chatgpt_q1,claude,claude-sonnet-4-6,A,A,True,medium,Climate Data and Trend Interpretation,data_interpretation,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_chatgpt_q1,groq,llama-3.3-70b-versatile,C,A,False,medium,Climate Data and Trend Interpretation,data_interpretation,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_chatgpt_q1,chatgpt,gpt-4o-2024-11-20,C,A,False,medium,Climate Data and Trend Interpretation,data_interpretation,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_chatgpt_q2,claude,claude-sonnet-4-6,C,B,False,easy,Climate Data and Trend Interpretation,data_interpretation,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_chatgpt_q2,groq,llama-3.3-70b-versatile,C,B,False,easy,Climate Data and Trend Interpretation,data_interpretation,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_chatgpt_q2,chatgpt,gpt-4o-2024-11-20,C,B,False,easy,Climate Data and Trend Interpretation,data_interpretation,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_chatgpt_q4,claude,claude-sonnet-4-6,?,B,False,hard,Climate Data and Trend Interpretation,data_interpretation,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_chatgpt_q4,groq,llama-3.3-70b-versatile,B,B,True,hard,Climate Data and Trend Interpretation,data_interpretation,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_chatgpt_q4,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Climate Data and Trend Interpretation,data_interpretation,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_gemini_q5,claude,claude-sonnet-4-6,A,A,True,hard,Climate Data and Trend Interpretation,data_interpretation,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_gemini_q5,gemini,gemini-2.5-flash,B,A,False,hard,Climate Data and Trend Interpretation,data_interpretation,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_gemini_q5,groq,llama-3.3-70b-versatile,D,A,False,hard,Climate Data and Trend Interpretation,data_interpretation,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_gemini_q5,chatgpt,gpt-4o-2024-11-20,A,A,True,hard,Climate Data and Trend Interpretation,data_interpretation,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_groq_q2,claude,claude-sonnet-4-6,A,A,True,medium,Climate Data and Trend Interpretation,data_interpretation,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_groq_q2,groq,llama-3.3-70b-versatile,A,A,True,medium,Climate Data and Trend Interpretation,data_interpretation,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.1.6_groq_q2,chatgpt,gpt-4o-2024-11-20,A,A,True,medium,Climate Data and Trend Interpretation,data_interpretation,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2
+wg1_11.2.4_claude_q3,claude,claude-sonnet-4-6,B,B,True,medium,Climate Uncertainty and Projections,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1
+wg1_11.2.4_claude_q3,groq,llama-3.3-70b-versatile,B,B,True,medium,Climate Uncertainty and Projections,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1
+wg1_11.2.4_claude_q3,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Climate Uncertainty and Projections,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1
+wg1_11.2.4_claude_q4,claude,claude-sonnet-4-6,D,D,True,medium,Climate Policy and Scenarios,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1
+wg1_11.2.4_claude_q4,groq,llama-3.3-70b-versatile,D,D,True,medium,Climate Policy and Scenarios,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1
+wg1_11.2.4_claude_q4,chatgpt,gpt-4o-2024-11-20,D,D,True,medium,Climate Policy and Scenarios,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1
+wg1_11.2.4_claude_q5,claude,claude-sonnet-4-6,C,C,True,hard,Climate Projections and Methodology,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1
+wg1_11.2.4_claude_q5,groq,llama-3.3-70b-versatile,C,C,True,hard,Climate Projections and Methodology,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1
+wg1_11.2.4_claude_q5,chatgpt,gpt-4o-2024-11-20,C,C,True,hard,Climate Projections and Methodology,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 Section 11.1
+wg1_11.3.4_claude_q2,claude,claude-sonnet-4-6,B,B,True,easy,Attribution Science,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 (Temperature Extremes Attribution)
+wg1_11.3.4_claude_q2,groq,llama-3.3-70b-versatile,B,B,True,easy,Attribution Science,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 (Temperature Extremes Attribution)
+wg1_11.3.4_claude_q2,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Attribution Science,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 11 (Temperature Extremes Attribution)
+wg1_11.3.4_chatgpt_q1,claude,claude-sonnet-4-6,A,A,True,easy,Attribution Science,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 11 Section 11.3.4
+wg1_11.3.4_chatgpt_q1,groq,llama-3.3-70b-versatile,A,A,True,easy,Attribution Science,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 11 Section 11.3.4
+wg1_11.3.4_chatgpt_q1,chatgpt,gpt-4o-2024-11-20,A,A,True,easy,Attribution Science,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 11 Section 11.3.4
+wg1_2.3.1.1.3_claude_q3,claude,claude-sonnet-4-6,B,B,True,medium,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 2 Table 2.4
+wg1_2.3.1.1.3_claude_q3,groq,llama-3.3-70b-versatile,B,B,True,medium,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 2 Table 2.4
+wg1_2.3.1.1.3_claude_q3,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 2 Table 2.4
+wg1_2.3.1.1.3_claude_q4,claude,claude-sonnet-4-6,B,B,True,medium,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 2 Table 2.4
+wg1_2.3.1.1.3_claude_q4,groq,llama-3.3-70b-versatile,B,B,True,medium,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 2 Table 2.4
+wg1_2.3.1.1.3_claude_q4,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 2 Table 2.4
+wg1_2.3.1.1.3_claude_q5,claude,claude-sonnet-4-6,A,A,True,hard,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 2 Table 2.4
+wg1_2.3.1.1.3_claude_q5,groq,llama-3.3-70b-versatile,A,A,True,hard,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 2 Table 2.4
+wg1_2.3.1.1.3_claude_q5,chatgpt,gpt-4o-2024-11-20,A,A,True,hard,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 2 Table 2.4
+wg1_2.3.1.1.3_gemini_q2,claude,claude-sonnet-4-6,B,B,True,medium,Climate Data and Trend Interpretation,data_interpretation,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 2 Table 2.4
+wg1_2.3.1.1.3_gemini_q2,groq,llama-3.3-70b-versatile,B,B,True,medium,Climate Data and Trend Interpretation,data_interpretation,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 2 Table 2.4
+wg1_2.3.1.1.3_gemini_q2,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Climate Data and Trend Interpretation,data_interpretation,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 2 Table 2.4
+wg1_2.3.1.1.3_groq_q5,claude,claude-sonnet-4-6,A,A,True,hard,Climate Data and Trend Interpretation,data_interpretation,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 2 Section 2.3.1.1.3
+wg1_2.3.1.1.3_groq_q5,groq,llama-3.3-70b-versatile,A,A,True,hard,Climate Data and Trend Interpretation,data_interpretation,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 2 Section 2.3.1.1.3
+wg1_2.3.1.1.3_groq_q5,chatgpt,gpt-4o-2024-11-20,A,A,True,hard,Climate Data and Trend Interpretation,data_interpretation,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 2 Section 2.3.1.1.3
+wg1_3.2.1_claude_q4,claude,claude-sonnet-4-6,B,B,True,medium,Detection and Attribution Methods,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 3 - Regression-based/Fingerprinting Methods
+wg1_3.2.1_claude_q4,groq,llama-3.3-70b-versatile,B,B,True,medium,Detection and Attribution Methods,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 3 - Regression-based/Fingerprinting Methods
+wg1_3.2.1_claude_q4,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Detection and Attribution Methods,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 3 - Regression-based/Fingerprinting Methods
+wg1_3.2.1_gemini_q1,claude,claude-sonnet-4-6,B,B,True,easy,Attribution Science,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 3 Section 3.2.1
+wg1_3.2.1_gemini_q1,groq,llama-3.3-70b-versatile,B,B,True,easy,Attribution Science,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 3 Section 3.2.1
+wg1_3.2.1_gemini_q1,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Attribution Science,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 3 Section 3.2.1
+wg1_3.2.1_gemini_q4,claude,claude-sonnet-4-6,C,C,True,easy,Attribution Science,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 3 Section 3.2.1
+wg1_3.2.1_gemini_q4,groq,llama-3.3-70b-versatile,C,C,True,easy,Attribution Science,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 3 Section 3.2.1
+wg1_3.2.1_gemini_q4,chatgpt,gpt-4o-2024-11-20,C,C,True,easy,Attribution Science,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 3 Section 3.2.1
+wg1_3.3.1.1.2_chatgpt_q3,claude,claude-sonnet-4-6,B,B,True,hard,Attribution Science,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2
+wg1_3.3.1.1.2_chatgpt_q3,groq,llama-3.3-70b-versatile,B,B,True,hard,Attribution Science,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2
+wg1_3.3.1.1.2_chatgpt_q3,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Attribution Science,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2
+wg1_3.3.1.1.2_gemini_q5,claude,claude-sonnet-4-6,B,B,True,medium,Attribution Science,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2
+wg1_3.3.1.1.2_gemini_q5,groq,llama-3.3-70b-versatile,B,B,True,medium,Attribution Science,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2
+wg1_3.3.1.1.2_gemini_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Attribution Science,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2
+wg1_3.3.1.1.2_groq_q2,claude,claude-sonnet-4-6,B,C,False,easy,Attribution Science,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2
+wg1_3.3.1.1.2_groq_q2,groq,llama-3.3-70b-versatile,B,C,False,easy,Attribution Science,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2
+wg1_3.3.1.1.2_groq_q2,chatgpt,gpt-4o-2024-11-20,C,C,True,easy,Attribution Science,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2
+wg1_4.2.2_claude_q4,claude,claude-sonnet-4-6,C,B,False,medium,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 4
+wg1_4.2.2_claude_q4,groq,llama-3.3-70b-versatile,C,B,False,medium,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 4
+wg1_4.2.2_claude_q4,chatgpt,gpt-4o-2024-11-20,C,B,False,medium,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 4
+wg1_4.2.2_chatgpt_q2,claude,claude-sonnet-4-6,B,B,True,medium,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 4 Section 4.2.2
+wg1_4.2.2_chatgpt_q2,groq,llama-3.3-70b-versatile,B,B,True,medium,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 4 Section 4.2.2
+wg1_4.2.2_chatgpt_q2,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 4 Section 4.2.2
+wg1_4.2.2_chatgpt_q5,claude,claude-sonnet-4-6,B,B,True,hard,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 4 Section 4.2.2
+wg1_4.2.2_chatgpt_q5,groq,llama-3.3-70b-versatile,B,B,True,hard,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 4 Section 4.2.2
+wg1_4.2.2_chatgpt_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 4 Section 4.2.2
+wg1_4.2.2_gemini_q1,claude,claude-sonnet-4-6,A,A,True,easy,Climate Modeling Scenarios,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 4
+wg1_4.2.2_gemini_q1,groq,llama-3.3-70b-versatile,A,A,True,easy,Climate Modeling Scenarios,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 4
+wg1_4.2.2_gemini_q1,chatgpt,gpt-4o-2024-11-20,A,A,True,easy,Climate Modeling Scenarios,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 4
+wg1_4.2.2_gemini_q4,claude,claude-sonnet-4-6,A,A,True,medium,Climate Modeling Scenarios,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 4
+wg1_4.2.2_gemini_q4,groq,llama-3.3-70b-versatile,B,A,False,medium,Climate Modeling Scenarios,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 4
+wg1_4.2.2_gemini_q4,chatgpt,gpt-4o-2024-11-20,A,A,True,medium,Climate Modeling Scenarios,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 4
+wg1_4.2.2_gemini_q5,claude,claude-sonnet-4-6,A,A,True,hard,Climate Modeling Scenarios,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 4
+wg1_4.2.2_gemini_q5,groq,llama-3.3-70b-versatile,A,A,True,hard,Climate Modeling Scenarios,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 4
+wg1_4.2.2_gemini_q5,chatgpt,gpt-4o-2024-11-20,A,A,True,hard,Climate Modeling Scenarios,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 4
+wg1_4.3.1.1_claude_q4,claude,claude-sonnet-4-6,A,A,True,medium,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 4
+wg1_4.3.1.1_claude_q4,groq,llama-3.3-70b-versatile,A,A,True,medium,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 4
+wg1_4.3.1.1_claude_q4,chatgpt,gpt-4o-2024-11-20,A,A,True,medium,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 4
+wg1_4.3.1.1_claude_q5,claude,claude-sonnet-4-6,C,C,True,hard,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 4
+wg1_4.3.1.1_claude_q5,groq,llama-3.3-70b-versatile,C,C,True,hard,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 4
+wg1_4.3.1.1_claude_q5,chatgpt,gpt-4o-2024-11-20,C,C,True,hard,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 4
+wg1_4.3.1.1_chatgpt_q1,claude,claude-sonnet-4-6,A,A,True,easy,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_chatgpt_q1,groq,llama-3.3-70b-versatile,A,A,True,easy,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_chatgpt_q1,chatgpt,gpt-4o-2024-11-20,A,A,True,easy,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_chatgpt_q3,claude,claude-sonnet-4-6,C,C,True,medium,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_chatgpt_q3,groq,llama-3.3-70b-versatile,C,C,True,medium,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_chatgpt_q3,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_chatgpt_q5,claude,claude-sonnet-4-6,B,B,True,hard,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_chatgpt_q5,groq,llama-3.3-70b-versatile,B,B,True,hard,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_chatgpt_q5,chatgpt,gpt-4o-2024-11-20,D,B,False,hard,Projections and Uncertainty,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_gemini_q3,claude,claude-sonnet-4-6,A,A,True,medium,Projections and Uncertainty,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_gemini_q3,groq,llama-3.3-70b-versatile,A,A,True,medium,Projections and Uncertainty,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_gemini_q3,chatgpt,gpt-4o-2024-11-20,A,A,True,medium,Projections and Uncertainty,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_gemini_q5,claude,claude-sonnet-4-6,C,C,True,hard,Projections and Uncertainty,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_gemini_q5,groq,llama-3.3-70b-versatile,C,C,True,hard,Projections and Uncertainty,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_gemini_q5,chatgpt,gpt-4o-2024-11-20,C,C,True,hard,Projections and Uncertainty,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_groq_q2,claude,claude-sonnet-4-6,B,B,True,medium,Projections and Uncertainty,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_groq_q2,groq,llama-3.3-70b-versatile,B,B,True,medium,Projections and Uncertainty,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_groq_q2,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Projections and Uncertainty,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_groq_q4,claude,claude-sonnet-4-6,D,D,True,easy,Projections and Uncertainty,standard,llama-3.3-70b-versatile,wg1,IPCC AR5
+wg1_4.3.1.1_groq_q4,groq,llama-3.3-70b-versatile,D,D,True,easy,Projections and Uncertainty,standard,llama-3.3-70b-versatile,wg1,IPCC AR5
+wg1_4.3.1.1_groq_q4,chatgpt,gpt-4o-2024-11-20,D,D,True,easy,Projections and Uncertainty,standard,llama-3.3-70b-versatile,wg1,IPCC AR5
+wg1_4.3.1.1_groq_q5,claude,claude-sonnet-4-6,B,B,True,hard,Projections and Uncertainty,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_groq_q5,groq,llama-3.3-70b-versatile,D,B,False,hard,Projections and Uncertainty,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_4.3.1.1_groq_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Projections and Uncertainty,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 4 Section 4.3.1.1
+wg1_5.2.1.3_claude_q2,claude,claude-sonnet-4-6,C,C,True,easy,Ocean Carbon Cycle,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 5
+wg1_5.2.1.3_claude_q2,groq,llama-3.3-70b-versatile,C,C,True,easy,Ocean Carbon Cycle,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 5
+wg1_5.2.1.3_claude_q2,chatgpt,gpt-4o-2024-11-20,C,C,True,easy,Ocean Carbon Cycle,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 5
+wg1_5.2.1.3_claude_q4,claude,claude-sonnet-4-6,D,D,True,medium,Ocean Carbon Cycle,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 5
+wg1_5.2.1.3_claude_q4,groq,llama-3.3-70b-versatile,D,D,True,medium,Ocean Carbon Cycle,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 5
+wg1_5.2.1.3_claude_q4,chatgpt,gpt-4o-2024-11-20,D,D,True,medium,Ocean Carbon Cycle,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 5
+wg1_5.2.1.3_chatgpt_q2,claude,claude-sonnet-4-6,B,B,True,medium,Physical Climate Science Fundamentals,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 5 Section 5.2.1.3
+wg1_5.2.1.3_chatgpt_q2,groq,llama-3.3-70b-versatile,B,B,True,medium,Physical Climate Science Fundamentals,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 5 Section 5.2.1.3
+wg1_5.2.1.3_chatgpt_q2,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Physical Climate Science Fundamentals,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 5 Section 5.2.1.3
+wg1_5.2.1.3_chatgpt_q3,claude,claude-sonnet-4-6,C,C,True,medium,Physical Climate Science Fundamentals,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 5 Section 5.2.1.3
+wg1_5.2.1.3_chatgpt_q3,groq,llama-3.3-70b-versatile,C,C,True,medium,Physical Climate Science Fundamentals,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 5 Section 5.2.1.3
+wg1_5.2.1.3_chatgpt_q3,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Physical Climate Science Fundamentals,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 5 Section 5.2.1.3
+wg1_5.2.1.3_gemini_q1,claude,claude-sonnet-4-6,C,A,False,easy,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 5 Section 5.2.1.3
+wg1_5.2.1.3_gemini_q1,groq,llama-3.3-70b-versatile,A,A,True,easy,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 5 Section 5.2.1.3
+wg1_5.2.1.3_gemini_q1,chatgpt,gpt-4o-2024-11-20,A,A,True,easy,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 5 Section 5.2.1.3
+wg1_5.2.1.3_gemini_q2,claude,claude-sonnet-4-6,C,C,True,easy,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 5 Section 5.2.1.3
+wg1_5.2.1.3_gemini_q2,groq,llama-3.3-70b-versatile,C,C,True,easy,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 5 Section 5.2.1.3
+wg1_5.2.1.3_gemini_q2,chatgpt,gpt-4o-2024-11-20,C,C,True,easy,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 5 Section 5.2.1.3
+wg1_5.4.1_claude_q3,claude,claude-sonnet-4-6,C,C,True,medium,Climate-Ecosystem Interactions,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 5
+wg1_5.4.1_claude_q3,groq,llama-3.3-70b-versatile,C,C,True,medium,Climate-Ecosystem Interactions,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 5
+wg1_5.4.1_claude_q3,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Climate-Ecosystem Interactions,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 5
+wg1_5.4.1_claude_q5,claude,claude-sonnet-4-6,B,B,True,hard,Climate-Ecosystem Interactions,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 5
+wg1_5.4.1_claude_q5,groq,llama-3.3-70b-versatile,A,B,False,hard,Climate-Ecosystem Interactions,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 5
+wg1_5.4.1_claude_q5,chatgpt,gpt-4o-2024-11-20,A,B,False,hard,Climate-Ecosystem Interactions,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 5
+wg1_5.4.1_chatgpt_q3,claude,claude-sonnet-4-6,B,B,True,easy,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 5 Section 5.4.1
+wg1_5.4.1_chatgpt_q3,groq,llama-3.3-70b-versatile,B,B,True,easy,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 5 Section 5.4.1
+wg1_5.4.1_chatgpt_q3,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 5 Section 5.4.1
+wg1_5.4.1_gemini_q1,claude,claude-sonnet-4-6,B,B,True,easy,Climate-Ecosystem Interactions,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 5 Section 5.4.1
+wg1_5.4.1_gemini_q1,groq,llama-3.3-70b-versatile,B,B,True,easy,Climate-Ecosystem Interactions,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 5 Section 5.4.1
+wg1_5.4.1_gemini_q1,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Climate-Ecosystem Interactions,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 5 Section 5.4.1
+wg1_5.4.1_gemini_q2,claude,claude-sonnet-4-6,C,C,True,easy,Climate-Ecosystem Interactions,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 5 Section 5.4.1
+wg1_5.4.1_gemini_q2,groq,llama-3.3-70b-versatile,C,C,True,easy,Climate-Ecosystem Interactions,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 5 Section 5.4.1
+wg1_5.4.1_gemini_q2,chatgpt,gpt-4o-2024-11-20,C,C,True,easy,Climate-Ecosystem Interactions,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 5 Section 5.4.1
+wg1_5.4.1_groq_q2,claude,claude-sonnet-4-6,C,C,True,medium,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 5 Section 5.4.1
+wg1_5.4.1_groq_q2,groq,llama-3.3-70b-versatile,C,C,True,medium,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 5 Section 5.4.1
+wg1_5.4.1_groq_q2,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 5 Section 5.4.1
+wg1_5.4.1_groq_q3,claude,claude-sonnet-4-6,C,C,True,easy,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 5 Section 5.4.1
+wg1_5.4.1_groq_q3,groq,llama-3.3-70b-versatile,C,C,True,easy,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 5 Section 5.4.1
+wg1_5.4.1_groq_q3,chatgpt,gpt-4o-2024-11-20,C,C,True,easy,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 5 Section 5.4.1
+wg1_5.4.1_groq_q5,claude,claude-sonnet-4-6,C,C,True,hard,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 5 Section 5.4.1
+wg1_5.4.1_groq_q5,groq,llama-3.3-70b-versatile,C,C,True,hard,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 5 Section 5.4.1
+wg1_5.4.1_groq_q5,chatgpt,gpt-4o-2024-11-20,C,C,True,hard,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 5 Section 5.4.1
+wg1_7.3.2_claude_q3,claude,claude-sonnet-4-6,C,C,True,medium,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7
+wg1_7.3.2_claude_q3,groq,llama-3.3-70b-versatile,C,C,True,medium,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7
+wg1_7.3.2_claude_q3,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7
+wg1_7.3.2_claude_q4,claude,claude-sonnet-4-6,B,B,True,medium,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7
+wg1_7.3.2_claude_q4,groq,llama-3.3-70b-versatile,B,B,True,medium,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7
+wg1_7.3.2_claude_q4,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7
+wg1_7.3.2_claude_q5,claude,claude-sonnet-4-6,B,B,True,hard,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7
+wg1_7.3.2_claude_q5,groq,llama-3.3-70b-versatile,B,B,True,hard,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7
+wg1_7.3.2_claude_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7
+wg1_7.3.2_gemini_q1,claude,claude-sonnet-4-6,A,A,True,easy,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 7 Section 7.3.2
+wg1_7.3.2_gemini_q1,groq,llama-3.3-70b-versatile,A,A,True,easy,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 7 Section 7.3.2
+wg1_7.3.2_gemini_q1,chatgpt,gpt-4o-2024-11-20,A,A,True,easy,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 7 Section 7.3.2
+wg1_7.3.2_groq_q1,claude,claude-sonnet-4-6,A,A,True,easy,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.3.2
+wg1_7.3.2_groq_q1,groq,llama-3.3-70b-versatile,C,A,False,easy,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.3.2
+wg1_7.3.2_groq_q1,chatgpt,gpt-4o-2024-11-20,A,A,True,easy,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.3.2
+wg1_7.3.2_groq_q4,claude,claude-sonnet-4-6,C,C,True,easy,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.3.2
+wg1_7.3.2_groq_q4,groq,llama-3.3-70b-versatile,C,C,True,easy,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.3.2
+wg1_7.3.2_groq_q4,chatgpt,gpt-4o-2024-11-20,C,C,True,easy,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.3.2
+wg1_7.4.2.1_claude_q2,claude,claude-sonnet-4-6,C,C,True,easy,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,"IPCC AR6 WG1 Chapter 7, Section on Planck Response"
+wg1_7.4.2.1_claude_q2,groq,llama-3.3-70b-versatile,C,C,True,easy,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,"IPCC AR6 WG1 Chapter 7, Section on Planck Response"
+wg1_7.4.2.1_claude_q2,chatgpt,gpt-4o-2024-11-20,C,C,True,easy,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,"IPCC AR6 WG1 Chapter 7, Section on Planck Response"
+wg1_7.4.2.1_claude_q3,claude,claude-sonnet-4-6,C,C,True,medium,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,"IPCC AR6 WG1 Chapter 7, Section on Planck Response"
+wg1_7.4.2.1_claude_q3,groq,llama-3.3-70b-versatile,A,C,False,medium,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,"IPCC AR6 WG1 Chapter 7, Section on Planck Response"
+wg1_7.4.2.1_claude_q3,chatgpt,gpt-4o-2024-11-20,A,C,False,medium,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,"IPCC AR6 WG1 Chapter 7, Section on Planck Response"
+wg1_7.4.2.1_claude_q5,claude,claude-sonnet-4-6,C,C,True,hard,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,"IPCC AR6 WG1 Chapter 7, Section on Planck Response"
+wg1_7.4.2.1_claude_q5,groq,llama-3.3-70b-versatile,C,C,True,hard,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,"IPCC AR6 WG1 Chapter 7, Section on Planck Response"
+wg1_7.4.2.1_claude_q5,chatgpt,gpt-4o-2024-11-20,C,C,True,hard,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,"IPCC AR6 WG1 Chapter 7, Section on Planck Response"
+wg1_7.4.2.1_chatgpt_q3,claude,claude-sonnet-4-6,B,B,True,medium,Physical Climate Science Fundamentals,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.1
+wg1_7.4.2.1_chatgpt_q3,groq,llama-3.3-70b-versatile,B,B,True,medium,Physical Climate Science Fundamentals,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.1
+wg1_7.4.2.1_chatgpt_q3,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Physical Climate Science Fundamentals,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.1
+wg1_7.4.2.1_chatgpt_q4,claude,claude-sonnet-4-6,B,B,True,medium,Physical Climate Science Fundamentals,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.1
+wg1_7.4.2.1_chatgpt_q4,groq,llama-3.3-70b-versatile,B,B,True,medium,Physical Climate Science Fundamentals,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.1
+wg1_7.4.2.1_chatgpt_q4,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Physical Climate Science Fundamentals,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.1
+wg1_7.4.2.1_gemini_q1,claude,claude-sonnet-4-6,A,A,True,easy,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.1
+wg1_7.4.2.1_gemini_q1,groq,llama-3.3-70b-versatile,A,A,True,easy,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.1
+wg1_7.4.2.1_gemini_q1,chatgpt,gpt-4o-2024-11-20,A,A,True,easy,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.1
+wg1_7.4.2.1_groq_q4,claude,claude-sonnet-4-6,A,B,False,medium,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.1
+wg1_7.4.2.1_groq_q4,groq,llama-3.3-70b-versatile,B,B,True,medium,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.1
+wg1_7.4.2.1_groq_q4,chatgpt,gpt-4o-2024-11-20,A,B,False,medium,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.1
+wg1_7.4.2.2_claude_q3,claude,claude-sonnet-4-6,C,C,True,easy,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_claude_q3,groq,llama-3.3-70b-versatile,C,C,True,easy,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_claude_q3,chatgpt,gpt-4o-2024-11-20,C,C,True,easy,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_claude_q4,claude,claude-sonnet-4-6,C,C,True,medium,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_claude_q4,groq,llama-3.3-70b-versatile,C,C,True,medium,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_claude_q4,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_claude_q5,claude,claude-sonnet-4-6,A,A,True,hard,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_claude_q5,groq,llama-3.3-70b-versatile,A,A,True,hard,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_claude_q5,chatgpt,gpt-4o-2024-11-20,A,A,True,hard,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_chatgpt_q2,claude,claude-sonnet-4-6,B,B,True,medium,Physical Climate Science Fundamentals,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_chatgpt_q2,groq,llama-3.3-70b-versatile,B,B,True,medium,Physical Climate Science Fundamentals,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_chatgpt_q2,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Physical Climate Science Fundamentals,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_gemini_q1,claude,claude-sonnet-4-6,A,A,True,easy,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_gemini_q1,groq,llama-3.3-70b-versatile,A,A,True,easy,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_gemini_q1,chatgpt,gpt-4o-2024-11-20,A,A,True,easy,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_gemini_q4,claude,claude-sonnet-4-6,C,C,True,medium,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_gemini_q4,groq,llama-3.3-70b-versatile,C,C,True,medium,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_gemini_q4,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_groq_q1,claude,claude-sonnet-4-6,B,B,True,easy,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_groq_q1,groq,llama-3.3-70b-versatile,B,B,True,easy,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_groq_q1,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_groq_q5,claude,claude-sonnet-4-6,B,B,True,hard,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_groq_q5,groq,llama-3.3-70b-versatile,B,B,True,hard,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.2_groq_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.2
+wg1_7.4.2.3_claude_q4,claude,claude-sonnet-4-6,A,B,False,medium,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2
+wg1_7.4.2.3_claude_q4,groq,llama-3.3-70b-versatile,B,B,True,medium,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2
+wg1_7.4.2.3_claude_q4,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2
+wg1_7.4.2.3_claude_q5,claude,claude-sonnet-4-6,B,B,True,hard,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2
+wg1_7.4.2.3_claude_q5,groq,llama-3.3-70b-versatile,B,B,True,hard,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2
+wg1_7.4.2.3_claude_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Physical Climate Science Fundamentals,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2
+wg1_7.4.2.3_chatgpt_q2,claude,claude-sonnet-4-6,B,B,True,easy,Physical Climate Science Fundamentals,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.3
+wg1_7.4.2.3_chatgpt_q2,groq,llama-3.3-70b-versatile,B,B,True,easy,Physical Climate Science Fundamentals,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.3
+wg1_7.4.2.3_chatgpt_q2,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Physical Climate Science Fundamentals,standard,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.3
+wg1_7.4.2.3_gemini_q1,claude,claude-sonnet-4-6,C,A,False,easy,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.3
+wg1_7.4.2.3_gemini_q1,groq,llama-3.3-70b-versatile,C,A,False,easy,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.3
+wg1_7.4.2.3_gemini_q1,chatgpt,gpt-4o-2024-11-20,A,A,True,easy,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.3
+wg1_7.4.2.3_gemini_q3,claude,claude-sonnet-4-6,A,A,True,medium,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.3
+wg1_7.4.2.3_gemini_q3,groq,llama-3.3-70b-versatile,A,A,True,medium,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.3
+wg1_7.4.2.3_gemini_q3,chatgpt,gpt-4o-2024-11-20,A,A,True,medium,Physical Climate Science Fundamentals,standard,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.3
+wg1_7.4.2.3_groq_q4,claude,claude-sonnet-4-6,B,B,True,medium,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.3
+wg1_7.4.2.3_groq_q4,gemini,gemini-2.5-flash,B,B,True,medium,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.3
+wg1_7.4.2.3_groq_q4,groq,llama-3.3-70b-versatile,B,B,True,medium,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.3
+wg1_7.4.2.3_groq_q4,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Physical Climate Science Fundamentals,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 7 Section 7.4.2.3
+wg1_9.6.1.3_claude_q2,claude,claude-sonnet-4-6,B,B,True,easy,Observations & Attribution,standard,claude-sonnet-4-6,wg1,"IPCC AR6 WG1 Chapter 9, Section 9.6.1"
+wg1_9.6.1.3_claude_q2,groq,llama-3.3-70b-versatile,B,B,True,easy,Observations & Attribution,standard,claude-sonnet-4-6,wg1,"IPCC AR6 WG1 Chapter 9, Section 9.6.1"
+wg1_9.6.1.3_claude_q2,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Observations & Attribution,standard,claude-sonnet-4-6,wg1,"IPCC AR6 WG1 Chapter 9, Section 9.6.1"
+wg1_9.6.1.3_claude_q5,claude,claude-sonnet-4-6,B,B,True,hard,Observations & Attribution,standard,claude-sonnet-4-6,wg1,"IPCC AR6 WG1 Chapter 9, Section 9.6.1"
+wg1_9.6.1.3_claude_q5,groq,llama-3.3-70b-versatile,B,B,True,hard,Observations & Attribution,standard,claude-sonnet-4-6,wg1,"IPCC AR6 WG1 Chapter 9, Section 9.6.1"
+wg1_9.6.1.3_claude_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Observations & Attribution,standard,claude-sonnet-4-6,wg1,"IPCC AR6 WG1 Chapter 9, Section 9.6.1"
+wg1_9.6.1.3_chatgpt_q5,claude,claude-sonnet-4-6,A,A,True,hard,Sea Level Variability Drivers,standard,gpt-4o-2024-11-20,wg1,"IPCC AR6 WG1 Chapter 6, Section 9.6.1.3"
+wg1_9.6.1.3_chatgpt_q5,groq,llama-3.3-70b-versatile,A,A,True,hard,Sea Level Variability Drivers,standard,gpt-4o-2024-11-20,wg1,"IPCC AR6 WG1 Chapter 6, Section 9.6.1.3"
+wg1_9.6.1.3_chatgpt_q5,chatgpt,gpt-4o-2024-11-20,A,A,True,hard,Sea Level Variability Drivers,standard,gpt-4o-2024-11-20,wg1,"IPCC AR6 WG1 Chapter 6, Section 9.6.1.3"
+wg1_9.6.1.3_gemini_q4,claude,claude-sonnet-4-6,B,B,True,medium,Projections & Uncertainty,standard,gemini-2.5-flash,wg1,"IPCC AR6 WG1 Chapter 6, Section 9.6.1.3"
+wg1_9.6.1.3_gemini_q4,groq,llama-3.3-70b-versatile,B,B,True,medium,Projections & Uncertainty,standard,gemini-2.5-flash,wg1,"IPCC AR6 WG1 Chapter 6, Section 9.6.1.3"
+wg1_9.6.1.3_gemini_q4,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Projections & Uncertainty,standard,gemini-2.5-flash,wg1,"IPCC AR6 WG1 Chapter 6, Section 9.6.1.3"
+wg1_9.6.1.3_groq_q1,claude,claude-sonnet-4-6,B,B,True,medium,Sea Level Rise,standard,llama-3.3-70b-versatile,wg1,"IPCC AR6 WG1 Chapter 6, Section 9.6.1.3"
+wg1_9.6.1.3_groq_q1,gemini,gemini-2.5-flash,B,B,True,medium,Sea Level Rise,standard,llama-3.3-70b-versatile,wg1,"IPCC AR6 WG1 Chapter 6, Section 9.6.1.3"
+wg1_9.6.1.3_groq_q1,groq,llama-3.3-70b-versatile,B,B,True,medium,Sea Level Rise,standard,llama-3.3-70b-versatile,wg1,"IPCC AR6 WG1 Chapter 6, Section 9.6.1.3"
+wg1_9.6.1.3_groq_q1,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Sea Level Rise,standard,llama-3.3-70b-versatile,wg1,"IPCC AR6 WG1 Chapter 6, Section 9.6.1.3"
+wg1_9.6.3.1_claude_q1,claude,claude-sonnet-4-6,C,C,True,easy,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 9 Section 9.6
+wg1_9.6.3.1_claude_q1,groq,llama-3.3-70b-versatile,C,C,True,easy,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 9 Section 9.6
+wg1_9.6.3.1_claude_q1,chatgpt,gpt-4o-2024-11-20,C,C,True,easy,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 9 Section 9.6
+wg1_9.6.3.1_claude_q3,claude,claude-sonnet-4-6,A,A,True,medium,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 9 Section 9.6
+wg1_9.6.3.1_claude_q3,groq,llama-3.3-70b-versatile,A,A,True,medium,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 9 Section 9.6
+wg1_9.6.3.1_claude_q3,chatgpt,gpt-4o-2024-11-20,C,A,False,medium,Projections and Uncertainty,standard,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 9 Section 9.6
+wg1_9.6.3.1_groq_q1,claude,claude-sonnet-4-6,B,A,False,easy,Projections and Uncertainty,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 9 Section 9.6.3.1
+wg1_9.6.3.1_groq_q1,groq,llama-3.3-70b-versatile,B,A,False,easy,Projections and Uncertainty,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 9 Section 9.6.3.1
+wg1_9.6.3.1_groq_q1,chatgpt,gpt-4o-2024-11-20,A,A,True,easy,Projections and Uncertainty,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 9 Section 9.6.3.1
+wg1_9.6.3.1_groq_q2,claude,claude-sonnet-4-6,A,A,True,medium,Projections and Uncertainty,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 9 Section 9.6.3.1
+wg1_9.6.3.1_groq_q2,groq,llama-3.3-70b-versatile,A,A,True,medium,Projections and Uncertainty,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 9 Section 9.6.3.1
+wg1_9.6.3.1_groq_q2,chatgpt,gpt-4o-2024-11-20,A,A,True,medium,Projections and Uncertainty,standard,llama-3.3-70b-versatile,wg1,IPCC AR6 WG1 Chapter 9 Section 9.6.3.1
+wg1_9.6.3.3_claude_q2,claude,claude-sonnet-4-6,C,C,True,easy,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 9 Table 9.9
+wg1_9.6.3.3_claude_q2,groq,llama-3.3-70b-versatile,C,C,True,easy,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 9 Table 9.9
+wg1_9.6.3.3_claude_q2,chatgpt,gpt-4o-2024-11-20,C,C,True,easy,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 9 Table 9.9
+wg1_9.6.3.3_claude_q3,claude,claude-sonnet-4-6,B,B,True,medium,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 9 Table 9.9
+wg1_9.6.3.3_claude_q3,groq,llama-3.3-70b-versatile,B,B,True,medium,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 9 Table 9.9
+wg1_9.6.3.3_claude_q3,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 9 Table 9.9
+wg1_9.6.3.3_claude_q5,claude,claude-sonnet-4-6,B,B,True,hard,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 9 Table 9.9
+wg1_9.6.3.3_claude_q5,groq,llama-3.3-70b-versatile,B,B,True,hard,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 9 Table 9.9
+wg1_9.6.3.3_claude_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Climate Data and Trend Interpretation,data_interpretation,claude-sonnet-4-6,wg1,IPCC AR6 WG1 Chapter 9 Table 9.9
+wg1_9.6.3.3_chatgpt_q3,claude,claude-sonnet-4-6,A,A,True,medium,Climate Data and Trend Interpretation,data_interpretation,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 9 Table 9.9
+wg1_9.6.3.3_chatgpt_q3,groq,llama-3.3-70b-versatile,A,A,True,medium,Climate Data and Trend Interpretation,data_interpretation,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 9 Table 9.9
+wg1_9.6.3.3_chatgpt_q3,chatgpt,gpt-4o-2024-11-20,A,A,True,medium,Climate Data and Trend Interpretation,data_interpretation,gpt-4o-2024-11-20,wg1,IPCC AR6 WG1 Chapter 9 Table 9.9
+wg1_9.6.3.3_gemini_q4,claude,claude-sonnet-4-6,C,C,True,medium,Climate Data and Trend Interpretation,data_interpretation,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 9 Section 9.6.3.3
+wg1_9.6.3.3_gemini_q4,groq,llama-3.3-70b-versatile,C,C,True,medium,Climate Data and Trend Interpretation,data_interpretation,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 9 Section 9.6.3.3
+wg1_9.6.3.3_gemini_q4,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Climate Data and Trend Interpretation,data_interpretation,gemini-2.5-flash,wg1,IPCC AR6 WG1 Chapter 9 Section 9.6.3.3
+wg1_9.6.3.3_groq_q1,claude,claude-sonnet-4-6,C,B,False,easy,Climate Data and Trend Interpretation,data_interpretation,llama-3.3-70b-versatile,wg1,"IPCC AR6 WG1 Chapter 9, Table 9.9"
+wg1_9.6.3.3_groq_q1,groq,llama-3.3-70b-versatile,C,B,False,easy,Climate Data and Trend Interpretation,data_interpretation,llama-3.3-70b-versatile,wg1,"IPCC AR6 WG1 Chapter 9, Table 9.9"
+wg1_9.6.3.3_groq_q1,chatgpt,gpt-4o-2024-11-20,C,B,False,easy,Climate Data and Trend Interpretation,data_interpretation,llama-3.3-70b-versatile,wg1,"IPCC AR6 WG1 Chapter 9, Table 9.9"
+wg1_9.6.3.3_groq_q5,claude,claude-sonnet-4-6,A,A,True,hard,Climate Data and Trend Interpretation,data_interpretation,llama-3.3-70b-versatile,wg1,"IPCC AR6 WG1 Chapter 9, Table 9.9"
+wg1_9.6.3.3_groq_q5,groq,llama-3.3-70b-versatile,A,A,True,hard,Climate Data and Trend Interpretation,data_interpretation,llama-3.3-70b-versatile,wg1,"IPCC AR6 WG1 Chapter 9, Table 9.9"
+wg1_9.6.3.3_groq_q5,chatgpt,gpt-4o-2024-11-20,D,A,False,hard,Climate Data and Trend Interpretation,data_interpretation,llama-3.3-70b-versatile,wg1,"IPCC AR6 WG1 Chapter 9, Table 9.9"
+wg2_2.3.1_claude_q3,claude,claude-sonnet-4-6,B,B,True,medium,Climate-Ecosystem Interactions,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 passage on extreme events and ecosystems
+wg2_2.3.1_claude_q3,groq,llama-3.3-70b-versatile,B,B,True,medium,Climate-Ecosystem Interactions,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 passage on extreme events and ecosystems
+wg2_2.3.1_claude_q3,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Climate-Ecosystem Interactions,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 passage on extreme events and ecosystems
+wg2_2.3.1_claude_q4,claude,claude-sonnet-4-6,C,C,True,medium,Climate Risk Assessment,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 passage on extreme events and ecosystems
+wg2_2.3.1_claude_q4,groq,llama-3.3-70b-versatile,D,C,False,medium,Climate Risk Assessment,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 passage on extreme events and ecosystems
+wg2_2.3.1_claude_q4,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Climate Risk Assessment,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 passage on extreme events and ecosystems
+wg2_2.3.1_claude_q5,claude,claude-sonnet-4-6,C,C,True,hard,Ecosystem-based Adaptation,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 passage on extreme events and ecosystems
+wg2_2.3.1_claude_q5,groq,llama-3.3-70b-versatile,C,C,True,hard,Ecosystem-based Adaptation,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 passage on extreme events and ecosystems
+wg2_2.3.1_claude_q5,chatgpt,gpt-4o-2024-11-20,C,C,True,hard,Ecosystem-based Adaptation,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 passage on extreme events and ecosystems
+wg2_2.3.1_chatgpt_q3,claude,claude-sonnet-4-6,C,C,True,medium,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 2 Section 2.3.1
+wg2_2.3.1_chatgpt_q3,groq,llama-3.3-70b-versatile,C,C,True,medium,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 2 Section 2.3.1
+wg2_2.3.1_chatgpt_q3,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 2 Section 2.3.1
+wg2_2.3.1_gemini_q1,claude,claude-sonnet-4-6,B,B,True,easy,Climate-Ecosystem Interactions,standard,gemini-2.5-flash,wg2,IPCC AR6 WG2 Chapter 2 Section 2.3.1
+wg2_2.3.1_gemini_q1,groq,llama-3.3-70b-versatile,B,B,True,easy,Climate-Ecosystem Interactions,standard,gemini-2.5-flash,wg2,IPCC AR6 WG2 Chapter 2 Section 2.3.1
+wg2_2.3.1_gemini_q1,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Climate-Ecosystem Interactions,standard,gemini-2.5-flash,wg2,IPCC AR6 WG2 Chapter 2 Section 2.3.1
+wg2_2.3.1_gemini_q2,claude,claude-sonnet-4-6,C,C,True,easy,Climate-Ecosystem Interactions,standard,gemini-2.5-flash,wg2,IPCC AR6 WG2 Chapter 2 Section 2.3.1
+wg2_2.3.1_gemini_q2,groq,llama-3.3-70b-versatile,C,C,True,easy,Climate-Ecosystem Interactions,standard,gemini-2.5-flash,wg2,IPCC AR6 WG2 Chapter 2 Section 2.3.1
+wg2_2.3.1_gemini_q2,chatgpt,gpt-4o-2024-11-20,C,C,True,easy,Climate-Ecosystem Interactions,standard,gemini-2.5-flash,wg2,IPCC AR6 WG2 Chapter 2 Section 2.3.1
+wg2_2.4.2.1_claude_q3,claude,claude-sonnet-4-6,B,B,True,medium,Impacts and Vulnerabilities,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution
+wg2_2.4.2.1_claude_q3,groq,llama-3.3-70b-versatile,B,B,True,medium,Impacts and Vulnerabilities,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution
+wg2_2.4.2.1_claude_q3,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Impacts and Vulnerabilities,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution
+wg2_2.4.2.1_claude_q5,claude,claude-sonnet-4-6,B,B,True,hard,Impacts and Vulnerabilities,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution
+wg2_2.4.2.1_claude_q5,groq,llama-3.3-70b-versatile,B,B,True,hard,Impacts and Vulnerabilities,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution
+wg2_2.4.2.1_claude_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Impacts and Vulnerabilities,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution
+wg2_2.4.2.1_chatgpt_q2,claude,claude-sonnet-4-6,B,B,True,medium,Impacts and Vulnerabilities,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.2.1
+wg2_2.4.2.1_chatgpt_q2,groq,llama-3.3-70b-versatile,B,B,True,medium,Impacts and Vulnerabilities,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.2.1
+wg2_2.4.2.1_chatgpt_q2,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Impacts and Vulnerabilities,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.2.1
+wg2_2.4.2.1_chatgpt_q4,claude,claude-sonnet-4-6,C,C,True,medium,Impacts and Vulnerabilities,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.2.1
+wg2_2.4.2.1_chatgpt_q4,groq,llama-3.3-70b-versatile,C,C,True,medium,Impacts and Vulnerabilities,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.2.1
+wg2_2.4.2.1_chatgpt_q4,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Impacts and Vulnerabilities,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.2.1
+wg2_2.4.2.1_chatgpt_q5,claude,claude-sonnet-4-6,B,B,True,hard,Impacts and Vulnerabilities,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.2.1
+wg2_2.4.2.1_chatgpt_q5,groq,llama-3.3-70b-versatile,B,B,True,hard,Impacts and Vulnerabilities,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.2.1
+wg2_2.4.2.1_chatgpt_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Impacts and Vulnerabilities,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.2.1
+wg2_2.4.2.1_groq_q3,claude,claude-sonnet-4-6,D,D,True,medium,Impacts and Vulnerabilities,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.2.1
+wg2_2.4.2.1_groq_q3,groq,llama-3.3-70b-versatile,D,D,True,medium,Impacts and Vulnerabilities,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.2.1
+wg2_2.4.2.1_groq_q3,chatgpt,gpt-4o-2024-11-20,D,D,True,medium,Impacts and Vulnerabilities,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.2.1
+wg2_2.4.3.2.1_claude_q1,claude,claude-sonnet-4-6,A,A,True,easy,Climate-Ecosystem Interactions,standard,claude-sonnet-4-6,wg2,AR6 WG2 biome shift synthesis passage
+wg2_2.4.3.2.1_claude_q1,groq,llama-3.3-70b-versatile,B,A,False,easy,Climate-Ecosystem Interactions,standard,claude-sonnet-4-6,wg2,AR6 WG2 biome shift synthesis passage
+wg2_2.4.3.2.1_claude_q1,chatgpt,gpt-4o-2024-11-20,B,A,False,easy,Climate-Ecosystem Interactions,standard,claude-sonnet-4-6,wg2,AR6 WG2 biome shift synthesis passage
+wg2_2.4.3.2.1_claude_q3,claude,claude-sonnet-4-6,C,C,True,medium,Climate-Ecosystem Interactions,standard,claude-sonnet-4-6,wg2,AR6 WG2 biome shift synthesis passage
+wg2_2.4.3.2.1_claude_q3,groq,llama-3.3-70b-versatile,D,C,False,medium,Climate-Ecosystem Interactions,standard,claude-sonnet-4-6,wg2,AR6 WG2 biome shift synthesis passage
+wg2_2.4.3.2.1_claude_q3,chatgpt,gpt-4o-2024-11-20,D,C,False,medium,Climate-Ecosystem Interactions,standard,claude-sonnet-4-6,wg2,AR6 WG2 biome shift synthesis passage
+wg2_2.4.3.2.1_claude_q5,claude,claude-sonnet-4-6,A,A,True,hard,Climate-Ecosystem Interactions,standard,claude-sonnet-4-6,wg2,AR6 WG2 biome shift synthesis passage
+wg2_2.4.3.2.1_claude_q5,groq,llama-3.3-70b-versatile,A,A,True,hard,Climate-Ecosystem Interactions,standard,claude-sonnet-4-6,wg2,AR6 WG2 biome shift synthesis passage
+wg2_2.4.3.2.1_claude_q5,chatgpt,gpt-4o-2024-11-20,A,A,True,hard,Climate-Ecosystem Interactions,standard,claude-sonnet-4-6,wg2,AR6 WG2 biome shift synthesis passage
+wg2_2.4.3.2.1_chatgpt_q1,claude,claude-sonnet-4-6,C,A,False,easy,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1
+wg2_2.4.3.2.1_chatgpt_q1,groq,llama-3.3-70b-versatile,A,A,True,easy,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1
+wg2_2.4.3.2.1_chatgpt_q1,chatgpt,gpt-4o-2024-11-20,A,A,True,easy,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1
+wg2_2.4.3.2.1_chatgpt_q2,claude,claude-sonnet-4-6,D,B,False,medium,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1
+wg2_2.4.3.2.1_chatgpt_q2,groq,llama-3.3-70b-versatile,B,B,True,medium,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1
+wg2_2.4.3.2.1_chatgpt_q2,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1
+wg2_2.4.3.2.1_gemini_q5,claude,claude-sonnet-4-6,A,A,True,hard,Climate-Ecosystem Interactions,standard,gemini-2.5-flash,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1
+wg2_2.4.3.2.1_gemini_q5,groq,llama-3.3-70b-versatile,A,A,True,hard,Climate-Ecosystem Interactions,standard,gemini-2.5-flash,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1
+wg2_2.4.3.2.1_gemini_q5,chatgpt,gpt-4o-2024-11-20,A,A,True,hard,Climate-Ecosystem Interactions,standard,gemini-2.5-flash,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1
+wg2_2.4.3.2.1_groq_q1,claude,claude-sonnet-4-6,B,B,True,easy,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1
+wg2_2.4.3.2.1_groq_q1,groq,llama-3.3-70b-versatile,B,B,True,easy,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1
+wg2_2.4.3.2.1_groq_q1,chatgpt,gpt-4o-2024-11-20,A,B,False,easy,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1
+wg2_2.4.3.2.1_groq_q2,claude,claude-sonnet-4-6,B,B,True,easy,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1
+wg2_2.4.3.2.1_groq_q2,groq,llama-3.3-70b-versatile,B,B,True,easy,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1
+wg2_2.4.3.2.1_groq_q2,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1
+wg2_2.4.3.2.1_groq_q3,claude,claude-sonnet-4-6,B,B,True,medium,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1
+wg2_2.4.3.2.1_groq_q3,groq,llama-3.3-70b-versatile,B,B,True,medium,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1
+wg2_2.4.3.2.1_groq_q3,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1
+wg2_3.3.2_claude_q2,claude,claude-sonnet-4-6,B,B,True,easy,Ocean Deoxygenation,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts
+wg2_3.3.2_claude_q2,groq,llama-3.3-70b-versatile,B,B,True,easy,Ocean Deoxygenation,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts
+wg2_3.3.2_claude_q2,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Ocean Deoxygenation,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts
+wg2_3.3.2_claude_q3,claude,claude-sonnet-4-6,C,C,True,medium,Ocean Acidification,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts
+wg2_3.3.2_claude_q3,groq,llama-3.3-70b-versatile,C,C,True,medium,Ocean Acidification,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts
+wg2_3.3.2_claude_q3,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Ocean Acidification,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts
+wg2_3.3.2_claude_q4,claude,claude-sonnet-4-6,C,C,True,medium,Ocean Deoxygenation,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts
+wg2_3.3.2_claude_q4,groq,llama-3.3-70b-versatile,C,C,True,medium,Ocean Deoxygenation,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts
+wg2_3.3.2_claude_q4,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Ocean Deoxygenation,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts
+wg2_3.3.2_claude_q5,claude,claude-sonnet-4-6,B,B,True,hard,Compound Climate Hazards,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts
+wg2_3.3.2_claude_q5,groq,llama-3.3-70b-versatile,B,B,True,hard,Compound Climate Hazards,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts
+wg2_3.3.2_claude_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Compound Climate Hazards,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts
+wg2_3.3.2_chatgpt_q1,claude,claude-sonnet-4-6,A,A,True,easy,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 3 Section 3.3.2
+wg2_3.3.2_chatgpt_q1,groq,llama-3.3-70b-versatile,A,A,True,easy,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 3 Section 3.3.2
+wg2_3.3.2_chatgpt_q1,chatgpt,gpt-4o-2024-11-20,A,A,True,easy,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 3 Section 3.3.2
+wg2_3.3.2_chatgpt_q3,claude,claude-sonnet-4-6,B,B,True,medium,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 3 Section 3.3.2
+wg2_3.3.2_chatgpt_q3,groq,llama-3.3-70b-versatile,B,B,True,medium,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 3 Section 3.3.2
+wg2_3.3.2_chatgpt_q3,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 3 Section 3.3.2
+wg2_3.3.2_chatgpt_q5,claude,claude-sonnet-4-6,C,B,False,easy,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 3 Section 3.3.2
+wg2_3.3.2_chatgpt_q5,groq,llama-3.3-70b-versatile,B,B,True,easy,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 3 Section 3.3.2
+wg2_3.3.2_chatgpt_q5,chatgpt,gpt-4o-2024-11-20,C,B,False,easy,Climate-Ecosystem Interactions,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 3 Section 3.3.2
+wg2_3.3.2_gemini_q1,claude,claude-sonnet-4-6,B,B,True,easy,Climate-Ecosystem Interactions,standard,gemini-2.5-flash,wg2,IPCC AR6 WG2 Chapter 3 Section 3.3.2
+wg2_3.3.2_gemini_q1,groq,llama-3.3-70b-versatile,B,B,True,easy,Climate-Ecosystem Interactions,standard,gemini-2.5-flash,wg2,IPCC AR6 WG2 Chapter 3 Section 3.3.2
+wg2_3.3.2_gemini_q1,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Climate-Ecosystem Interactions,standard,gemini-2.5-flash,wg2,IPCC AR6 WG2 Chapter 3 Section 3.3.2
+wg2_3.3.2_groq_q4,claude,claude-sonnet-4-6,C,C,True,medium,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 3 Section 3.3.2
+wg2_3.3.2_groq_q4,groq,llama-3.3-70b-versatile,C,C,True,medium,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 3 Section 3.3.2
+wg2_3.3.2_groq_q4,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 3 Section 3.3.2
+wg2_3.3.2_groq_q5,claude,claude-sonnet-4-6,D,D,True,hard,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 3 Section 3.3.2
+wg2_3.3.2_groq_q5,groq,llama-3.3-70b-versatile,D,D,True,hard,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 3 Section 3.3.2
+wg2_3.3.2_groq_q5,chatgpt,gpt-4o-2024-11-20,D,D,True,hard,Climate-Ecosystem Interactions,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 3 Section 3.3.2
+wg2_4.2.1.1_claude_q1,claude,claude-sonnet-4-6,C,B,False,easy,Observed Impacts,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter 4
+wg2_4.2.1.1_claude_q1,groq,llama-3.3-70b-versatile,C,B,False,easy,Observed Impacts,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter 4
+wg2_4.2.1.1_claude_q1,chatgpt,gpt-4o-2024-11-20,C,B,False,easy,Observed Impacts,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter 4
+wg2_4.2.1.1_claude_q5,claude,claude-sonnet-4-6,D,D,True,hard,Observed Impacts,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter 4
+wg2_4.2.1.1_claude_q5,groq,llama-3.3-70b-versatile,A,D,False,hard,Observed Impacts,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter 4
+wg2_4.2.1.1_claude_q5,chatgpt,gpt-4o-2024-11-20,A,D,False,hard,Observed Impacts,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter 4
+wg2_4.2.1.1_groq_q1,claude,claude-sonnet-4-6,B,A,False,easy,Impacts and Vulnerabilities,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 4 Section 4.2.1.1
+wg2_4.2.1.1_groq_q1,groq,llama-3.3-70b-versatile,B,A,False,easy,Impacts and Vulnerabilities,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 4 Section 4.2.1.1
+wg2_4.2.1.1_groq_q1,chatgpt,gpt-4o-2024-11-20,B,A,False,easy,Impacts and Vulnerabilities,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 4 Section 4.2.1.1
+wg2_4.2.1.1_groq_q5,claude,claude-sonnet-4-6,B,B,True,hard,Impacts and Vulnerabilities,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 4 Section 4.2.1.1
+wg2_4.2.1.1_groq_q5,groq,llama-3.3-70b-versatile,B,B,True,hard,Impacts and Vulnerabilities,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 4 Section 4.2.1.1
+wg2_4.2.1.1_groq_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Impacts and Vulnerabilities,standard,llama-3.3-70b-versatile,wg2,IPCC AR6 WG2 Chapter 4 Section 4.2.1.1
+wg2_5.4.1.1_claude_q3,claude,claude-sonnet-4-6,C,C,True,medium,Adaptation,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter 5
+wg2_5.4.1.1_claude_q3,groq,llama-3.3-70b-versatile,C,C,True,medium,Adaptation,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter 5
+wg2_5.4.1.1_claude_q3,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Adaptation,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter 5
+wg2_5.4.1.1_claude_q4,claude,claude-sonnet-4-6,C,C,True,medium,Impacts and Vulnerabilities,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter 5
+wg2_5.4.1.1_claude_q4,groq,llama-3.3-70b-versatile,C,C,True,medium,Impacts and Vulnerabilities,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter 5
+wg2_5.4.1.1_claude_q4,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Impacts and Vulnerabilities,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter 5
+wg2_5.4.1.1_chatgpt_q5,claude,claude-sonnet-4-6,B,B,True,hard,Impacts and Vulnerabilities,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 5 Section 5.4.1.1
+wg2_5.4.1.1_chatgpt_q5,groq,llama-3.3-70b-versatile,B,B,True,hard,Impacts and Vulnerabilities,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 5 Section 5.4.1.1
+wg2_5.4.1.1_chatgpt_q5,chatgpt,gpt-4o-2024-11-20,C,B,False,hard,Impacts and Vulnerabilities,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 5 Section 5.4.1.1
+wg2_5.4.1.1_groq_q1,claude,claude-sonnet-4-6,B,B,True,easy,Impacts and Vulnerabilities,standard,llama-3.3-70b-versatile,wg2,AR5 Chapter 7
+wg2_5.4.1.1_groq_q1,groq,llama-3.3-70b-versatile,D,B,False,easy,Impacts and Vulnerabilities,standard,llama-3.3-70b-versatile,wg2,AR5 Chapter 7
+wg2_5.4.1.1_groq_q1,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Impacts and Vulnerabilities,standard,llama-3.3-70b-versatile,wg2,AR5 Chapter 7
+wg2_7.2.2.1_claude_q3,claude,claude-sonnet-4-6,B,B,True,medium,Impacts and Vulnerabilities,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter on Vector-Borne Diseases
+wg2_7.2.2.1_claude_q3,groq,llama-3.3-70b-versatile,B,B,True,medium,Impacts and Vulnerabilities,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter on Vector-Borne Diseases
+wg2_7.2.2.1_claude_q3,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Impacts and Vulnerabilities,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter on Vector-Borne Diseases
+wg2_7.2.2.1_claude_q5,claude,claude-sonnet-4-6,B,B,True,hard,Impacts and Vulnerabilities,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter on Vector-Borne Diseases
+wg2_7.2.2.1_claude_q5,groq,llama-3.3-70b-versatile,B,B,True,hard,Impacts and Vulnerabilities,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter on Vector-Borne Diseases
+wg2_7.2.2.1_claude_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Impacts and Vulnerabilities,standard,claude-sonnet-4-6,wg2,IPCC AR6 WG2 Chapter on Vector-Borne Diseases
+wg2_7.2.2.1_chatgpt_q1,claude,claude-sonnet-4-6,C,A,False,easy,Impacts and Vulnerabilities,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 7 Section 7.2.2.1
+wg2_7.2.2.1_chatgpt_q1,groq,llama-3.3-70b-versatile,B,A,False,easy,Impacts and Vulnerabilities,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 7 Section 7.2.2.1
+wg2_7.2.2.1_chatgpt_q1,chatgpt,gpt-4o-2024-11-20,C,A,False,easy,Impacts and Vulnerabilities,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 7 Section 7.2.2.1
+wg2_7.2.2.1_chatgpt_q5,claude,claude-sonnet-4-6,B,B,True,hard,Impacts and Vulnerabilities,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 7 Section 7.2.2.1
+wg2_7.2.2.1_chatgpt_q5,groq,llama-3.3-70b-versatile,B,B,True,hard,Impacts and Vulnerabilities,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 7 Section 7.2.2.1
+wg2_7.2.2.1_chatgpt_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Impacts and Vulnerabilities,standard,gpt-4o-2024-11-20,wg2,IPCC AR6 WG2 Chapter 7 Section 7.2.2.1
+wg2_7.2.2.1_gemini_q4,claude,claude-sonnet-4-6,B,B,True,medium,Impacts and Vulnerabilities,standard,gemini-2.5-flash,wg2,IPCC AR6 WG2 Chapter 7 Section 7.2.2.1
+wg2_7.2.2.1_gemini_q4,groq,llama-3.3-70b-versatile,B,B,True,medium,Impacts and Vulnerabilities,standard,gemini-2.5-flash,wg2,IPCC AR6 WG2 Chapter 7 Section 7.2.2.1
+wg2_7.2.2.1_gemini_q4,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Impacts and Vulnerabilities,standard,gemini-2.5-flash,wg2,IPCC AR6 WG2 Chapter 7 Section 7.2.2.1
+wg3_13.2.1_claude_q2,claude,claude-sonnet-4-6,B,B,True,easy,Policy and Governance,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_13.2.1_claude_q2,groq,llama-3.3-70b-versatile,B,B,True,easy,Policy and Governance,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_13.2.1_claude_q2,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Policy and Governance,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_13.2.1_claude_q5,claude,claude-sonnet-4-6,B,B,True,hard,Policy and Governance,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_13.2.1_claude_q5,groq,llama-3.3-70b-versatile,B,B,True,hard,Policy and Governance,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_13.2.1_claude_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Policy and Governance,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_13.2.1_chatgpt_q1,claude,claude-sonnet-4-6,A,A,True,easy,Policy and Governance,standard,gpt-4o-2024-11-20,wg3,IPCC AR6 WG3 Chapter 13 Section 13.2.1
+wg3_13.2.1_chatgpt_q1,groq,llama-3.3-70b-versatile,A,A,True,easy,Policy and Governance,standard,gpt-4o-2024-11-20,wg3,IPCC AR6 WG3 Chapter 13 Section 13.2.1
+wg3_13.2.1_chatgpt_q1,chatgpt,gpt-4o-2024-11-20,A,A,True,easy,Policy and Governance,standard,gpt-4o-2024-11-20,wg3,IPCC AR6 WG3 Chapter 13 Section 13.2.1
+wg3_13.2.1_chatgpt_q2,claude,claude-sonnet-4-6,B,B,True,medium,Policy and Governance,standard,gpt-4o-2024-11-20,wg3,IPCC AR6 WG3 Chapter 13 Section 13.2.1
+wg3_13.2.1_chatgpt_q2,groq,llama-3.3-70b-versatile,B,B,True,medium,Policy and Governance,standard,gpt-4o-2024-11-20,wg3,IPCC AR6 WG3 Chapter 13 Section 13.2.1
+wg3_13.2.1_chatgpt_q2,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Policy and Governance,standard,gpt-4o-2024-11-20,wg3,IPCC AR6 WG3 Chapter 13 Section 13.2.1
+wg3_13.2.1_gemini_q3,claude,claude-sonnet-4-6,C,C,True,medium,Policy and Governance,standard,gemini-2.5-flash,wg3,IPCC AR6 WG3 Chapter 13 Section 13.2.1
+wg3_13.2.1_gemini_q3,groq,llama-3.3-70b-versatile,C,C,True,medium,Policy and Governance,standard,gemini-2.5-flash,wg3,IPCC AR6 WG3 Chapter 13 Section 13.2.1
+wg3_13.2.1_gemini_q3,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Policy and Governance,standard,gemini-2.5-flash,wg3,IPCC AR6 WG3 Chapter 13 Section 13.2.1
+wg3_13.2.1_groq_q1,claude,claude-sonnet-4-6,B,B,True,easy,Policy and Governance,standard,llama-3.3-70b-versatile,wg3,IPCC AR6 WG3 Chapter 13 Section 13.2.1
+wg3_13.2.1_groq_q1,groq,llama-3.3-70b-versatile,B,B,True,easy,Policy and Governance,standard,llama-3.3-70b-versatile,wg3,IPCC AR6 WG3 Chapter 13 Section 13.2.1
+wg3_13.2.1_groq_q1,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Policy and Governance,standard,llama-3.3-70b-versatile,wg3,IPCC AR6 WG3 Chapter 13 Section 13.2.1
+wg3_13.6.1.3_claude_q3,claude,claude-sonnet-4-6,B,B,True,medium,Mitigation and Carbon Pricing,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_13.6.1.3_claude_q3,gemini,gemini-2.5-flash,B,B,True,medium,Mitigation and Carbon Pricing,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_13.6.1.3_claude_q3,groq,llama-3.3-70b-versatile,B,B,True,medium,Mitigation and Carbon Pricing,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_13.6.1.3_claude_q3,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Mitigation and Carbon Pricing,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_13.6.1.3_claude_q5,claude,claude-sonnet-4-6,B,B,True,hard,Mitigation and Carbon Pricing,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_13.6.1.3_claude_q5,groq,llama-3.3-70b-versatile,B,B,True,hard,Mitigation and Carbon Pricing,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_13.6.1.3_claude_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Mitigation and Carbon Pricing,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_13.6.1.3_gemini_q4,claude,claude-sonnet-4-6,C,C,True,medium,Policy and Governance,standard,gemini-2.5-flash,wg3,IPCC AR6 WG3 Chapter 13 Section 13.6.1.3
+wg3_13.6.1.3_gemini_q4,groq,llama-3.3-70b-versatile,C,C,True,medium,Policy and Governance,standard,gemini-2.5-flash,wg3,IPCC AR6 WG3 Chapter 13 Section 13.6.1.3
+wg3_13.6.1.3_gemini_q4,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Policy and Governance,standard,gemini-2.5-flash,wg3,IPCC AR6 WG3 Chapter 13 Section 13.6.1.3
+wg3_13.6.1.3_groq_q2,claude,claude-sonnet-4-6,D,D,True,easy,Policy and Governance,standard,llama-3.3-70b-versatile,wg3,IPCC AR6 WG3 Chapter 13 Section 13.6.1.3
+wg3_13.6.1.3_groq_q2,groq,llama-3.3-70b-versatile,D,D,True,easy,Policy and Governance,standard,llama-3.3-70b-versatile,wg3,IPCC AR6 WG3 Chapter 13 Section 13.6.1.3
+wg3_13.6.1.3_groq_q2,chatgpt,gpt-4o-2024-11-20,D,D,True,easy,Policy and Governance,standard,llama-3.3-70b-versatile,wg3,IPCC AR6 WG3 Chapter 13 Section 13.6.1.3
+wg3_13.6.1.3_groq_q5,claude,claude-sonnet-4-6,C,C,True,hard,Policy and Governance,standard,llama-3.3-70b-versatile,wg3,IPCC AR6 WG3 Chapter 13 Section 13.6.1.3
+wg3_13.6.1.3_groq_q5,groq,llama-3.3-70b-versatile,C,C,True,hard,Policy and Governance,standard,llama-3.3-70b-versatile,wg3,IPCC AR6 WG3 Chapter 13 Section 13.6.1.3
+wg3_13.6.1.3_groq_q5,chatgpt,gpt-4o-2024-11-20,C,C,True,hard,Policy and Governance,standard,llama-3.3-70b-versatile,wg3,IPCC AR6 WG3 Chapter 13 Section 13.6.1.3
+wg3_14.3.2.1_claude_q1,claude,claude-sonnet-4-6,B,B,True,easy,Policy and Governance,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_14.3.2.1_claude_q1,groq,llama-3.3-70b-versatile,B,B,True,easy,Policy and Governance,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_14.3.2.1_claude_q1,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Policy and Governance,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_14.3.2.1_claude_q2,claude,claude-sonnet-4-6,B,B,True,easy,Policy and Governance,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_14.3.2.1_claude_q2,groq,llama-3.3-70b-versatile,B,B,True,easy,Policy and Governance,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_14.3.2.1_claude_q2,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Policy and Governance,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_14.3.2.1_claude_q5,claude,claude-sonnet-4-6,B,B,True,hard,Mitigation Pathways,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_14.3.2.1_claude_q5,groq,llama-3.3-70b-versatile,B,B,True,hard,Mitigation Pathways,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_14.3.2.1_claude_q5,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Mitigation Pathways,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 13
+wg3_14.3.2.1_chatgpt_q2,claude,claude-sonnet-4-6,B,B,True,medium,Policy and Governance,standard,gpt-4o-2024-11-20,wg3,IPCC AR6 WG3 Chapter 14 Section 14.3.2.1
+wg3_14.3.2.1_chatgpt_q2,groq,llama-3.3-70b-versatile,B,B,True,medium,Policy and Governance,standard,gpt-4o-2024-11-20,wg3,IPCC AR6 WG3 Chapter 14 Section 14.3.2.1
+wg3_14.3.2.1_chatgpt_q2,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Policy and Governance,standard,gpt-4o-2024-11-20,wg3,IPCC AR6 WG3 Chapter 14 Section 14.3.2.1
+wg3_14.3.2.1_gemini_q4,claude,claude-sonnet-4-6,C,C,True,medium,Policy and Governance,standard,gemini-2.5-flash,wg3,IPCC AR6 WG3 Chapter 14 Section 14.3.2.1
+wg3_14.3.2.1_gemini_q4,groq,llama-3.3-70b-versatile,C,C,True,medium,Policy and Governance,standard,gemini-2.5-flash,wg3,IPCC AR6 WG3 Chapter 14 Section 14.3.2.1
+wg3_14.3.2.1_gemini_q4,chatgpt,gpt-4o-2024-11-20,C,C,True,medium,Policy and Governance,standard,gemini-2.5-flash,wg3,IPCC AR6 WG3 Chapter 14 Section 14.3.2.1
+wg3_3.3.1_claude_q1,claude,claude-sonnet-4-6,B,B,True,easy,Emissions Drivers,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 3 Section 3.2
+wg3_3.3.1_claude_q1,groq,llama-3.3-70b-versatile,B,B,True,easy,Emissions Drivers,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 3 Section 3.2
+wg3_3.3.1_claude_q1,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Emissions Drivers,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 3 Section 3.2
+wg3_3.3.1_claude_q4,claude,claude-sonnet-4-6,B,B,True,medium,Population and Socioeconomic Trends,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 3 Section 3.2
+wg3_3.3.1_claude_q4,groq,llama-3.3-70b-versatile,B,B,True,medium,Population and Socioeconomic Trends,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 3 Section 3.2
+wg3_3.3.1_claude_q4,chatgpt,gpt-4o-2024-11-20,B,B,True,medium,Population and Socioeconomic Trends,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 3 Section 3.2
+wg3_3.3.1_claude_q5,claude,claude-sonnet-4-6,C,C,True,hard,Modeling and Scenarios,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 3 Section 3.2
+wg3_3.3.1_claude_q5,groq,llama-3.3-70b-versatile,C,C,True,hard,Modeling and Scenarios,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 3 Section 3.2
+wg3_3.3.1_claude_q5,chatgpt,gpt-4o-2024-11-20,C,C,True,hard,Modeling and Scenarios,standard,claude-sonnet-4-6,wg3,IPCC AR6 WG3 Chapter 3 Section 3.2
+wg3_3.3.1_chatgpt_q4,claude,claude-sonnet-4-6,B,B,True,hard,Demographic Projections,standard,gpt-4o-2024-11-20,wg3,IPCC AR6 WG3 Chapter 3 Section 3.3.1
+wg3_3.3.1_chatgpt_q4,groq,llama-3.3-70b-versatile,B,B,True,hard,Demographic Projections,standard,gpt-4o-2024-11-20,wg3,IPCC AR6 WG3 Chapter 3 Section 3.3.1
+wg3_3.3.1_chatgpt_q4,chatgpt,gpt-4o-2024-11-20,B,B,True,hard,Demographic Projections,standard,gpt-4o-2024-11-20,wg3,IPCC AR6 WG3 Chapter 3 Section 3.3.1
+wg3_3.3.1_gemini_q1,claude,claude-sonnet-4-6,B,B,True,easy,Policy and Governance,standard,gemini-2.5-flash,wg3,IPCC AR6 WG3 Chapter 3 Section 3.3.1
+wg3_3.3.1_gemini_q1,groq,llama-3.3-70b-versatile,B,B,True,easy,Policy and Governance,standard,gemini-2.5-flash,wg3,IPCC AR6 WG3 Chapter 3 Section 3.3.1
+wg3_3.3.1_gemini_q1,chatgpt,gpt-4o-2024-11-20,B,B,True,easy,Policy and Governance,standard,gemini-2.5-flash,wg3,IPCC AR6 WG3 Chapter 3 Section 3.3.1

@@ -12,7 +12,7 @@
     "source": "IPCC AR6 WG1 Chapter 7",
     "category": "Physical Climate Science Fundamentals",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "What specific update in the post-AR5 calculations caused the total SARF of methane to increase by 25%?",
@@ -27,7 +27,7 @@
     "source": "IPCC AR6 WG1 Chapter 7",
     "category": "Physical Climate Science Fundamentals",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Why does the assessment described in the passage use a combined approach rather than relying solely on Earth System Models (ESMs) to establish ERF best estimates for well-mixed greenhouse gases?",
@@ -42,7 +42,7 @@
     "source": "IPCC AR6 WG1 Chapter 7",
     "category": "Physical Climate Science Fundamentals",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "In AR5, ERF was assessed to be approximately equal to SARF for all well-mixed greenhouse gases. Based on the passage, which of the following best describes a key limitation that led to this assumption?",
@@ -57,7 +57,7 @@
     "source": "IPCC AR6 WG1 Chapter 7",
     "category": "Physical Climate Science Fundamentals",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage distinguishes between IRF, SARF, and ERF. Based on the information provided, which of the following correctly characterizes the relationship between these quantities and how each is obtained?",
@@ -72,6 +72,6 @@
     "source": "IPCC AR6 WG1 Chapter 7",
     "category": "Physical Climate Science Fundamentals",
     "difficulty": "hard",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

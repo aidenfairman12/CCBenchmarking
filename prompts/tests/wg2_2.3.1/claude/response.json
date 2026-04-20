@@ -12,7 +12,7 @@
     "source": "IPCC AR6 WG2 passage on extreme events and ecosystems",
     "category": "Climate Modeling and Extremes",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage describes 'tipping points' in ecosystems as thresholds beyond which changes are characterized as:",
@@ -27,7 +27,7 @@
     "source": "IPCC AR6 WG2 passage on extreme events and ecosystems",
     "category": "Ecosystem Tipping Points",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage provides the example of Australian eucalypt forests experiencing widespread dieback. Which combination of factors does the passage identify as contributing to this outcome?",
@@ -42,7 +42,7 @@
     "source": "IPCC AR6 WG2 passage on extreme events and ecosystems",
     "category": "Climate-Ecosystem Interactions",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "According to the passage, why might current risk assessments systematically underestimate actual climate risk to ecosystems?",
@@ -57,7 +57,7 @@
     "source": "IPCC AR6 WG2 passage on extreme events and ecosystems",
     "category": "Climate Risk Assessment",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage distinguishes between organisms' capacity to cope with historical climate variability and the challenge posed by current climate change. Which of the following best captures the logical implication of this distinction for Ecosystem-based Adaptation (EbA)?",
@@ -72,6 +72,6 @@
     "source": "IPCC AR6 WG2 passage on extreme events and ecosystems",
     "category": "Ecosystem-based Adaptation",
     "difficulty": "hard",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

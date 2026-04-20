@@ -12,7 +12,7 @@
     "source": "IPCC AR6 WG1 Chapter 5",
     "category": "Ocean Carbon Cycle",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "According to the passage, how long can anthropogenic carbon be stored in the ocean interior after being transported there?",
@@ -27,7 +27,7 @@
     "source": "IPCC AR6 WG1 Chapter 5",
     "category": "Ocean Carbon Cycle",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage describes ocean uptake of anthropogenic carbon as a 'two-step set of abiotic processes.' Which of the following correctly describes the order of these steps?",
@@ -42,7 +42,7 @@
     "source": "IPCC AR6 WG1 Chapter 5",
     "category": "Ocean Carbon Cycle",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "A major methodological advance described in the passage, achieved for the first time since SROCC, involved making six published observational product fluxes more comparable. Which of the following was NOT listed as one of the methods used to achieve this comparability?",
@@ -57,7 +57,7 @@
     "source": "IPCC AR6 WG1 Chapter 5",
     "category": "Ocean Carbon Cycle",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage states that Fnet must be adjusted to be comparable to Socean. Based on the passage, what does this adjustment account for, and why is this distinction conceptually important?",
@@ -72,6 +72,6 @@
     "source": "IPCC AR6 WG1 Chapter 5",
     "category": "Ocean Carbon Cycle",
     "difficulty": "hard",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

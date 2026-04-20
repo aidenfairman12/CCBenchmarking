@@ -189,7 +189,7 @@ def main():
     )
     args = parser.parse_args()
 
-    script_dir = os.path.dirname(os.path.abspath(__file__))
+    script_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     output_path = args.out or os.path.join(script_dir, "benchmark.json")
 
     collate(script_dir, output_path, stats_only=args.stats_only)

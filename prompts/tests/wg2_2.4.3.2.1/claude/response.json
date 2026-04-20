@@ -12,7 +12,7 @@
     "source": "AR6 WG2 biome shift synthesis passage",
     "category": "Climate-Ecosystem Interactions",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "What made the Andes Mountains study in Ecuador particularly notable compared to other biome shift studies?",
@@ -27,7 +27,7 @@
     "source": "AR6 WG2 biome shift synthesis passage",
     "category": "Climate-Ecosystem Interactions",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Why were the field studies detected after AR5 not directly attributed to anthropogenic climate change, despite many being consistent with it?",
@@ -42,7 +42,7 @@
     "source": "AR6 WG2 biome shift synthesis passage",
     "category": "Climate-Ecosystem Interactions",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Based on the summary provided in the passage, what confidence characterizes the evidence for the additional post-AR5 biome shifts of 5–20 km northward and 20–300 m upslope being consistent with climate change?",
@@ -57,7 +57,7 @@
     "source": "AR6 WG2 biome shift synthesis passage",
     "category": "Climate-Ecosystem Interactions",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "A researcher claims that upslope shifts of boreal and sub-alpine conifer forest into alpine grassland, averaged across 143 sites on four continents from 1901–2018, were larger than the upslope shift recorded at a single Canadian site from 1900–2010. Is this claim supported by the passage, and what do the figures suggest about site-level versus multi-site averages?",
@@ -72,6 +72,6 @@
     "source": "AR6 WG2 biome shift synthesis passage",
     "category": "Climate-Ecosystem Interactions",
     "difficulty": "hard",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

@@ -382,7 +382,7 @@ def main():
                         help="Use the data interpretation prompt template (Category 2 only)")
     args = parser.parse_args()
 
-    script_dir = os.path.dirname(os.path.abspath(__file__))
+    script_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
     if args.batch:
         run_batch(script_dir, overwrite=args.overwrite)

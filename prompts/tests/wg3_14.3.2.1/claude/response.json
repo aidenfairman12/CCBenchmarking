@@ -11,7 +11,8 @@
     "explanation": "The passage states that the decision accompanying the Paris Agreement 'resolves to set a new collective quantified finance goal prior to 2025... with USD100 billion yr–1 as a floor.'",
     "source": "IPCC AR6 WG3 Chapter 13",
     "category": "Policy and Governance",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "What does Article 2.2 of the Paris Agreement establish regarding the principle of Common But Differentiated Responsibilities and Respective Capabilities (CBDRRC)?",
@@ -25,7 +26,8 @@
     "explanation": "The passage explicitly notes that Article 2.2 'generates an expectation that Parties will implement the agreement to reflect CBDRRC, and is not an obligation to do so.'",
     "source": "IPCC AR6 WG3 Chapter 13",
     "category": "Policy and Governance",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "According to the passage, what short-term emissions reduction is needed by 2030 to reach net zero CO2 emissions around 2050?",
@@ -39,7 +41,8 @@
     "explanation": "The passage states that 'to reach net zero CO2 around 2050, in the short-term global net human-caused CO2 emissions would need to fall by about 45% to 60% from 2010 levels by 2030.'",
     "source": "IPCC AR6 WG3 Chapter 13",
     "category": "Mitigation Pathways",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "How does the inclusion of 'in the light of different national circumstances' in Article 2.2 affect the interpretation of the CBDRRC principle over time?",
@@ -53,7 +56,8 @@
     "explanation": "The passage states that 'the inclusion of the term 'in light of different national circumstances' introduces a dynamic element into the interpretation of the CBDRRC principle' and that 'as national circumstances evolve, the application of the principle will also evolve.'",
     "source": "IPCC AR6 WG3 Chapter 13",
     "category": "Policy and Governance",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage describes Article 4.1's net zero GHG emissions target as being set 'in the second half of the century,' yet some researchers argue it implies reaching net zero in the third quarter of the 21st century. Which combination of reasoning from the passage best explains why these two interpretations are compatible?",
@@ -67,6 +71,7 @@
     "explanation": "The passage notes Article 4.1 is 'non-binding' and uses 'aim' language, and separately states that achieving its aim 'potentially implies that global warming will peak and then follow a gradually declining path, potentially to below 1.5°C warming,' consistent with the more aggressive third-quarter interpretation some researchers propose.",
     "source": "IPCC AR6 WG3 Chapter 13",
     "category": "Mitigation Pathways",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

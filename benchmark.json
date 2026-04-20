@@ -1,0 +1,2905 @@
+{
+  "metadata": {
+    "total_questions": 172,
+    "standard_questions": 152,
+    "data_interp_questions": 20,
+    "total_reviewed": 580,
+    "total_accepted": 172,
+    "total_rejected": 408,
+    "total_pending": 0,
+    "acceptance_rate": 0.297,
+    "by_category": {
+      "Adaptation": 1,
+      "Attribution Science": 7,
+      "Climate Data and Trend Interpretation": 20,
+      "Climate Modeling Scenarios": 3,
+      "Climate Policy and Scenarios": 1,
+      "Climate Projections and Methodology": 1,
+      "Climate Risk Assessment": 1,
+      "Climate Uncertainty and Projections": 1,
+      "Climate-Ecosystem Interactions": 27,
+      "Compound Climate Hazards": 1,
+      "Demographic Projections": 1,
+      "Detection and Attribution Methods": 1,
+      "Ecosystem-based Adaptation": 1,
+      "Emissions Drivers": 1,
+      "Impacts and Vulnerabilities": 16,
+      "Mitigation Pathways": 1,
+      "Mitigation and Carbon Pricing": 2,
+      "Modeling and Scenarios": 1,
+      "Observations & Attribution": 2,
+      "Observed Impacts": 2,
+      "Ocean Acidification": 1,
+      "Ocean Carbon Cycle": 2,
+      "Ocean Deoxygenation": 2,
+      "Physical Climate Science Fundamentals": 31,
+      "Policy and Governance": 14,
+      "Population and Socioeconomic Trends": 1,
+      "Projections & Uncertainty": 1,
+      "Projections and Uncertainty": 26,
+      "Radiative Forcing and Uncertainty": 1,
+      "Sea Level Rise": 1,
+      "Sea Level Variability Drivers": 1
+    },
+    "by_difficulty": {
+      "easy": 60,
+      "medium": 69,
+      "hard": 43
+    },
+    "by_model": {
+      "claude-sonnet-4-6": 68,
+      "gemini-2.5-flash": 34,
+      "gpt-4o-2024-11-20": 37,
+      "llama-3.3-70b-versatile": 33
+    },
+    "by_source_section": {
+      "AR5 Chapter 7": 1,
+      "AR6 WG2 biome shift synthesis passage": 3,
+      "IPCC AR5": 1,
+      "IPCC AR6 WG1 Chapter 1 Section 1.4.3": 4,
+      "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2": 6,
+      "IPCC AR6 WG1 Chapter 11 (Temperature Extremes Attribution)": 1,
+      "IPCC AR6 WG1 Chapter 11 Section 11.1": 3,
+      "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2": 8,
+      "IPCC AR6 WG1 Chapter 11 Section 11.3.4": 1,
+      "IPCC AR6 WG1 Chapter 2 Section 2.3.1.1.3": 1,
+      "IPCC AR6 WG1 Chapter 2 Table 2.4": 4,
+      "IPCC AR6 WG1 Chapter 3 - Regression-based/Fingerprinting Methods": 1,
+      "IPCC AR6 WG1 Chapter 3 Section 3.2.1": 2,
+      "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2": 3,
+      "IPCC AR6 WG1 Chapter 4": 6,
+      "IPCC AR6 WG1 Chapter 4 Section 4.2.2": 2,
+      "IPCC AR6 WG1 Chapter 4 Section 4.3.1.1": 7,
+      "IPCC AR6 WG1 Chapter 5": 4,
+      "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3": 4,
+      "IPCC AR6 WG1 Chapter 5 Section 5.4.1": 6,
+      "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3": 3,
+      "IPCC AR6 WG1 Chapter 7": 3,
+      "IPCC AR6 WG1 Chapter 7 Section 7.3.2": 3,
+      "IPCC AR6 WG1 Chapter 7 Section 7.4.2": 2,
+      "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1": 4,
+      "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2": 8,
+      "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3": 4,
+      "IPCC AR6 WG1 Chapter 7, Section on Planck Response": 3,
+      "IPCC AR6 WG1 Chapter 9 Section 9.6": 2,
+      "IPCC AR6 WG1 Chapter 9 Section 9.6.3.1": 2,
+      "IPCC AR6 WG1 Chapter 9 Section 9.6.3.3": 1,
+      "IPCC AR6 WG1 Chapter 9 Table 9.9": 4,
+      "IPCC AR6 WG1 Chapter 9, Section 9.6.1": 2,
+      "IPCC AR6 WG1 Chapter 9, Table 9.9": 2,
+      "IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts": 4,
+      "IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution": 2,
+      "IPCC AR6 WG2 Chapter 2 Section 2.3.1": 3,
+      "IPCC AR6 WG2 Chapter 2 Section 2.4.2.1": 4,
+      "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1": 6,
+      "IPCC AR6 WG2 Chapter 3 Section 3.3.2": 6,
+      "IPCC AR6 WG2 Chapter 4": 2,
+      "IPCC AR6 WG2 Chapter 4 Section 4.2.1.1": 2,
+      "IPCC AR6 WG2 Chapter 5": 2,
+      "IPCC AR6 WG2 Chapter 5 Section 5.4.1.1": 1,
+      "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1": 3,
+      "IPCC AR6 WG2 Chapter on Vector-Borne Diseases": 2,
+      "IPCC AR6 WG2 passage on extreme events and ecosystems": 3,
+      "IPCC AR6 WG3 Chapter 13": 7,
+      "IPCC AR6 WG3 Chapter 13 Section 13.2.1": 4,
+      "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3": 3,
+      "IPCC AR6 WG3 Chapter 14 Section 14.3.2.1": 2,
+      "IPCC AR6 WG3 Chapter 3 Section 3.2": 3,
+      "IPCC AR6 WG3 Chapter 3 Section 3.3.1": 2
+    }
+  },
+  "questions": [
+    {
+      "id": "wg1_1.4.3.1.1-1.4.3.1.2_claude_q1",
+      "category": "Radiative Forcing and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 1 Section 1.4.3",
+      "difficulty": "easy",
+      "question": "According to the passage, which type of historical radiative forcing is described as less well constrained by observations compared to greenhouse gas radiative forcings?",
+      "options": {
+        "A": "Solar activity changes during the satellite era",
+        "B": "Anthropogenic and natural aerosol radiative forcings",
+        "C": "Volcanic eruption forcings after 1850",
+        "D": "Greenhouse gas forcings during the Pliocene"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage explicitly states that 'historical radiative forcings due to anthropogenic and natural aerosols are less well constrained by observations than the GHG radiative forcings.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_1.4.3.1.1-1.4.3.1.2_claude_q2",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 1 Section 1.4.3",
+      "difficulty": "easy",
+      "question": "What does the passage identify as 'scenario uncertainty' in the context of future radiative forcing?",
+      "options": {
+        "A": "Uncertainty in how climate models respond to a given radiative forcing",
+        "B": "Uncertainty arising from unknown future anthropogenic emissions due to societal choices",
+        "C": "Uncertainty in the structural design of CMIP climate models",
+        "D": "Uncertainty in past volcanic eruption sizes and locations"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage defines scenario uncertainty as uncertainty 'due to as-yet-unknown societal choices that will determine future anthropogenic emissions.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_1.4.3.1.1-1.4.3.1.2_claude_q3",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 1 Section 1.4.3",
+      "difficulty": "medium",
+      "question": "The passage distinguishes between 'model response uncertainty' and 'climate response uncertainty'. What is the key reason these two concepts are not equivalent?",
+      "options": {
+        "A": "Model response uncertainty only applies to future scenarios, while climate response uncertainty applies to both past and future climates",
+        "B": "The range of climate models used in CMIP does not fully capture all sources of uncertainty in how the climate may actually respond to forcing",
+        "C": "Climate response uncertainty is always smaller than model response uncertainty because observations constrain the models",
+        "D": "Model response uncertainty accounts for tipping points, whereas climate response uncertainty does not"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that the multi-model range 'does not necessarily represent the full climate response uncertainty' because of structural uncertainties not explored in typical multi-model exercises, model interdependence, unresolved spatial scales, and unrepresented long time-scale processes.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_1.4.3.1.1-1.4.3.1.2_claude_q4",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 1 Section 1.4.3",
+      "difficulty": "medium",
+      "question": "According to the passage, RCP and SSP scenarios are described as spanning 'a plausible range of future pathways.' What important limitation of these scenarios does the passage also acknowledge?",
+      "options": {
+        "A": "They do not account for natural aerosol radiative forcings",
+        "B": "They are only applicable to paleoclimate simulations, not future projections",
+        "C": "The real world may follow a path that differs from any of these example scenarios",
+        "D": "They underestimate scenario uncertainty by using too few model simulations"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage notes that while RCP and SSP scenarios span a plausible range, 'the real world may also differ from any one of these example pathways.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_1.4.3.1.1-1.4.3.1.2_chatgpt_q4",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+      "difficulty": "hard",
+      "question": "What is one reason why CMIP6 model ranges for equilibrium climate sensitivity (ECS) may differ from assessed 'very likely' ranges?",
+      "options": {
+        "A": "CMIP6 models are designed to exclude aerosol effects.",
+        "B": "CMIP6 models incorporate more observational data than the assessed ranges.",
+        "C": "CMIP6 models include structural uncertainties not fully reflected in the assessed ranges.",
+        "D": "CMIP6 models focus exclusively on paleoclimate simulations."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage notes that the CMIP6 model range is broader than the 'very likely' range due to structural uncertainties in the models.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_1.4.3.1.1-1.4.3.1.2_chatgpt_q5",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+      "difficulty": "easy",
+      "question": "What are the RCP and SSP scenarios primarily designed to do?",
+      "options": {
+        "A": "Provide precise predictions of future climate conditions.",
+        "B": "Span a plausible range of future pathways for emissions and radiative forcing.",
+        "C": "Analyze historical radiative forcings during the instrumental period.",
+        "D": "Resolve small spatial-scale features in climate models."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage explains that RCP and SSP scenarios are designed to span a plausible range of future pathways to estimate scenario uncertainty.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_1.4.3.1.1-1.4.3.1.2_gemini_q2",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+      "difficulty": "easy",
+      "question": "Which of the following historical factors is explicitly mentioned as being less well constrained by observations than greenhouse gas radiative forcings?",
+      "options": {
+        "A": "The size and location of large volcanic eruptions before around 1850.",
+        "B": "Anthropogenic and natural aerosols.",
+        "C": "The amplitude of changes in solar activity before satellite observations.",
+        "D": "Long time-scale processes or tipping points."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states, 'In particular, historical radiative forcings due to anthropogenic and natural aerosols are less well constrained by observations than the GHG radiative forcings.'",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_1.4.3.1.1-1.4.3.1.2_gemini_q4",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+      "difficulty": "medium",
+      "question": "Why does the range of climate models used to estimate 'model response uncertainty' not necessarily represent the full 'climate response uncertainty'?",
+      "options": {
+        "A": "Climate models are entirely independent of each other, leading to a narrower range of responses.",
+        "B": "The uncertainty primarily arises from unknown societal choices, which models cannot incorporate.",
+        "C": "Climate models have structural uncertainties not fully explored, do not resolve small spatial-scale features, and don't fully represent long time-scale processes or tipping points.",
+        "D": "Only natural aerosols are less constrained by observations, making historical simulations unreliable for full uncertainty assessment."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage lists several reasons: 'the climate models used in CMIP experiments have structural uncertainties not explored in a typical multi-model exercise... and are not entirely independent of each other... there are small spatial-scale features which cannot be resolved; and long time-scale processes or tipping points are not fully represented.'",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_1.4.3.1.1-1.4.3.1.2_gemini_q5",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+      "difficulty": "hard",
+      "question": "The passage states that for metrics like Equilibrium Climate Sensitivity (ECS), the CMIP6 model range is found to be broader than the 'very likely range' assessed by combining multiple lines of evidence. What is the most reasonable interpretation of this finding within the context of climate response uncertainty?",
+      "options": {
+        "A": "The CMIP6 model range, being broader, should be considered the definitive and most accurate representation of the 'very likely range' for ECS.",
+        "B": "Relying solely on the CMIP6 model range for ECS might lead to an overestimation of the actual uncertainty compared to an assessment using multiple lines of evidence.",
+        "C": "The 'very likely range' from multiple lines of evidence completely disregards all model-based projections, rendering it less comprehensive.",
+        "D": "This implies that CMIP6 models perfectly capture the full 'climate response uncertainty' for ECS, including all structural uncertainties and long time-scale processes."
+      },
+      "correct_answer": "B",
+      "explanation": "If the CMIP6 model range is 'broader' than the 'very likely range assessed by combining multiple lines of evidence,' it suggests that relying only on the CMIP6 models might encompass a wider spread of outcomes than what is considered the robust 'very likely' range, thus potentially overestimating the true uncertainty.",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_1.4.3.1.1-1.4.3.1.2_groq_q5",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 1 Section 1.4.3.1.1-1.4.3.1.2",
+      "difficulty": "easy",
+      "question": "How does the CMIP6 model range for equilibrium climate sensitivity (ECS) compare to the very likely range assessed by combining multiple lines of evidence?",
+      "options": {
+        "A": "The CMIP6 model range is narrower than the very likely range",
+        "B": "The CMIP6 model range is broader than the very likely range",
+        "C": "The CMIP6 model range is equivalent to the very likely range",
+        "D": "The CMIP6 model range is not comparable to the very likely range"
+      },
+      "correct_answer": "B",
+      "explanation": "The source passage states that 'the CMIP6 model range is found to be broader than the very likely range assessed by combining multiple lines of evidence'",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_11.1.6_claude_q1",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2",
+      "difficulty": "easy",
+      "scenario_type": "trend_identification",
+      "scenario": "The table below shows projected soil moisture drought duration per year in the Mediterranean region at different global warming levels relative to pre-industrial baseline (Source: Samaniego et al., 2018):\n\n| Warming Level | Drought Days/Year | Change vs. Late 20th Century |\n|---|---|---|\n| +1°C (present-day) | 41 days | +46% |\n| +1.5°C | 58 days | +107% |\n| +2°C | 71 days | +154% |\n| +3°C | 125 days | +346% |",
+      "question": "Based on the table, how many additional drought days per year would the Mediterranean region experience at +2°C of warming compared to +1°C (present-day)?",
+      "options": {
+        "A": "13 days",
+        "B": "30 days",
+        "C": "71 days",
+        "D": "154 days"
+      },
+      "correct_answer": "B",
+      "explanation": "The difference between drought duration at +2°C (71 days) and +1°C (41 days) is 71 − 41 = 30 additional days per year.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_11.1.6_claude_q2",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2",
+      "difficulty": "easy",
+      "scenario_type": "anomaly_interpretation",
+      "scenario": "A study (Vogel et al., 2020a) assessed the probability of 'extreme extremes' hot days — events that had a 1-in-1000 probability at the end of the 20th century — across global land areas at different warming levels:\n\n| Warming Level | Frequency (days over 20 years) |\n|---|---|\n| +1°C (present-day) | ~20 days |\n| +1.5°C | ~50 days |\n| +2°C | ~150 days |\n| +3°C | ~500 days |",
+      "question": "According to the data, which warming level represents the point at which these formerly rare 'extreme extremes' hot days first exceed 100 days per 20-year period in most locations?",
+      "options": {
+        "A": "+1°C",
+        "B": "+1.5°C",
+        "C": "+2°C",
+        "D": "+3°C"
+      },
+      "correct_answer": "C",
+      "explanation": "At +2°C, the frequency reaches approximately 150 days over 20 years, which is the first warming level in the table to exceed the 100-day threshold; at +1.5°C it is only ~50 days.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_11.1.6_claude_q4",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2",
+      "difficulty": "medium",
+      "scenario_type": "index_reading",
+      "scenario": "The table below shows the projected probability of co-occurrence of extreme hot days AND extreme dry days in the same week in the Amazon region, at different warming levels. Each event individually had a 1-in-1000 probability at the end of the 20th century (Source: Vogel et al., 2020a):\n\n| Warming Level | Co-occurrence Frequency |\n|---|---|\n| +1°C (present-day) | 0 weeks in 20 years |\n| +1.5°C | ~1 week in 20 years |\n| +2°C | ~4–5 weeks in 20 years |\n| +3°C | >9 weeks in 20 years |",
+      "question": "A researcher argues that limiting warming to +1.5°C instead of +2°C would prevent the majority of the increase in compound hot-and-dry week co-occurrences in the Amazon relative to +1°C warming. What does the data indicate about this claim?",
+      "options": {
+        "A": "The claim is supported — at +1.5°C the co-occurrence frequency is less than 25% of the value at +2°C.",
+        "B": "The claim is not supported — at +1.5°C, co-occurrence frequency is already more than half the value seen at +2°C.",
+        "C": "The claim cannot be evaluated because +1°C shows zero co-occurrences, making comparisons undefined.",
+        "D": "The claim is supported — there are no co-occurrence events at +1.5°C, only at +2°C and above."
+      },
+      "correct_answer": "A",
+      "explanation": "At +1.5°C there is approximately 1 week of co-occurrence per 20 years, while at +2°C there are 4–5 weeks; 1 week is less than 25% of the midpoint estimate of 4.5 weeks at +2°C, supporting the claim that limiting to +1.5°C prevents the majority of the increase.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_11.1.6_chatgpt_q1",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2",
+      "difficulty": "medium",
+      "scenario_type": "trend_identification",
+      "scenario": "The table shows the risk ratio for annual hottest daytime temperature (TXx) under different global warming levels. Values are relative to present-day (+1°C), where the reference risk ratio is 1. At +1.5°C, the risk ratio is 3.3, and at +2°C, it is 8.2. At +3°C and higher, this metric is not assessed.",
+      "question": "By how much does the probability of the hottest daytime temperature increase when global warming rises from +1.5°C to +2°C?",
+      "options": {
+        "A": "By 2.5 times",
+        "B": "By 3.0 times",
+        "C": "By 4.9 times",
+        "D": "By 8.2 times"
+      },
+      "correct_answer": "A",
+      "explanation": "The risk ratio increases from 3.3 at +1.5°C to 8.2 at +2°C, which is approximately 2.5 times higher.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_11.1.6_chatgpt_q2",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2",
+      "difficulty": "easy",
+      "scenario_type": "anomaly_interpretation",
+      "scenario": "The table provides the probability of co-occurrence of extreme hot days and extreme dry days in the same week for the Amazon region. At +1°C, the probability is 0%. At +1.5°C, it is about 1 week in 20 years. At +2°C, it increases to about 4–5 weeks in 20 years, and at +3°C, it exceeds 9 weeks in 20 years.",
+      "question": "What is the approximate increase in co-occurrence probability of extreme hot and dry days between +2°C and +3°C warming levels?",
+      "options": {
+        "A": "About 2 weeks",
+        "B": "About 4–5 weeks",
+        "C": "About 5–6 weeks",
+        "D": "About 9 weeks"
+      },
+      "correct_answer": "B",
+      "explanation": "The probability increases from about 4–5 weeks at +2°C to more than 9 weeks at +3°C, an increase of approximately 4–5 weeks.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_11.1.6_chatgpt_q4",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2",
+      "difficulty": "hard",
+      "scenario_type": "projection_reading",
+      "scenario": "The table shows the projected soil moisture drought duration per year in the Mediterranean region. At +1°C, the duration is 41 days, increasing to 58 days at +1.5°C, 71 days at +2°C, and 125 days at +3°C.",
+      "question": "What percentage increase in drought duration occurs when global warming rises from +1.5°C to +3°C?",
+      "options": {
+        "A": "86%",
+        "B": "117%",
+        "C": "150%",
+        "D": "215%"
+      },
+      "correct_answer": "B",
+      "explanation": "The drought duration increases from 58 days at +1.5°C to 125 days at +3°C. The percentage increase is ((125 - 58) / 58) * 100 = 117%.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_11.1.6_gemini_q5",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2",
+      "difficulty": "hard",
+      "scenario_type": "comparison",
+      "scenario": "Consider the risk ratio for annual hottest daytime temperature (TXx) and the risk ratio for heavy precipitation events (Rx1day), both for global land with a 1% probability under present-day warming (+1°C) as reference.",
+      "question": "When global warming increases from +1.5°C to +2°C, which extreme event shows a larger *percentage increase* in its risk ratio?",
+      "options": {
+        "A": "Annual hottest daytime temperature (TXx) shows a 148% increase, while heavy precipitation (Rx1day) shows a 25% increase.",
+        "B": "Annual hottest daytime temperature (TXx) shows a 490% increase, while heavy precipitation (Rx1day) shows a 50% increase.",
+        "C": "Both events show roughly the same percentage increase in risk ratio.",
+        "D": "Heavy precipitation (Rx1day) shows a larger percentage increase in risk ratio."
+      },
+      "correct_answer": "A",
+      "explanation": "For TXx, the risk ratio increases from 3.3 to 8.2. The percentage increase is ((8.2 - 3.3) / 3.3) * 100% = (4.9 / 3.3) * 100% ≈ 148.48%. For Rx1day, the risk ratio increases from 1.2 to 1.5. The percentage increase is ((1.5 - 1.2) / 1.2) * 100% = (0.3 / 1.2) * 100% = 25%. Thus, TXx has a larger percentage increase.",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_11.1.6_groq_q2",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 11 Section 11.1.6 Box 11.2",
+      "difficulty": "medium",
+      "scenario_type": "comparison",
+      "scenario": "The number of 1–5 day duration extreme floods in the Indian subcontinent is given for different warming levels. At +1°C, there are up to 3 such events in individual locations, while at +1.5°C, this number increases to up to 5.",
+      "question": "What is the percentage increase in the number of 1–5 day duration extreme floods from +1°C to +1.5°C?",
+      "options": {
+        "A": "66.7%",
+        "B": "50%",
+        "C": "20%",
+        "D": "100%"
+      },
+      "correct_answer": "A",
+      "explanation": "The percentage increase can be calculated as ((5-3)/3)*100%, which equals 66.7%.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_11.2.4_claude_q3",
+      "category": "Climate Uncertainty and Projections",
+      "data_source_section": "IPCC AR6 WG1 Chapter 11 Section 11.1",
+      "difficulty": "medium",
+      "question": "According to the passage, why does using global warming levels (GWLs) reduce uncertainty in regional climate projections compared to using time periods and emissions scenarios?",
+      "options": {
+        "A": "GWLs eliminate uncertainty in the regional climate response entirely by standardizing model inputs",
+        "B": "GWLs separate uncertainty in the global warming response from uncertainty in the regional climate response at a given warming level",
+        "C": "GWLs are directly derived from cumulative CO2 emissions, which are more precisely measured than temperature anomalies",
+        "D": "GWLs remove the need to use multiple climate models, reducing inter-model spread"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that using GWLs has 'an advantage in separating uncertainty associated with the global warming response from the uncertainty resulting from the regional climate response as a function of GWLs.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_11.2.4_claude_q4",
+      "category": "Climate Policy and Scenarios",
+      "data_source_section": "IPCC AR6 WG1 Chapter 11 Section 11.1",
+      "difficulty": "medium",
+      "question": "Based on the passage, how is the +4°C global warming level scenario characterized in relation to climate policy?",
+      "options": {
+        "A": "A scenario compatible with the lowest limit of the Paris Agreement",
+        "B": "A scenario slightly overshooting the aims of the Paris Agreement",
+        "C": "A moderate mitigation scenario consistent with current national pledges",
+        "D": "A worst-case scenario with no mitigation"
+      },
+      "correct_answer": "D",
+      "explanation": "The passage describes the +4°C scenario as 'a worst-case scenario with no mitigation,' distinguishing it from the +1.5°C and +2°C scenarios tied to Paris Agreement targets.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_11.2.4_claude_q5",
+      "category": "Climate Projections and Methodology",
+      "data_source_section": "IPCC AR6 WG1 Chapter 11 Section 11.1",
+      "difficulty": "hard",
+      "question": "The passage states that changes in regional climate, including extremes, scale quasi-linearly with global warming 'often independently of the underlying emissions scenarios.' What is the most precise implication of this finding for climate projections at a fixed global warming level?",
+      "options": {
+        "A": "Regional climate projections at a given GWL are identical regardless of which emissions pathway was used to reach that level",
+        "B": "The relationship between emissions and global warming is the same across all regions and all types of extremes",
+        "C": "Regional climate responses at a given GWL are approximately consistent across different emissions pathways, making GWL a useful organizing framework",
+        "D": "Cumulative CO2 emissions are a better predictor of regional extremes than global mean temperature change"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage notes that regional changes scale quasi-linearly with global warming 'often independently of the underlying emissions scenarios,' meaning that different pathways reaching the same GWL tend to produce similar regional responses, supporting the use of GWLs as an organizing framework — but not claiming identical outcomes across all extremes and regions.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_11.3.4_claude_q2",
+      "category": "Attribution Science",
+      "data_source_section": "IPCC AR6 WG1 Chapter 11 (Temperature Extremes Attribution)",
+      "difficulty": "easy",
+      "question": "The passage states that anthropogenic forcing on extreme temperatures consists of two opposing components. Which of the following correctly describes their relationship?",
+      "options": {
+        "A": "Greenhouse gas forcing and aerosol forcing both amplify warming of temperature extremes",
+        "B": "Greenhouse gas forcing drives warming of temperature extremes, partially offset by the cooling effect of aerosol forcing",
+        "C": "Aerosol forcing drives warming of temperature extremes, partially offset by the cooling effect of greenhouse gas forcing",
+        "D": "Greenhouse gas forcing and aerosol forcing cancel each other out, producing no net change in temperature extremes"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states: 'an increase in extreme temperature is mostly due to greenhouse gas forcing, offset by aerosol forcing,' indicating the two forcings act in opposite directions.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_11.3.4_chatgpt_q1",
+      "category": "Attribution Science",
+      "data_source_section": "IPCC AR6 WG1 Chapter 11 Section 11.3.4",
+      "difficulty": "easy",
+      "question": "What is the primary cause of the observed increase in the frequency or intensity of hot extremes globally and regionally?",
+      "options": {
+        "A": "Anthropogenic greenhouse gas emissions",
+        "B": "Natural climate variability",
+        "C": "Aerosol cooling effects",
+        "D": "Solar radiation changes"
+      },
+      "correct_answer": "A",
+      "explanation": "The passage attributes the observed increase in hot extremes primarily to human influence, dominated by anthropogenic greenhouse gas emissions.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_2.3.1.1.3_claude_q3",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+      "difficulty": "medium",
+      "scenario_type": "trend_identification",
+      "scenario": "The table below shows total observed warming trends (via ordinary least squares) over three different time windows, averaged across multiple datasets:\n\n| Variable | Trend 1880–2020 | Trend 1960–2020 | Trend 1980–2020 |\n|----------|-----------------|-----------------|-----------------|\n| GMST     | 1.11°C          | 1.04°C          | 0.76°C          |\n| LSAT     | 1.50°C          | 1.51°C          | 1.18°C          |\n| SST      | 0.96°C          | 0.86°C          | 0.60°C          |\n\nA student notices that the total change over the 1880–2020 window is larger than over the 1980–2020 window for every variable.",
+      "question": "Which of the following is the most accurate interpretation of why the 1880–2020 trend value exceeds the 1980–2020 trend value for each variable?",
+      "options": {
+        "A": "Warming rates were faster in the early 20th century than in recent decades, pulling the longer-period trend upward.",
+        "B": "The longer period spans more total years and therefore accumulates a larger absolute total change, even if the rate of warming were similar.",
+        "C": "Sea surface temperatures dominate the longer-period calculation, inflating the total trend value.",
+        "D": "The 1980–2020 period includes a temporary cooling interval that suppresses its trend value below the longer-period total."
+      },
+      "correct_answer": "B",
+      "explanation": "The trend values represent total change (in °C) over the stated window via OLS; a longer window naturally spans more time and thus accumulates a larger absolute total change, which is why the 140-year 1880–2020 trend exceeds the 40-year 1980–2020 trend across all variables.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_2.3.1.1.3_claude_q4",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+      "difficulty": "medium",
+      "scenario_type": "anomaly_interpretation",
+      "scenario": "Using data from a single observational dataset, the following warming values (relative to the 1850–1900 baseline) and their 90% confidence ranges are reported:\n\n| Variable | Change to 2001–2020        | Change to 2011–2020        |\n|----------|---------------------------|---------------------------|\n| GMST     | 1.01°C [0.94–1.09]        | 1.12°C [1.06–1.18]        |\n| LSAT     | 1.44°C [1.26–1.59]        | 1.55°C [1.39–1.70]        |\n| SST      | 0.85°C [0.81–0.90]        | 0.94°C [0.90–0.99]        |\n\nA researcher claims that, given the uncertainty ranges, it is impossible to determine whether LSAT warming to 2001–2020 exceeds GMST warming to 2011–2020.",
+      "question": "Is the researcher's claim supported by the data in the table?",
+      "options": {
+        "A": "Yes — the upper bound of GMST warming to 2011–2020 (1.18°C) exceeds the upper bound of LSAT warming to 2001–2020 (1.59°C), making the comparison ambiguous.",
+        "B": "No — the lower bound of LSAT warming to 2001–2020 (1.26°C) is higher than the upper bound of GMST warming to 2011–2020 (1.18°C), so LSAT clearly exceeds GMST.",
+        "C": "Yes — the confidence intervals of both estimates overlap substantially, so no clear conclusion can be drawn.",
+        "D": "No — GMST warming to 2011–2020 (1.12°C) exceeds LSAT warming to 2001–2020 (1.44°C) at the central estimate, so the researcher is wrong."
+      },
+      "correct_answer": "B",
+      "explanation": "The lower bound of LSAT warming to 2001–2020 is 1.26°C, which is higher than the upper bound of GMST warming to 2011–2020 (1.18°C), meaning the confidence intervals do not overlap and LSAT's superiority is unambiguous.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_2.3.1.1.3_claude_q5",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+      "difficulty": "hard",
+      "scenario_type": "comparison",
+      "scenario": "The table below compares the gap between land surface air temperature (LSAT) and sea surface temperature (SST) warming, across both period-change benchmarks and trend windows, using multi-dataset averages:\n\n| Metric                        | LSAT  | SST   |\n|-------------------------------|-------|-------|\n| Change to 1995–2014           | 1.27°C| 0.67°C|\n| Change to 2001–2020           | 1.47°C| 0.79°C|\n| Change to 2011–2020           | 1.59°C| 0.88°C|\n| Trend over 1880–2020          | 1.50°C| 0.96°C|\n| Trend over 1960–2020          | 1.51°C| 0.86°C|\n| Trend over 1980–2020          | 1.18°C| 0.60°C|\n\nA researcher calculates the LSAT–SST gap (LSAT minus SST) for each row and notes how the gap changes across metrics.",
+      "question": "Across all six metrics shown, in which period or window is the LSAT–SST warming gap the largest?",
+      "options": {
+        "A": "Change to 2011–2020, with a gap of 0.71°C",
+        "B": "Trend over 1960–2020, with a gap of 0.65°C",
+        "C": "Change to 2001–2020, with a gap of 0.68°C",
+        "D": "Trend over 1880–2020, with a gap of 0.54°C"
+      },
+      "correct_answer": "A",
+      "explanation": "Computing LSAT minus SST for all six rows yields: 0.60, 0.68, 0.71, 0.54, 0.65, and 0.58°C respectively; the largest gap of 0.71°C occurs for the change to 2011–2020.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_2.3.1.1.3_gemini_q2",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 2 Table 2.4",
+      "difficulty": "medium",
+      "scenario_type": "comparison",
+      "scenario": "Observed Global Mean Surface Temperature (GMST) Change (relative to 1850–1900 baseline)\n\nPeriod          GMST Change (°C)\n1995–2014             0.85\n2001–2020             0.99\n2011–2020             1.09",
+      "question": "By how much did the observed Global Mean Surface Temperature (GMST) warming increase when comparing the 2001–2020 period to the 1995–2014 period, both relative to the 1850–1900 baseline?",
+      "options": {
+        "A": "0.10 °C",
+        "B": "0.14 °C",
+        "C": "0.24 °C",
+        "D": "0.85 °C"
+      },
+      "correct_answer": "B",
+      "explanation": "The difference between 0.99°C (2001–2020) and 0.85°C (1995–2014) is 0.14°C.",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_2.3.1.1.3_groq_q5",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 2 Section 2.3.1.1.3",
+      "difficulty": "hard",
+      "scenario_type": "trend_identification",
+      "scenario": "The table below shows the observed increase in GMST, LSAT, and SST relative to the 1850–1900 baseline across three end periods, based on multi-dataset averages.\n\n       Col 1  Col 2  Col 3\nGMST   0.85   0.99   1.09\nLSAT   1.27   1.47   1.59\nSST    0.67   0.79   0.88\n\nCol 1: Change to 1995–2014 | Col 2: Change to 2001–2020 | Col 3: Change to 2011–2020 (°C)",
+      "question": "What does the difference in warming rates between LSAT and SST from 1850–1900 to 2011–2020 imply?",
+      "options": {
+        "A": "Land surfaces are warming faster than ocean surfaces",
+        "B": "Ocean surfaces are warming faster than land surfaces",
+        "C": "The warming rate is uniform across all surfaces",
+        "D": "The warming rate is decreasing over time"
+      },
+      "correct_answer": "A",
+      "explanation": "LSAT increased by 1.59°C versus SST's 0.88°C over the same period, implying land surfaces are warming faster than ocean surfaces.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_3.2.1_claude_q4",
+      "category": "Detection and Attribution Methods",
+      "data_source_section": "IPCC AR6 WG1 Chapter 3 - Regression-based/Fingerprinting Methods",
+      "difficulty": "medium",
+      "question": "What distinguishes the integrated approach to optimal fingerprinting described by Hannart (2016) from earlier standard fingerprinting approaches?",
+      "options": {
+        "A": "It uses Bayesian model averaging instead of multivariate linear regression to estimate scaling factors",
+        "B": "It treats all uncertainty sources — observational error, model error, and internal variability — within a single statistical model without a preliminary dimension reduction step",
+        "C": "It avoids the assumption that model error and internal variability share the same covariance structure by separating them into distinct statistical models",
+        "D": "It applies a bootstrap method to estimate confidence intervals of scaling factors under weak-signal conditions"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage describes Hannart (2016) as suggesting 'an integrated approach to optimal fingerprinting was further suggested in which all uncertainty sources (i.e., observational error, model error, and internal variability) are treated in one statistical model without a preliminary dimension reduction step.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_3.2.1_gemini_q1",
+      "category": "Attribution Science",
+      "data_source_section": "IPCC AR6 WG1 Chapter 3 Section 3.2.1",
+      "difficulty": "easy",
+      "question": "What is an alternative name for regression-based methods used for detection and attribution of climate change?",
+      "options": {
+        "A": "Statistical modeling",
+        "B": "Fingerprinting methods",
+        "C": "Optimal scaling analysis",
+        "D": "Covariance matrix estimation"
+      },
+      "correct_answer": "B",
+      "explanation": "The first sentence of the passage states, 'Regression-based methods, also known as fingerprinting methods, have been widely used for detection of climate change and attribution of the change to different external drivers.'",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_3.2.1_gemini_q4",
+      "category": "Attribution Science",
+      "data_source_section": "IPCC AR6 WG1 Chapter 3 Section 3.2.1",
+      "difficulty": "easy",
+      "question": "How are the 'fingerprints' (expected space-time response patterns to different climate forcings) typically estimated in regression-based attribution methods?",
+      "options": {
+        "A": "By direct observation of real-world climate changes over long periods.",
+        "B": "Through statistical analysis of historical climate data without models.",
+        "C": "From climate model simulations following spatial and temporal averaging.",
+        "D": "By expert judgment and qualitative assessments of climate forcings."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly states, 'Fingerprints are usually estimated from climate model simulations following spatial and temporal averaging.'",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_3.3.1.1.2_chatgpt_q3",
+      "category": "Attribution Science",
+      "data_source_section": "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2",
+      "difficulty": "hard",
+      "question": "How do recent attribution studies address uncertainties in internal variability?",
+      "options": {
+        "A": "By ignoring internal variability in attribution models",
+        "B": "By accounting for it explicitly or implicitly",
+        "C": "By focusing only on external forcings like greenhouse gases",
+        "D": "By assuming internal variability is constant over time"
+      },
+      "correct_answer": "B",
+      "explanation": "The source mentions that recent studies address uncertainties in internal variability either explicitly or implicitly, improving attribution confidence.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_3.3.1.1.2_gemini_q5",
+      "category": "Attribution Science",
+      "data_source_section": "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2",
+      "difficulty": "medium",
+      "question": "According to the passage, what is the effect of accounting for observational uncertainty in attribution studies, and how are GMST and GSAT treated in deriving warming ranges?",
+      "options": {
+        "A": "Accounting for observational uncertainty significantly decreases the attributable warming, and GMST is preferred over GSAT due to a scaling factor of zero.",
+        "B": "Accounting for observational uncertainty increases the attributable warming by 10 to 30%, and GMST and GSAT studies are treated together because their scaling factor is one.",
+        "C": "Accounting for observational uncertainty has no impact on attributable warming, but GSAT is always used exclusively due to its higher accuracy.",
+        "D": "Accounting for observational uncertainty increases the attributable warming by less than 10%, and GMST and GSAT are considered distinct, yielding different attribution conclusions."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states, 'Accounting for observational uncertainty increases the range of warming attributable to greenhouse gases by only 10 to 30%' and 'the current best estimate of the scaling factor between GMST and GSAT is one, and therefore attribution studies of GMST and GSAT are here treated together'.",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_3.3.1.1.2_groq_q2",
+      "category": "Attribution Science",
+      "data_source_section": "IPCC AR6 WG1 Chapter 3 Section 3.3.1.1.2",
+      "difficulty": "easy",
+      "question": "What was the primary factor attributed to global and Northern Hemisphere temperature changes from reconstructions over the period 864 to 1840?",
+      "options": {
+        "A": "Greenhouse gas forcing",
+        "B": "Solar forcing",
+        "C": "Volcanic forcing",
+        "D": "Internal variability"
+      },
+      "correct_answer": "C",
+      "explanation": "The source passage states that global and Northern Hemisphere temperature changes from reconstructions over this period have been attributed mostly to volcanic forcing.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_4.2.2_claude_q4",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 4",
+      "difficulty": "medium",
+      "question": "According to the passage, what range is used to represent uncertainty in time series figures, and for which two scenarios is this range displayed?",
+      "options": {
+        "A": "The 10–90% range is shown for SSP1-1.9 and SSP5-8.5",
+        "B": "The 5–95% range is shown for SSP1-2.6 and SSP3-7.0",
+        "C": "The 5–95% range is shown for SSP1-2.6 and SSP5-8.5",
+        "D": "The 10–90% range is shown for SSP2-4.5 and SSP3-7.0"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage specifies that 'in time series figures we show multi-model mean change for all five SSPs but for clarity 5–95% range only for SSP1-2.6 and SSP3-7.0.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_4.2.2_chatgpt_q2",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 4 Section 4.2.2",
+      "difficulty": "medium",
+      "question": "Why are results from SSP5-8.5 still shown in some cases, despite being argued as implausible?",
+      "options": {
+        "A": "To assess the impact of aerosols on climate.",
+        "B": "To ensure compatibility with AR5 and for comparison between emissions- and concentration-driven simulations.",
+        "C": "Because SSP5-8.5 represents the most likely future scenario.",
+        "D": "Because SSP5-8.5 has the most simulations available in CMIP6."
+      },
+      "correct_answer": "B",
+      "explanation": "The source explains that SSP5-8.5 results are shown for backwards compatibility with AR5 and to compare emissions-driven and concentration-driven simulations.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_4.2.2_chatgpt_q5",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 4 Section 4.2.2",
+      "difficulty": "hard",
+      "question": "What is one reason SSP scenarios are organized into a matrix of global forcing levels and socio-economic storylines?",
+      "options": {
+        "A": "To account for variations in daily output data.",
+        "B": "To reflect differences in CO2, non-CO2 GHGs, aerosols, and land use.",
+        "C": "To prioritize high-warming, low-likelihood scenarios.",
+        "D": "To focus on a single pathway for achieving radiative forcing levels."
+      },
+      "correct_answer": "B",
+      "explanation": "The source explains that the SSP matrix recognizes that global radiative forcing levels can be achieved by varying CO2, non-CO2 GHGs, aerosols, and land use.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_4.2.2_gemini_q1",
+      "category": "Climate Modeling Scenarios",
+      "data_source_section": "IPCC AR6 WG1 Chapter 4",
+      "difficulty": "easy",
+      "question": "According to the passage, what does the set of Shared Socio-economic Pathways (SSPs) establish?",
+      "options": {
+        "A": "A matrix of global forcing levels and socio-economic storylines.",
+        "B": "A definitive prediction of future CO2, non-CO2 GHGs, aerosols, and land use pathways.",
+        "C": "The specific 1.5°C Paris Agreement goal for all nations.",
+        "D": "Guidelines for developing short-lived climate forcers (SLCFs) projections."
+      },
+      "correct_answer": "A",
+      "explanation": "The passage states, 'the set of SSPs therefore establishes a matrix of global forcing levels and socio-economic storylines.'",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_4.2.2_gemini_q4",
+      "category": "Climate Modeling Scenarios",
+      "data_source_section": "IPCC AR6 WG1 Chapter 4",
+      "difficulty": "medium",
+      "question": "In the chapter's time series figures, what specific type of information is consistently presented for *all five* assessed Shared Socio-economic Pathways (SSPs)?",
+      "options": {
+        "A": "The multi-model mean change.",
+        "B": "The 5–95% range.",
+        "C": "Low-likelihood, high-warming storylines.",
+        "D": "Comparison between emissions-driven and concentration-driven simulations."
+      },
+      "correct_answer": "A",
+      "explanation": "The passage notes, 'in time series figures we show multi-model mean change for all five SSPs but for clarity 5–95% range only for SSP1-2.6 and SSP3-7.0,' indicating the mean change is shown for all five.",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_4.2.2_gemini_q5",
+      "category": "Climate Modeling Scenarios",
+      "data_source_section": "IPCC AR6 WG1 Chapter 4",
+      "difficulty": "hard",
+      "question": "Even though SSP5-8.5 has been argued to be implausible, the chapter still presents results for this scenario due to several specific reasons. Which combination of reasons accurately reflects those stated in the passage?",
+      "options": {
+        "A": "To enable comparison between emissions-driven and concentration-driven simulations, for backwards compatibility with AR5, and because of greater data availability for daily output.",
+        "B": "To highlight sustainable development pathways, to assess the 1.5°C Paris Agreement goal, and because it represents the middle-of-the-road scenario.",
+        "C": "To show low-likelihood, high-warming storylines, for assessing short-lived climate forcers, and as a primary focus for multi-model mean change in maps.",
+        "D": "To exemplify regional rivalry, to provide the most conservative future projection, and due to the extensive number of available simulations."
+      },
+      "correct_answer": "A",
+      "explanation": "The passage lists reasons for showing SSP5-8.5: 'to enable backwards compatibility with AR5, for comparison between emissions-driven and concentration-driven simulations, and because there is greater data availability of daily output for SSP5-8.5. When presenting low-likelihood, high-warming storylines we also show results from the high-end SSP5-8.5 scenario.' Option A accurately captures three of these distinct reasons.",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_4.3.1.1_claude_q4",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 4",
+      "difficulty": "medium",
+      "question": "Comparing the CMIP6 projected GSAT range under SSP5-8.5 to the CMIP5 projected range under RCP8.5 (both for 2081–2100), what does the comparison reveal about the upper end of the projected range?",
+      "options": {
+        "A": "The CMIP6 upper end (5.7°C) is higher than the CMIP5 upper end (4.8°C), both relative to their respective baselines",
+        "B": "The CMIP6 upper end (5.7°C) is lower than the CMIP5 upper end (4.8°C) when adjusted for baseline differences",
+        "C": "The CMIP6 and CMIP5 upper ends are identical once baseline differences are accounted for",
+        "D": "The CMIP5 upper end (4.8°C) exceeds the CMIP6 upper end (5.7°C) because RCP8.5 represents a higher emissions pathway than SSP5-8.5"
+      },
+      "correct_answer": "A",
+      "explanation": "The passage reports CMIP5 RCP8.5 upper end as 4.8°C (relative to 1986–2005) and CMIP6 SSP5-8.5 upper end as 5.7°C (relative to 1995–2014), so the CMIP6 upper bound is higher even before accounting for the slightly different baselines.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_4.3.1.1_claude_q5",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 4",
+      "difficulty": "hard",
+      "question": "According to AR5 findings, which of the following statements about exceedance of temperature thresholds is best supported by the text?",
+      "options": {
+        "A": "Exceeding 1.5°C above 1850–1900 by 2081–2100 is likely under RCP2.6 with high confidence",
+        "B": "Exceeding 2°C above 1850–1900 by 2081–2100 is likely under RCP4.5 with high confidence",
+        "C": "Exceeding 2°C above 1850–1900 by 2081–2100 under RCP2.6 is unlikely with medium confidence",
+        "D": "Exceeding 1.5°C above 1850–1900 by 2081–2100 is likely under RCP8.5 only, with medium confidence"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly states that global surface temperature changes above 2°C under RCP2.6 were deemed unlikely with medium confidence, while the 2°C exceedance with high confidence applies only to RCP6.0 and RCP8.5.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_4.3.1.1_chatgpt_q1",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 4 Section 4.3.1.1",
+      "difficulty": "easy",
+      "question": "What was the projected range of global surface air temperature (GSAT) increase for 2081–2100 under RCP8.5 according to AR5?",
+      "options": {
+        "A": "2.6°C–4.8°C",
+        "B": "1.4°C–3.1°C",
+        "C": "0.3°C–1.7°C",
+        "D": "0.6°C–2.0°C"
+      },
+      "correct_answer": "A",
+      "explanation": "The AR5 concluded that GSAT for 2081–2100 under RCP8.5 would likely be in the range of 2.6°C–4.8°C.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_4.3.1.1_chatgpt_q3",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 4 Section 4.3.1.1",
+      "difficulty": "medium",
+      "question": "Which emissions scenario under CMIP6 has the highest projected GSAT increase for 2081–2100, relative to 1995–2014?",
+      "options": {
+        "A": "SSP1-1.9",
+        "B": "SSP2-4.5",
+        "C": "SSP5-8.5",
+        "D": "SSP3-7.0"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage indicates that SSP5-8.5 has the highest GSAT range of 2.7°C–5.7°C for 2081–2100.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_4.3.1.1_chatgpt_q5",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 4 Section 4.3.1.1",
+      "difficulty": "hard",
+      "question": "Why are global surface temperature changes above 2°C deemed unlikely under RCP2.6?",
+      "options": {
+        "A": "Because it assumes a peak in CO2 concentrations around 2060.",
+        "B": "Because it is a low emissions scenario with medium confidence for this conclusion.",
+        "C": "Because it assumes emissions peak around 2040, leading to rapid stabilization.",
+        "D": "Because it has a 5–95% range entirely below 2°C."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that under RCP2.6, temperature changes above 2°C were deemed unlikely with medium confidence.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_4.3.1.1_gemini_q3",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 4 Section 4.3.1.1",
+      "difficulty": "medium",
+      "question": "Based on CMIP6 simulations, which of the following SSP scenarios shows the narrowest 5–95% range for GSAT change for 2081–2100, relative to 1995–2014?",
+      "options": {
+        "A": "SSP1-1.9",
+        "B": "SSP1-2.6",
+        "C": "SSP2-4.5",
+        "D": "SSP3-7.0"
+      },
+      "correct_answer": "A",
+      "explanation": "The range for SSP1-1.9 is 0.2°C–1.3°C (span 1.1°C), which is narrower than SSP1-2.6 (0.6°C–2.0°C, span 1.4°C), SSP2-4.5 (1.4°C–3.0°C, span 1.6°C), and SSP3-7.0 (2.2°C–4.7°C, span 2.5°C).",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_4.3.1.1_gemini_q5",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 4 Section 4.3.1.1",
+      "difficulty": "hard",
+      "question": "According to AR5 projections, if global surface temperature changes above 2°C under RCP2.6 were deemed unlikely above 1850–1900, which of the following statements about other scenarios is also supported by the text?",
+      "options": {
+        "A": "GSAT is likely to exceed 1.5°C above 1850–1900 under RCP2.6.",
+        "B": "GSAT is unlikely to exceed 2°C above 1850–1900 under RCP6.0.",
+        "C": "GSAT is likely to exceed 2°C above 1850–1900 under RCP8.5.",
+        "D": "GSAT is unlikely to exceed 1.5°C above 1850–1900 under RCP4.5."
+      },
+      "correct_answer": "C",
+      "explanation": "The AR5 further assessed that GSAT averaged over the period 2081–2100 are projected to likely exceed 2°C above 1850–1900 for RCP6.0 and RCP8.5 (high confidence).",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_4.3.1.1_groq_q2",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 4 Section 4.3.1.1",
+      "difficulty": "medium",
+      "question": "What is the relationship between CO2 concentrations and the projected range of GSAT change in the CMIP6 models?",
+      "options": {
+        "A": "CO2 concentrations decrease as GSAT change increases",
+        "B": "CO2 concentrations peak between 2040 and 2060 under SSP1-2.6, resulting in a lower GSAT change range",
+        "C": "CO2 concentrations increase to 2100, but less rapidly than SSP5-8.5, resulting in a higher GSAT change range",
+        "D": "CO2 concentrations have no impact on the projected range of GSAT change"
+      },
+      "correct_answer": "B",
+      "explanation": "The CMIP6 models show a 5–95% range of GSAT change for 2081–2100, relative to 1995–2014, of 0.6°C–2.0°C under SSP1-2.6 where CO2 concentrations peak between 2040 and 2060.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_4.3.1.1_groq_q4",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR5",
+      "difficulty": "easy",
+      "question": "According to the AR5, what is the likelihood that global surface temperature changes will exceed 2°C above 1850–1900 under RCP2.6?",
+      "options": {
+        "A": "High confidence",
+        "B": "Medium confidence",
+        "C": "Low confidence",
+        "D": "Very unlikely"
+      },
+      "correct_answer": "D",
+      "explanation": "Global surface temperature changes above 2°C under RCP2.6 were deemed unlikely (medium confidence).",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_4.3.1.1_groq_q5",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 4 Section 4.3.1.1",
+      "difficulty": "hard",
+      "question": "How do the projected ranges of GSAT change for 2081–2100, relative to 1995–2014, compare between the CMIP5 and CMIP6 models under similar emissions scenarios?",
+      "options": {
+        "A": "The CMIP6 models project a narrower range of GSAT change than the CMIP5 models",
+        "B": "The CMIP6 models project a wider range of GSAT change than the CMIP5 models",
+        "C": "The CMIP6 models project a similar range of GSAT change to the CMIP5 models",
+        "D": "The CMIP6 models project a higher median GSAT change than the CMIP5 models"
+      },
+      "correct_answer": "B",
+      "explanation": "The CMIP6 models show a 5–95% range of GSAT change for 2081–2100, relative to 1995–2014, of 0.6°C–2.0°C under SSP1-2.6, whereas the AR5 concluded that GSAT for 2081–2100, relative to 1986–2005 will likely be in the 5–95% range of 0.3°C–1.7°C under RCP2.6.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_5.2.1.3_claude_q2",
+      "category": "Ocean Carbon Cycle",
+      "data_source_section": "IPCC AR6 WG1 Chapter 5",
+      "difficulty": "easy",
+      "question": "According to the passage, how long can anthropogenic carbon be stored in the ocean interior after being transported there?",
+      "options": {
+        "A": "Hours to days, depending on temperature",
+        "B": "Years to decades, depending on ocean circulation speed",
+        "C": "Decades to millennia, depending on the depth of storage",
+        "D": "Centuries only, regardless of storage depth"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that carbon transported into the ocean interior 'is stored for decades to millennia, depending on the depth of storage.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_5.2.1.3_claude_q4",
+      "category": "Ocean Carbon Cycle",
+      "data_source_section": "IPCC AR6 WG1 Chapter 5",
+      "difficulty": "medium",
+      "question": "A major methodological advance described in the passage, achieved for the first time since SROCC, involved making six published observational product fluxes more comparable. Which of the following was NOT listed as one of the methods used to achieve this comparability?",
+      "options": {
+        "A": "Using a common ocean and sea ice cover area",
+        "B": "Calculating an ensemble mean of ocean fluxes from three re-analysis wind products",
+        "C": "Integrating climatological coastal fluxes scaled to increasing atmospheric CO2",
+        "D": "Applying a uniform biological productivity correction factor across all ocean basins"
+      },
+      "correct_answer": "D",
+      "explanation": "The passage lists a common ocean and sea ice cover area, integration of climatological coastal fluxes scaled to increasing atmospheric CO2, and an ensemble mean from three re-analysis wind products as the comparability methods — a biological productivity correction is not mentioned.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_5.2.1.3_chatgpt_q2",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+      "difficulty": "medium",
+      "question": "Which process is involved in the ocean uptake of anthropogenic carbon, according to the passage?",
+      "options": {
+        "A": "Direct storage of CO2 in the ocean interior without exchange at the surface.",
+        "B": "Exchange of CO2 across the air–sea boundary followed by transport into the ocean interior.",
+        "C": "Physical mixing of CO2 between the ocean surface and the atmosphere only.",
+        "D": "Formation of carbonate minerals directly in the atmosphere."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that the ocean uptake of anthropogenic carbon involves a two-step abiotic process: exchange across the air–sea boundary and transport into the ocean interior.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_5.2.1.3_chatgpt_q3",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+      "difficulty": "medium",
+      "question": "What is the purpose of adjusting the mean global Fnet for the pre-industrial sea-to-air CO2 flux?",
+      "options": {
+        "A": "To make Fnet identical to Socean.",
+        "B": "To account for changes in ocean temperature.",
+        "C": "To make Fnet comparable to Socean.",
+        "D": "To eliminate variability in air–sea CO2 exchange."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explains that adjusting Fnet for the pre-industrial sea-to-air CO2 flux makes it comparable to Socean.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_5.2.1.3_gemini_q1",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+      "difficulty": "easy",
+      "question": "What does the term 'Socean' represent in this assessment, according to the provided text?",
+      "options": {
+        "A": "The global mean ocean CO2 sink.",
+        "B": "The net spatially varying CO2 fluxes.",
+        "C": "The amount of CO2 exchanged across the air-sea boundary.",
+        "D": "The total anthropogenic CO2 emissions from oceans."
+      },
+      "correct_answer": "A",
+      "explanation": "The text states: 'Two definitions of air–sea fluxes of CO2 are used in this assessment for both observational products and models: Socean is the global mean ocean CO2 sink and Fnet denotes the net spatially varying CO2 fluxes'.",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_5.2.1.3_gemini_q2",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 5 Section 5.2.1.3",
+      "difficulty": "easy",
+      "question": "The assessment of trends and variability of air–sea fluxes and storage of CO2 in the ocean covers which historical period?",
+      "options": {
+        "A": "1990–2020",
+        "B": "1950–2010",
+        "C": "1960–2018",
+        "D": "2000–2018"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage specifies the 'historical period (1960–2018)' for the assessment of trends and variability of air–sea fluxes and storage of CO2.",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_5.4.1_claude_q3",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG1 Chapter 5",
+      "difficulty": "medium",
+      "question": "According to the passage, why do meta-analyses suggest that soil microbial activity increases under elevated CO2 conditions?",
+      "options": {
+        "A": "Because warmer temperatures from CO2-driven climate change directly stimulate microbial metabolism",
+        "B": "Because elevated CO2 reduces soil pH, creating more favorable conditions for microbes",
+        "C": "Because increased below-ground carbon allocation by plants leads to accelerated turnover of soil organic matter",
+        "D": "Because nitrogen fixation by microbes is directly enhanced by higher atmospheric CO2 concentrations"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that meta-analyses point to 'increased soil microbial activity and accelerated turnover of soil organic matter as a result of increased below-ground carbon allocation by plants.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_5.4.1_claude_q5",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG1 Chapter 5",
+      "difficulty": "hard",
+      "question": "Based on the passage, how does a global model that attempts to represent elevated CO2-related soil biogeochemical processes differ in its projections compared to more conventional ESMs?",
+      "options": {
+        "A": "It projects greater carbon accumulation in both soils and vegetation relative to conventional models",
+        "B": "It projects reduced carbon accumulation in soils but increased carbon accumulation in vegetation",
+        "C": "It projects increased carbon accumulation in soils but reduced carbon accumulation in vegetation",
+        "D": "It projects no net difference in total ecosystem carbon storage, only a redistribution between soil layers"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that one global model representing these processes 'suggests that elevated CO2-related carbon accumulation is reduced in soils but increased in vegetation relative to more conventional models.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_5.4.1_chatgpt_q3",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+      "difficulty": "easy",
+      "question": "What is one consequence of elevated CO2 on plant water-use efficiency (WUE)?",
+      "options": {
+        "A": "It reduces WUE by decreasing the ratio of plant CO2 uptake to water loss.",
+        "B": "It increases WUE in near proportionality to atmospheric CO2 levels.",
+        "C": "It causes WUE to remain constant regardless of CO2 levels.",
+        "D": "It leads to unpredictable fluctuations in WUE over time."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that plant water-use efficiency increases in near proportionality to atmospheric CO2.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_5.4.1_gemini_q1",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+      "difficulty": "easy",
+      "question": "What is the established effect of rising atmospheric CO2 on leaf-level photosynthesis?",
+      "options": {
+        "A": "It decreases leaf-level photosynthesis.",
+        "B": "It increases leaf-level photosynthesis.",
+        "C": "It has no effect on leaf-level photosynthesis.",
+        "D": "Its effect is highly variable and unquantifiable at the leaf level."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states with high confidence that 'rising atmospheric CO2 increases leaf-level photosynthesis'.",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_5.4.1_gemini_q2",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+      "difficulty": "easy",
+      "question": "Which type of observations regarding CO2 fertilization are still scarce, particularly outside the temperate zone?",
+      "options": {
+        "A": "Observations of leaf-level photosynthesis rates.",
+        "B": "Observations of plant water-use efficiency (WUE).",
+        "C": "Observations of the consequences of CO2 fertilization at the ecosystem level.",
+        "D": "Observations of initial above-ground growth stimulation."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states, 'observations of the consequences of CO2 fertilization at ecosystem level are still scarce, in particular from outside the temperate zone'.",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_5.4.1_groq_q2",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+      "difficulty": "medium",
+      "question": "What is the impact of insufficient nutrients, such as nitrogen or phosphorus, on the initial stimulation of above-ground growth by elevated CO2?",
+      "options": {
+        "A": "The initial stimulation of above-ground growth is enhanced by insufficient nutrients",
+        "B": "The initial stimulation of above-ground growth is unaffected by insufficient nutrients",
+        "C": "The initial stimulation of above-ground growth may decline if insufficient nutrients are available",
+        "D": "The initial stimulation of above-ground growth is only observed in the presence of sufficient nutrients"
+      },
+      "correct_answer": "C",
+      "explanation": "Field studies with elevated CO2 have demonstrated that the initial stimulation of above-ground growth may decline if insufficient nutrients such as nitrogen or phosphorus are available.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_5.4.1_groq_q3",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+      "difficulty": "easy",
+      "question": "What is the relationship between plant water-use efficiency (WUE) and atmospheric CO2, according to Cross-Chapter Box 5.1?",
+      "options": {
+        "A": "Plant WUE decreases in proportionality to atmospheric CO2",
+        "B": "Plant WUE remains constant with changes in atmospheric CO2",
+        "C": "Plant WUE increases in near proportionality to atmospheric CO2",
+        "D": "Plant WUE is unaffected by changes in atmospheric CO2"
+      },
+      "correct_answer": "C",
+      "explanation": "Cross-Chapter Box 5.1 assesses multiple lines of evidence, which suggest that the ratio of plant CO2 uptake to water loss – plant water-use efficiency (WUE) – increases in near proportionality to atmospheric CO2.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_5.4.1_groq_q5",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG1 Chapter 5 Section 5.4.1",
+      "difficulty": "hard",
+      "question": "What is the implication of the current limitations in representing plant carbon allocation and ecosystem processes in ESMs, according to the passage?",
+      "options": {
+        "A": "The current limitations have a negligible impact on ESM projections",
+        "B": "The current limitations lead to an overestimation of the effects of elevated CO2 on plant growth and ecosystem carbon storage",
+        "C": "The current limitations contribute strongly to uncertainty in ESM projections",
+        "D": "The current limitations result in an underestimation of the effects of elevated CO2 on plant growth and ecosystem carbon storage"
+      },
+      "correct_answer": "C",
+      "explanation": "Plant carbon allocation, changes in plant community composition, disturbance, and natural plant mortality are important processes affecting the magnitude of the response, but are currently poorly represented in models, and thus contribute strongly to uncertainty in ESM projections.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_7.3.2_claude_q3",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7",
+      "difficulty": "medium",
+      "question": "Why does the assessment described in the passage use a combined approach rather than relying solely on Earth System Models (ESMs) to establish ERF best estimates for well-mixed greenhouse gases?",
+      "options": {
+        "A": "ESMs cannot simulate stratospheric temperature adjustments required for SARF calculations",
+        "B": "ESMs do not account for the shortwave forcing contributions of methane",
+        "C": "The radiation schemes in ESMs are approximations with variations and biases between schemes",
+        "D": "ESMs overestimate tropospheric adjustments when compared to radiative transfer models"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explains that 'radiation schemes in climate models are approximations to high spectral resolution radiative transfer models with variations and biases in results between the schemes,' making ESMs alone insufficient.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_7.3.2_claude_q4",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7",
+      "difficulty": "medium",
+      "question": "In AR5, ERF was assessed to be approximately equal to SARF for all well-mixed greenhouse gases. Based on the passage, which of the following best describes a key limitation that led to this assumption?",
+      "options": {
+        "A": "High spectral resolution radiative transfer models were not yet available to compute SARFs accurately",
+        "B": "No calculations of tropospheric adjustments beyond SARF were available for greenhouse gases other than CO2",
+        "C": "The Myhre et al. (1998) expressions already incorporated tropospheric adjustment terms for all greenhouse gases",
+        "D": "ESMs at the time could not simulate the effects of well-mixed greenhouse gases on ozone chemistry"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that 'No calculations were available for other WMGHGs, so ERF was therefore assessed to be approximately equal to SARF (within 10%) for all WMGHGs.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_7.3.2_claude_q5",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7",
+      "difficulty": "hard",
+      "question": "The passage distinguishes between IRF, SARF, and ERF. Based on the information provided, which of the following correctly characterizes the relationship between these quantities and how each is obtained?",
+      "options": {
+        "A": "IRF includes stratospheric temperature adjustment; SARF adds tropospheric adjustments; ERF is computed solely from ESMs",
+        "B": "IRF requires no adjustments; SARF accounts for stratospheric temperature adjustment via fixed dynamical heating; ERF additionally incorporates tropospheric adjustments derived from ESMs",
+        "C": "SARF is a subset of IRF that excludes shortwave forcing; ERF corrects SARF by adding composition adjustments from ozone and aerosol chemistry",
+        "D": "IRF and SARF are equivalent for methane because its shortwave forcing is negligible; ERF adds both stratospheric and tropospheric adjustments to IRF"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that high-resolution models 'can calculate IRFs with no adjustments, or SARFs by accounting for the adjustment of stratospheric temperatures using a fixed dynamical heating,' and that the assessment 'estimates ERFs from a combined approach that uses the SARF from radiative transfer models and adds the tropospheric adjustments derived from ESMs.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_7.3.2_gemini_q1",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.3.2",
+      "difficulty": "easy",
+      "question": "What is the stated error margin for instantaneous radiative forcing (IRF) calculations made by high spectral resolution radiative transfer models?",
+      "options": {
+        "A": "Less than 1%",
+        "B": "Exactly 1%",
+        "C": "Less than 5%",
+        "D": "Up to 10%"
+      },
+      "correct_answer": "A",
+      "explanation": "The passage states, 'High spectral resolution radiative transfer models provide the most accurate calculations of radiative perturbations due to greenhouse gases (GHGs), with errors in the instantaneous radiative forcing (IRF) of less than 1%'.",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_7.3.2_groq_q1",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.3.2",
+      "difficulty": "easy",
+      "question": "What is the error in the instantaneous radiative forcing (IRF) of high spectral resolution radiative transfer models?",
+      "options": {
+        "A": "Less than 1%",
+        "B": "Less than 5%",
+        "C": "Less than 10%",
+        "D": "Less than 20%"
+      },
+      "correct_answer": "A",
+      "explanation": "High spectral resolution radiative transfer models provide the most accurate calculations of radiative perturbations due to greenhouse gases (GHGs), with errors in the instantaneous radiative forcing (IRF) of less than 1%.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_7.3.2_groq_q4",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.3.2",
+      "difficulty": "easy",
+      "question": "What is the effect of WMGHGs in ESMs beyond their direct radiative effects?",
+      "options": {
+        "A": "Only effects on ozone chemistry",
+        "B": "Only effects on aerosol chemistry and natural emissions of ozone and aerosol precursors",
+        "C": "Effects on ozone and aerosol chemistry and natural emissions of ozone and aerosol precursors, and in the case of CO2 to vegetation cover through physiological effects",
+        "D": "No effects beyond their direct radiative effects"
+      },
+      "correct_answer": "C",
+      "explanation": "The effect of WMGHGs in ESMs can extend beyond their direct radiative effects to include effects on ozone and aerosol chemistry and natural emissions of ozone and aerosol precursors, and in the case of CO2 to vegetation cover through physiological effects.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_7.4.2.1_claude_q2",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7, Section on Planck Response",
+      "difficulty": "easy",
+      "question": "According to the passage, what is the assessed best-estimate value of the Planck response parameter α_P?",
+      "options": {
+        "A": "–3.30 W m⁻² °C⁻¹",
+        "B": "–3.20 W m⁻² °C⁻¹",
+        "C": "–3.22 W m⁻² °C⁻¹",
+        "D": "–3.10 W m⁻² °C⁻¹"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states: 'the Planck response…is assessed to be α_P = –3.22 W m⁻² °C⁻¹,' which is the overall assessed value distinct from the crude estimate or CMIP5 mean.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_7.4.2.1_claude_q3",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7, Section on Planck Response",
+      "difficulty": "medium",
+      "question": "How is the normalized greenhouse effect g̃ defined in the passage?",
+      "options": {
+        "A": "The ratio of the greenhouse effect G to the downwelling longwave flux at the surface",
+        "B": "The ratio of outgoing longwave radiation at the top of atmosphere to the greenhouse effect G",
+        "C": "The ratio of the greenhouse effect G to the upwelling longwave flux at the surface",
+        "D": "The ratio of surface temperature to the Stefan–Boltzmann constant"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage defines g̃ as 'the ratio between the greenhouse effect G and the upwelling LW flux at the surface.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_7.4.2.1_claude_q5",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7, Section on Planck Response",
+      "difficulty": "hard",
+      "question": "Using the formula given in the passage, if a radiative forcing ΔF of +4 W m⁻² is applied and the net feedback parameter equals the Planck response (α_P = –3.22 W m⁻² °C⁻¹), what is the equilibrium Planck temperature response ΔT_P, and what does this scenario physically represent?",
+      "options": {
+        "A": "ΔT_P ≈ +1.24°C; this represents the full equilibrium warming including all feedbacks",
+        "B": "ΔT_P ≈ –1.24°C; this represents a cooling response to the applied forcing",
+        "C": "ΔT_P ≈ +1.24°C; this represents the temperature change if no feedbacks other than the Planck response operate",
+        "D": "ΔT_P ≈ +12.9°C; this represents the temperature change amplified by the greenhouse effect G"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage gives ΔT_P = –ΔF / α_P = –(4) / (–3.22) ≈ +1.24°C, and defines this as the equilibrium response 'when the net feedback parameter is equal to the Planck response parameter,' meaning no other feedbacks are active.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_7.4.2.1_chatgpt_q3",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+      "difficulty": "medium",
+      "question": "What is the assessed value of the Planck response parameter (αP) based on CMIP5 and CMIP6 models?",
+      "options": {
+        "A": "–3.1 W m–2°C–1",
+        "B": "–3.22 W m–2°C–1",
+        "C": "–3.4 W m–2°C–1",
+        "D": "–3.0 W m–2°C–1"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that the assessed value of αP is –3.22 W m–2°C–1 for the CMIP5 and CMIP6 models.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_7.4.2.1_chatgpt_q4",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+      "difficulty": "medium",
+      "question": "What is one primary source of discrepancy among estimates of the Planck response parameter (αP)?",
+      "options": {
+        "A": "Variations in the Stefan–Boltzmann constant used in calculations.",
+        "B": "Differences in cloud distributions affecting radiative kernels.",
+        "C": "Inaccuracies in the measurement of surface temperature.",
+        "D": "Changes in the normalized greenhouse effect (g̃) over time."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage identifies differences in cloud distributions as a primary source of discrepancy among estimates of αP.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_7.4.2.1_gemini_q1",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+      "difficulty": "easy",
+      "question": "What does the Planck response (α P) primarily represent?",
+      "options": {
+        "A": "The additional thermal or longwave (LW) emission to space arising from vertically uniform warming.",
+        "B": "The ratio between the greenhouse effect and the upwelling LW flux at the surface.",
+        "C": "The equilibrium temperature change in response to a forcing (ΔF).",
+        "D": "The amount of solar radiation absorbed by the Earth's surface."
+      },
+      "correct_answer": "A",
+      "explanation": "The passage states, 'The Planck response represents the additional thermal or longwave (LW) emission to space arising from vertically uniform warming of the surface and the atmosphere.'",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_7.4.2.1_groq_q4",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.1",
+      "difficulty": "medium",
+      "question": "How is the Planck temperature response ΔTP calculated?",
+      "options": {
+        "A": "ΔTP = ΔF / α P",
+        "B": "ΔTP = –ΔF / α P",
+        "C": "ΔTP = ΔF * α P",
+        "D": "ΔTP = α P / ΔF"
+      },
+      "correct_answer": "B",
+      "explanation": "The Planck temperature response ΔTP is the equilibrium temperature change in response to a forcing ΔF when the net feedback parameter is equal to the Planck response parameter: ΔTP = –ΔF / α P, as stated in the passage.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_7.4.2.2_claude_q3",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+      "difficulty": "easy",
+      "question": "What physical relationship governs the approximate increase in atmospheric water vapour at the global scale in response to warming?",
+      "options": {
+        "A": "The Stefan–Boltzmann relationship",
+        "B": "The moist adiabatic lapse rate",
+        "C": "The Clausius–Clapeyron relationship",
+        "D": "The meridional heat transport balance"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that 'the water vapour increase approximately follows the Clausius–Clapeyron relationship at the global scale with regional differences dominated by dynamical processes.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_7.4.2.2_claude_q4",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+      "difficulty": "medium",
+      "question": "In the second decomposition of water-vapour and lapse-rate feedbacks described in the passage, what two components are separated?",
+      "options": {
+        "A": "Specific humidity changes and lapse-rate changes",
+        "B": "Tropical lapse-rate changes and extratropical lapse-rate changes",
+        "C": "Lapse-rate changes at constant relative humidity and changes in relative humidity",
+        "D": "Upper troposphere moistening and lower troposphere moistening"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage describes the second decomposition as considering 'changes in the lapse rate assuming constant relative humidity (LR*) separately from changes in relative humidity (RH).'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_7.4.2.2_claude_q5",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+      "difficulty": "hard",
+      "question": "The water-vapour feedback and the tropical lapse-rate feedback both involve changes in the upper troposphere in response to warming, yet they have opposite signs. Based on the passage, which statement correctly explains why the tropical lapse-rate feedback is negative while the water-vapour feedback is positive?",
+      "options": {
+        "A": "The tropical lapse-rate feedback is negative because greater upper troposphere warming increases outgoing radiation to space, whereas the water-vapour feedback is positive because greater water vapour in the upper troposphere reduces outgoing radiation",
+        "B": "The tropical lapse-rate feedback is negative because upper troposphere cooling reduces outgoing radiation, whereas the water-vapour feedback is positive because water vapour increases absorbed shortwave radiation at the surface",
+        "C": "The tropical lapse-rate feedback is negative because it is driven by moist convection, whereas the water-vapour feedback is positive because it follows the Clausius–Clapeyron relationship only in the lower troposphere",
+        "D": "The tropical lapse-rate feedback is negative because polar inversions dominate the tropical signal, whereas the water-vapour feedback is positive because relative humidity increases more than specific humidity"
+      },
+      "correct_answer": "A",
+      "explanation": "The passage states that tropical upper troposphere warming exceeds surface warming, 'leading to a larger radiative emission to space and therefore a negative feedback,' while greater upper troposphere water vapour 'results in enhanced absorption of LW and SW radiation and reduced outgoing radiation,' a positive feedback.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_7.4.2.2_chatgpt_q2",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+      "difficulty": "medium",
+      "question": "Why does the lapse-rate (LR) feedback result in a negative global mean feedback?",
+      "options": {
+        "A": "Because warming in the polar regions is larger in the lower troposphere.",
+        "B": "Because warming is larger in the upper troposphere than at the surface in the tropics.",
+        "C": "Because relative humidity decreases with warming in the troposphere.",
+        "D": "Because the global average temperature decreases as radiative flux increases."
+      },
+      "correct_answer": "B",
+      "explanation": "The source explains that the vertical temperature profile in the tropics causes warming to be larger in the upper troposphere, leading to a larger radiative emission to space and a negative global mean LR feedback.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_7.4.2.2_gemini_q1",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+      "difficulty": "easy",
+      "question": "According to the passage, what is the sign of the specific humidity (water-vapour) feedback?",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Neutral",
+        "D": "Varies regionally depending on dynamical processes"
+      },
+      "correct_answer": "A",
+      "explanation": "The passage explicitly states regarding the specific humidity feedback, 'This is a positive feedback.'",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_7.4.2.2_gemini_q4",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+      "difficulty": "medium",
+      "question": "In tropical regions, how does the warming in the upper troposphere compare to that at the surface, and what is the resulting lapse-rate (LR) feedback sign?",
+      "options": {
+        "A": "Warming is smaller in the upper troposphere, leading to a positive feedback.",
+        "B": "Warming is larger in the upper troposphere, leading to a positive feedback.",
+        "C": "Warming is larger in the upper troposphere, leading to a negative feedback.",
+        "D": "Warming is uniform throughout the troposphere, leading to a neutral feedback."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states: 'In the tropics, the warming is larger in the upper troposphere than in the lower troposphere... leading to a larger radiative emission to space and therefore a negative feedback.'",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_7.4.2.2_groq_q1",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+      "difficulty": "easy",
+      "question": "What is the sign of the lapse-rate (LR) feedback at the global scale?",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Neutral",
+        "D": "Depends on the region"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that 'the tropical contribution dominates, leading to a negative global mean LR feedback'.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_7.4.2.2_groq_q5",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.2",
+      "difficulty": "hard",
+      "question": "What can be inferred about the relationship between the water-vapour feedback and the lapse-rate feedback in terms of their contributions to the overall climate feedback?",
+      "options": {
+        "A": "The water-vapour feedback and the lapse-rate feedback have similar magnitudes and signs, resulting in a neutral overall climate feedback",
+        "B": "The water-vapour feedback is positive and the lapse-rate feedback is negative, resulting in a complex overall climate feedback",
+        "C": "The water-vapour feedback is negative and the lapse-rate feedback is positive, resulting in a neutral overall climate feedback",
+        "D": "The water-vapour feedback dominates the lapse-rate feedback, resulting in a strongly positive overall climate feedback"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that 'the specific humidity (WV) feedback... is a positive feedback' and 'the tropical contribution dominates, leading to a negative global mean LR feedback', indicating that the water-vapour feedback and the lapse-rate feedback have different signs.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_7.4.2.3_claude_q4",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.4.2",
+      "difficulty": "medium",
+      "question": "Flanner et al. (2011) estimated the Northern Hemisphere cryosphere contribution to global surface-albedo feedback at 0.48 W m⁻²°C⁻¹, with roughly equal contributions from land snow cover and sea ice. How does the estimate from Chen et al. (2016) for NH land snow alone compare to the implied land snow contribution from Flanner et al. (2011)?",
+      "options": {
+        "A": "Chen et al. (2016) produced a higher estimate, approximately 0.3 W m⁻²°C⁻¹, suggesting greater land snow contributions than previously thought",
+        "B": "Chen et al. (2016) produced a lower estimate of 0.1 W m⁻²°C⁻¹, smaller than the approximately 0.24 W m⁻²°C⁻¹ implied by Flanner et al. (2011)",
+        "C": "Chen et al. (2016) produced an estimate of 0.24 W m⁻²°C⁻¹, consistent with the land snow contribution implied by Flanner et al. (2011)",
+        "D": "Chen et al. (2016) produced a similar estimate to Flanner et al. (2011) once adjusted for differences in the time periods studied"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that Chen et al. (2016) estimated 0.1 W m⁻²°C⁻¹ for NH land snow, which the passage explicitly notes is 'smaller than the estimate of 0.24 W m⁻²°C⁻¹ from Flanner et al. (2011),' consistent with roughly half of Flanner et al.'s total 0.48 W m⁻²°C⁻¹ estimate being attributable to land snow.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_7.4.2.3_claude_q5",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.4.2",
+      "difficulty": "hard",
+      "question": "The passage notes large discrepancies between studies estimating Arctic sea ice contribution to global surface-albedo feedback, with estimates ranging from 0.16 to 0.31 W m⁻²°C⁻¹. The passage attributes much of this discrepancy to differences in assessing cloud attenuation of surface-albedo change. Which of the following best explains why Arctic cloud attenuation would be particularly important for reconciling these estimates, based on information provided in the passage?",
+      "options": {
+        "A": "Arctic clouds are unusually thick and absorb more solar radiation than clouds elsewhere, making them a dominant driver of total Arctic energy balance",
+        "B": "Because atmospheric absorption and scattering — including by clouds — reduce the surface-albedo signal before it registers as a planetary albedo change, differing assumptions about cloud attenuation in the Arctic would lead to different estimates of how much the observed surface changes translate into a feedback at the top of atmosphere",
+        "C": "Arctic sea ice changes are too small to detect by satellite unless cloud cover is first removed from the observations, so different cloud-masking techniques produce different sea ice extent estimates",
+        "D": "Clouds in the Arctic directly influence sea ice melt rates, meaning that studies using different cloud datasets would observe different amounts of sea ice loss over the same period"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage establishes that planetary albedo changes are reduced relative to surface albedo changes due to atmospheric absorption and scattering (including from clouds), so differing techniques for assessing cloud attenuation in the Arctic would produce different estimates of how surface-albedo changes translate into a top-of-atmosphere feedback signal.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_7.4.2.3_chatgpt_q2",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+      "difficulty": "easy",
+      "question": "How does temperature change contribute to surface-albedo change?",
+      "options": {
+        "A": "By decreasing the angular distribution of solar radiation",
+        "B": "Through changes in sea ice and snow cover extent",
+        "C": "By reducing atmospheric absorption of sunlight",
+        "D": "Through alterations in ocean roughness"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that temperature change induces surface-albedo change, primarily through changes in the extent of sea ice and seasonal snow cover.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_7.4.2.3_gemini_q1",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+      "difficulty": "easy",
+      "question": "What is identified as the primary factor determining surface albedo?",
+      "options": {
+        "A": "Reflectance at Earth's surface",
+        "B": "Atmospheric absorption and scattering",
+        "C": "The extent of sea ice and seasonal snow cover",
+        "D": "Vegetation state and soil wetness"
+      },
+      "correct_answer": "A",
+      "explanation": "The passage states, 'Surface albedo is determined primarily by reflectance at Earth’s surface'.",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_7.4.2.3_gemini_q3",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+      "difficulty": "medium",
+      "question": "When changes occur in surface albedo, how are the resulting changes in planetary albedo generally characterized, and what is the primary reason for this characterization?",
+      "options": {
+        "A": "They are roughly reduced by two-thirds, primarily due to atmospheric absorption and scattering.",
+        "B": "They are roughly increased by one-third, primarily due to cloud feedback mechanisms.",
+        "C": "They are directly proportional, with no significant reduction or increase.",
+        "D": "They are only observable in the Northern Hemisphere, caused by sea ice melt."
+      },
+      "correct_answer": "A",
+      "explanation": "The passage states, 'Changes in surface albedo result in changes in planetary albedo that are roughly reduced by two-thirds, owing to atmospheric absorption and scattering'.",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_7.4.2.3_groq_q4",
+      "category": "Physical Climate Science Fundamentals",
+      "data_source_section": "IPCC AR6 WG1 Chapter 7 Section 7.4.2.3",
+      "difficulty": "medium",
+      "question": "Why is the contribution of the Southern Hemisphere to global surface-albedo feedback expected to be small?",
+      "options": {
+        "A": "Because seasonal snow cover extent in the SH is large and trends in SH sea ice extent are increasing",
+        "B": "Because seasonal snow cover extent in the SH is limited and trends in SH sea ice extent are relatively flat",
+        "C": "Because the SH has a smaller land area than the NH",
+        "D": "Because the SH has a larger ocean area than the NH"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that the contribution of the Southern Hemisphere to global α A is expected to be small because seasonal snow cover extent in the SH is limited, and trends in SH sea ice extent are relatively flat over much of the satellite record.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_9.6.1.3_claude_q2",
+      "category": "Observations & Attribution",
+      "data_source_section": "IPCC AR6 WG1 Chapter 9, Section 9.6.1",
+      "difficulty": "easy",
+      "question": "According to the passage, what are the primary drivers of regional departures from global mean sea level rise?",
+      "options": {
+        "A": "Glacial isostatic adjustment and groundwater depletion",
+        "B": "Ocean transport divergences from wind stress anomalies and spatial variability in atmospheric heat and freshwater fluxes",
+        "C": "Thermal expansion of the deep ocean and ice sheet mass loss",
+        "D": "Tidal forcing variations and changes in ocean basin geometry"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage explicitly states that 'Regional departures from GMSL rise are primarily driven by ocean transport divergences that result from wind stress anomalies and spatial variability in atmospheric heat and freshwater fluxes.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_9.6.1.3_claude_q5",
+      "category": "Observations & Attribution",
+      "data_source_section": "IPCC AR6 WG1 Chapter 9, Section 9.6.1",
+      "difficulty": "hard",
+      "question": "The passage notes that satellite altimetry is limited to the period from 1993 to the present. Based on the reasoning provided in the passage, why does this temporal limitation matter specifically for regional—rather than global—sea level analysis?",
+      "options": {
+        "A": "Satellite altimeters cannot resolve small-scale regional features, so a longer record is needed to accumulate enough spatial samples",
+        "B": "The forced trend response is just emerging on regional scales over this period, making it difficult to distinguish forced signals from variability",
+        "C": "Regional sea level is controlled by decadal oscillations that have periods longer than the altimetry record, so trends cannot be computed",
+        "D": "Altimeter calibration drifts accumulate over time and disproportionately affect regional measurements compared to global averages"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that altimeters 'are limited to a period (1993–present) in which the forced trend response is just emerging on regional scales,' directly explaining why the short record is a constraint for regional analysis.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_9.6.1.3_chatgpt_q5",
+      "category": "Sea Level Variability Drivers",
+      "data_source_section": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
+      "difficulty": "hard",
+      "question": "Why does the western tropical Pacific Ocean sometimes experience falling sea levels, as observed during the 2010s?",
+      "options": {
+        "A": "Changes in the Pacific Decadal Oscillation (PDO)",
+        "B": "Increased volcanic activity in the region",
+        "C": "Strengthening of the South Asian monsoon",
+        "D": "Weakened Atlantic Meridional Overturning Circulation (AMOC)"
+      },
+      "correct_answer": "A",
+      "explanation": "The passage explains that 'large multiannual sea level variations in the Pacific' are associated with the Pacific Decadal Oscillation (PDO), which can lead to periods of falling sea levels like those observed during the 2010s.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_9.6.1.3_gemini_q4",
+      "category": "Projections & Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
+      "difficulty": "medium",
+      "question": "What are the primary drivers of regional departures from Global Mean Sea Level (GMSL) rise?",
+      "options": {
+        "A": "Large multiannual sea level variations associated with the Pacific Decadal Oscillation.",
+        "B": "Ocean transport divergences resulting from wind stress anomalies and spatial variability in atmospheric heat and freshwater fluxes.",
+        "C": "Intensified sea level rise during the 1990s and 2000s in the western tropical Pacific.",
+        "D": "Heat transport changes associated with Atlantic Meridional Overturning Circulation (AMOC) variability."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage explicitly states: 'Regional departures from GMSL rise are primarily driven by ocean transport divergences that result from wind stress anomalies and spatial variability in atmospheric heat and freshwater fluxes (Section 9.2.4).'",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_9.6.1.3_groq_q1",
+      "category": "Sea Level Rise",
+      "data_source_section": "IPCC AR6 WG1 Chapter 6, Section 9.6.1.3",
+      "difficulty": "medium",
+      "question": "What is the primary driver of regional departures from Global Mean Sea Level (GMSL) rise?",
+      "options": {
+        "A": "Thermal expansion of seawater",
+        "B": "Ocean transport divergences resulting from wind stress anomalies and spatial variability in atmospheric heat and freshwater fluxes",
+        "C": "Changes in ocean salinity",
+        "D": "Glacial isostatic adjustment"
+      },
+      "correct_answer": "B",
+      "explanation": "The source passage states that regional departures from GMSL rise are primarily driven by ocean transport divergences that result from wind stress anomalies and spatial variability in atmospheric heat and freshwater fluxes.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_9.6.3.1_claude_q1",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 9 Section 9.6",
+      "difficulty": "easy",
+      "question": "According to the passage, what is the confidence level assigned to GMSL projections for 2050 falling between 0.1 and 0.4 m higher than the 1995–2014 baseline under low- and moderate-emissions scenarios?",
+      "options": {
+        "A": "Low confidence",
+        "B": "Medium confidence",
+        "C": "High confidence",
+        "D": "Very high confidence"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states: 'we therefore have high confidence that GMSL in 2050 will be between 0.1 and 0.4 m higher than in 1995–2014 under low- and moderate-emissions scenarios.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_9.6.3.1_claude_q3",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 9 Section 9.6",
+      "difficulty": "medium",
+      "question": "For 2100 projections under RCP4.5, how does incorporating MICI or SEJ change the upper bound of the 5th–95th percentile range compared to projections based only on medium-confidence processes?",
+      "options": {
+        "A": "The upper bound increases from 1.0 m to 1.6 m",
+        "B": "The upper bound remains unchanged at 1.0 m",
+        "C": "The upper bound increases from 1.6 m to 2.4 m",
+        "D": "The upper bound decreases from 1.6 m to 1.0 m"
+      },
+      "correct_answer": "A",
+      "explanation": "The passage states medium-confidence projections for RCP4.5 fall between 0.2 and 1.0 m, while incorporating MICI or SEJ extends the range to 0.2–1.6 m, raising the upper bound from 1.0 m to 1.6 m.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_9.6.3.1_groq_q1",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.1",
+      "difficulty": "easy",
+      "question": "What is the projected range of GMSL rise by 2050 under low- and moderate-emissions scenarios?",
+      "options": {
+        "A": "0.1 to 0.4 m",
+        "B": "0.2 to 0.6 m",
+        "C": "0.3 to 0.8 m",
+        "D": "0.4 to 1.0 m"
+      },
+      "correct_answer": "A",
+      "explanation": "The source passage states that GMSL in 2050 will be between 0.1 and 0.4 m higher than in 1995–2014 under low- and moderate-emissions scenarios.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_9.6.3.1_groq_q2",
+      "category": "Projections and Uncertainty",
+      "data_source_section": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.1",
+      "difficulty": "medium",
+      "question": "How do GMSL projections for 2050 change when considering projections incorporating MICI or SEJ under RCP8.5?",
+      "options": {
+        "A": "The upper part of the range is extended to 0.6 m",
+        "B": "The lower part of the range is extended to 0.0 m",
+        "C": "The range remains the same",
+        "D": "The range is reduced to 0.1 to 0.3 m"
+      },
+      "correct_answer": "A",
+      "explanation": "The source passage states that projections incorporating MICI or SEJ do not extend the range under RCP2.6 or RCP4.5 but do extend the upper part of the range to 0.6 m under RCP8.5.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_9.6.3.3_claude_q2",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 9 Table 9.9",
+      "difficulty": "easy",
+      "scenario_type": "comparison",
+      "scenario": "The table below shows the median contribution of individual components to global mean sea level rise by 2100 under SSP5-8.5 (standard, high-confidence values):\n\nComponent          | Median (m)\nThermal expansion  | 0.30\nGreenland          | 0.13\nAntarctica         | 0.12\nGlaciers           | 0.18\nLand-water storage | 0.03",
+      "question": "Which single component contributes the largest share of the median projected sea level rise under SSP5-8.5 by 2100?",
+      "options": {
+        "A": "Greenland ice sheet",
+        "B": "Glaciers",
+        "C": "Thermal expansion",
+        "D": "Antarctica ice sheet"
+      },
+      "correct_answer": "C",
+      "explanation": "Thermal expansion has the largest median contribution at 0.30 m, exceeding glaciers (0.18 m), Greenland (0.13 m), and Antarctica (0.12 m).",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_9.6.3.3_claude_q3",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 9 Table 9.9",
+      "difficulty": "medium",
+      "scenario_type": "trend_identification",
+      "scenario": "The table below shows the average rate of global mean sea level change (mm yr⁻¹, median values) for two future periods under all SSP scenarios:\n\nPeriod     | SSP1-1.9 | SSP1-2.6 | SSP2-4.5 | SSP3-7.0 | SSP5-8.5\n2040–2060  |   4.1    |   4.8    |   5.8    |   6.4    |   7.2\n2080–2100  |   4.2    |   5.2    |   7.7    |  10.4    |  12.1",
+      "question": "Which scenario shows the smallest acceleration in the median rate of sea level rise between the 2040–2060 period and the 2080–2100 period, and approximately how large is that change?",
+      "options": {
+        "A": "SSP1-2.6, with an increase of about 0.4 mm yr⁻¹",
+        "B": "SSP1-1.9, with an increase of about 0.1 mm yr⁻¹",
+        "C": "SSP2-4.5, with an increase of about 1.9 mm yr⁻¹",
+        "D": "SSP3-7.0, with an increase of about 4.0 mm yr⁻¹"
+      },
+      "correct_answer": "B",
+      "explanation": "SSP1-1.9 rises from 4.1 to 4.2 mm yr⁻¹, a change of only 0.1 mm yr⁻¹, which is smaller than any other scenario's inter-period change.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_9.6.3.3_claude_q5",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 9 Table 9.9",
+      "difficulty": "hard",
+      "scenario_type": "anomaly_interpretation",
+      "scenario": "The table below shows the Antarctica ice sheet contribution to sea level rise at 2100 under two versions of SSP5-8.5: the standard high-confidence assessment and the low-confidence column that incorporates structured expert judgement (SEJ) and marine ice cliff instability (MICI). The low-confidence range uses 17th–83rd percentiles rather than a standard likely range.\n\nScenario              | Median (m) | Lower bound (m) | Upper bound (m)\nSSP5-8.5 (standard)   |   0.12     |     0.03        |     0.34\nSSP5-8.5 (low conf.)  |   0.19     |     0.02        |     0.56\n\nFor comparison, the Greenland contribution under SSP5-8.5 (low conf.) has a median of 0.18 m and upper bound of 0.59 m.",
+      "question": "Which of the following statements is best supported by the data regarding the low-confidence Antarctica contribution compared to the standard SSP5-8.5 Antarctica estimate?",
+      "options": {
+        "A": "The low-confidence estimate has a narrower likely range, suggesting reduced uncertainty when ice-sheet instability processes are included.",
+        "B": "The low-confidence median is higher and the upper bound is substantially larger, indicating that including ice-sheet instability processes shifts both the central estimate and the tail risk upward.",
+        "C": "The low-confidence lower bound is higher than the standard lower bound, meaning worst-case Antarctica contributions are more constrained under low-confidence processes.",
+        "D": "The low-confidence Antarctica upper bound exceeds the low-confidence Greenland upper bound, making Antarctica the dominant source of high-end sea level uncertainty."
+      },
+      "correct_answer": "B",
+      "explanation": "The low-confidence Antarctica median rises from 0.12 to 0.19 m and its upper bound increases from 0.34 to 0.56 m, directly showing that incorporating MICI/SEJ processes raises both the central projection and the high-end tail; the low-confidence lower bound (0.02) is actually slightly lower than the standard (0.03), ruling out option C, and the Greenland upper bound (0.59) still exceeds Antarctica's (0.56), ruling out option D.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg1_9.6.3.3_chatgpt_q3",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 9 Table 9.9",
+      "difficulty": "medium",
+      "scenario_type": "anomaly_interpretation",
+      "scenario": "The following shows the average rates of sea level change (in mm/yr) between 2080–2100 for SSP scenarios:\n\n| Scenario      | Rate (Median, Likely Range) |\n|---------------|-----------------------------|\n| SSP1-1.9      | 4.2 (2.4–6.6)              |\n| SSP1-2.6      | 5.2 (3.2–8.0)              |\n| SSP2-4.5      | 7.7 (5.2–11.6)             |\n| SSP3-7.0      | 10.4 (7.4–14.8)            |\n| SSP5-8.5      | 12.1 (8.6–17.6)            |\n\nWhich scenario shows the smallest likely upper bound of sea level rise rate during this period?",
+      "question": "For 2080–2100, which scenario has the smallest likely upper bound for the rate of sea level rise?",
+      "options": {
+        "A": "SSP1-1.9",
+        "B": "SSP1-2.6",
+        "C": "SSP2-4.5",
+        "D": "SSP3-7.0"
+      },
+      "correct_answer": "A",
+      "explanation": "SSP1-1.9 has the lowest likely upper bound of 6.6 mm/yr.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg1_9.6.3.3_gemini_q4",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 9 Section 9.6.3.3",
+      "difficulty": "medium",
+      "scenario_type": "anomaly_interpretation",
+      "scenario": "The global mean sea level projections for the SSP5-8.5 (Low Conf.) column provide a range (e.g., 0.88 (0.63–1.60) m for 2100). The data context notes that this column 'incorporates low-confidence processes (SEJ/MICI); its range is 17th–83rd percentile, not an assessed likely range.'",
+      "question": "The SSP5-8.5 (Low Conf.) column consistently shows a significantly wider projection range compared to the standard SSP5-8.5 column. Based on the provided data context, what is the primary reason for this wider range?",
+      "options": {
+        "A": "It represents an averaged outcome of multiple SSP scenarios, leading to broader uncertainty.",
+        "B": "It accounts for higher emissions scenarios than the standard SSP5-8.5, increasing variability.",
+        "C": "It explicitly incorporates contributions from low-confidence processes like marine ice cliff instability.",
+        "D": "The statistical method used for this range inherently produces a wider spread for all climate variables."
+      },
+      "correct_answer": "C",
+      "explanation": "The provided note explicitly states that the SSP5-8.5 (Low Conf.) column incorporates 'low-confidence processes (SEJ/MICI)', which are responsible for its wider range.",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg1_9.6.3.3_groq_q1",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 9, Table 9.9",
+      "difficulty": "easy",
+      "scenario_type": "trend_identification",
+      "scenario": "The table below shows the individual contributions to sea level rise by 2100 for different SSP scenarios. The values are in metres and represent the median (likely range).",
+      "question": "What is the contribution of thermal expansion to sea level rise by 2100 under the SSP5-8.5 scenario?",
+      "options": {
+        "A": "0.20 m",
+        "B": "0.30 m",
+        "C": "0.36 m",
+        "D": "0.40 m"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer can be directly read from the table as the median value for thermal expansion under the SSP5-8.5 scenario.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg1_9.6.3.3_groq_q5",
+      "category": "Climate Data and Trend Interpretation",
+      "data_source_section": "IPCC AR6 WG1 Chapter 9, Table 9.9",
+      "difficulty": "hard",
+      "scenario_type": "projection_reading",
+      "scenario": "The table shows total sea level rise projections for different years and SSP scenarios, with values given in metres as medians (likely ranges).",
+      "question": "What can be inferred about the acceleration of sea level rise from 2030 to 2100 under the SSP5-8.5 scenario, given the median total sea level rise values?",
+      "options": {
+        "A": "It accelerates significantly after 2050.",
+        "B": "It decelerates after 2050.",
+        "C": "It remains constant from 2030 to 2100.",
+        "D": "The data does not provide enough information to determine acceleration or deceleration."
+      },
+      "correct_answer": "A",
+      "explanation": "The inference can be made by examining the increase in sea level rise over time and comparing the rates of change between different periods under the SSP5-8.5 scenario.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg2_2.3.1_claude_q3",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG2 passage on extreme events and ecosystems",
+      "difficulty": "medium",
+      "question": "The passage provides the example of Australian eucalypt forests experiencing widespread dieback. Which combination of factors does the passage identify as contributing to this outcome?",
+      "options": {
+        "A": "Sea level rise combined with storm surge and extreme coastal high tides",
+        "B": "Changing rainfall patterns and repeated heat waves interacting with biological factors such as altered plant growth and insect outbreaks",
+        "C": "Increased frequency of cyclones and floods leading to soil nutrient depletion and root damage",
+        "D": "Internal climate variability superimposed on longer-term drought trends causing direct tree mortality"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage explicitly states that 'changing rainfall patterns and repeated heat waves may interact with biological factors such as altered plant growth and nutrient allocation under elevated CO2, affecting herbivore rates and insect outbreaks leading to the widespread dieback of some forests (e.g., in Australian eucalypt forests).'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg2_2.3.1_claude_q4",
+      "category": "Climate Risk Assessment",
+      "data_source_section": "IPCC AR6 WG2 passage on extreme events and ecosystems",
+      "difficulty": "medium",
+      "question": "According to the passage, why might current risk assessments systematically underestimate actual climate risk to ecosystems?",
+      "options": {
+        "A": "They rely on outdated emissions scenarios that do not reflect current greenhouse gas concentrations",
+        "B": "They focus exclusively on long-term trends while ignoring short-term variability",
+        "C": "They typically consider only a single climate hazard with no changing variability",
+        "D": "They overestimate ecosystem resilience because organisms have adapted to historical disturbance regimes"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that 'Risk assessments typically only consider a single climate hazard with no changing variability, thereby potentially underestimating the actual risk.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg2_2.3.1_claude_q5",
+      "category": "Ecosystem-based Adaptation",
+      "data_source_section": "IPCC AR6 WG2 passage on extreme events and ecosystems",
+      "difficulty": "hard",
+      "question": "The passage distinguishes between organisms' capacity to cope with historical climate variability and the challenge posed by current climate change. Which of the following best captures the logical implication of this distinction for Ecosystem-based Adaptation (EbA)?",
+      "options": {
+        "A": "EbA is rendered unnecessary because organisms have already adapted to cope with extreme events over their evolutionary history",
+        "B": "EbA is well-suited to address extreme events because ecosystem functionality is robust to episodic disturbances",
+        "C": "EbA may be undermined because the extreme events it relies upon ecosystem functionality to buffer against can also destroy that very functionality",
+        "D": "EbA effectiveness is limited primarily by the inability of impact models to capture internal climate variability rather than by ecosystem damage"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage notes that organisms adapted to historical disturbance regimes, but that current extreme events 'pose huge challenges for EbA' because 'ecosystem functionality, on which such adaptation measures rely, may be altered or destroyed by extreme episodic events,' creating a direct conflict between EbA's dependence on ecosystem function and the capacity of extreme events to eliminate it.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg2_2.3.1_chatgpt_q3",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG2 Chapter 2 Section 2.3.1",
+      "difficulty": "medium",
+      "question": "What happens when internal variability is combined with longer-term climate trends?",
+      "options": {
+        "A": "It stabilizes ecosystems against tipping points.",
+        "B": "It has no significant effect on ecosystems.",
+        "C": "It pushes ecosystems to tipping points, beyond which abrupt and irreversible changes can occur.",
+        "D": "It reduces the frequency of extreme events."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that internal variability, superimposed on longer-term climate trends, is pushing ecosystems to tipping points, beyond which abrupt and possibly irreversible changes are occurring.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg2_2.3.1_gemini_q1",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG2 Chapter 2 Section 2.3.1",
+      "difficulty": "easy",
+      "question": "According to the passage, what has increased in many regions, affecting ecosystem functioning, biodiversity, and ecosystem services?",
+      "options": {
+        "A": "The stability of long-term climate trends.",
+        "B": "The magnitude and frequency of extreme events such as floods, droughts, and heat waves.",
+        "C": "The accuracy of impact models in capturing smaller-scale processes.",
+        "D": "The understanding of superimposed hazards on ecosystems."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states, 'However, climate changes, disturbance regime changes and the magnitude and frequency of extreme events such as floods, droughts, cyclones, heat waves and fire have increased in many regions (high confidence). These disturbances affect ecosystem functioning, biodiversity and ecosystem services (high confidence).'",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg2_2.3.1_gemini_q2",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG2 Chapter 2 Section 2.3.1",
+      "difficulty": "easy",
+      "question": "What is a characteristic of natural ecosystems that many organisms have adapted to cope with during their evolutionary history?",
+      "options": {
+        "A": "Consistent and predictable climate conditions.",
+        "B": "The absence of any extreme episodic events.",
+        "C": "Long-term and short-term climate variability within their disturbance regime.",
+        "D": "Only abrupt and irreversible climate changes."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states, 'Extreme events are a natural and important part of many ecosystems, and many organisms have adapted to cope with long-term and short-term climate variability within the disturbance regime experienced during their evolutionary history (high confidence).'",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg2_2.4.2.1_claude_q3",
+      "category": "Impacts and Vulnerabilities",
+      "data_source_section": "IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution",
+      "difficulty": "medium",
+      "question": "Why did many large-scale, multi-species meta-analyses published since AR4 tend to find a lower proportion of species shifting in directions expected from climate change?",
+      "options": {
+        "A": "They focused exclusively on marine species, which respond more slowly to climate shifts",
+        "B": "They included data from degraded lands and short-term datasets without controlling for confounding variables such as land-use change",
+        "C": "They relied on outdated climate models that underestimated the magnitude of regional warming",
+        "D": "They were conducted at elevations where climate signals are weaker than at lower altitudes"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage explains these studies 'included all data available (from both undisturbed and highly degraded lands and including very short-term data sets of <20 years), with little attempt to differentiate the effects of climate change from those of other potential confounding variables,' leading to findings that LULCC was impeding species from tracking climate change.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg2_2.4.2.1_claude_q5",
+      "category": "Impacts and Vulnerabilities",
+      "data_source_section": "IPCC AR6 WG2 Chapter 2 - Range Shifts and Attribution",
+      "difficulty": "hard",
+      "question": "Based on the passage's description of attribution confidence levels across different study types, which scenario would most likely yield the strongest climate attribution for a species response?",
+      "options": {
+        "A": "A large meta-analysis pooling data from heavily fragmented habitats across many species with short observational records",
+        "B": "A study of a species in a pristine habitat with a well-understood physiological mechanism linking climate to a specific biological process",
+        "C": "A multi-species study that includes both degraded and undisturbed landscapes to maximise geographic coverage",
+        "D": "A study tracking poleward range shifts without accounting for land-use change history at the study sites"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that 'attribution is strong for species and species-interactions for which there is a robust mechanistic understanding of the role of climate on biological processes,' and separately notes that studies conflating degraded habitats and confounding variables tend to weaken attribution.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg2_2.4.2.1_chatgpt_q2",
+      "category": "Impacts and Vulnerabilities",
+      "data_source_section": "IPCC AR6 WG2 Chapter 2 Section 2.4.2.1",
+      "difficulty": "medium",
+      "question": "Which factor is mentioned as impeding wild species from tracking climate change effectively?",
+      "options": {
+        "A": "Increased migration at warm-range boundaries.",
+        "B": "Land-use and land-cover change (LULCC), including habitat loss and fragmentation.",
+        "C": "Complete extinction of species at cold-range boundaries.",
+        "D": "A lack of data on short-term ecological trends."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage explains that LULCC, particularly habitat loss and fragmentation, impedes species from effectively tracking climate change.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg2_2.4.2.1_chatgpt_q4",
+      "category": "Impacts and Vulnerabilities",
+      "data_source_section": "IPCC AR6 WG2 Chapter 2 Section 2.4.2.1",
+      "difficulty": "medium",
+      "question": "What proportion of major insect pest species are predicted to increase their impacts as the climate warms?",
+      "options": {
+        "A": "4%",
+        "B": "25%",
+        "C": "41%",
+        "D": "75%"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that 41% of major insect pest species are predicted to increase their damage as the climate warms.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg2_2.4.2.1_chatgpt_q5",
+      "category": "Impacts and Vulnerabilities",
+      "data_source_section": "IPCC AR6 WG2 Chapter 2 Section 2.4.2.1",
+      "difficulty": "hard",
+      "question": "Why do some large-scale, multi-species meta-analyses find a lower proportion of species shifting in response to climate change?",
+      "options": {
+        "A": "They exclude data from degraded lands.",
+        "B": "They include short-term data sets and do not differentiate climate effects from other variables.",
+        "C": "They focus only on species living in cold-range boundaries.",
+        "D": "They are limited to studies designed specifically for climate attribution."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage mentions that these studies include short-term data and do not differentiate climate effects from other confounding variables.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg2_2.4.2.1_groq_q3",
+      "category": "Impacts and Vulnerabilities",
+      "data_source_section": "IPCC AR6 WG2 Chapter 2 Section 2.4.2.1",
+      "difficulty": "medium",
+      "question": "Why have many studies since AR4 found a lower proportion of species changing in the directions expected from climate change?",
+      "options": {
+        "A": "Because they were designed to focus on short-term data sets",
+        "B": "Because they included data from both undisturbed and highly degraded lands",
+        "C": "Because they were unable to account for the effects of climate change",
+        "D": "Because LULCC, particularly habitat loss and fragmentation, was impeding wild species from effectively tracking climate change"
+      },
+      "correct_answer": "D",
+      "explanation": "The passage states that these studies tended to find greater lag and a lower proportion of species changing in the directions expected from climate change, with the authors concluding that LULCC, particularly habitat loss and fragmentation, was impeding wild species from effectively tracking climate change.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg2_2.4.3.2.1_claude_q1",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "AR6 WG2 biome shift synthesis passage",
+      "difficulty": "easy",
+      "question": "According to the passage, what temperature increase above the pre-industrial period was observed at the at least 19 sites where anthropogenic climate change caused biome shifts between 1700 and 2007?",
+      "options": {
+        "A": "0.4°C–1.6°C",
+        "B": "0.9°C–1.7°C",
+        "C": "1.0°C–2.0°C",
+        "D": "0.2°C–0.8°C"
+      },
+      "correct_answer": "A",
+      "explanation": "The passage explicitly states that in the at least 19 sites where anthropogenic climate change caused biome shifts, 'temperature increased to 0.4°C–1.6°C above the pre-industrial period.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg2_2.4.3.2.1_claude_q3",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "AR6 WG2 biome shift synthesis passage",
+      "difficulty": "medium",
+      "question": "Why were the field studies detected after AR5 not directly attributed to anthropogenic climate change, despite many being consistent with it?",
+      "options": {
+        "A": "They were conducted in areas heavily affected by agriculture and timber harvesting, confounding the results",
+        "B": "The temperature increases recorded at these sites were too small to be linked to anthropogenic causes",
+        "C": "The studies were not designed or conducted properly for a full attribution assessment",
+        "D": "They lacked sufficient time spans to distinguish climate-driven shifts from natural variation"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly states the post-AR5 field studies 'were not directly attributed to anthropogenic climate change as the studies were not designed or conducted properly for full attribution assessment.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg2_2.4.3.2.1_claude_q5",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "AR6 WG2 biome shift synthesis passage",
+      "difficulty": "hard",
+      "question": "A researcher claims that upslope shifts of boreal and sub-alpine conifer forest into alpine grassland, averaged across 143 sites on four continents from 1901–2018, were larger than the upslope shift recorded at a single Canadian site from 1900–2010. Is this claim supported by the passage, and what do the figures suggest about site-level versus multi-site averages?",
+      "options": {
+        "A": "The claim is unsupported; the Canadian site (54 m) exceeded the multi-site average (41 m), suggesting individual sites can surpass continental averages",
+        "B": "The claim is supported; the multi-site average (143 m) was larger than the Canadian site (54 m), confirming broader trends exceed local observations",
+        "C": "The claim is unsupported; both figures are identical at 41 m, indicating no difference between site-level and multi-site measurements",
+        "D": "The claim is supported; the multi-site average (41 m) exceeded the Canadian site (19 m), consistent with averaging amplifying local signals"
+      },
+      "correct_answer": "A",
+      "explanation": "The passage reports the 143-site multi-continental average as 41 m (1901–2018) and the single Canadian site as 54 m (1900–2010), meaning the individual site exceeded the multi-site average, contradicting the researcher's claim.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg2_2.4.3.2.1_chatgpt_q1",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+      "difficulty": "easy",
+      "question": "What primary factor has caused latitudinal and altitudinal biome shifts observed between 1700 and 2007 at 19 sites?",
+      "options": {
+        "A": "Anthropogenic climate change",
+        "B": "Agricultural expansion",
+        "C": "Natural climate variability",
+        "D": "Timber harvesting"
+      },
+      "correct_answer": "A",
+      "explanation": "The source states that anthropogenic climate change caused biome shifts at 19 sites from 1700 to 2007.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg2_2.4.3.2.1_chatgpt_q2",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+      "difficulty": "medium",
+      "question": "Which location holds the longest recorded time span for detecting a biome shift due to climate change?",
+      "options": {
+        "A": "Canada",
+        "B": "Andes Mountains in Ecuador",
+        "C": "Nepal",
+        "D": "Switzerland"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage notes that the Andes Mountains in Ecuador had the longest time span for biome shift data, from 1802 to 2012.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg2_2.4.3.2.1_gemini_q5",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+      "difficulty": "hard",
+      "question": "The passage distinguishes between two categories of biome shifts based on their attribution to anthropogenic climate change. What is the key difference in the scientific confidence or evidence level assigned to these two categories in the summary?",
+      "options": {
+        "A": "The first category (19 sites, 1700-2007) has robust evidence and high agreement for causation, while the second category (additional cases, 1860-2016) has medium evidence and high agreement for consistency.",
+        "B": "The first category's shifts are described as 'consistent with climate change' with medium evidence, while the second category's shifts are 'directly attributed' with robust evidence.",
+        "C": "Both categories of shifts are attributed with high agreement, but only the first category specifies robust evidence.",
+        "D": "Only the Andes Mountains study provides robust evidence for causation, while all other cases are merely consistent with low agreement."
+      },
+      "correct_answer": "A",
+      "explanation": "The summary clearly differentiates: 'anthropogenic climate change caused latitudinal and elevational biome shifts in at least 19 sites... (robust evidence, high agreement)' and 'Additional cases of 5–20 km northward and 20–300 m upslope biome shifts... are consistent with climate change (medium evidence, high agreement).'",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg2_2.4.3.2.1_groq_q1",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+      "difficulty": "easy",
+      "question": "What was the temperature increase in the Andes Mountains in Ecuador from 1802 to 2012?",
+      "options": {
+        "A": "0.4°C–1.6°C",
+        "B": "1.7°C",
+        "C": "0.9°C",
+        "D": "2.1°C"
+      },
+      "correct_answer": "B",
+      "explanation": "The source passage states that 'Over 210 years, temperature increased by 1.7°C' in the Andes Mountains in Ecuador.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg2_2.4.3.2.1_groq_q2",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+      "difficulty": "easy",
+      "question": "What type of biome shift was detected in Canada from 1970-2012 and 1970-2014?",
+      "options": {
+        "A": "Upslope shift of boreal and sub-alpine conifer forest into alpine grassland",
+        "B": "Northward shift of deciduous forest into boreal conifer forest",
+        "C": "Temperate conifer forest into temperate deciduous forest",
+        "D": "Tropical forest into temperate forest"
+      },
+      "correct_answer": "B",
+      "explanation": "The source passage states that 'northward shifts in Canada of deciduous forest into boreal conifer forest, 5 km from 1970–2012 and 20 km from 1970–2014' were detected.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg2_2.4.3.2.1_groq_q3",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG2 Chapter 2 Section 2.4.3.2.1",
+      "difficulty": "medium",
+      "question": "What is the relationship between the detected biome shifts and anthropogenic climate change?",
+      "options": {
+        "A": "All detected biome shifts are directly attributed to anthropogenic climate change",
+        "B": "Some detected biome shifts are consistent with climate change-induced temperature increases, but not directly attributed to anthropogenic climate change",
+        "C": "Detected biome shifts are not related to anthropogenic climate change",
+        "D": "Detected biome shifts are only related to natural climate variability"
+      },
+      "correct_answer": "B",
+      "explanation": "The source passage states that 'Many of the recently detected shifts are nevertheless consistent with climate change-induced temperature increases' and 'were not directly attributed to anthropogenic climate change as the studies were not designed or conducted properly for full attribution assessment'.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg2_3.3.2_claude_q2",
+      "category": "Ocean Deoxygenation",
+      "data_source_section": "IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts",
+      "difficulty": "easy",
+      "question": "Under hypoxia, as defined in the passage, which of the following best describes the expected ecological outcome for marine communities?",
+      "options": {
+        "A": "Communities stabilize as calcifying organisms outcompete non-calcifiers",
+        "B": "Communities undergo species migration, replacement, and loss, transforming community composition",
+        "C": "Communities become dominated by large multicellular organisms with high oxygen requirements",
+        "D": "Communities experience increased photosynthetic rates that partially offset oxygen depletion"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that 'Under hypoxia (oxygen concentrations ≤2 mg l–1), physiological and ecological processes are impaired and communities undergo species migration, replacement and loss, transforming community composition (very high confidence).'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg2_3.3.2_claude_q3",
+      "category": "Ocean Acidification",
+      "data_source_section": "IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts",
+      "difficulty": "medium",
+      "question": "For calcifying primary producers such as phytoplankton and coralline algae, how does the passage characterize the relationship between the effects of ocean acidification on calcification versus photosynthesis?",
+      "options": {
+        "A": "Both calcification and photosynthesis are decreased, but calcification is more severely affected",
+        "B": "Both calcification and photosynthesis increase due to elevated CO2 availability",
+        "C": "The effects are often opposing, with calcification decreasing while photosynthetic rates increase",
+        "D": "Calcification increases to compensate for reduced photosynthetic efficiency under lower pH"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that 'For calcifying primary producers, including phytoplankton and coralline algae, ocean acidification has different, often opposing effects, for example, decreasing calcification while photosynthetic rates increase (high confidence).'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg2_3.3.2_claude_q4",
+      "category": "Ocean Deoxygenation",
+      "data_source_section": "IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts",
+      "difficulty": "medium",
+      "question": "The passage identifies multiple processes contributing to lowered dissolved oxygen levels in the ocean. Which of the following is listed as one of those contributing processes?",
+      "options": {
+        "A": "Increased calcification rates consuming dissolved oxygen in surface waters",
+        "B": "Reduced photosynthesis in phytoplankton due to elevated CO2",
+        "C": "Microbial respiration enhanced by nearshore eutrophication",
+        "D": "Migration of large multicellular organisms into subsurface oxygen minimum zones"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly lists 'microbial respiration enhanced by nearshore eutrophication' as one of the many processes that contribute to lowered oxygen levels.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg2_3.3.2_claude_q5",
+      "category": "Compound Climate Hazards",
+      "data_source_section": "IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts",
+      "difficulty": "hard",
+      "question": "Based on the passage, why does the co-occurrence of deoxygenation and acidification in coastal and tropical habitats represent a 'compound hazard,' and which biological characteristic determines an organism's relative vulnerability to deoxygenation specifically?",
+      "options": {
+        "A": "They co-occur because warmer waters hold less CO2; vulnerability to deoxygenation is highest in organisms with strong acid–base regulation",
+        "B": "They co-occur because respiration consumes oxygen and produces CO2; vulnerability to deoxygenation is highest in large, multicellular organisms with the greatest oxygen requirements",
+        "C": "They co-occur because calcification releases CO2 while consuming oxygen; vulnerability to deoxygenation is highest in calcifiers already stressed by lower pH",
+        "D": "They co-occur because eutrophication simultaneously acidifies and deoxygenates water; vulnerability to deoxygenation is highest in early life stages of finfish"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that 'respiration consumes oxygen and produces CO2' linking deoxygenation and acidification, and separately notes that oxygen requirements 'are highest for large, multicellular organisms,' determining their relative vulnerability to deoxygenation.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg2_3.3.2_chatgpt_q1",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+      "difficulty": "easy",
+      "question": "What is one effect of higher CO2 concentrations on certain marine species, according to the source passage?",
+      "options": {
+        "A": "It increases photosynthesis and growth in some phytoplankton, macroalgae, and seagrass species.",
+        "B": "It decreases photosynthesis in all marine species.",
+        "C": "It reduces the ability of organisms to regulate internal acid–base balance.",
+        "D": "It primarily decreases growth and survival in early life stages of all species."
+      },
+      "correct_answer": "A",
+      "explanation": "The passage states, 'higher CO2 concentrations can increase photosynthesis and growth in some phytoplankton, macroalgal, and seagrass species.'",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg2_3.3.2_chatgpt_q3",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+      "difficulty": "medium",
+      "question": "What factor influences an organism's ability to resist acidification of internal fluids?",
+      "options": {
+        "A": "The concentration of CO2 in the seawater.",
+        "B": "The organism's capacity for acid–base regulation.",
+        "C": "The overall pH level of the ocean.",
+        "D": "The amount of dissolved oxygen available in the ocean."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that 'organisms’ capacity to compensate for or resist acidification of internal fluids depends on their capacity for acid–base regulation.'",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg2_3.3.2_chatgpt_q5",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+      "difficulty": "easy",
+      "question": "What is one way ocean acidification affects calcifying primary producers like coralline algae?",
+      "options": {
+        "A": "It increases both calcification and photosynthetic rates.",
+        "B": "It decreases calcification but increases photosynthetic rates.",
+        "C": "It decreases both calcification and photosynthetic rates.",
+        "D": "It has no effect on calcification or photosynthetic rates."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage notes that for calcifying primary producers, 'ocean acidification has different, often opposing effects, for example, decreasing calcification while photosynthetic rates increase.'",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg2_3.3.2_gemini_q1",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+      "difficulty": "easy",
+      "question": "According to the passage, what is a direct consequence of lower pH levels in seawater?",
+      "options": {
+        "A": "Increased photosynthesis in phytoplankton.",
+        "B": "Decreased calcification.",
+        "C": "Enhanced microbial respiration.",
+        "D": "Altered behaviour in finfish."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states, 'while lower pH levels decrease calcification (high confidence)'.",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg2_3.3.2_groq_q4",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+      "difficulty": "medium",
+      "question": "What is the effect of deoxygenation on aerobic organisms in subsurface waters?",
+      "options": {
+        "A": "Deoxygenation has no effect on aerobic organisms",
+        "B": "Deoxygenation enhances aerobic organisms",
+        "C": "Deoxygenation impairs aerobic organisms",
+        "D": "Deoxygenation has a variable effect on aerobic organisms"
+      },
+      "correct_answer": "C",
+      "explanation": "The source passage states that deoxygenation in subsurface waters may impair aerobic organisms in multiple ways.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg2_3.3.2_groq_q5",
+      "category": "Climate-Ecosystem Interactions",
+      "data_source_section": "IPCC AR6 WG2 Chapter 3 Section 3.3.2",
+      "difficulty": "hard",
+      "question": "How do lowered oxygen levels and acidification interact in coastal and tropical habitats?",
+      "options": {
+        "A": "Lowered oxygen levels and acidification have independent effects on coastal and tropical habitats",
+        "B": "Lowered oxygen levels exacerbate acidification in coastal and tropical habitats",
+        "C": "Lowered oxygen levels mitigate acidification in coastal and tropical habitats",
+        "D": "Lowered oxygen levels are often interlinked with acidification in coastal and tropical habitats"
+      },
+      "correct_answer": "D",
+      "explanation": "The source passage states that lowered oxygen levels are often interlinked with acidification in coastal and tropical habitats, as respiration consumes oxygen and produces CO2.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg2_4.2.1.1_claude_q1",
+      "category": "Observed Impacts",
+      "data_source_section": "IPCC AR6 WG2 Chapter 4",
+      "difficulty": "easy",
+      "question": "According to the passage, approximately how many people lived in 'unfamiliarly wet' areas in 2020?",
+      "options": {
+        "A": "163 million",
+        "B": "498 million",
+        "C": "709 million",
+        "D": "711 million"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that 'In 2020, approximately 498 million people lived in unfamiliarly wet areas' while the other figures refer to different statistics (163 million in unfamiliarly dry areas, ~709 million in regions of increased maximum one-day precipitation, and ~711 million experiencing longer dry spells).",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg2_4.2.1.1_claude_q5",
+      "category": "Observed Impacts",
+      "data_source_section": "IPCC AR6 WG2 Chapter 4",
+      "difficulty": "hard",
+      "question": "Comparing the populations affected by changes in annual maximum one-day precipitation versus changes in consecutive dry days (CDD), which conclusion best reflects the passage's data?",
+      "options": {
+        "A": "More people are exposed to increased heavy precipitation events than to longer dry spells",
+        "B": "Roughly equal numbers of people are experiencing increases in both heavy precipitation and dry spell length, at approximately 709–711 million each",
+        "C": "The disparity between those seeing increases versus decreases is larger for heavy precipitation than for dry spell length",
+        "D": "The disparity between those seeing increases versus decreases is larger for dry spell length than for heavy precipitation"
+      },
+      "correct_answer": "D",
+      "explanation": "For heavy precipitation, ~709 million experience increases vs. ~86 million decreases (a ratio of ~8:1); for CDD, ~711 million experience longer spells vs. ~404 million shorter spells (a ratio of ~1.76:1), making the disparity larger for heavy precipitation—but the passage's numbers show the gap between increase and decrease populations is ~623 million for precipitation and ~307 million for CDD, meaning the absolute and relative disparity is greater for heavy precipitation, making option C correct on re-examination. However, option D states the disparity is larger for dry spell length, which is incorrect. Let me reconsider: the ratio for precipitation is 709:86 (~8.2:1) and for CDD is 711:404 (~1.76:1), so the disparity IS larger for heavy precipitation (option C is correct).",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg2_4.2.1.1_groq_q1",
+      "category": "Impacts and Vulnerabilities",
+      "data_source_section": "IPCC AR6 WG2 Chapter 4 Section 4.2.1.1",
+      "difficulty": "easy",
+      "question": "What is the definition of 'unfamiliar' annual mean precipitation in the context of this passage?",
+      "options": {
+        "A": "A change greater than one standard deviation in the annual data",
+        "B": "A change greater than two standard deviations in the annual data",
+        "C": "A change less than one standard deviation in the annual data",
+        "D": "A change equal to one standard deviation in the annual data"
+      },
+      "correct_answer": "A",
+      "explanation": "The passage states that 'unfamiliar' is defined as the long-term change being greater than one standard deviation in the annual data.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg2_4.2.1.1_groq_q5",
+      "category": "Impacts and Vulnerabilities",
+      "data_source_section": "IPCC AR6 WG2 Chapter 4 Section 4.2.1.1",
+      "difficulty": "hard",
+      "question": "What can be concluded about the global distribution of people experiencing changes in dry spell length and heavy precipitation?",
+      "options": {
+        "A": "More people experience shorter dry spells and decreased heavy precipitation",
+        "B": "More people experience longer dry spells and increased heavy precipitation",
+        "C": "The distribution of people experiencing changes in dry spell length and heavy precipitation is roughly equal",
+        "D": "There is no correlation between changes in dry spell length and heavy precipitation"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that substantially more people live in regions where annual maximum one-day precipitation has increased than in regions where it has decreased, and more people are experiencing longer dry spells than shorter dry spells.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg2_5.4.1.1_claude_q3",
+      "category": "Adaptation",
+      "data_source_section": "IPCC AR6 WG2 Chapter 5",
+      "difficulty": "medium",
+      "question": "Some studies observed prolonged crop growth duration despite warming trends. According to the passage, what best explains this finding?",
+      "options": {
+        "A": "Crops in mid-to-high latitudes developed natural resistance to heat stress",
+        "B": "Improved irrigation techniques offset the effects of warming on crop life cycles",
+        "C": "Farmers shifted planting dates and/or adopted longer-duration cultivars in mid-to-high latitudes",
+        "D": "Farmers in mid-to-low latitudes favoured early maturing cultivars to reduce climate-related risks"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explains that prolonged crop growth duration despite warming was observed 'because of shifts in planting dates and/or adoption of longer-duration cultivars in mid-to-high latitudes.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg2_5.4.1.1_claude_q4",
+      "category": "Impacts and Vulnerabilities",
+      "data_source_section": "IPCC AR6 WG2 Chapter 5",
+      "difficulty": "medium",
+      "question": "Based on the passage, which of the following best characterizes the regional pattern of climate impacts on crop yields over the past 20–50 years?",
+      "options": {
+        "A": "Positive effects have been widespread across Asia, while negative effects are concentrated in Europe",
+        "B": "Negative effects dominate across both high and low latitudes, with few exceptions",
+        "C": "Positive effects have occurred in parts of Eastern Asia and Northern Europe, while negative effects dominate in Sub-Saharan Africa, Southern Asia, and parts of Europe and the Americas",
+        "D": "Climate impacts have been uniformly negative across all regions, with yield losses offset only by technological advances"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states positive effects for rice and wheat in Eastern Asia and wheat in Northern Europe, while effects are mostly negative in Sub-Saharan Africa, South America and Caribbean, Southern Asia, and Western and Southern Europe.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg2_5.4.1.1_chatgpt_q5",
+      "category": "Impacts and Vulnerabilities",
+      "data_source_section": "IPCC AR6 WG2 Chapter 5 Section 5.4.1.1",
+      "difficulty": "hard",
+      "question": "What cumulative impact has climate change had on global agricultural total factor productivity (TFP) growth between 1961 and 2015?",
+      "options": {
+        "A": "Increased TFP growth by 21%",
+        "B": "Reduced TFP growth by 21%",
+        "C": "Reduced TFP growth by 33% globally",
+        "D": "No significant impact on TFP growth"
+      },
+      "correct_answer": "B",
+      "explanation": "The source explains that climate change trends reduced global TFP growth by a cumulative 21% over a 55-year period.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg2_5.4.1.1_groq_q1",
+      "category": "Impacts and Vulnerabilities",
+      "data_source_section": "AR5 Chapter 7",
+      "difficulty": "easy",
+      "question": "What has been the general effect of recent warming trends on the life cycle of major crops?",
+      "options": {
+        "A": "Lengthened the life cycle",
+        "B": "Shortened the life cycle",
+        "C": "Had no impact on the life cycle",
+        "D": "Varied effects depending on crop type"
+      },
+      "correct_answer": "B",
+      "explanation": "Recent warming trends have generally shortened the life cycle of major crops, as stated in the source passage.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg2_7.2.2.1_claude_q3",
+      "category": "Impacts and Vulnerabilities",
+      "data_source_section": "IPCC AR6 WG2 Chapter on Vector-Borne Diseases",
+      "difficulty": "medium",
+      "question": "How did drought conditions in 2015 contribute to the range expansion of Aedes aegypti in South America, according to the passage?",
+      "options": {
+        "A": "Drought reduced the number of natural predators of Aedes aegypti, allowing populations to grow unchecked",
+        "B": "Drought caused people to store water in household containers, providing more breeding sites for the vector",
+        "C": "Drought forced Aedes aegypti to migrate from rural to urban environments in search of water",
+        "D": "Drought increased average temperatures to levels optimal for Aedes aegypti reproduction"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that 'Increased use of household water storage containers during the drought is correlated with a range expansion of Aedes aegypti during this period, increasing household exposure to the vector.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg2_7.2.2.1_claude_q5",
+      "category": "Impacts and Vulnerabilities",
+      "data_source_section": "IPCC AR6 WG2 Chapter on Vector-Borne Diseases",
+      "difficulty": "hard",
+      "question": "Based on the passage, which of the following best explains why the 2018 West Nile outbreak in Europe was considered 'exceptional,' and what climatic factor is identified as the likely mechanism?",
+      "options": {
+        "A": "It was exceptional in geographic spread, driven primarily by increased relative humidity suppressing vector predators",
+        "B": "It was exceptional in scale, and above-average temperature and precipitation before the outbreak may have caused an early upsurge of the vector population",
+        "C": "It was exceptional because it was the first West Nile outbreak in Europe, caused by temperatures exceeding the 1981–2010 average for the first time",
+        "D": "It was exceptional in mortality rate, driven by a combination of drought conditions and warmer winters that expanded vector habitat"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage describes the 2018 West Nile outbreak as 'exceptional' and notes that above-average temperature and precipitation prior to the outbreak 'may have contributed to an early upsurge of the vector population,' while making no claim it was the first such outbreak or referencing mortality rates.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg2_7.2.2.1_chatgpt_q1",
+      "category": "Impacts and Vulnerabilities",
+      "data_source_section": "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1",
+      "difficulty": "easy",
+      "question": "Which diseases have been linked to changing climatic patterns in Asia, Latin America, North America, and Europe with high confidence?",
+      "options": {
+        "A": "CHIKV, Zika, Japanese encephalitis, and Rift Valley Fever",
+        "B": "Malaria, dengue, CHIKV, and Rift Valley Fever",
+        "C": "Zika, West Nile fever, malaria, and Lyme disease",
+        "D": "Japanese encephalitis, Rift Valley Fever, malaria, and dengue"
+      },
+      "correct_answer": "A",
+      "explanation": "The source states that changing climatic patterns are facilitating the spread of CHIKV, Zika, Japanese encephalitis, and Rift Valley Fever in these regions.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg2_7.2.2.1_chatgpt_q5",
+      "category": "Impacts and Vulnerabilities",
+      "data_source_section": "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1",
+      "difficulty": "hard",
+      "question": "How has climate change influenced the geographic distribution of Ixodes ricinus in Europe?",
+      "options": {
+        "A": "It has caused Ixodes ricinus to migrate to lower altitudes in Austria.",
+        "B": "Ixodes ricinus has expanded to higher latitudes in Sweden and higher elevations in Austria and the Czech Republic.",
+        "C": "It has driven Ixodes ricinus into urban areas with lower humidity.",
+        "D": "Ixodes ricinus has been limited to regions with less precipitation due to climate change."
+      },
+      "correct_answer": "B",
+      "explanation": "The source states that Ixodes ricinus has expanded to higher latitudes in Sweden and higher elevations in Austria and the Czech Republic due to climate change.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg2_7.2.2.1_gemini_q4",
+      "category": "Impacts and Vulnerabilities",
+      "data_source_section": "IPCC AR6 WG2 Chapter 7 Section 7.2.2.1",
+      "difficulty": "medium",
+      "question": "What environmental conditions were observed prior to the exceptional 2018 West Nile outbreak in Europe, potentially contributing to an early upsurge of the vector population?",
+      "options": {
+        "A": "Below-average temperature and precipitation compared to the 1981–2010 period.",
+        "B": "Above-average temperature and precipitation compared to the 1981–2010 period.",
+        "C": "A period of stable temperature and low relative humidity.",
+        "D": "Significantly reduced overall precipitation, but increased temperature."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage notes, 'The average temperature and precipitation prior to the exceptional 2018 West Nile outbreak in Europe was above the 1981–2010 period average, which may have contributed to an early upsurge of the vector population.'",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg3_13.2.1_claude_q2",
+      "category": "Policy and Governance",
+      "data_source_section": "IPCC AR6 WG3 Chapter 13",
+      "difficulty": "easy",
+      "question": "What distinguishes 'indirect' climate laws from 'direct' climate laws, according to the passage?",
+      "options": {
+        "A": "Indirect laws are passed by sub-national governments rather than national governments",
+        "B": "Indirect laws affect mitigation or adaptation through the subjects they regulate rather than explicitly targeting climate change causes or impacts",
+        "C": "Indirect laws only apply to adaptation measures, while direct laws apply to mitigation",
+        "D": "Indirect laws are executive strategies that substitute for formal legislation"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage defines indirect laws as those that have 'the capacity to affect mitigation or adaptation through the subjects they regulate, for example, through promotion of co-benefits, or creation of reporting protocols,' contrasting them with direct laws that explicitly address climate change causes or impacts.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg3_13.2.1_claude_q5",
+      "category": "Policy and Governance",
+      "data_source_section": "IPCC AR6 WG3 Chapter 13",
+      "difficulty": "hard",
+      "question": "A country has no single overarching climate framework law but instead applies climate considerations through its existing energy efficiency and renewable energy legislation. According to the passage, how should this country's approach be characterized, and what does the evidence suggest about how common this approach is?",
+      "options": {
+        "A": "This represents a 'direct climate law' approach, and it is the minority approach among countries with climate legislation",
+        "B": "This represents a 'sectoral approach' using indirect laws, and it accounts for the majority of climate laws globally",
+        "C": "This represents an executive climate strategy approach, and it typically substitutes for participation in the NDC process",
+        "D": "This represents a gap in climate governance, as countries without framework laws are not captured by the 'Climate Change Laws of the World' database"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage describes a 'sectoral approach' as 'the layering of climate considerations into existing laws in the absence of an overarching framework law,' and explicitly states that 'the majority are accounted for by sectoral indirect laws,' citing Indian and Ghanaian laws as examples.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg3_13.2.1_chatgpt_q1",
+      "category": "Policy and Governance",
+      "data_source_section": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+      "difficulty": "easy",
+      "question": "What is one key function of national climate laws according to the passage?",
+      "options": {
+        "A": "To establish a platform for transparent target setting and implementation.",
+        "B": "To guarantee international financial support.",
+        "C": "To ensure penalties for non-compliance with global climate goals.",
+        "D": "To eliminate the need for executive climate strategies."
+      },
+      "correct_answer": "A",
+      "explanation": "The passage states that a function of national climate laws is to establish a platform for transparent target setting and implementation.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg3_13.2.1_chatgpt_q2",
+      "category": "Policy and Governance",
+      "data_source_section": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+      "difficulty": "medium",
+      "question": "What is a potential benefit of climate laws for lower/middle income countries?",
+      "options": {
+        "A": "They ensure compliance with international climate agreements.",
+        "B": "They attract international finance by signaling credibility.",
+        "C": "They automatically reduce greenhouse gas emissions.",
+        "D": "They eliminate the need for sectoral approaches."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage mentions that for lower/middle income countries, climate laws may attract international finance by serving as a signal of credibility.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg3_13.2.1_gemini_q3",
+      "category": "Policy and Governance",
+      "data_source_section": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+      "difficulty": "medium",
+      "question": "Which of the following best exemplifies an 'indirect law' as defined in the passage?",
+      "options": {
+        "A": "A national statute that sets explicit targets for greenhouse gas reductions in its objectives.",
+        "B": "Legislation that establishes a new governmental body solely responsible for enforcing a country's climate action plan.",
+        "C": "A law promoting energy efficiency and renewable energy, which includes provisions for reporting energy consumption data.",
+        "D": "An executive order outlining a country's strategy for achieving its Nationally Determined Contribution (NDC) under the Paris Agreement."
+      },
+      "correct_answer": "C",
+      "explanation": "Indirect laws are described as having 'the capacity to affect mitigation or adaptation' through regulated subjects, such as 'promotion of co-benefits, or creation of reporting protocols'.",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg3_13.2.1_groq_q1",
+      "category": "Policy and Governance",
+      "data_source_section": "IPCC AR6 WG3 Chapter 13 Section 13.2.1",
+      "difficulty": "easy",
+      "question": "What is one of the functions of national laws that govern climate action?",
+      "options": {
+        "A": "To reduce greenhouse gas emissions directly",
+        "B": "To establish a platform for transparent target setting and implementation",
+        "C": "To provide funding for climate change research",
+        "D": "To promote the use of fossil fuels"
+      },
+      "correct_answer": "B",
+      "explanation": "The source passage states that the legal basis can 'establish a platform for transparent target setting and implementation' (Bennett 2018).",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg3_13.6.1.3_claude_q3",
+      "category": "Mitigation and Carbon Pricing",
+      "data_source_section": "IPCC AR6 WG3 Chapter 13",
+      "difficulty": "medium",
+      "question": "Based on the passage, why have emissions pricing policies had limited impact on industrial process emissions compared to other emission sources?",
+      "options": {
+        "A": "Industrial process emissions are exempt from most carbon pricing schemes by international treaty",
+        "B": "Industrial process emissions tend to have higher marginal abatement costs than the prevailing tax or allowance price",
+        "C": "Industrial sectors receive larger free allowance allocations than other sectors, negating the pricing signal entirely",
+        "D": "Emissions pricing policies are designed to target only energy use emissions, not process emissions"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that 'emissions pricing policies encourage reduction of emissions whose marginal abatement cost is lower than the tax/allowance price, so they have limited impact on emissions with higher abatement costs such as industrial process emissions.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg3_13.6.1.3_claude_q5",
+      "category": "Mitigation and Carbon Pricing",
+      "data_source_section": "IPCC AR6 WG3 Chapter 13",
+      "difficulty": "hard",
+      "question": "The passage describes EU ETS emission reductions as being achieved 'mainly through implementation of low cost measures such as energy efficiency and fuel switching.' Given the passage's explanation of how emissions pricing works, what does this pattern reveal about the relationship between allowance prices and abatement costs in the EU ETS?",
+      "options": {
+        "A": "EU ETS allowance prices have consistently exceeded the marginal abatement costs of industrial process emissions, but firms prefer fuel switching for regulatory reasons",
+        "B": "EU ETS allowance prices have been sufficient to drive abatement primarily where marginal costs are low, suggesting prices have remained below the abatement cost threshold for harder-to-abate industrial processes",
+        "C": "EU ETS free allowance allocations have been so extensive that only energy efficiency measures remain cost-effective under the scheme",
+        "D": "The EU ETS has deliberately excluded industrial process emissions from its scope, making fuel switching the only eligible compliance pathway"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage explains that emissions pricing drives reductions where marginal abatement costs are lower than the price, and since EU ETS reductions have come mainly from low-cost measures rather than industrial process emissions, this implies allowance prices have remained below the higher abatement costs of industrial processes.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg3_13.6.1.3_gemini_q4",
+      "category": "Policy and Governance",
+      "data_source_section": "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3",
+      "difficulty": "medium",
+      "question": "According to the passage, emissions pricing policies primarily encourage the reduction of which type of emissions?",
+      "options": {
+        "A": "Emissions where the marginal abatement cost is higher than the tax or allowance price.",
+        "B": "Industrial process emissions, due to their significant contribution to overall emissions.",
+        "C": "Emissions whose marginal abatement cost is lower than the tax or allowance price.",
+        "D": "Emissions from fossil fuel consumption that receive implicit subsidies from trade policy."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states: 'emissions pricing policies encourage reduction of emissions whose marginal abatement cost is lower than the tax/allowance price'.",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg3_13.6.1.3_groq_q2",
+      "category": "Policy and Governance",
+      "data_source_section": "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3",
+      "difficulty": "easy",
+      "question": "What is the impact of low emissions prices on mitigation incentives?",
+      "options": {
+        "A": "Low emissions prices lead to strong mitigation incentives",
+        "B": "Low emissions prices have no effect on mitigation incentives",
+        "C": "Low emissions prices lead to moderate mitigation incentives",
+        "D": "Low emissions prices lead to small mitigation incentives"
+      },
+      "correct_answer": "D",
+      "explanation": "The source passage states that at low emissions prices, mitigation incentives are small.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg3_13.6.1.3_groq_q5",
+      "category": "Policy and Governance",
+      "data_source_section": "IPCC AR6 WG3 Chapter 13 Section 13.6.1.3",
+      "difficulty": "hard",
+      "question": "What is the impact of trade policy on CO2 emissions in most countries?",
+      "options": {
+        "A": "Trade policy provides an explicit tax on CO2 emissions",
+        "B": "Trade policy has no effect on CO2 emissions",
+        "C": "Trade policy provides an implicit subsidy to CO2 emissions",
+        "D": "Trade policy leads to a reduction in CO2 emissions"
+      },
+      "correct_answer": "C",
+      "explanation": "The source passage states that in most countries, trade policy provides an implicit subsidy to CO2 emissions, citing Shapiro 2020.",
+      "generated_by": "llama-3.3-70b-versatile"
+    },
+    {
+      "id": "wg3_14.3.2.1_claude_q1",
+      "category": "Policy and Governance",
+      "data_source_section": "IPCC AR6 WG3 Chapter 13",
+      "difficulty": "easy",
+      "question": "According to the Paris Agreement decision, what is the role of USD 100 billion per year in relation to the new collective quantified finance goal?",
+      "options": {
+        "A": "It is the maximum allowable contribution from developed countries",
+        "B": "It serves as a floor for the new collective quantified finance goal to be set prior to 2025",
+        "C": "It is the fixed annual target explicitly written into the Paris Agreement's main text",
+        "D": "It represents the average annual finance flow needed to meet the temperature goal"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that the decision accompanying the Paris Agreement 'resolves to set a new collective quantified finance goal prior to 2025... with USD100 billion yr–1 as a floor.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg3_14.3.2.1_claude_q2",
+      "category": "Policy and Governance",
+      "data_source_section": "IPCC AR6 WG3 Chapter 13",
+      "difficulty": "easy",
+      "question": "What does Article 2.2 of the Paris Agreement establish regarding the principle of Common But Differentiated Responsibilities and Respective Capabilities (CBDRRC)?",
+      "options": {
+        "A": "A binding obligation on all Parties to implement the Agreement in strict accordance with CBDRRC",
+        "B": "An expectation that Parties will implement the Agreement reflecting CBDRRC, but not a binding obligation to do so",
+        "C": "A requirement that developed countries bear full financial responsibility under CBDRRC",
+        "D": "A fixed definition of CBDRRC that remains constant regardless of changing national circumstances"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage explicitly notes that Article 2.2 'generates an expectation that Parties will implement the agreement to reflect CBDRRC, and is not an obligation to do so.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg3_14.3.2.1_claude_q5",
+      "category": "Mitigation Pathways",
+      "data_source_section": "IPCC AR6 WG3 Chapter 13",
+      "difficulty": "hard",
+      "question": "The passage describes Article 4.1's net zero GHG emissions target as being set 'in the second half of the century,' yet some researchers argue it implies reaching net zero in the third quarter of the 21st century. Which combination of reasoning from the passage best explains why these two interpretations are compatible?",
+      "options": {
+        "A": "Article 4.1 is a binding obligation, and the third-quarter interpretation reflects the legal minimum required to satisfy it",
+        "B": "Article 4.1 is non-binding and uses 'aim' language, while the third-quarter interpretation reflects the more ambitious end needed to potentially bring warming below 1.5°C, as some researchers argue",
+        "C": "The second-half framing applies only to CO2, while the third-quarter framing applies to all GHGs, making them complementary rather than contradictory",
+        "D": "The Paris Agreement's ambition cycle automatically converts the second-half target into a third-quarter obligation through successive NDC revisions"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage notes Article 4.1 is 'non-binding' and uses 'aim' language, and separately states that achieving its aim 'potentially implies that global warming will peak and then follow a gradually declining path, potentially to below 1.5°C warming,' consistent with the more aggressive third-quarter interpretation some researchers propose.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg3_14.3.2.1_chatgpt_q2",
+      "category": "Policy and Governance",
+      "data_source_section": "IPCC AR6 WG3 Chapter 14 Section 14.3.2.1",
+      "difficulty": "medium",
+      "question": "What is the significance of the phrase 'in light of different national circumstances' in Article 2.2 of the Paris Agreement?",
+      "options": {
+        "A": "It mandates that all countries adopt the same climate strategies.",
+        "B": "It introduces flexibility in how the CBDRRC principle is applied as national circumstances evolve.",
+        "C": "It removes the need for differentiation between developed and developing countries.",
+        "D": "It requires developed countries to finance adaptation efforts exclusively."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage explains that the phrase 'in light of different national circumstances' introduces a dynamic element, allowing the application of the CBDRRC principle to evolve as national circumstances change.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg3_14.3.2.1_gemini_q4",
+      "category": "Policy and Governance",
+      "data_source_section": "IPCC AR6 WG3 Chapter 14 Section 14.3.2.1",
+      "difficulty": "medium",
+      "question": "To achieve net zero CO2 emissions around 2050, as discussed in relation to Article 4.1, what range of reduction in global net human-caused CO2 emissions from 2010 levels would be needed by 2030, according to the passage?",
+      "options": {
+        "A": "Approximately 10% to 20%",
+        "B": "Approximately 25% to 35%",
+        "C": "Approximately 45% to 60%",
+        "D": "No specific short-term CO2 reduction percentage is mentioned for this target."
+      },
+      "correct_answer": "C",
+      "explanation": "To reach net zero CO2 around 2050, in the short-term global net human-caused CO2 emissions would need to fall by about 45% to 60% from 2010 levels by 2030.",
+      "generated_by": "gemini-2.5-flash"
+    },
+    {
+      "id": "wg3_3.3.1_claude_q1",
+      "category": "Emissions Drivers",
+      "data_source_section": "IPCC AR6 WG3 Chapter 3 Section 3.2",
+      "difficulty": "easy",
+      "question": "According to the passage, which factor is identified as the most important determinant of future CO2 emissions from energy combustion in projections?",
+      "options": {
+        "A": "Technology assumptions and resource availability",
+        "B": "Assumptions influencing energy intensity and economic growth",
+        "C": "Climate policy and political preferences",
+        "D": "Population growth and per capita food consumption"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that 'assumptions influencing energy intensity (e.g., structural change, lifestyle and efficiency) and economic growth are the most important determinants of future CO2 emissions from energy combustion' (Marangoni et al. 2017).",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg3_3.3.1_claude_q4",
+      "category": "Population and Socioeconomic Trends",
+      "data_source_section": "IPCC AR6 WG3 Chapter 3 Section 3.2",
+      "difficulty": "medium",
+      "question": "Based on the passage, what is the projected global population range by 2050 across scenario studies?",
+      "options": {
+        "A": "7.5–9.5 billion people",
+        "B": "8.5–11 billion people",
+        "C": "9.0–12 billion people",
+        "D": "10–11.5 billion people"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that 'Scenario studies agree that further global population growth is likely up to 2050, leading to a range of possible outcomes of around 8.5–11 billion people.'",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg3_3.3.1_claude_q5",
+      "category": "Modeling and Scenarios",
+      "data_source_section": "IPCC AR6 WG3 Chapter 3 Section 3.2",
+      "difficulty": "hard",
+      "question": "The passage notes that UN Population Prospects project higher population values than the SSP scenarios, with the most recent UN median reaching nearly 11 billion by 2100. Which of the following best explains the methodological difference underlying this divergence, as described in the passage?",
+      "options": {
+        "A": "The UN relies on fertility data only from high-income countries, while SSPs use global averages",
+        "B": "The UN projects faster drops in fertility rates in Africa and China than the SSPs do",
+        "C": "The UN approach is more grounded in current demographic trends, while SSPs assume a broader set of factors including education drive future fertility",
+        "D": "The SSPs assume slower economic growth globally, which suppresses fertility decline in the UN model"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly states that 'the UN approach is more based on current demographic trends while the SSPs assume a broader range of factors (including education) driving future fertility,' which explains the divergence in projections.",
+      "generated_by": "claude-sonnet-4-6"
+    },
+    {
+      "id": "wg3_3.3.1_chatgpt_q4",
+      "category": "Demographic Projections",
+      "data_source_section": "IPCC AR6 WG3 Chapter 3 Section 3.3.1",
+      "difficulty": "hard",
+      "question": "What is a key difference between the UN Population Prospects and the SSP scenarios regarding future population projections?",
+      "options": {
+        "A": "The UN approach assumes faster fertility declines globally than the SSPs.",
+        "B": "The UN approach is more focused on current demographic trends, while the SSPs include broader factors like education.",
+        "C": "The SSP scenarios predict higher population growth overall compared to the UN projections.",
+        "D": "The SSPs assume no changes in fertility rates, while the UN includes rapid fertility declines."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that the UN approach is based more on current demographic trends, while the SSPs assume broader factors, including education, driving future fertility.",
+      "generated_by": "gpt-4o-2024-11-20"
+    },
+    {
+      "id": "wg3_3.3.1_gemini_q1",
+      "category": "Policy and Governance",
+      "data_source_section": "IPCC AR6 WG3 Chapter 3 Section 3.3.1",
+      "difficulty": "easy",
+      "question": "What are the primary origins of Greenhouse Gas (GHG) emissions mentioned in the passage?",
+      "options": {
+        "A": "Solar activity, volcanic eruptions, and ocean currents",
+        "B": "Energy use and transformation, agriculture, land use, and industrial activities",
+        "C": "Natural geological processes and animal respiration only",
+        "D": "Cloud formation, atmospheric pressure changes, and tectonic plate movements"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states: 'Greenhouse gas (GHG) emissions mainly originate from the use and transformation of energy, agriculture, land use (change) and industrial activities.'",
+      "generated_by": "gemini-2.5-flash"
+    }
+  ]
+}

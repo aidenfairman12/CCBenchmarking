@@ -14,7 +14,7 @@
     "scenario_type": "comparison",
     "category": "Climate Data and Trend Interpretation",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "scenario": "The table below shows the median contribution of individual components to global mean sea level rise by 2100 under SSP5-8.5 (standard, high-confidence values):\n\nComponent          | Median (m)\nThermal expansion  | 0.30\nGreenland          | 0.13\nAntarctica         | 0.12\nGlaciers           | 0.18\nLand-water storage | 0.03",
@@ -31,7 +31,7 @@
     "scenario_type": "comparison",
     "category": "Climate Data and Trend Interpretation",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "scenario": "The table below shows the average rate of global mean sea level change (mm yr⁻¹, median values) for two future periods under all SSP scenarios:\n\nPeriod     | SSP1-1.9 | SSP1-2.6 | SSP2-4.5 | SSP3-7.0 | SSP5-8.5\n2040–2060  |   4.1    |   4.8    |   5.8    |   6.4    |   7.2\n2080–2100  |   4.2    |   5.2    |   7.7    |  10.4    |  12.1",
@@ -48,7 +48,7 @@
     "scenario_type": "trend_identification",
     "category": "Climate Data and Trend Interpretation",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "scenario": "The table below compares median total sea level rise projections (metres) and the upper bound of the likely range for SSP2-4.5 and SSP3-7.0 at selected years:\n\nYear | SSP2-4.5 median | SSP2-4.5 upper | SSP3-7.0 median | SSP3-7.0 upper\n2050 |      0.20       |     0.26       |      0.22       |     0.27\n2090 |      0.48       |     0.65       |      0.56       |     0.74\n2100 |      0.56       |     0.76       |      0.68       |     0.90",
@@ -65,7 +65,7 @@
     "scenario_type": "projection_reading",
     "category": "Climate Data and Trend Interpretation",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "scenario": "The table below shows the Antarctica ice sheet contribution to sea level rise at 2100 under two versions of SSP5-8.5: the standard high-confidence assessment and the low-confidence column that incorporates structured expert judgement (SEJ) and marine ice cliff instability (MICI). The low-confidence range uses 17th–83rd percentiles rather than a standard likely range.\n\nScenario              | Median (m) | Lower bound (m) | Upper bound (m)\nSSP5-8.5 (standard)   |   0.12     |     0.03        |     0.34\nSSP5-8.5 (low conf.)  |   0.19     |     0.02        |     0.56\n\nFor comparison, the Greenland contribution under SSP5-8.5 (low conf.) has a median of 0.18 m and upper bound of 0.59 m.",
@@ -82,6 +82,6 @@
     "scenario_type": "anomaly_interpretation",
     "category": "Climate Data and Trend Interpretation",
     "difficulty": "hard",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

@@ -11,7 +11,8 @@
     "explanation": "The passage states that 'Direct climate laws – with greenhouse gas limitation as a direct objective – had been passed in 56 countries (of 194 studied) covering 53% of emissions in 2020.'",
     "source": "IPCC AR6 WG3 Chapter 13",
     "category": "Policy and Governance",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "What distinguishes 'indirect' climate laws from 'direct' climate laws, according to the passage?",
@@ -25,7 +26,8 @@
     "explanation": "The passage defines indirect laws as those that have 'the capacity to affect mitigation or adaptation through the subjects they regulate, for example, through promotion of co-benefits, or creation of reporting protocols,' contrasting them with direct laws that explicitly address climate change causes or impacts.",
     "source": "IPCC AR6 WG3 Chapter 13",
     "category": "Policy and Governance",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Between 2010 and 2020, how did the number of mitigation-related laws documented in the 'Climate Change Laws of the World' database change?",
@@ -39,7 +41,8 @@
     "explanation": "The passage states the database documents '694 mitigation-related laws by 2020 versus 558 in 2015 and 342 in 2010,' representing a doubling from 2010 to 2020.",
     "source": "IPCC AR6 WG3 Chapter 13",
     "category": "Policy and Governance",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "According to the passage, what particular benefit do national climate laws offer specifically to lower and middle income countries that is not emphasized for higher income countries?",
@@ -53,7 +56,8 @@
     "explanation": "The passage notes that 'For lower/middle income countries, in particular, the existence of a law may also attract international finance by serving as a signal of credibility,' distinguishing this benefit as specific to those countries.",
     "source": "IPCC AR6 WG3 Chapter 13",
     "category": "Policy and Governance",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "A country has no single overarching climate framework law but instead applies climate considerations through its existing energy efficiency and renewable energy legislation. According to the passage, how should this country's approach be characterized, and what does the evidence suggest about how common this approach is?",
@@ -67,6 +71,7 @@
     "explanation": "The passage describes a 'sectoral approach' as 'the layering of climate considerations into existing laws in the absence of an overarching framework law,' and explicitly states that 'the majority are accounted for by sectoral indirect laws,' citing Indian and Ghanaian laws as examples.",
     "source": "IPCC AR6 WG3 Chapter 13",
     "category": "Policy and Governance",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

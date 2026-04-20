@@ -11,7 +11,8 @@
     "explanation": "The passage states that 'the ratio of plant CO2 uptake to water loss – plant water-use efficiency (WUE) – increases in near proportionality to atmospheric CO2.'",
     "source": "IPCC AR6 WG1 Chapter 5 (Cross-Chapter Box 5.1 reference within passage)",
     "category": "Climate-Ecosystem Interactions",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage indicates that the effect of elevated CO2 on plant growth and ecosystem carbon storage is generally positive, but what is this effect modulated by?",
@@ -25,7 +26,8 @@
     "explanation": "The passage explicitly states that 'the effect of elevated CO2 on plant growth and ecosystem carbon storage is generally positive (high confidence), but is modulated by temperature, water and nutrient availability.'",
     "source": "IPCC AR6 WG1 Chapter 5",
     "category": "Climate-Ecosystem Interactions",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "According to the passage, why do meta-analyses suggest that soil microbial activity increases under elevated CO2 conditions?",
@@ -39,7 +41,8 @@
     "explanation": "The passage states that meta-analyses point to 'increased soil microbial activity and accelerated turnover of soil organic matter as a result of increased below-ground carbon allocation by plants.'",
     "source": "IPCC AR6 WG1 Chapter 5",
     "category": "Climate-Ecosystem Interactions",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage identifies several processes as 'currently poorly represented in models' that contribute to uncertainty in ESM projections. Which of the following is listed among these poorly represented processes?",
@@ -53,7 +56,8 @@
     "explanation": "The passage lists 'plant carbon allocation, changes in plant community composition, disturbance, and natural plant mortality' as important processes that 'are currently poorly represented in models' and thus contribute strongly to uncertainty in ESM projections.",
     "source": "IPCC AR6 WG1 Chapter 5",
     "category": "Climate-Ecosystem Interactions",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Based on the passage, how does a global model that attempts to represent elevated CO2-related soil biogeochemical processes differ in its projections compared to more conventional ESMs?",
@@ -67,6 +71,7 @@
     "explanation": "The passage states that one global model representing these processes 'suggests that elevated CO2-related carbon accumulation is reduced in soils but increased in vegetation relative to more conventional models.'",
     "source": "IPCC AR6 WG1 Chapter 5",
     "category": "Climate-Ecosystem Interactions",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

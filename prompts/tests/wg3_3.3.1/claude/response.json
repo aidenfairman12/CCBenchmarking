@@ -12,7 +12,7 @@
     "source": "IPCC AR6 WG3 Chapter 3 Section 3.2",
     "category": "Emissions Drivers",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "What does the passage identify as the primary reason for the importance of model diversity in emissions projections?",
@@ -27,7 +27,7 @@
     "source": "IPCC AR6 WG3 Chapter 3 Section 3.2",
     "category": "Modeling and Scenarios",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Why does the passage indicate that population growth assumptions are more dominant for land use projections than for energy projections?",
@@ -42,7 +42,7 @@
     "source": "IPCC AR6 WG3 Chapter 3 Section 3.2",
     "category": "Emissions Drivers",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Based on the passage, what is the projected global population range by 2050 across scenario studies?",
@@ -57,7 +57,7 @@
     "source": "IPCC AR6 WG3 Chapter 3 Section 3.2",
     "category": "Population and Socioeconomic Trends",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage notes that UN Population Prospects project higher population values than the SSP scenarios, with the most recent UN median reaching nearly 11 billion by 2100. Which of the following best explains the methodological difference underlying this divergence, as described in the passage?",
@@ -72,6 +72,6 @@
     "source": "IPCC AR6 WG3 Chapter 3 Section 3.2",
     "category": "Modeling and Scenarios",
     "difficulty": "hard",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

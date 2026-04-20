@@ -11,7 +11,8 @@
     "explanation": "The passage states that AR5 concluded GSAT for 2081–2100 relative to 1986–2005 will likely be in the 5–95% range of 2.6°C–4.8°C under RCP8.5.",
     "source": "IPCC AR6 WG1 Chapter 4",
     "category": "Projections and Uncertainty",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "In the CMIP6 simulations assessed here, what value is used to estimate GSAT changes since 1850–1900 when computing anomalies relative to 1995–2014?",
@@ -25,7 +26,8 @@
     "explanation": "The passage explicitly states that the ensemble mean GSAT difference between 1850–1900 and 1995–2014 is 0.82°C, used to provide an estimate of changes since 1850–1900.",
     "source": "IPCC AR6 WG1 Chapter 4",
     "category": "Projections and Uncertainty",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Under which AR5 emissions scenario do CO2 concentrations peak around 2040, and what is the corresponding likely GSAT range for 2081–2100 relative to 1986–2005?",
@@ -39,7 +41,8 @@
     "explanation": "The passage states that RCP4.5 has emissions peaking around 2040 and corresponds to a GSAT range of 1.1°C–2.6°C, while RCP6.0 peaks around 2060 and corresponds to 1.4°C–3.1°C.",
     "source": "IPCC AR6 WG1 Chapter 4",
     "category": "Projections and Uncertainty",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Comparing the CMIP6 projected GSAT range under SSP5-8.5 to the CMIP5 projected range under RCP8.5 (both for 2081–2100), what does the comparison reveal about the upper end of the projected range?",
@@ -53,7 +56,8 @@
     "explanation": "The passage reports CMIP5 RCP8.5 upper end as 4.8°C (relative to 1986–2005) and CMIP6 SSP5-8.5 upper end as 5.7°C (relative to 1995–2014), so the CMIP6 upper bound is higher even before accounting for the slightly different baselines.",
     "source": "IPCC AR6 WG1 Chapter 4",
     "category": "Projections and Uncertainty",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "According to AR5 findings, which of the following statements about exceedance of temperature thresholds is best supported by the text?",
@@ -67,6 +71,7 @@
     "explanation": "The passage explicitly states that global surface temperature changes above 2°C under RCP2.6 were deemed unlikely with medium confidence, while the 2°C exceedance with high confidence applies only to RCP6.0 and RCP8.5.",
     "source": "IPCC AR6 WG1 Chapter 4",
     "category": "Projections and Uncertainty",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

@@ -29,7 +29,7 @@ from matplotlib.patches import Patch
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+SCRIPT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CSV_PATH   = os.path.join(SCRIPT_DIR, "review", "questions.csv")
 XLSX_PATH  = os.path.join(SCRIPT_DIR, "section_list.xlsx")
 OUT_DIR    = os.path.join(SCRIPT_DIR, "analysis")

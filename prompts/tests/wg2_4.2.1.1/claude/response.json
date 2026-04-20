@@ -12,7 +12,7 @@
     "source": "IPCC AR6 WG2 Chapter 4",
     "category": "Observed Impacts",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "As defined in the passage, what condition must be met for a region's precipitation to be classified as 'unfamiliar'?",
@@ -27,7 +27,7 @@
     "source": "IPCC AR6 WG2 Chapter 4",
     "category": "Observed Impacts",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Why does the passage suggest that the number of people experiencing unfamiliar seasonal precipitation is likely higher than the number experiencing unfamiliar annual precipitation?",
@@ -42,7 +42,7 @@
     "source": "IPCC AR6 WG2 Chapter 4",
     "category": "Observed Impacts",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "According to the passage, which of the following regions is experiencing BOTH increased heavy precipitation AND longer dry spells?",
@@ -57,7 +57,7 @@
     "source": "IPCC AR6 WG2 Chapter 4",
     "category": "Observed Impacts",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Comparing the populations affected by changes in annual maximum one-day precipitation versus changes in consecutive dry days (CDD), which conclusion best reflects the passage's data?",
@@ -72,6 +72,6 @@
     "source": "IPCC AR6 WG2 Chapter 4",
     "category": "Observed Impacts",
     "difficulty": "hard",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   }
 ]

@@ -12,7 +12,7 @@
     "source": "IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts",
     "category": "Ocean Acidification",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Under hypoxia, as defined in the passage, which of the following best describes the expected ecological outcome for marine communities?",
@@ -27,7 +27,7 @@
     "source": "IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts",
     "category": "Ocean Deoxygenation",
     "difficulty": "easy",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "For calcifying primary producers such as phytoplankton and coralline algae, how does the passage characterize the relationship between the effects of ocean acidification on calcification versus photosynthesis?",
@@ -42,7 +42,7 @@
     "source": "IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts",
     "category": "Ocean Acidification",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "The passage identifies multiple processes contributing to lowered dissolved oxygen levels in the ocean. Which of the following is listed as one of those contributing processes?",
@@ -57,7 +57,7 @@
     "source": "IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts",
     "category": "Ocean Deoxygenation",
     "difficulty": "medium",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   },
   {
     "question": "Based on the passage, why does the co-occurrence of deoxygenation and acidification in coastal and tropical habitats represent a 'compound hazard,' and which biological characteristic determines an organism's relative vulnerability to deoxygenation specifically?",
@@ -72,6 +72,6 @@
     "source": "IPCC AR6 WG2 - Ocean Acidification and Deoxygenation Biological Impacts",
     "category": "Compound Climate Hazards",
     "difficulty": "hard",
-    "generated_by": "Claude Sonnet"
+    "generated_by": "claude-sonnet-4-6"
   }
 ]
