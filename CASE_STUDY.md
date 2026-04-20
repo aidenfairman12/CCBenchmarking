@@ -10,9 +10,9 @@ The primary goal of the project was to replicate the benchmark construction meth
 
 ## Motivation
 
-Most LLM evaluations on climate science either use existing general-knowledge benchmarks (which have limited IPCC-specific coverage) or informal prompting. A dedicated benchmark grounded in primary IPCC source material tests a more precise capability: whether a model has internalised the specific findings, quantitative estimates, and mechanistic explanations contained in AR6, not just general climate awareness.
+I built ClimateQA primarily to understand how benchmark construction actually works in practice. Papers like MMLU describe the methodology at a high level, but building one from scratch exposes design decisions that are easy to underestimate: how to select passages that yield testable questions, why distractor quality is harder than it looks to systematically enforce, and how generation model bias can silently contaminate a dataset. The best way to learn these things was to go through the process myself.
 
-The secondary motivation was methodological. Constructing a benchmark from scratch exposes design decisions that are easy to underestimate: how to write passages that yield good questions, why distractor quality is harder than it looks to systematically enforce, and how generation model bias can silently contaminate a dataset.
+Climate science was the natural choice of domain, as it is something I am genuinely interest in. IPCC AR6 is a well-structured, publicly available body of primary source material spanning physical science, impacts, and mitigation. A benchmark grounded in AR6 also tests something more precise than general climate awareness: whether a model has internalised the specific findings, quantitative estimates, and mechanistic explanations contained in the reports, rather than just knowing the topic exists.
 
 ---
 
